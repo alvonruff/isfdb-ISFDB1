@@ -1,0 +1,3776 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)BSFA	1.9	06/18/98 ISFDB";
+##
+The Three Stigmata of Palmer Eldritch {
+	AE=|Philip K. Dick|
+	AS=|BSFAN|
+	YR=|1966|
+	TG=|3571|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Stand on Zanzibar {
+	AE=|John Brunner|
+	AS=|BSFAN|
+	YR=|1969|
+	TG=|1839|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Jagged Orbit {
+	AE=|John Brunner|
+	AS=|BSFAN|
+	YR=|1970|
+	TG=|1829|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Moment of Eclipse {
+	AE=|Brian W. Aldiss|
+	AS=|BSFAN|
+	YR=|1971|
+	TG=|272|
+	TA=|SF Novel|
+	TP=|c|
+	LV=|1|
+}
+Insufficient Votes - No Winner {
+	AE=|(********)|
+	AS=|BSFAN|
+	YR=|1972|
+	TG=|44|
+	TA=|SF Novel|
+	TP=|x|
+	LV=|71|
+}
+Rendezvous With Rama {
+	AE=|Arthur C. Clarke|
+	AS=|BSFAN|
+	YR=|1973|
+	TG=|2813|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Inverted World^The Inverted World {
+	AE=|Christopher Priest|
+	AS=|BSFAN|
+	YR=|1974|
+	TG=|9441|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Orbitsville {
+	AE=|Bob Shaw|
+	AS=|BSFAN|
+	YR=|1975|
+	TG=|10511|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Brontomek! {
+	AE=|Michael G. Coney|
+	AS=|BSFAN|
+	YR=|1976|
+	TG=|2929|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Jonah Kit {
+	AE=|Ian Watson|
+	AS=|BSFAN|
+	YR=|1977|
+	TG=|12946|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+A Scanner Darkly {
+	AE=|Philip K. Dick|
+	AS=|BSFAN|
+	YR=|1978|
+	TG=|3568|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Unlimited Dream Company {
+	AE=|J. G. Ballard|
+	AS=|BSFAN|
+	YR=|1979|
+	TG=|764|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Fountains of Paradise {
+	AE=|Arthur C. Clarke|
+	AS=|BSFAN|
+	YR=|1979|
+	TG=|2800|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+On Wings of Song {
+	AE=|Thomas M. Disch|
+	AS=|BSFAN|
+	YR=|1979|
+	TG=|3656|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Blind Voices {
+	AE=|Tom Reamy|
+	AS=|BSFAN|
+	YR=|1979|
+	TG=|9546|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+A.K.A.: A Cosmic Fable {
+	AE=|Rob Swigart|
+	AS=|BSFAN|
+	YR=|1979|
+	TG=|11797|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Timescape {
+	AE=|Gregory Benford|
+	AS=|BSFAN|
+	YR=|1980|
+	TG=|1100|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Transfigurations {
+	AE=|Michael Bishop|
+	AS=|BSFAN|
+	YR=|1980|
+	TG=|1297|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Engine Summer {
+	AE=|John Crowley|
+	AS=|BSFAN|
+	YR=|1980|
+	TG=|3085|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Beyond the Blue Event Horizon {
+	AE=|Frederik Pohl|
+	AS=|BSFAN|
+	YR=|1980|
+	TG=|9197|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Molly Zero {
+	AE=|Keith Roberts|
+	AS=|BSFAN|
+	YR=|1980|
+	TG=|9741|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+A World Between {
+	AE=|Norman Spinrad|
+	AS=|BSFAN|
+	YR=|1980|
+	TG=|11257|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Shadow of the Torturer {
+	AE=|Gene Wolfe|
+	AS=|BSFAN|
+	YR=|1981|
+	TG=|13632|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Hello America {
+	AE=|J. G. Ballard|
+	AS=|BSFAN|
+	YR=|1981|
+	TG=|755|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Where Time Winds Blow {
+	AE=|Robert Holdstock|
+	AS=|BSFAN|
+	YR=|1981|
+	TG=|6020|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Affirmation {
+	AE=|Christopher Priest|
+	AS=|BSFAN|
+	YR=|1981|
+	TG=|9431|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Helliconia Spring {
+	AE=|Brian W. Aldiss|
+	AS=|BSFAN|
+	YR=|1982|
+	TG=|253|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+No Enemy But Time {
+	AE=|Michael Bishop|
+	AS=|BSFAN|
+	YR=|1982|
+	TG=|1275|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Little, Big {
+	AE=|John Crowley|
+	AS=|BSFAN|
+	YR=|1982|
+	TG=|3092|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Divine Invasion {
+	AE=|Philip K. Dick|
+	AS=|BSFAN|
+	YR=|1982|
+	TG=|3547|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Sword of the Lictor {
+	AE=|Gene Wolfe|
+	AS=|BSFAN|
+	YR=|1982|
+	TG=|13648|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Tik-Tok {
+	AE=|John Sladek|
+	AS=|BSFAN|
+	YR=|1983|
+	TG=|11056|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Helliconia Summer {
+	AE=|Brian W. Aldiss|
+	AS=|BSFAN|
+	YR=|1983|
+	TG=|257|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Cat Karina {
+	AE=|Michael G. Coney|
+	AS=|BSFAN|
+	YR=|1983|
+	TG=|2931|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Golden Witchbreed {
+	AE=|Mary Gentle|
+	AS=|BSFAN|
+	YR=|1983|
+	TG=|4931|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Citadel of the Autarch {
+	AE=|Gene Wolfe|
+	AS=|BSFAN|
+	YR=|1983|
+	TG=|13585|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Mythago Wood {
+	AE=|Robert Holdstock|
+	AS=|BSFAN|
+	YR=|1984|
+	TG=|6016|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Empire of the Sun {
+	AE=|J. G. Ballard|
+	AS=|BSFAN|
+	YR=|1984|
+	TG=|753|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Nights at the Circus {
+	AE=|Angela Carter|
+	AS=|BSFAN|
+	YR=|1984|
+	TG=|2489|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Neuromancer {
+	AE=|William Gibson|
+	AS=|BSFAN|
+	YR=|1984|
+	TG=|4988|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Glamour {
+	AE=|Christopher Priest|
+	AS=|BSFAN|
+	YR=|1984|
+	TG=|9437|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Helliconia Winter {
+	AE=|Brian W. Aldiss|
+	AS=|BSFAN|
+	YR=|1985|
+	TG=|260|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Anubis Gates {
+	AE=|Tim Powers|
+	AS=|BSFAN|
+	YR=|1985|
+	TG=|9372|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Kiteworld {
+	AE=|Keith Roberts|
+	AS=|BSFAN|
+	YR=|1985|
+	TG=|9734|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Warrior Who Carried Life {
+	AE=|Geoff Ryman|
+	AS=|BSFAN|
+	YR=|1985|
+	TG=|10151|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Free Live Free {
+	AE=|Gene Wolfe|
+	AS=|BSFAN|
+	YR=|1985|
+	TG=|13611|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Ragged Astronauts {
+	AE=|Bob Shaw|
+	AS=|BSFAN|
+	YR=|1986|
+	TG=|10514|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Blood Music {
+	AE=|Greg Bear|
+	AS=|BSFAN|
+	YR=|1986|
+	TG=|967|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Count Zero {
+	AE=|William Gibson|
+	AS=|BSFAN|
+	YR=|1986|
+	TG=|4972|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Queen of the States {
+	AE=|Josephine Saxton|
+	AS=|BSFAN|
+	YR=|1986|
+	TG=|10279|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Schismatrix {
+	AE=|Bruce Sterling|
+	AS=|BSFAN|
+	YR=|1986|
+	TG=|11482|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Grainne {
+	AE=|Keith Roberts|
+	AS=|BSFAN|
+	YR=|1987|
+	TG=|9725|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Lavondyss {
+	AE=|Robert Holdstock|
+	AS=|BSFAN|
+	YR=|1988|
+	TG=|6009|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Pyramids {
+	AE=|Terry Pratchett|
+	AS=|BSFAN|
+	YR=|1989|
+	TG=|9406|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+A Child Across the Sky {
+	AE=|Jonathan Carroll|
+	AS=|BSFAN|
+	YR=|1989|
+	TG=|2453|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Cyteen {
+	AE=|C. J. Cherryh|
+	AS=|BSFAN|
+	YR=|1989|
+	TG=|2661|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Gold Coast {
+	AE=|Kim Stanley Robinson|
+	AS=|BSFAN|
+	YR=|1989|
+	TG=|9793|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Child Garden {
+	AE=|Geoff Ryman|
+	AS=|BSFAN|
+	YR=|1989|
+	TG=|10128|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Take Back Plenty {
+	AE=|Colin Greenland|
+	AS=|BSFAN|
+	YR=|1990|
+	TG=|5379|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Use of Weapons {
+	AE=|Iain M. Banks|
+	AS=|BSFAN|
+	YR=|1990|
+	TG=|787|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Rats and Gargoyles {
+	AE=|Mary Gentle|
+	AS=|BSFAN|
+	YR=|1990|
+	TG=|4934|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Difference Engine {
+	AE=|William Gibson+Bruce Sterling|
+	AS=|BSFAN|
+	YR=|1990|
+	TG=|5010|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Hyperion {
+	AE=|Dan Simmons|
+	AS=|BSFAN|
+	YR=|1990|
+	TG=|10999|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Fall of Hyperion {
+	AE=|Dan Simmons|
+	AS=|BSFAN|
+	YR=|1991|
+	TG=|10987|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Raft {
+	AE=|Stephen Baxter|
+	AS=|BSFAN|
+	YR=|1991|
+	TG=|933|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Architecture of Desire {
+	AE=|Mary Gentle|
+	AS=|BSFAN|
+	YR=|1991|
+	TG=|4928|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Eternal Light {
+	AE=|Paul J. McAuley|
+	AS=|BSFAN|
+	YR=|1991|
+	TG=|7969|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Witches Abroad {
+	AE=|Terry Pratchett|
+	AS=|BSFAN|
+	YR=|1991|
+	TG=|9408|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Red Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|BSFAN|
+	YR=|1992|
+	TG=|9824|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Hot Head {
+	AE=|Simon Ings|
+	AS=|BSFAN|
+	YR=|1992|
+	TG=|6108|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Hearts, Hands and Voices^The Broken Land {
+	AE=|Ian McDonald|
+	AS=|BSFAN|
+	YR=|1992|
+	TG=|8145|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Lost Futures {
+	AE=|Lisa Tuttle|
+	AS=|BSFAN|
+	YR=|1992|
+	TG=|12141|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Doomsday Book {
+	AE=|Connie Willis|
+	AS=|BSFAN|
+	YR=|1992|
+	TG=|13383|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Aztec Century {
+	AE=|Christopher Evans|
+	AS=|BSFAN|
+	YR=|1993|
+	TG=|4297|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Harm's Way {
+	AE=|Colin Greenland|
+	AS=|BSFAN|
+	YR=|1993|
+	TG=|5375|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Ammonite {
+	AE=|Nicola Griffith|
+	AS=|BSFAN|
+	YR=|1993|
+	TG=|5394|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Green Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|BSFAN|
+	YR=|1993|
+	TG=|9798|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Snow Crash {
+	AE=|Neal Stephenson|
+	AS=|BSFAN|
+	YR=|1993|
+	TG=|11435|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Feersum Endjinn {
+	AE=|Iain M. Banks|
+	AS=|BSFAN|
+	YR=|1994|
+	TG=|781|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Permutation City {
+	AE=|Greg Egan|
+	AS=|BSFAN|
+	YR=|1994|
+	TG=|4027|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|2|
+}
+Engineman {
+	AE=|Eric Brown|
+	AS=|BSFAN|
+	YR=|1994|
+	TG=|1792|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+North Wind {
+	AE=|Gwyneth Jones|
+	AS=|BSFAN|
+	YR=|1994|
+	TG=|6234|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Necroville^Terminal Café {
+	AE=|Ian McDonald|
+	AS=|BSFAN|
+	YR=|1994|
+	TG=|8155|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Time Ships {
+	AE=|Stephen Baxter|
+	AS=|BSFAN|
+	YR=|1995|
+	TG=|939|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Nano Flower {
+	AE=|Peter F. Hamilton|
+	AS=|BSFAN|
+	YR=|1995|
+	TG=|5568|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Fairyland {
+	AE=|Paul J. McAuley|
+	AS=|BSFAN|
+	YR=|1995|
+	TG=|7972|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Chaga^Evolution's Shore (US 1995) {
+	AE=|Ian McDonald|
+	AS=|BSFAN|
+	YR=|1995|
+	TG=|8134|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Blood {
+	AE=|Michael Moorcock|
+	AS=|BSFAN|
+	YR=|1995|
+	TG=|8475|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Prestige {
+	AE=|Christopher Priest|
+	AS=|BSFAN|
+	YR=|1995|
+	TG=|9448|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Excession {
+	AE=|Iain M. Banks|
+	AS=|BSFAN|
+	YR=|1996|
+	TG=|780|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Memory Palace {
+	AE=|Gill Alderman|
+	AS=|BSFAN|
+	YR=|1996|
+	TG=|229|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Interface {
+	AE=|(Neal Stephenson+J. Frederick George)^Stephen Bury|
+	AS=|BSFAN|
+	YR=|1996|
+	TG=|2031|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Stone Canal {
+	AE=|Ken MacLeod|
+	AS=|BSFAN|
+	YR=|1996|
+	TG=|7710|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Blue Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|BSFAN|
+	YR=|1996|
+	TG=|9782|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Holy Fire {
+	AE=|Bruce Sterling|
+	AS=|BSFAN|
+	YR=|1996|
+	TG=|11469|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Sparrow {
+	AE=|Mary Doria Russell|
+	AS=|BSFAN|
+	YR=|1997|
+	TG=|15589|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+A Son of the Rock {
+	AE=|Jack Deighton|
+	AS=|BSFAN|
+	YR=|1997|
+	TG=|17249|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Signs of Life {
+	AE=|M. John Harrison|
+	AS=|BSFAN|
+	YR=|1997|
+	TG=|15557|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Earthquake Weather {
+	AE=|Tim Powers|
+	AS=|BSFAN|
+	YR=|1997|
+	TG=|15587|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Jack Faust {
+	AE=|Michael Swanwick|
+	AS=|BSFAN|
+	YR=|1997|
+	TG=|15597|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Extremes {
+	AE=|Christopher Priest|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19170|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+To Hold Infinity {
+	AE=|John Meaney|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19165|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|2|
+}
+Inversions {
+	AE=|Iain M. Banks|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19116|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Queen City Jazz {
+	AE=|Kathleen Ann Goonan|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19257|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Cassini Division {
+	AE=|Ken MacLeod|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19159|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19110|
+	TA=|SF Novel|
+	TP=|x|
+	LV=|90|
+}
+The Lost Child {
+	AE=|Sarah Ash|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19113|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Earth Made of Glass {
+	AE=|John Barnes|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19117|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Moonseed {
+	AE=|Stephen Baxter|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19119|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Tea from an Empty Cup {
+	AE=|Pat Cadigan|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19127|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Not Fade Away {
+	AE=|Jim Dodge|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19132|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Mother of Plenty {
+	AE=|Colin Greenland|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19143|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Gate of Ivory {
+	AE=|Robert Holdstock|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19149|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Corrupting Dr. Nice {
+	AE=|John Kessel|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19152|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Eternity Road {
+	AE=|Jack McDevitt|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19162|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Kirinya {
+	AE=|Ian McDonald|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19163|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|92|
+}
+One of Us {
+	AE=|Michael Marshall Smith|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19173|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Dreaming in Smoke {
+	AE=|Tricia Sullivan|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19175|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Royal Changeling {
+	AE=|John Whitbourn|
+	AS=|BSFAN|
+	YR=|1998|
+	TG=|19182|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Sky Road {
+	AE=|Ken MacLeod|
+	AS=|BSFAN|
+	YR=|1999|
+	TG=|19605|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+ThiGMOO {
+	AE=|Eugene Byrne|
+	AS=|BSFAN|
+	YR=|1999|
+	TG=|19586|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Headlong {
+	AE=|Simon Ings|
+	AS=|BSFAN|
+	YR=|1999|
+	TG=|19599|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Silver Screen {
+	AE=|Justina Robson|
+	AS=|BSFAN|
+	YR=|1999|
+	TG=|19615|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Children of God {
+	AE=|Mary Doria Russell|
+	AS=|BSFAN|
+	YR=|1999|
+	TG=|19619|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+A Secret History: The Book of Ash 1 {
+	AE=|Mary Gentle|
+	AS=|BSFAN|
+	YR=|2000|
+	TG=|22036|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+redRobe {
+	AE=|Jon Courtenay Grimwood|
+	AS=|BSFAN|
+	YR=|2000|
+	TG=|22040|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Paradox {
+	AE=|John Meaney|
+	AS=|BSFAN|
+	YR=|2000|
+	TG=|22057|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Perdido Street Station {
+	AE=|China Miéville|
+	AS=|BSFAN|
+	YR=|2000|
+	TG=|22059|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Revelation Space {
+	AE=|Alastair Reynolds|
+	AS=|BSFAN|
+	YR=|2000|
+	TG=|22067|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Deathbird Stories {
+	AE=|Harlan Ellison|
+	AS=|BSFAS|
+	YR=|1978|
+	TG=|4163|
+	TA=|Short Fiction|
+	TP=|c|
+	LV=|1|
+}
+Palely Loitering {
+	AE=|Christopher Priest|
+	AS=|BSFAS|
+	YR=|1979|
+	TG=|9445|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|1|
+}
+Camps {
+	AE=|Jack Dann|
+	AS=|BSFAS|
+	YR=|1979|
+	TG=|3158|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Sex Pirates of the Blood Asteroid {
+	AE=|David Langford|
+	AS=|BSFAS|
+	YR=|1979|
+	TG=|7022|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Crossing into Cambodia {
+	AE=|Michael Moorcock|
+	AS=|BSFAS|
+	YR=|1979|
+	TG=|8481|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Prose Bowl {
+	AE=|Bill Pronzini+Barry N. Malzberg|
+	AS=|BSFAS|
+	YR=|1979|
+	TG=|9488|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+The Brave Little Toaster {
+	AE=|Thomas M. Disch|
+	AS=|BSFAS|
+	YR=|1980|
+	TG=|3634|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|1|
+}
+The Web of the Magi {
+	AE=|Richard Cowper|
+	AS=|BSFAS|
+	YR=|1980|
+	TG=|3036|
+	TA=|Short Fiction|
+	TP=|nv|
+	LV=|9|
+}
+Rautavaara's Case {
+	AE=|Philip K. Dick|
+	AS=|BSFAS|
+	YR=|1980|
+	TG=|3565|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Ink Imp {
+	AE=|R. M. Lamming|
+	AS=|BSFAS|
+	YR=|1980|
+	TG=|6931|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Lordly Ones {
+	AE=|Keith Roberts|
+	AS=|BSFAS|
+	YR=|1980|
+	TG=|9738|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+The World Science Fiction Convention of 2080 {
+	AE=|Ian Watson|
+	AS=|BSFAS|
+	YR=|1980|
+	TG=|12966|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Mythago Wood {
+	AE=|Robert Holdstock|
+	AS=|BSFAS|
+	YR=|1981|
+	TG=|6013|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|1|
+}
+The Checkout {
+	AE=|Keith Roberts|
+	AS=|BSFAS|
+	YR=|1981|
+	TG=|9722|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Killing Thought {
+	AE=|Edward F. Shaver|
+	AS=|BSFAS|
+	YR=|1981|
+	TG=|10493|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Treading the Maze {
+	AE=|Lisa Tuttle|
+	AS=|BSFAS|
+	YR=|1981|
+	TG=|12150|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+A Cage for Death {
+	AE=|Ian Watson|
+	AS=|BSFAS|
+	YR=|1981|
+	TG=|12934|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Kitemaster {
+	AE=|Keith Roberts|
+	AS=|BSFAS|
+	YR=|1982|
+	TG=|9729|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+Myths of the Near Future {
+	AE=|J. G. Ballard|
+	AS=|BSFAS|
+	YR=|1982|
+	TG=|759|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Overture for "A Midsummer Night's Dream" {
+	AE=|Angela Carter|
+	AS=|BSFAS|
+	YR=|1982|
+	TG=|2491|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Dissemblers {
+	AE=|Garry Kilworth|
+	AS=|BSFAS|
+	YR=|1982|
+	TG=|6511|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Third Test {
+	AE=|Andrew Weiner|
+	AS=|BSFAS|
+	YR=|1982|
+	TG=|13026|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+After-Images {
+	AE=|Malcolm Edwards|
+	AS=|BSFAS|
+	YR=|1983|
+	TG=|3952|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Flash! Kid {
+	AE=|Scott Bradfield|
+	AS=|BSFAS|
+	YR=|1983|
+	TG=|1580|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Tithonian Factor {
+	AE=|Richard Cowper|
+	AS=|BSFAS|
+	YR=|1983|
+	TG=|3033|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Novelty {
+	AE=|John Crowley|
+	AS=|BSFAS|
+	YR=|1983|
+	TG=|3103|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Calling All Gumdrops {
+	AE=|John Sladek|
+	AS=|BSFAS|
+	YR=|1983|
+	TG=|11050|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Unconquered Country {
+	AE=|Geoff Ryman|
+	AS=|BSFAS|
+	YR=|1984|
+	TG=|10144|
+	TA=|Short Fiction|
+	TP=|nv|
+	LV=|1|
+}
+The Object of the Attack {
+	AE=|J. G. Ballard|
+	AS=|BSFAS|
+	YR=|1984|
+	TG=|762|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Unmistakably the Finest {
+	AE=|Scott Bradfield|
+	AS=|BSFAS|
+	YR=|1984|
+	TG=|1581|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Spiral Winds {
+	AE=|Garry Kilworth|
+	AS=|BSFAS|
+	YR=|1984|
+	TG=|6517|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Man Who Painted the Dragon Griaule {
+	AE=|Lucius Shepard|
+	AS=|BSFAS|
+	YR=|1984|
+	TG=|10637|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Cube Root {
+	AE=|David Langford|
+	AS=|BSFAS|
+	YR=|1985|
+	TG=|7020|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+A Young Man's Journey to Viriconium {
+	AE=|M. John Harrison|
+	AS=|BSFAS|
+	YR=|1985|
+	TG=|5683|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Kitemistress {
+	AE=|Keith Roberts|
+	AS=|BSFAS|
+	YR=|1985|
+	TG=|9732|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+O Happy Day! {
+	AE=|Geoff Ryman|
+	AS=|BSFAS|
+	YR=|1985|
+	TG=|10140|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+The People on the Precipice {
+	AE=|Ian Watson|
+	AS=|BSFAS|
+	YR=|1985|
+	TG=|12952|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Kaeti and the Hangman {
+	AE=|Keith Roberts|
+	AS=|BSFAS|
+	YR=|1986|
+	TG=|9728|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Winter Market {
+	AE=|William Gibson|
+	AS=|BSFAS|
+	YR=|1986|
+	TG=|5005|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+And He Not Busy Being Born... {
+	AE=|Brian Stableford|
+	AS=|BSFAS|
+	YR=|1986|
+	TG=|11285|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Jingling Geordie's Hole {
+	AE=|Ian Watson|
+	AS=|BSFAS|
+	YR=|1986|
+	TG=|12944|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Love Sickness {
+	AE=|Geoff Ryman|
+	AS=|BSFAS|
+	YR=|1987|
+	TG=|10138|
+	TA=|Short Fiction|
+	TP=|nv|
+	LV=|1|
+}
+Dark Night in Toyland {
+	AE=|Bob Shaw|
+	AS=|BSFAS|
+	YR=|1988|
+	TG=|10507|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+In Translation {
+	AE=|Lisa Tuttle|
+	AS=|BSFAS|
+	YR=|1989|
+	TG=|12139|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Tommy Atkins {
+	AE=|Barrington J. Bayley|
+	AS=|BSFAS|
+	YR=|1989|
+	TG=|949|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Bridge {
+	AE=|Christopher Evans|
+	AS=|BSFAS|
+	YR=|1989|
+	TG=|4298|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Knot Garden {
+	AE=|Mary Gentle|
+	AS=|BSFAS|
+	YR=|1989|
+	TG=|4933|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Once Upon a Time in the Park {
+	AE=|Ian Lee|
+	AS=|BSFAS|
+	YR=|1989|
+	TG=|7231|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Gardenias {
+	AE=|Ian McDonald|
+	AS=|BSFAS|
+	YR=|1989|
+	TG=|8144|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Original Dr. Shade {
+	AE=|Kim Newman|
+	AS=|BSFAS|
+	YR=|1990|
+	TG=|8702|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Death of Cassandra Quebec {
+	AE=|Eric Brown|
+	AS=|BSFAS|
+	YR=|1990|
+	TG=|1791|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Phargean Effect {
+	AE=|Eric Brown|
+	AS=|BSFAS|
+	YR=|1990|
+	TG=|1793|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Axiomatic {
+	AE=|Greg Egan|
+	AS=|BSFAS|
+	YR=|1990|
+	TG=|3991|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Learning to Be Me {
+	AE=|Greg Egan|
+	AS=|BSFAS|
+	YR=|1990|
+	TG=|4016|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Winning {
+	AE=|Ian McDonald|
+	AS=|BSFAS|
+	YR=|1990|
+	TG=|8170|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Bad Timing {
+	AE=|Molly Brown|
+	AS=|BSFAS|
+	YR=|1991|
+	TG=|1799|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Appropriate Love {
+	AE=|Greg Egan|
+	AS=|BSFAS|
+	YR=|1991|
+	TG=|3990|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Nothing Special {
+	AE=|Colin Greenland|
+	AS=|BSFAS|
+	YR=|1991|
+	TG=|5377|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Crossroads {
+	AE=|Paul J. McAuley|
+	AS=|BSFAS|
+	YR=|1991|
+	TG=|7968|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Floating Dogs {
+	AE=|Ian McDonald|
+	AS=|BSFAS|
+	YR=|1991|
+	TG=|8142|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Colour {
+	AE=|Michael Moorcock|
+	AS=|BSFAS|
+	YR=|1991|
+	TG=|8479|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+In the Air {
+	AE=|Kim Newman+Eugene Byrne|
+	AS=|BSFAS|
+	YR=|1991|
+	TG=|8709|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Innocents {
+	AE=|Ian McDonald|
+	AS=|BSFAS|
+	YR=|1992|
+	TG=|8148|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|1|
+}
+Priest of Hands {
+	AE=|Storm Constantine|
+	AS=|BSFAS|
+	YR=|1992|
+	TG=|2950|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Reification Highway {
+	AE=|Greg Egan|
+	AS=|BSFAS|
+	YR=|1992|
+	TG=|4035|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Sculptor {
+	AE=|Garry Kilworth|
+	AS=|BSFAS|
+	YR=|1992|
+	TG=|6515|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Returning {
+	AE=|Ian R. MacLeod|
+	AS=|BSFAS|
+	YR=|1992|
+	TG=|7706|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Coming of Vertumnus {
+	AE=|Ian Watson|
+	AS=|BSFAS|
+	YR=|1992|
+	TG=|12936|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+The Ragthorn {
+	AE=|Robert Holdstock+Garry Kilworth|
+	AS=|BSFAS|
+	YR=|1993|
+	TG=|6021|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|1|
+}
+The Welfare Man {
+	AE=|Chris Beckett|
+	AS=|BSFAS|
+	YR=|1993|
+	TG=|1020|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+No Better Than Anyone Else {
+	AE=|Molly Brown|
+	AS=|BSFAS|
+	YR=|1993|
+	TG=|1801|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Touching Fire {
+	AE=|Nicola Griffith|
+	AS=|BSFAS|
+	YR=|1993|
+	TG=|5403|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Spare Capacity {
+	AE=|Peter F. Hamilton|
+	AS=|BSFAS|
+	YR=|1993|
+	TG=|5571|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Irene's Song {
+	AE=|Astrid Julian|
+	AS=|BSFAS|
+	YR=|1993|
+	TG=|6310|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Double Felix {
+	AE=|Paul Di Filippo|
+	AS=|BSFAS|
+	YR=|1994|
+	TG=|3521|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Les Fleurs du Mal {
+	AE=|Brian Stableford|
+	AS=|BSFAS|
+	YR=|1994|
+	TG=|11299|
+	TA=|Short Fiction|
+	TP=|nv|
+	LV=|2|
+}
+Mudpuppy Goes to Town {
+	AE=|Paul Di Filippo|
+	AS=|BSFAS|
+	YR=|1994|
+	TG=|3528|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Asylum {
+	AE=|Katharine Kerr|
+	AS=|BSFAS|
+	YR=|1994|
+	TG=|6438|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Sharp Tang {
+	AE=|John Meaney|
+	AS=|BSFAS|
+	YR=|1994|
+	TG=|8343|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Hunger and Ecstasy of Vampires {
+	AE=|Brian Stableford|
+	AS=|BSFAS|
+	YR=|1995|
+	TG=|11293|
+	TA=|Short Fiction|
+	TP=|nv|
+	LV=|1|
+}
+The Ant-Men of Tibet {
+	AE=|Stephen Baxter|
+	AS=|BSFAS|
+	YR=|1995|
+	TG=|924|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Bagged 'n' Tagged {
+	AE=|Eugene Byrne|
+	AS=|BSFAS|
+	YR=|1995|
+	TG=|2072|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Mr. Volition {
+	AE=|Greg Egan|
+	AS=|BSFAS|
+	YR=|1995|
+	TG=|4022|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Sunflowers {
+	AE=|Kathleen Ann Goonan|
+	AS=|BSFAS|
+	YR=|1995|
+	TG=|5226|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Frooks {
+	AE=|Ian McDonald|
+	AS=|BSFAS|
+	YR=|1995|
+	TG=|8143|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Warmth {
+	AE=|Geoff Ryman|
+	AS=|BSFAS|
+	YR=|1995|
+	TG=|10150|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+A Crab Must Try {
+	AE=|Barrington J. Bayley|
+	AS=|BSFAS|
+	YR=|1996|
+	TG=|948|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Dying Fall {
+	AE=|J. G. Ballard|
+	AS=|BSFAS|
+	YR=|1996|
+	TG=|752|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Community Service {
+	AE=|Molly Brown|
+	AS=|BSFAS|
+	YR=|1996|
+	TG=|1800|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The East {
+	AE=|M. John Harrison|
+	AS=|BSFAS|
+	YR=|1996|
+	TG=|5675|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Eat or Be Eaten: A Love Story {
+	AE=|Mary A. Turzillo|
+	AS=|BSFAS|
+	YR=|1996|
+	TG=|12127|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+War Birds {
+	AE=|Stephen Baxter|
+	AS=|BSFAS|
+	YR=|1997|
+	TG=|15535|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+ThiGMOO {
+	AE=|Eugene Byrne|
+	AS=|BSFAS|
+	YR=|1997|
+	TG=|15538|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Emperor's New Reality {
+	AE=|Pat Cadigan|
+	AS=|BSFAS|
+	YR=|1997|
+	TG=|15540|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The First Man Not to Land on the Moon {
+	AE=|Richard Kadrey|
+	AS=|BSFAS|
+	YR=|1997|
+	TG=|15564|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Last Day of the Carnival - 36 Exposures {
+	AE=|Paul Kincaid|
+	AS=|BSFAS|
+	YR=|1997|
+	TG=|15565|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+La Cenerentola {
+	AE=|Gwyneth Jones|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19150|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+Vulpheous {
+	AE=|Eric Brown|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19123|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|2|
+}
+The First Annual Performance Arts Festival at the Slaughter Rock Battlefield {
+	AE=|Thomas M. Disch|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19131|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Shift Change {
+	AE=|Timons Esaias|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19139|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Day Before They Came {
+	AE=|Mary Soon Lee|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19156|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19111|
+	TA=|Short Fiction|
+	TP=|x|
+	LV=|90|
+}
+Merveille {
+	AE=|Sarah Ash|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19114|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Barrier {
+	AE=|Stephen Baxter|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19118|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|92|
+}
+Onward Station {
+	AE=|Eric Brown|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19122|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Let's Grind {
+	AE=|Bill Drummond|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19134|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Mars Convention {
+	AE=|Timons Esaias|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19138|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Queen of the Hill {
+	AE=|Dominic Green|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19141|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+That Thing Over There {
+	AE=|Dominic Green|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19142|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Jedella Ghost {
+	AE=|Tanith Lee|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19157|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Gardens of Saturn {
+	AE=|Paul J. McAuley|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19160|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|92|
+}
+The Secret of My Success {
+	AE=|Paul J. McAuley|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19161|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Man of Steel Saves the World {
+	AE=|Don Webb|
+	AS=|BSFAS|
+	YR=|1998|
+	TG=|19179|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Hunting the Slarque {
+	AE=|Eric Brown|
+	AS=|BSFAS|
+	YR=|1999|
+	TG=|19583|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Gorillagram {
+	AE=|Tony Ballantyne|
+	AS=|BSFAS|
+	YR=|1999|
+	TG=|19578|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+White Dog {
+	AE=|Maya Kaathryn Bohnhoff|
+	AS=|BSFAS|
+	YR=|1999|
+	TG=|19582|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Malignos {
+	AE=|Richard Calder|
+	AS=|BSFAS|
+	YR=|1999|
+	TG=|19587|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Lady Macbeth Blues {
+	AE=|Stephen Dedman|
+	AS=|BSFAS|
+	YR=|1999|
+	TG=|19590|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Suspect Genome {
+	AE=|Peter F. Hamilton|
+	AS=|BSFAS|
+	YR=|2000|
+	TG=|22042|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Destiny on Tartarus {
+	AE=|Eric Brown|
+	AS=|BSFAS|
+	YR=|2000|
+	TG=|22021|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Singing Each to Each {
+	AE=|Paul Di Filippo|
+	AS=|BSFAS|
+	YR=|2000|
+	TG=|22027|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+La Vampiresse {
+	AE=|Tanith Lee|
+	AS=|BSFAS|
+	YR=|2000|
+	TG=|22051|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Adventures in the Ghost Trade {
+	AE=|Liz Williams|
+	AS=|BSFAS|
+	YR=|2000|
+	TG=|22076|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+untitled {
+	AE=|John Brunner|
+	AS=|BSFA9|
+	YR=|1965|
+	TG=|1815|
+	TA=|Body of Work|
+	TP=|au|
+	LV=|1|
+}
+Year's Work {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1979|
+	TG=|2003|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Year's Work {
+	AE=|Chris Foss|
+	AS=|BSFAA|
+	YR=|1979|
+	TG=|4589|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|John Harris|
+	AS=|BSFAA|
+	YR=|1979|
+	TG=|5658|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Peter Lord|
+	AS=|BSFAA|
+	YR=|1979|
+	TG=|7577|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Tony Roberts|
+	AS=|BSFAA|
+	YR=|1979|
+	TG=|9747|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Patrick Woodroffe|
+	AS=|BSFAA|
+	YR=|1979|
+	TG=|13722|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Peter Jones|
+	AS=|BSFAA|
+	YR=|1980|
+	TG=|6250|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Year's Work {
+	AE=|Brian Bolland|
+	AS=|BSFAA|
+	YR=|1980|
+	TG=|1457|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Carlos Ezquerra|
+	AS=|BSFAA|
+	YR=|1980|
+	TG=|4307|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Peter Goodfellow|
+	AS=|BSFAA|
+	YR=|1980|
+	TG=|5213|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Chris Moore|
+	AS=|BSFAA|
+	YR=|1980|
+	TG=|8518|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Tim White|
+	AS=|BSFAA|
+	YR=|1980|
+	TG=|13159|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Bruce Pennington|
+	AS=|BSFAA|
+	YR=|1981|
+	TG=|9117|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Year's Work {
+	AE=|Christos Achilleos|
+	AS=|BSFAA|
+	YR=|1981|
+	TG=|196|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Pete Lyon|
+	AS=|BSFAA|
+	YR=|1981|
+	TG=|7659|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Chris Moore|
+	AS=|BSFAA|
+	YR=|1981|
+	TG=|8519|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Tim White|
+	AS=|BSFAA|
+	YR=|1981|
+	TG=|13160|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Tim White|
+	AS=|BSFAA|
+	YR=|1982|
+	TG=|13161|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Year's Work {
+	AE=|Peter Goodfellow|
+	AS=|BSFAA|
+	YR=|1982|
+	TG=|5214|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Peter Jones|
+	AS=|BSFAA|
+	YR=|1982|
+	TG=|6251|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Bruce Pennington|
+	AS=|BSFAA|
+	YR=|1982|
+	TG=|9118|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Bruce Pennington|
+	AS=|BSFAA|
+	YR=|1983|
+	TG=|9119|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Year's Work {
+	AE=|Peter Jones|
+	AS=|BSFAA|
+	YR=|1983|
+	TG=|6252|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Ian Miller|
+	AS=|BSFAA|
+	YR=|1983|
+	TG=|8401|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Tim White|
+	AS=|BSFAA|
+	YR=|1983|
+	TG=|13162|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1984|
+	TG=|2004|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Year's Work {
+	AE=|Peter Jones|
+	AS=|BSFAA|
+	YR=|1984|
+	TG=|6253|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Ian Miller|
+	AS=|BSFAA|
+	YR=|1984|
+	TG=|8402|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Bruce Pennington|
+	AS=|BSFAA|
+	YR=|1984|
+	TG=|9120|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Tim White|
+	AS=|BSFAA|
+	YR=|1984|
+	TG=|13163|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1985|
+	TG=|2005|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Year's Work {
+	AE=|Peter Jones|
+	AS=|BSFAA|
+	YR=|1985|
+	TG=|6254|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Rodney Matthews|
+	AS=|BSFAA|
+	YR=|1985|
+	TG=|7929|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Ian Miller|
+	AS=|BSFAA|
+	YR=|1985|
+	TG=|8403|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Year's Work {
+	AE=|Tim White|
+	AS=|BSFAA|
+	YR=|1985|
+	TG=|13164|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Kaeti & Company by Keith Roberts) The Clocktower Girl {
+	AE=|Keith Roberts|
+	AS=|BSFAA|
+	YR=|1986|
+	TG=|9723|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Interzone 17) {
+	AE=|John Avon|
+	AS=|BSFAA|
+	YR=|1986|
+	TG=|700|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 16) Lightship {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1986|
+	TG=|2011|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 15) {
+	AE=|Pete Lyon|
+	AS=|BSFAA|
+	YR=|1986|
+	TG=|7660|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Interzone 18) Screaming of the Beetle {
+	AE=|SMS|
+	AS=|BSFAA|
+	YR=|1986|
+	TG=|11148|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (1987 Worldcon Program book) {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1987|
+	TG=|2006|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Year's Work {
+	AE=|Alan Lee|
+	AS=|BSFAA|
+	YR=|1988|
+	TG=|7223|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Other Edens III by Christopher Evans and Robert Holdstock) {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1989|
+	TG=|2014|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Cover (In the Drift by Michael Swanwick) {
+	AE=|Anonymous|
+	AS=|BSFAA|
+	YR=|1989|
+	TG=|437|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 31) {
+	AE=|David Hardy|
+	AS=|BSFAA|
+	YR=|1989|
+	TG=|5633|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Neverness by David Zindell) {
+	AE=|Nick Rogers|
+	AS=|BSFAA|
+	YR=|1989|
+	TG=|9911|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Great and Secret Show by Clive Barker) {
+	AE=|Manuel SanJulian|
+	AS=|BSFAA|
+	YR=|1989|
+	TG=|10206|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 30) The Gold Coast {
+	AE=|Keith Scaife|
+	AS=|BSFAA|
+	YR=|1989|
+	TG=|10282|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Interzone 31) {
+	AE=|SMS|
+	AS=|BSFAA|
+	YR=|1989|
+	TG=|11149|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Difference Engine by William Gibson and Bruce Sterling; Interzone 40) The Difference Engine {
+	AE=|Ian Miller|
+	AS=|BSFAA|
+	YR=|1990|
+	TG=|8404|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Interior (Interzone 41) [The Phargean Effect by Eric Brown] {
+	AE=|Iain Byers|
+	AS=|BSFAA|
+	YR=|1990|
+	TG=|2068|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Night Mayor by Kim Newman) {
+	AE=|Dave McKean|
+	AS=|BSFAA|
+	YR=|1990|
+	TG=|8254|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 48) Dreamlands {
+	AE=|Mark Harrison|
+	AS=|BSFAA|
+	YR=|1991|
+	TG=|5689|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Interzone 52) {
+	AE=|SMS|
+	AS=|BSFAA|
+	YR=|1991|
+	TG=|11143|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 54) [What Continues, What Fails... by David Brin] What Continues, What Fails... {
+	AE=|SMS|
+	AS=|BSFAA|
+	YR=|1991|
+	TG=|11144|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 45) [The Bone Forest by Robert Holdstock] The Bone Forest {
+	AE=|Geoff Taylor|
+	AS=|BSFAA|
+	YR=|1991|
+	TG=|11827|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Hearts, Hands and Voices by Ian McDonald) {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1992|
+	TG=|2010|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Doomsday Book by Connie Willis) {
+	AE=|Anonymous|
+	AS=|BSFAA|
+	YR=|1992|
+	TG=|436|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 66) [Kaeti on Tour by Keith Roberts] Kaeti on Tour {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1992|
+	TG=|2012|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 65) {
+	AE=|Mark Harrison|
+	AS=|BSFAA|
+	YR=|1992|
+	TG=|5690|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 58) [Priest of Hands by Storm Constantine] Priest of Hands {
+	AE=|SMS|
+	AS=|BSFAA|
+	YR=|1992|
+	TG=|11145|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Red Dust by Paul J. McAuley) {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1993|
+	TG=|2015|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Cover (New Worlds 3 by David Garnett) {
+	AE=|Steve Read|
+	AS=|BSFAA|
+	YR=|1993|
+	TG=|9542|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 79) [Artificial Things by Karen Joy Fowler] Artificial Things {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1994|
+	TG=|2013|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Interzone 83) {
+	AE=|Danny Flynn|
+	AS=|BSFAA|
+	YR=|1994|
+	TG=|4532|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Interzone 83) [Our Lady of Chernobyl by Greg Egan] {
+	AE=|Gerry Grace|
+	AS=|BSFAA|
+	YR=|1994|
+	TG=|5259|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (New Worlds 4 by David Garnett) {
+	AE=|Peter Szumowski|
+	AS=|BSFAA|
+	YR=|1994|
+	TG=|11801|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 90) [Asylum by Katharine Kerr] Asylum {
+	AE=|Geoff Taylor|
+	AS=|BSFAA|
+	YR=|1994|
+	TG=|11828|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Seasons of Plenty by Colin Greenland) {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1995|
+	TG=|2016|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Interzone 96) {
+	AE=|Santos Garijo|
+	AS=|BSFAA|
+	YR=|1995|
+	TG=|4846|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 99) {
+	AE=|Maurisio Mansieri|
+	AS=|BSFAA|
+	YR=|1995|
+	TG=|7802|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 100) {
+	AE=|SMS|
+	AS=|BSFAA|
+	YR=|1995|
+	TG=|11141|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 91) {
+	AE=|SMS|
+	AS=|BSFAA|
+	YR=|1995|
+	TG=|11146|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 92) [The Hunger and Ecstasy of Vampires by Brian Stableford] The Hunger and Ecstasy of Vampires {
+	AE=|SMS|
+	AS=|BSFAA|
+	YR=|1995|
+	TG=|11147|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Ancient Shores by Jack McDevitt) {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1996|
+	TG=|2008|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Interzone 103) {
+	AE=|Fred Gambino|
+	AS=|BSFAA|
+	YR=|1996|
+	TG=|4818|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 114) {
+	AE=|Santos Garijo|
+	AS=|BSFAA|
+	YR=|1996|
+	TG=|4845|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 107) {
+	AE=|David Hardy|
+	AS=|BSFAA|
+	YR=|1996|
+	TG=|5632|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Sandman: Book of Dreams by Neil Gaiman) {
+	AE=|Dave McKean|
+	AS=|BSFAA|
+	YR=|1996|
+	TG=|8253|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 112) {
+	AE=|SMS|
+	AS=|BSFAA|
+	YR=|1996|
+	TG=|11142|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 116) [The Black Blood of the Dead by Brian Stableford] The Black Blood of the Dead {
+	AE=|SMS|
+	AS=|BSFAA|
+	YR=|1997|
+	TG=|15595|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Cover (The Wood Wife by Terri Windling) The Wood Wife {
+	AE=|Brian Froud|
+	AS=|BSFAA|
+	YR=|1997|
+	TG=|15551|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Page 27 (Interzone 124) [Secrets by Ian Watson] {
+	AE=|Dominic Harman|
+	AS=|BSFAA|
+	YR=|1997|
+	TG=|15556|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Golden Key by Melanie Rawn, Jennifer Roberson & Kate Elliot) {
+	AE=|Michael Whelan|
+	AS=|BSFAA|
+	YR=|1997|
+	TG=|15605|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (A Child of the River by Paul McAuley; Interzone 123) A Child of the River {
+	AE=|Paul Young|
+	AS=|BSFAA|
+	YR=|1997|
+	TG=|15151|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 138) [Lord Prestimion by Robert Silverberg] {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1998|
+	TG=|19125|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Interzone 135) [Jedella Ghost by Tanith Lee] {
+	AE=|Dominic Harman|
+	AS=|BSFAA|
+	YR=|1998|
+	TG=|19146|
+	TA=|Art work|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Interzone 137) [The Gardens of Saturn by Paul J. McAuley] {
+	AE=|Dominic Harman|
+	AS=|BSFAA|
+	YR=|1998|
+	TG=|19147|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Back Cover (Focus 34) {
+	AE=|Colin Odell|
+	AS=|BSFAA|
+	YR=|1998|
+	TG=|19258|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Front Cover (Focus 34) {
+	AE=|Colin Odell|
+	AS=|BSFAA|
+	YR=|1998|
+	TG=|19259|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|BSFAA|
+	YR=|1998|
+	TG=|19112|
+	TA=|Art work|
+	TP=|x|
+	LV=|90|
+}
+Cover (Interzone 129) {
+	AE=|Dominic Harman|
+	AS=|BSFAA|
+	YR=|1998|
+	TG=|19145|
+	TA=|Art work|
+	TP=|aw|
+	LV=|92|
+}
+Cover (Interzone 130) {
+	AE=|Roy Virgo|
+	AS=|BSFAA|
+	YR=|1998|
+	TG=|19176|
+	TA=|Art work|
+	TP=|aw|
+	LV=|92|
+}
+Cover (Darwinia by Robert Charles Wilson) Darwinia {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1999|
+	TG=|19584|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Cover (The Dream Archipelago by Christopher Priest) {
+	AE=|Jim Burns|
+	AS=|BSFAA|
+	YR=|1999|
+	TG=|19585|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 142) The Sky-Green Blues {
+	AE=|Dominic Harman|
+	AS=|BSFAA|
+	YR=|1999|
+	TG=|19597|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 146) Dreaming Down-Under {
+	AE=|Nick Stathopoulos|
+	AS=|BSFAA|
+	YR=|1999|
+	TG=|19624|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Silver Screen by Justina Robson) Silver Screen {
+	AE=|Steve Stone|
+	AS=|BSFAA|
+	YR=|1999|
+	TG=|19625|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Interzone 157) Hideaway {
+	AE=|Dominic Harman|
+	AS=|BSFAA|
+	YR=|2000|
+	TG=|22043|
+	TA=|Art work|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Scheherazade 19) Afetere's Eyes {
+	AE=|Gerald Gaubert|
+	AS=|BSFAA|
+	YR=|2000|
+	TG=|22041|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Vector 213) Physiognomies of Flight {
+	AE=|China Miéville|
+	AS=|BSFAA|
+	YR=|2000|
+	TG=|22058|
+	TA=|Art work|
+	TP=|aw|
+	LV=|9|
+}
+The Hitchhiker's Guide to the Galaxy (radio) {
+	AE=|Douglas Adams|
+	AS=|BSFAD|
+	YR=|1978|
+	TG=|204|
+	TA=|Dramatic Presentation|
+	TP=|dr|
+	LV=|1|
+}
+The Hitchhiker's Guide to the Galaxy (record) {
+	AE=|Douglas Adams|
+	AS=|BSFAD|
+	YR=|1979|
+	TG=|206|
+	TA=|Dramatic Presentation|
+	TP=|dr|
+	LV=|1|
+}
+The China Syndrome {
+	AE=|James Bridges+T. S. Cook+Mike Gray|
+	MV=|China Syndrome, The (1979)|
+	AS=|BSFAD|
+	YR=|1979|
+	TG=|12305|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Alien {
+	AE=|Ronald Shusett+Dan O'Bannon+David Giler+Walter Hill|
+	MV=|Alien (1979)|
+	AS=|BSFAD|
+	YR=|1979|
+	TG=|8904|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Dr. Who {
+	AE=|Unknown-TV-Series|
+	MV=|"Doctor Who" (1963)|
+	AS=|BSFAD|
+	YR=|1979|
+	TG=|702|
+	TA=|Dramatic Presentation|
+	TP=|tvs|
+	LV=|9|
+}
+Quatermass {
+	AE=|Unknown-TV-Series|
+	MV=|"Quatermass" (1979)|
+	AS=|BSFAD|
+	YR=|1979|
+	TG=|12500|
+	TA=|Dramatic Presentation|
+	TP=|tvs|
+	LV=|9|
+}
+The Hitchhiker's Guide to the Galaxy (2nd radio series) {
+	AE=|Douglas Adams|
+	AS=|BSFAD|
+	YR=|1980|
+	TG=|203|
+	TA=|Dramatic Presentation|
+	TP=|dr|
+	LV=|1|
+}
+The Martian Chronicles {
+	AE=|Ray Bradbury+Richard Matheson|
+	MV=|"Martian Chronicles, The" (1980) (mini)|
+	AS=|BSFAD|
+	YR=|1980|
+	TG=|12494|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+The Flip-Side of Dominick Hide {
+	AE=|Alan Gibson+Jeremy Paul|
+	MV=|Flipside of Dominick Hide, The (1981) (TV)|
+	AS=|BSFAD|
+	YR=|1980|
+	TG=|12349|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+The Empire Strikes Back {
+	AE=|George Lucas+Leigh Brackett+Lawrence Kasdan|
+	MV=|Empire Strikes Back, The (1980)|
+	AS=|BSFAD|
+	YR=|1980|
+	TG=|7597|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Dr. Who {
+	AE=|Unknown-TV-Series|
+	MV=|"Doctor Who" (1963)|
+	AS=|BSFAD|
+	YR=|1980|
+	TG=|703|
+	TA=|Dramatic Presentation|
+	TP=|tvs|
+	LV=|9|
+}
+Time Bandits {
+	AE=|Terry Gilliam+Michael Palin|
+	MV=|Time Bandits (1980)|
+	AS=|BSFAD|
+	YR=|1981|
+	TG=|12447|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Excalibur {
+	AE=|John Boorman+Thomas Malory+Rospo Pallenberg|
+	MV=|Excalibur (1981)|
+	AS=|BSFAD|
+	YR=|1981|
+	TG=|12336|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Blake's 7 {
+	AE=|Unknown-TV-Series|
+	MV=|"Blake's 7" (1978)|
+	AS=|BSFAD|
+	YR=|1981|
+	TG=|12484|
+	TA=|Dramatic Presentation|
+	TP=|tvs|
+	LV=|9|
+}
+Stalker {
+	AE=|Unknown-TV-Series|
+	AS=|BSFAD|
+	YR=|1981|
+	TG=|12505|
+	TA=|Dramatic Presentation|
+	TP=|tvs|
+	LV=|9|
+}
+Blade Runner {
+	AE=|Philip K. Dick+Hampton Fancher+David Webb Peoples|
+	MV=|Blade Runner (1982)|
+	AS=|BSFAD|
+	YR=|1982|
+	TG=|4339|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+The Road Warrior^Mad Max 2 {
+	AE=|Brian Hannant+Terry Hayes+George Miller|
+	MV=|Road Warrior, The (1981)|
+	AS=|BSFAD|
+	YR=|1982|
+	TG=|12409|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Tron {
+	AE=|Steven Lisberger+Bonnie MacBird|
+	MV=|Tron (1982)|
+	AS=|BSFAD|
+	YR=|1982|
+	TG=|12455|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+E.T. the Extra-Terrestrial {
+	AE=|Melissa Mathison|
+	MV=|E.T. the Extra-Terrestrial (1982)|
+	AS=|BSFAD|
+	YR=|1982|
+	TG=|11215|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Another Flip For Dominic {
+	AE=|Unknown-Teleplay|
+	MV=|Another Flip For Dominic (1982 (TV)|
+	AS=|BSFAD|
+	YR=|1982|
+	TG=|12482|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Android {
+	AE=|Don Keith Opper+James Reigle|
+	MV=|Android (1982)|
+	AS=|BSFAD|
+	YR=|1983|
+	TG=|12274|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Wargames {
+	AE=|Lawrence Lasker+Walter F. Parkes|
+	MV=|WarGames (1983)|
+	AS=|BSFAD|
+	YR=|1983|
+	TG=|12463|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+United States, Parts I - IV {
+	AE=|Unknown-Play|
+	AS=|BSFAD|
+	YR=|1983|
+	TG=|12458|
+	TA=|Dramatic Presentation|
+	TP=|dp|
+	LV=|9|
+}
+The Day After Tomorrow {
+	AE=|Unknown-Teleplay|
+	AS=|BSFAD|
+	YR=|1983|
+	TG=|12486|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Perfect Shadows {
+	AE=|Unknown-Teleplay|
+	AS=|BSFAD|
+	YR=|1983|
+	TG=|12498|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+The Company of Wolves {
+	AE=|Angela Carter+Neil Jordan|
+	MV=|Company of Wolves, The (1984)|
+	AS=|BSFAD|
+	YR=|1984|
+	TG=|12313|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Star Trek III: The Search for Spock {
+	AE=|Harve Bennett|
+	MV=|Star Trek III: The Search for Spock (1984)|
+	AS=|BSFAD|
+	YR=|1984|
+	TG=|11352|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Nineteen Eighty-Four {
+	AE=|Jonathan Gems+George Orwell+Michael Radford|
+	MV=|Nineteen Eighty-Four (1984)|
+	AS=|BSFAD|
+	YR=|1984|
+	TG=|12395|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Dune {
+	AE=|Frank Herbert+David Lynch|
+	MV=|Dune (1984)|
+	AS=|BSFAD|
+	YR=|1984|
+	TG=|12329|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+The Transmigration of Timothy Archer {
+	AE=|Geoff Ryman+Philip K. Dick|
+	AS=|BSFAD|
+	YR=|1984|
+	TG=|10156|
+	TA=|Dramatic Presentation|
+	TP=|dp|
+	LV=|9|
+}
+Brazil {
+	AE=|Terry Gilliam+Charles McKeown+Tom Stoppard|
+	MV=|Brazil (1985)|
+	AS=|BSFAD|
+	YR=|1985|
+	TG=|12299|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+The Terminator {
+	AE=|Harlan Ellison+James Cameron+Gale Anne Hurd+William Wisher, Jr.|
+	MV=|Terminator, The (1984)|
+	AS=|BSFAD|
+	YR=|1985|
+	TG=|2172|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Mad Max Beyond Thunderdome {
+	AE=|Terry Hayes+George Miller|
+	MV=|Mad Max Beyond Thunderdome (1985)|
+	AS=|BSFAD|
+	YR=|1985|
+	TG=|12383|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Max Headroom {
+	AE=|Steve Roberts+Colin Wilson|
+	MV=|Max Headroom (1985) (TV)|
+	AS=|BSFAD|
+	YR=|1985|
+	TG=|12387|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+The Tripods (2nd series) {
+	AE=|Unknown-TV-Series|
+	AS=|BSFAD|
+	YR=|1985|
+	TG=|12509|
+	TA=|Dramatic Presentation|
+	TP=|tvs|
+	LV=|9|
+}
+Aliens {
+	AE=|James Cameron+David Giler+Walter Hill|
+	MV=|Aliens (1986)|
+	AS=|BSFAD|
+	YR=|1986|
+	TG=|2166|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Re-Animator {
+	AE=|Stuart Gordon+H. P. Lovecraft+William Norris+Dennis Paoli|
+	MV=|Re-Animator (1985)|
+	AS=|BSFAD|
+	YR=|1986|
+	TG=|12406|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Overdrawn at the Memory Bank {
+	AE=|Corinne Jacker+John Varley|
+	MV=|Overdrawn at the Memory Bank (1985) (TV)|
+	AS=|BSFAD|
+	YR=|1986|
+	TG=|12399|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Mr. Pye {
+	AE=|Unknown-Movie|
+	AS=|BSFAD|
+	YR=|1986|
+	TG=|12392|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Dr. Who: Trial of a Timelord {
+	AE=|Unknown-TV-Episode|
+	AS=|BSFAD|
+	YR=|1986|
+	TG=|12487|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Star Cops {
+	AE=|Unknown-TV-Series|
+	MV=|"Star Cops" (1985)|
+	AS=|BSFAD|
+	YR=|1987|
+	TG=|12506|
+	TA=|Dramatic Presentation|
+	TP=|tvs|
+	LV=|1|
+}
+Who Framed Roger Rabbit? {
+	AE=|Gary K. Wolf+Jeffrey Price+Peter S. Seaman|
+	MV=|Who Framed Roger Rabbit (1988)|
+	AS=|BSFAD|
+	YR=|1988|
+	TG=|9420|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Red Dwarf {
+	AE=|Unknown-TV-Series|
+	MV=|"Red Dwarf" (1988)|
+	AS=|BSFAD|
+	YR=|1989|
+	TG=|12502|
+	TA=|Dramatic Presentation|
+	TP=|tvs|
+	LV=|1|
+}
+Batman {
+	AE=|Sam Hamm+Bob Kane+Warren Skaaren|
+	MV=|Batman (1989)|
+	AS=|BSFAD|
+	YR=|1989|
+	TG=|12282|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+The Chronicles of Narnia {
+	AE=|Unknown-TV-Series|
+	AS=|BSFAD|
+	YR=|1989|
+	TG=|12485|
+	TA=|Dramatic Presentation|
+	TP=|tvs|
+	LV=|9|
+}
+Dr. Who {
+	AE=|Unknown-TV-Series|
+	MV=|"Doctor Who" (1963)|
+	AS=|BSFAD|
+	YR=|1989|
+	TG=|704|
+	TA=|Dramatic Presentation|
+	TP=|tvs|
+	LV=|9|
+}
+Back to the Future II {
+	AE=|Robert Zemeckis+Bob Gale|
+	MV=|Back to the Future Part II (1989)|
+	AS=|BSFAD|
+	YR=|1989|
+	TG=|12278|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Twin Peaks {
+	AE=|David Lynch|
+	MV=|"Twin Peaks" (1990)|
+	AS=|BSFAD|
+	YR=|1990|
+	TG=|12515|
+	TA=|Dramatic Presentation|
+	TP=|tvs|
+	LV=|1|
+}
+Total Recall {
+	AE=|Philip K. Dick+Ronald Shusett+Dan O'Bannon+Jon Povill+Gary Goldman|
+	MV=|Total Recall (1990)|
+	AS=|BSFAD|
+	YR=|1990|
+	TG=|12451|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Flatliners {
+	AE=|Peter Filardi|
+	MV=|Flatliners (1990)|
+	AS=|BSFAD|
+	YR=|1990|
+	TG=|12347|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Star Trek: The Next Generation {
+	AE=|Unknown-TV-Series|
+	MV=|"Star Trek: The Next Generation" (1987)|
+	AS=|BSFAD|
+	YR=|1990|
+	TG=|11344|
+	TA=|Dramatic Presentation|
+	TP=|tvs|
+	LV=|9|
+}
+Terminator 2: Judgment Day {
+	AE=|James Cameron+William Wisher|
+	MV=|Terminator 2: Judgment Day (1991)|
+	AS=|BSFAD|
+	YR=|1991|
+	TG=|2169|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Edward Scissorhands {
+	AE=|Tim Burton+Caroline Thompson|
+	MV=|Edward Scissorhands (1990)|
+	AS=|BSFAD|
+	YR=|1991|
+	TG=|12332|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Red Dwarf (4th series) {
+	AE=|Unknown-TV-Series|
+	MV=|"Red Dwarf" (1992)|
+	AS=|BSFAD|
+	YR=|1991|
+	TG=|12503|
+	TA=|Dramatic Presentation|
+	TP=|tvs|
+	LV=|9|
+}
+Star Trek: The Next Generation {
+	AE=|Unknown-TV-Series|
+	MV=|"Star Trek: The Next Generation" (1987)|
+	AS=|BSFAD|
+	YR=|1991|
+	TG=|11345|
+	TA=|Dramatic Presentation|
+	TP=|tvs|
+	LV=|9|
+}
+Billion Year Spree {
+	AE=|Brian W. Aldiss|
+	AS=|BSFAX|
+	YR=|1973|
+	TG=|240|
+	TA=|Special Award|
+	TP=|nf|
+	LV=|1|
+}
+A Pictorial History of Science Fiction {
+	AE=|David A. Kyle|
+	AS=|BSFAX|
+	YR=|1976|
+	TG=|6861|
+	TA=|Special Award|
+	TP=|aa|
+	LV=|1|
+}
+The Encyclopedia of Science Fiction {
+	AE=|John Clute+Peter Nicholls|
+	AS=|BSFAX|
+	YR=|1993|
+	TG=|2866|
+	TA=|Special Award|
+	TP=|en|
+	LV=|1|
+}
+general staunchness in continuing to publish Interzone {
+	AE=|David Pringle|
+	AS=|BSFAX|
+	YR=|1998|
+	TG=|19281|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}

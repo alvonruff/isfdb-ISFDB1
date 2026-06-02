@@ -1,0 +1,458 @@
+<html><head>
+<title>ISFDB Tor Doubles</title></head>
+<h1>Tor Doubles</h1>
+<hr>
+
+<table border=1 cellpadding=2 cellspacing=1 width="100%">
+<tr>
+<td><b>#</b></td>
+<td><b>ISBN</b></td>
+<td><b>Title</b></td>
+<td><b>Author</b></td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB01">0-812-53362-3</a></td>
+    <td>A Meeting with Medusa</td>
+    <td>Arthur C. Clarke</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Green Mars</td>
+    <td>Kim Stanley Robinson</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB02">0-812-55971-1</a></td>
+    <td>Hardfought</td>
+    <td>Greg Bear</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Cascade Point</td>
+    <td>Timothy Zahn</td>
+</tr>
+<tr>
+<td>3</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB03">0-812-55952-5</a></td>
+    <td>Born With the Dead</td>
+    <td>Robert Silverberg</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The Saliva Tree</td>
+    <td>Brian W. Aldiss</td>
+</tr>
+<tr>
+<td>4</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB04">0-812-55956-8</a></td>
+    <td>Tango Charlie and Foxtrot Romeo</td>
+    <td>John Varley</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The Star Pit</td>
+    <td>Samuel R. Delany</td>
+</tr>
+<tr>
+<td>5</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB05">0-812-55958-4</a></td>
+    <td>No Truce with Kings</td>
+    <td>Poul Anderson</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Ship of Shadows</td>
+    <td>Fritz Leiber</td>
+</tr>
+<tr>
+<td>6</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB06">0-812-55963-0</a></td>
+    <td>Enemy Mine</td>
+    <td>Barry B. Longyear</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Another Orphan</td>
+    <td>John Kessel</td>
+</tr>
+<tr>
+<td>7</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB07">0-812-54554-0</a></td>
+    <td>Screwtop</td>
+    <td>Vonda N. McIntyre</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The Girl Who Was Plugged In</td>
+    <td>James Tiptree, Jr.</td>
+</tr>
+<tr>
+<td>8</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB08">0-812-55960-6</a></td>
+    <td>The Nemesis from Terra</td>
+    <td>Leigh Brackett</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Battle for the Stars</td>
+    <td>Edmond Hamilton</td>
+</tr>
+<tr>
+<td>9</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB09">0-812-55966-5</a></td>
+    <td>The Ugly Little Boy</td>
+    <td>Isaac Asimov</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The [Widget], the [Wadget], and Boff</td>
+    <td>Theodore Sturgeon</td>
+</tr>
+<tr>
+<td>10</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB10">0-812-50079-2</a></td>
+    <td>Sailing to Byzantium</td>
+    <td>Robert Silverberg</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Seven American Nights</td>
+    <td>Gene Wolfe</td>
+</tr>
+<tr>
+<td>11</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB11">0-812-55962-2</a></td>
+    <td>Houston, Houston, Do You Read?</td>
+    <td>James Tiptree, Jr.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Souls</td>
+    <td>Joanna Russ</td>
+</tr>
+<tr>
+<td>12</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB12">0-812-55879-0</a></td>
+    <td>He Who Shapes</td>
+    <td>Roger Zelazny</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The Infinity Box</td>
+    <td>Kate Wilhelm</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB13">0-812-50010-5</a></td>
+    <td>The Blind Geometer</td>
+    <td>Kim Stanley Robinson</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The Return from Rainbow Bridge</td>
+    <td>Kim Stanley Robinson</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The New Atlantis</td>
+    <td>Ursula K. Le Guin</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB14">0-812-50277-9</a></td>
+    <td>The Saturn Game</td>
+    <td>Poul Anderson</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Iceborn (rev "Proserpina's Daughter")</td>
+    <td>Gregory Benford, Paul A. Carter</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB15">0-812-50194-2</a></td>
+    <td>The Last Castle</td>
+    <td>Jack Vance</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Nightwings</td>
+    <td>Robert Silverberg</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB16">0-812-55964-9</a></td>
+    <td>The Color of Neanderthal Eyes</td>
+    <td>James Tiptree, Jr.</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>And Strange at Ecbatan the Trees</td>
+    <td>Michael Bishop</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB17">0-812-50362-7</a></td>
+    <td>Divide and Rule</td>
+    <td>L. Sprague de Camp</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Sword of Rhiannon</td>
+    <td>Leigh Brackett</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB18">0-812-50193-4</a></td>
+    <td>In Another Country</td>
+    <td>Robert Silverberg</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Vintage Season</td>
+    <td>C. L. Moore (as Lawrence O'Donnell)</td>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB19">0-812-50821-1</a></td>
+    <td>Ill Met in Lankhmar</td>
+    <td>Fritz Leiber</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The Fair in Emain Macha</td>
+    <td>Charles de Lint</td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB20">0-812-50202-7</a></td>
+    <td>The Wheels of If</td>
+    <td>L. Sprague de Camp</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The Pugnacious Peacemaker</td>
+    <td>Harry Turtledove</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB21">0-812-50983-8</a></td>
+    <td>Home Is the Hangman</td>
+    <td>Roger Zelazny</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>We, in Some Strange Power's Employ, Move on a Rigorous Line</td>
+    <td>Samuel R. Delany</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB22">0-812-50272-8</a></td>
+    <td>Thieves' Carnival</td>
+    <td>Karen Haber</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The Jewel of Bas</td>
+    <td>Leigh Brackett</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB23">0-812-50551-4</a></td>
+    <td>Riding the Torch</td>
+    <td>Norman Spinrad</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Tin Soldier</td>
+    <td>Joan D. Vinge</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB24">0-812-50275-2</a></td>
+    <td>Elegy for Angels and Dogs</td>
+    <td>Walter Jon Williams</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The Graveyard Heart</td>
+    <td>Roger Zelazny</td>
+</tr>
+<tr>
+<td>25</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB25">0-812-50813-0</a></td>
+    <td>Fugue State</td>
+    <td>John M. Ford</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The Death of Doctor Island</td>
+    <td>Gene Wolfe</td>
+</tr>
+<tr>
+<td>26</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB26">0-812-55948-7</a></td>
+    <td>Press Enter []</td>
+    <td>John Varley</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Hawksbill Station</td>
+    <td>Robert Silverberg</td>
+</tr>
+<tr>
+<td>27</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB27">0-812-50854-8</a></td>
+    <td>Eye for Eye</td>
+    <td>Orson Scott Card</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The Tunesmith</td>
+    <td>Lloyd Biggle, Jr.</td>
+</tr>
+<tr>
+<td>28</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB28">0-812-50895-5</a></td>
+    <td>A Short, Sharp Shock</td>
+    <td>Kim Stanley Robinson</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The Dragon Masters</td>
+    <td>Jack Vance</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB29">0-812-55940-1</a></td>
+    <td>Nanoware Time</td>
+    <td>Ian Watson</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The Persistence of Vision</td>
+    <td>John Varley</td>
+</tr>
+<tr>
+<td>30</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB30">0-812-51170-0</a></td>
+    <td>The Longest Voyage</td>
+    <td>Poul Anderson</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Slow Lightning</td>
+    <td>Steven Popkes</td>
+</tr>
+<tr>
+<td>31</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB31">0-812-50396-1</a></td>
+    <td>Naked to the Stars</td>
+    <td>Gordon R. Dickson</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>The Alien Way</td>
+    <td>Gordon R. Dickson</td>
+</tr>
+<tr>
+<td>32</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB32">0-812-51180-8</a></td>
+    <td>Run for the Stars</td>
+    <td>Harlan Ellison</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Echoes of Thunder</td>
+    <td>Jack M. Dann</td>
+</tr>
+<tr>
+<td>33</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB33">0-812-51246-4</a></td>
+    <td>Bwana</td>
+    <td>Mike Resnick</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Bully</td>
+    <td>Mike Resnick</td>
+</tr>
+<tr>
+<td>34</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB34">0-812-51294-4</a></td>
+    <td>Rule Golden</td>
+    <td>Damon Knight</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Double Meaning</td>
+    <td>Damon Knight</td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB35">0-812-50265-5</a></td>
+    <td>Silent Thunder</td>
+    <td>Dean Ing</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Universe</td>
+    <td>Robert A. Heinlein</td>
+</tr>
+<tr>
+<td>36</td>
+<td><a href="http://DBASELOC/plist.cgi?TORDOB36">0-812-51296-0</a></td>
+    <td>Conjure Wife</td>
+    <td>Fritz Leiber</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+    <td>Our Lady of Darkness</td>
+    <td>Fritz Leiber</td>
+</tr>
+</table>
+
+<hr>
+COPYRIGHT
+<hr>
+</pre>
+</body>
+</html>

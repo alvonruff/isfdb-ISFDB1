@@ -1,0 +1,371 @@
+<html><head>
+<title>ISFDB Help File</title></head>
+<body bgcolor=#ffff80>
+<h1>ISFDB Help File</h1>
+
+<a name="HELPWN"><hr>
+<h2>Working Name</h2>
+The ISFDB is built around the concept of an author <i>working name</i>.
+Since it is desirable to place all of an author's work on a single
+bibliographic page - including work done under a pseudonym - a consistant
+working name is important. The working name is the name by which the 
+author is mainly known.
+<p>
+The working name should be entered as it would appear on the book's
+cover or table of contents. Spaces should be present between double
+initials. Examples of working names:
+<pre>
+      Robert A. Heinlein
+      J. G. Ballard
+      George R. R. Martin
+</pre>
+
+<a name="HELPLN"><hr>
+<h2>Legal Name</h2>
+This entry should be filled with the author's legal name. A great
+deal of latitude is given to this field - it can be used to denote
+the author's current legal name, birth name, or maiden name. The
+point is help collect relevant information concerning the author.
+For instance, it is more informative to known that Simon Hawke's
+<i>birth name</i> name was Nicholas Valentin Yermakov, even though
+his legal name has been changed to Simon Hawke. Unusual situations
+like Hawke's should be amplified via a notes entry.
+<p>
+The legal name should be entered in lastname, firstname format,
+with initials expanded. Examples of legal names:
+<pre>
+      Heinlein, Robert Anson
+      Ballard, James Graham
+      Martin, George Raymond Richard
+</pre>
+
+<a name="HELPBP"><hr>
+<h2>Birthplace</h2>
+This entry can contain almost anything, but two things should be kept in mind:
+<ol>
+  <li>The field is also used to help denote changes in citizenship or
+  major changes in residence. For instance <i>Russia;USA</i> would be
+  used to indicate an author born in Russia who later moved to the
+  USA. Detailed information should be kept in the biographic area.
+  <li>The field width is limited to 32 characters, so keep the entry 
+  brief.
+  <li>The ISFDB is frequented by an international audience; don't
+  enter <i>Fresno</i> as a birthplace. If you must enter a city, be
+  sure to include the country. In the future, you may be required to
+  include the author's birthplanet.
+</ol>
+
+<a name="HELPBD"><hr>
+<h2>Birthyear</h2>
+This field should contain the birth <b>year</b>. The year must be
+a 4-digit numerical entry. Do not enter month or day of birth; that
+sort of detailed information should be entered into the biographic notes
+section. Only enter a birthdate if you actually know it.
+
+<a name="HELPDD"><hr>
+<h2>Deathdate</h2>
+This field should contain the <b>year</b> of death, and nothing else. More
+detailed information should be entered into the biographic notes section.
+Naturally, the field should be left blank if the author is still with us;
+please don't enter: <i>Not yet</i>.
+
+<a name="HELPPS"><hr>
+<h2>Pseudonyms</h2>
+Pseudonyms should be entered as they would appear on the printed page;
+multiple pseudonyms should be separated by a semicolon. Example:
+<pre>
+      Frederick Longbeard; Tol E. Rant; Shaw Vinist
+</pre>
+
+<a name="HELPEM"><hr>
+<h2>Email Address</h2>
+The email address should be entered as one would use it in a mailer.
+Multiple email addresses should be separated with a single comma.
+Example:
+<pre>
+      tbisson@aol.com,tbisson@interport.net
+</pre>
+
+<a name="HELPWP"><hr>
+<h2>Web Page URL</h2>
+The web page URL should be entered as one would use it in a browser.
+Multiple URLs should be separated with a single comma.
+Example:
+<pre>
+      http://stuff.com,http://other.stuff.com
+</pre>
+
+<a name="HELPBN"><hr>
+<h2>Biographic Notes</h2>
+This is a free-form text area. You can enter just about anything you
+want here, although it may experience some editing prior to insertion 
+into the ISFDB. One bit of advice: a biography which is longer than the
+author's bibliography looks a little ... indulgent.
+<p>
+Although anything can be inserted into the text area, certain restrictions
+apply to HTML directives. We'd like to be able to edit biographic notes,
+but putting HTML directives in a forms textarea confuses every browser on
+the planet. To get around this problem, some convenience directives are built
+into the ISFDB; they are in the form %%Directive,Argument%%. These 
+directives are:
+
+<ol>
+  <li> %%A,Working_Name%% - <b>A</b>uthor directive. This will create
+  a hotlink to the named author's bibliography. Real life examples:
+    <pre>
+    %%A,August Derleth%%
+    %%A,J. R. R. Tolkien%%
+    </pre>
+
+  <li> %%F,Exact_Title%% - <b>F</b>ilm link. This will create
+  a link to the Internet Movie Database. Note that the <b>exact</b>
+  title (as recognized by the IMDB) must be used. Real life examples:
+    <pre>
+    %%F,Star Wars (1977)%%
+    %%F,20 Million Miles to Earth (1957)%%
+    </pre>
+
+  <li> %%M,Email_address%% - <b>M</b>ail directive. This will create
+  a mailto directive to the given address. The address is also used 
+  as the displayed link label. By convention, it should be the last
+  entry in the textarea since it forces a newline break and prepends
+  the data with an "Email:" label. Real life examples:
+    <pre>
+    %%M,mcq@en.com%%
+    %%M,janeyolen@aol.com%%
+    </pre>
+
+  <li> %%H,label##URL%% - <b>H</b>tml link. This will create
+  a link to an external html. The "label" portion of the directive
+  will be the hotlink displayed onscreen; the URL is the full URL
+  path. Real life examples:
+    <pre>
+    %%H,web page##http://www.sff.net/people/wpshunn%%
+    %%H,web page##http://www.en.com/users/mcq%%
+    </pre>
+</ol>
+An example which uses both the A and M directives comes from the
+Will Shetterly entry:
+    <pre>
+    Husband, and sometime collaborator, to %%A,Emma Bull%%.
+    %%M,shetterl@maroon.tc.umn.edu%%
+    </pre>
+
+<a name="HELPTI"><hr>
+<h2>Title</h2>
+Titles should appear as printed. Please do not reorder leading 
+title articles; that is enter: <i>The Broken God</i>, not
+<i>Broken God, The</i>. The title sorting routine ignores
+leading title articles, so this is unneccesary.
+<p>
+Variant titles can be entered using the '^' operator. Any number
+of variant titles can be entered, in the form: 
+<i>title</i>^<i>variant title 1</i>^<i>variant title 2</i>...
+A variant title should be followed by a parenthetical hint
+which indicates why the title is variant. Examples:
+<pre>
+  The Frozen Year^Fallen Star (UK)
+  Shadow Over Mars^The Nemesis from Terra (1961 US)
+  The Soul of Melicent^Domnei (rev 1920)
+  Darkness Weaves with Many Shadows^Darkness Weaves (exp 1978)
+  Boten der Finsternis^Messengers of Darkness (trans: Christine Priest 1979)
+</pre>
+
+<a name="HELPAE"><hr>
+<h2>Author/Editor</h2>
+The author field should contain the working name of the author.
+<ol>
+  <li> The "^" operator is used to denote pseudonyms. In plain English, it
+  means "as". So an entry for Richard Bachman will show up as Stephen King^Richard Bachman. 
+  <li> The "+" operator is used to denote collaborations. In plain English, it
+  means "with". So an entry for Larry Niven working with Jerry Pournelle will show
+  up as Larry Niven+Jerry Pournelle. 
+  <li> Complex pseudonym constructions can be made with the use of parenthesis.
+  For instance, the collaborative pseudonym Lewis Padgett can be denoted as:
+  (C. L. Moore+Henry Kuttner)^Lewis Padgett 
+</ol>
+
+<a name="HELPYR"><hr>
+<h2>Year</h2>
+Normally, the year entry consists of a 4-digit entry. There are exceptions:
+<ol>
+  <li> The year 0 denotes an unknown publication date.
+  <li> The year 8888 can be used to denote infamously unpublished books.
+  <li> The year 9999 denotes a forthcoming publication date. This
+  entry can also take an optional MonYr extension to show the projected release
+  date.  "9999Apr96" denotes a forthcoming book expected to be released in Apr
+  96. Note that the date must be two digits, while the 3 character month code
+  must be one of: Jan, Feb, Mar, Apr, May, Jun, Jul, Aug, Sep, Oct, Nov, Dec. 
+</ol>
+<b>NOTE:</b> Please do not update the forthcoming publication date once you
+see a book appear in bookstores. <i>All</i> of the forthcoming book dates will
+be updated at one time at the end of the month.
+
+<a name="HELPPB"><hr>
+<h2>Publisher</h2>
+The publisher's name goes here. Well-known genre-specific publishing houses
+can be entered in short format, such as: <i>Tor</i>, or <i>Ace</i>. Lesser-known,
+or non-genre houses should be entered in the traditional long form: 
+<i>New York: Harmony Books</i>, or <i>London: Sphere</i>.
+
+<a name="HELPIS"><hr>
+<h2>ISBN</h2>
+There are no entry conventions for the ISBN field. It may either be in
+the dashed form: <i>0-553-18048-7</i>, or the non-dashed form <i>0553180487</i>.
+
+<a name="HELPPP"><hr>
+<h2>Pages</h2>
+If no introductory material exists in the publication, simply enter the 
+number of pages: <i>376</i>. Introductory material can be denoted by using
+roman numerals: <i>viii+227</i>.
+
+<a name="HELPPR"><hr>
+<h2>Price</h2>
+Prices, unless otherwise noted, are in US dollars. The dollar sign should be
+entered. Canadian publications which share the same ISBN as the USA publication
+can be entered: <i>$5.50 ($6.99 Can)</i>. UK prices should be preceded with
+an 'L': <i>L8.99</i>.
+
+<a name="HELPCV"><hr>
+<h2>Cover Artist</h2>
+Since the artwork database is constructed from the cover artist field, it 
+turns out to be extremely pedantic; only two forms of entry are accepted:
+<ol>
+  <li> The artist's working name only: <i>Stephen Youll</i>.
+  <li> An entry of the form: working_name for "title" is also accepted. The
+  database compiler recognizes this format and strips off the trailing 
+  information. Example: <i>Jason Hurst for "The Coming of Vertumnus"</i>.
+</ol>
+Entries that are unhelpful: <i>Looks like Bob Eggleton</i>, or <i>Title page
+says Whelan, but the cover is signed George</i>. Please put such data in the
+notes section.
+
+<a name="HELPSE"><hr>
+<h2>Series</h2>
+If the work is part of a series, enter the series name here. If the work
+belongs to a series which already has entries in the ISFDB, use that series
+name.
+
+<a name="HELPSN"><hr>
+<h2>Series Number</h2>
+The series number is really intended to disclose the order of publication.
+Many series are produced at a rapid rate, sometimes several in a single
+year. This number helps to show the correct order. We won't be very
+responsive to numeration wars in which one group insists that the series
+should be read in this order, while another group insists that the series
+should be read in that order.
+
+<a name="HELPSS"><hr>
+<h2>Super Series</h2>
+Authors may write a series of series, placing the works in the same
+universe. The super series entry can be used for this purpose. <b>Note</b>:
+a super series must only contain series names - it cannot contain works. That
+is, a work cannot belong to <i>just</i> a super series without belonging to a
+series first.
+
+<a name="HELPSL"><hr>
+<h2>Story Length</h2>
+This is the categorical length, not the word count. It can be set to:
+<ol>
+  <li> nv. Novella.
+  <li> nt. Novelette.
+  <li> ss. Short Story.
+  <li> sf. Short Fiction. Used when the story length isn't known.
+  <li> jvn. Used only for novels - indicates a juvenille.
+  <li> nvz. Used only for novels - indicates a novelization.
+</ol>
+
+<a name="HELPFORMAT"><hr>
+<h2>Publication Format</h2>
+This determines the publication format of the book. Valid selections are:
+<ol>
+  <li> hc. Hard Cover.
+  <li> pb. Paperback.
+  <li> tp. Trade Paperback.
+  <li> ph. Pamphlet.
+</ol>
+
+<a name="HELPGN"><hr>
+<h2>Publication Notes/Synopsis</h2>
+This is a free-form text area. You can enter just about anything you
+want here, although it may experience some editing prior to insertion 
+into the ISFDB. Notes should be used to illustrate information not
+well-handled by the ISFDB: interior illustrations, publication title
+clarifications, or just trivia. Synopsis data should tell just enough
+about the story without giving it away; it should not contain marketing
+blurbs such as "Charles de Lint calls this the greatest novel ever written".
+<b>Don't use copyrighted material for the synopsis</b>; this includes both
+synopsis found elsewhere and from the book's cover.
+<p>
+Although anything can be inserted into the text area, certain restrictions
+apply to HTML directives. We'd like to be able to edit biographic notes,
+but putting HTML directives in a forms textarea confuses every browser on
+the planet. To get around this problem, some convenience directives are built
+into the ISFDB; they are in the form %%Directive,Argument%%. These 
+directives are:
+
+<ol>
+  <li> %%A,Working_Name%% - <b>A</b>uthor directive. This will create
+  a hotlink to the named author's bibliography. Real life examples:
+    <pre>
+    %%A,August Derleth%%
+    %%A,J. R. R. Tolkien%%
+    </pre>
+
+  <li> %%M,Email_address%% - <b>M</b>ail directive. This will create
+  a mailto directive to the given address. The address is also used 
+  as the displayed link label. By convention, it should be the last
+  entry in the textarea since it forces a newline break and prepends
+  the data with an "Email:" label. Real life examples:
+    <pre>
+    %%M,mcq@en.com%%
+    %%M,janeyolen@aol.com%%
+    </pre>
+
+  <li> %%H,label##URL%% - <b>H</b>tml link. This will create
+  a link to an external html. The "label" portion of the directive
+  will be the hotlink displayed onscreen; the URL is the full URL
+  path. Real life examples:
+    <pre>
+    %%H,web page##http://www.greyware.com/authors/wpshunn%%
+    %%H,web page##http://www.en.com/users/mcq%%
+    </pre>
+</ol>
+
+<a name="HELPST"><hr>
+<h2>Story Type</h2>
+This is the entry type. The types are similar to those used 
+by magazines on the Table of Contents page. Some of the
+types are used to indicate story length, while others indicate
+a type of non-shortfiction:
+<ol>
+  <li> nv. Novella.
+  <li> nt. Novelette.
+  <li> ss. Short Story.
+  <li> sf. Short Fiction. Used when the story length isn't known.
+  <li> se. Serial.
+  <li> p.  Poem.
+  <li> es. Essay.
+</ol>
+
+<a name="HELPXX"><hr>
+<h2>Email Address</h2>
+The email address is used for a number of purposes:
+<ol>
+  <li> It let's us know who submitted magazine information, so that we can 
+  create the appropriate attributions.
+  <li> It provides an address such that we can ask questions back to the
+  submitter.
+  <li> In the future, registration of email addresses may be required in order
+  to enter data.
+</ol>
+Email addresses will not be collected, collated, or summarized in any way. They will
+not be made available to parties outside the ISFDB.
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

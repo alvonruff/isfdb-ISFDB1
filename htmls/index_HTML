@@ -1,0 +1,35 @@
+<html>
+<head>
+<title>Internet Speculative Fiction DataBase</title>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#155BF0" vlink="#155BF0">
+
+<center>
+<hr>
+<font size=8>
+The Internet Speculative Fiction DataBase
+</font>
+<p>
+<img src="isfdb.gif" alt="ISFDB Logo" border=0 align=middle>
+<p>
+<font size=4>
+<a href="http://HTMLBASE/award.html">[AWARDS]</a>
+<a href="http://HTMLBASE/stats4.html">[AUTHOR DIRECTORY]</a>
+<a href="http://DBASELOC/forthcoming.cgi">[FORTHCOMING BOOKS]</a>
+<a href="http://HTMLBASE/search.html">[SEARCH]</a>
+</font>
+<p>
+<font size=4>
+<a href="http://HTMLBASE/sfdbase.html">Enter the DataBase</a>.
+</font>
+<p>
+<hr>
+<p>
+<font size=4>
+<i>COPYRIGHT</i>
+</font>
+</center>
+<hr>
+
+</body>
+</html>

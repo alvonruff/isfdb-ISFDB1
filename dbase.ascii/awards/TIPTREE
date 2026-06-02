@@ -1,0 +1,2608 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)TIPTREE	1.6	06/18/98 ISFDB";
+##
+A Woman of the Iron People {
+	AE=|Eleanor Arnason|
+	AS=|Tiptree|
+	YR=|1991|
+	TG=|509|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|1|
+}
+White Queen {
+	AE=|Gwyneth Jones|
+	AS=|Tiptree|
+	YR=|1991|
+	TG=|6241|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|1|
+}
+Orbital Resonance {
+	AE=|John Barnes|
+	AS=|Tiptree|
+	YR=|1991|
+	TG=|846|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Sarah Canary {
+	AE=|Karen Joy Fowler|
+	AS=|Tiptree|
+	YR=|1991|
+	TG=|4639|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+The Architecture of Desire {
+	AE=|Mary Gentle|
+	AS=|Tiptree|
+	YR=|1991|
+	TG=|4930|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Moonwise {
+	AE=|Greer Ilene Gilman|
+	AS=|Tiptree|
+	YR=|1991|
+	TG=|5081|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+He, She and It^Body of Glass {
+	AE=|Marge Piercy|
+	AS=|Tiptree|
+	YR=|1991|
+	TG=|9152|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+China Mountain Zhang {
+	AE=|Maureen F. McHugh|
+	AS=|Tiptree|
+	YR=|1992|
+	TG=|8192|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|1|
+}
+Venus Rising {
+	AE=|Carol Emshwiller|
+	AS=|Tiptree|
+	YR=|1992|
+	TG=|4248|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Grownups {
+	AE=|Ian R. MacLeod|
+	AS=|Tiptree|
+	YR=|1992|
+	TG=|7702|
+	TA=|Gender-bending SF|
+	TP=|nv|
+	LV=|9|
+}
+Time, Like an Ever-Rolling Stream {
+	AE=|Judith Moffett|
+	AS=|Tiptree|
+	YR=|1992|
+	TG=|8435|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Red Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|Tiptree|
+	YR=|1992|
+	TG=|9830|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Correspondence {
+	AE=|Sue Thomas|
+	AS=|Tiptree|
+	YR=|1992|
+	TG=|11911|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Lost Futures {
+	AE=|Lisa Tuttle|
+	AS=|Tiptree|
+	YR=|1992|
+	TG=|12143|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+In the Mothers' Land {
+	AE=|Élisabeth Vonarburg|
+	AS=|Tiptree|
+	YR=|1992|
+	TG=|12757|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Ammonite {
+	AE=|Nicola Griffith|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|5399|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|1|
+}
+Ring of Swords {
+	AE=|Eleanor Arnason|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|503|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+The Robber Bride {
+	AE=|Margaret Atwood|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|678|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+In the Garden of Dead Cars {
+	AE=|Sybil Claiborne|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|2763|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Motherhood, Etc. {
+	AE=|L. Timmel Duchamp|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|3856|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|9|
+}
+Chemistry {
+	AE=|James Patrick Kelly|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|6382|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|9|
+}
+Dancing Jack {
+	AE=|Laurie J. Marks|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|7808|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Some Strange Desire {
+	AE=|Ian McDonald|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|8160|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+Illicit Passage {
+	AE=|Alice Nunn|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|8891|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Coelestis^Celestis {
+	AE=|Paul Park|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|9048|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+The Other Magpie {
+	AE=|R. Garcia y Robertson|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|9758|
+	TA=|Gender-bending SF|
+	TP=|nv|
+	LV=|9|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17444|
+	TA=|Gender-bending SF|
+	TP=|x|
+	LV=|90|
+}
+Crashcourse {
+	AE=|Wilhelmina Baird|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17445|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+X, Y {
+	AE=|Michael Blumlein|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17446|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Glory Season {
+	AE=|David Brin|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17447|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Drawing Blood {
+	AE=|Poppy Z. Brite|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17448|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Lost Girls {
+	AE=|Pat Cadigan|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17449|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+The Rising of the Moon {
+	AE=|Flynn Connolly|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17450|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Rainbow Man {
+	AE=|M. J. Engh|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17456|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Harm's Way {
+	AE=|Colin Greenland|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17458|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Touching Fire {
+	AE=|Nicola Griffith|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17459|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|99|
+}
+The Assimilation of Leah Wennover {
+	AE=|Stephanie T. Hoppe|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17461|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Schrödinger's Cathouse {
+	AE=|Kij Johnson|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17462|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+"Forever," Said the Duck {
+	AE=|Jonathan Lethem|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17464|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|99|
+}
+Songs of Chaos {
+	AE=|S. N. Lewitt|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17465|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Evolution Annie and Other Stories {
+	AE=|Rosaleen Love|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17467|
+	TA=|Gender-bending SF|
+	TP=|c|
+	LV=|99|
+}
+The Year the Horses Came {
+	AE=|Mary Mackey|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17468|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+An Eye for Dark Places {
+	AE=|Norma Marden|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17469|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Deerskin {
+	AE=|Robin McKinley|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17472|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Best Lives of Our Years {
+	AE=|A. R. Morlan|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17474|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|99|
+}
+Liberator {
+	AE=|Linda Nagata|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17475|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|99|
+}
+Burning Bright {
+	AE=|Melissa Scott|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17477|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+A Defense of the Social Contracts {
+	AE=|Martha Soukup|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17478|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|99|
+}
+The Story So Far {
+	AE=|Martha Soukup|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17479|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|99|
+}
+A Plague of Angels {
+	AE=|Sheri S. Tepper|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17480|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Virtual Girl {
+	AE=|Amy Thomson|
+	AS=|Tiptree|
+	YR=|1993|
+	TG=|17481|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Matter of Seggri {
+	AE=|Ursula K. Le Guin|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|7178|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|1|
+}
+Larque on the Wing {
+	AE=|Nancy Springer|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|11270|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|1|
+}
+The Lovers {
+	AE=|Eleanor Arnason|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|501|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|9|
+}
+The Furies {
+	AE=|Suzy McKee Charnas|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|2603|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Cannon's Orb {
+	AE=|L. Warren Douglas|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|3723|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Cocoon {
+	AE=|Greg Egan|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|4005|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|9|
+}
+Amazon Story Bones {
+	AE=|Ellen Frye|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|4797|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+North Wind {
+	AE=|Gwyneth Jones|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|6237|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Eat Reecebread {
+	AE=|Graham Joyce+Peter F. Hamilton|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|6309|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|9|
+}
+A Fisherman of the Inland Sea {
+	AE=|Ursula K. Le Guin|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|7148|
+	TA=|Gender-bending SF|
+	TP=|c|
+	LV=|9|
+}
+Forgiveness Day {
+	AE=|Ursula K. Le Guin|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|7155|
+	TA=|Gender-bending SF|
+	TP=|nv|
+	LV=|9|
+}
+Temporary Agency {
+	AE=|Rachel Pollack|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|9285|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Unconquered Countries {
+	AE=|Geoff Ryman|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|10143|
+	TA=|Gender-bending SF|
+	TP=|c|
+	LV=|9|
+}
+Trouble and Her Friends {
+	AE=|Melissa Scott|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|10463|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Young Woman in a Garden {
+	AE=|Delia Sherman|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|10682|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|9|
+}
+Genetic Soldier {
+	AE=|George Turner|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|12086|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17483|
+	TA=|Gender-bending SF|
+	TP=|x|
+	LV=|90|
+}
+Metamorphosis {
+	AE=|Milbre Burch|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17495|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Paris in June {
+	AE=|Pat Cadigan|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17496|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|99|
+}
+Stardust Bound {
+	AE=|Karen Cadora|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17497|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Sundowner {
+	AE=|Chris Claremont|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17500|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Warrior's Tale {
+	AE=|Allan Cole+Chris Bunch|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17502|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Bicyclefish Island {
+	AE=|Daniel P. Dern|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17504|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+The Wind-Witch {
+	AE=|Susan Dexter|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17505|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Somnus' Fair Maid {
+	AE=|Ann Downer|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17506|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Earthsong {
+	AE=|Suzette Haden Elgin|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17508|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Rites of Spring {
+	AE=|Lisa Goldstein|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17510|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+One Last Zoom at the Buzz Bar {
+	AE=|Alison Goodman|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17511|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Stranger at the Wedding {
+	AE=|Barbara Hambly|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17513|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Valley of the Humans {
+	AE=|Phillip C. Jennings|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17518|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Big Guy {
+	AE=|James Patrick Kelly|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17520|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|99|
+}
+Wildlife {
+	AE=|James Patrick Kelly|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17521|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Margin of Error {
+	AE=|Nancy Kress|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17522|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|99|
+}
+The Orchid Eater {
+	AE=|Marc Laidlaw|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17523|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Summer of Love {
+	AE=|Lisa Mason|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17527|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Legitimate Targets {
+	AE=|Ian McDonald|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17528|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Nautilus {
+	AE=|Vonda N. McIntyre|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17529|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Amazons {
+	AE=|Severna Park|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17532|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Rat {
+	AE=|Mary Rosenblum|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17535|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|99|
+}
+Heartstone and Saber {
+	AE=|Jacqui Singleton|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17539|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Metal Angel {
+	AE=|Nancy Springer|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17543|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+A College of Magics {
+	AE=|Caroline Stevermer|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17546|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Shadow's End {
+	AE=|Sheri S. Tepper|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17554|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Uncharted Territory {
+	AE=|Connie Willis|
+	AS=|Tiptree|
+	YR=|1994|
+	TG=|17558|
+	TA=|Gender-bending SF|
+	TP=|nv|
+	LV=|99|
+}
+Waking the Moon {
+	AE=|Elizabeth Hand|
+	AS=|Tiptree|
+	YR=|1995|
+	TG=|5596|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|1|
+}
+The Memoirs of Elizabeth Frankenstein {
+	AE=|Theodore Roszak|
+	AS=|Tiptree|
+	YR=|1995|
+	TG=|9945|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|1|
+}
+And Salome Danced {
+	AE=|Kelley Eskridge|
+	AS=|Tiptree|
+	YR=|1995|
+	TG=|4274|
+	TA=|Gender-bending SF|
+	TP=|nv|
+	LV=|9|
+}
+Little Sisters of the Apocalypse {
+	AE=|Kit Reed|
+	AS=|Tiptree|
+	YR=|1995|
+	TG=|9564|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Food Man {
+	AE=|Lisa Tuttle|
+	AS=|Tiptree|
+	YR=|1995|
+	TG=|12137|
+	TA=|Gender-bending SF|
+	TP=|c|
+	LV=|9|
+}
+The Armless Maiden and Other Tales for Childhood's Survivors {
+	AE=|Terri Windling|
+	AS=|Tiptree|
+	YR=|1995|
+	TG=|13526|
+	TA=|Gender-bending SF|
+	TP=|a|
+	LV=|9|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|Tiptree|
+	YR=|1995|
+	TG=|17484|
+	TA=|Gender-bending SF|
+	TP=|x|
+	LV=|90|
+}
+The Pumpkin Eater {
+	AE=|Isobelle Carmody|
+	AS=|Tiptree|
+	YR=|1995|
+	TG=|17499|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Lines Upon the Skin {
+	AE=|Julie Haydon|
+	AS=|Tiptree|
+	YR=|1995|
+	TG=|17515|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Women of Wonder: The Classic Years {
+	AE=|Pamela Sargent|
+	AS=|Tiptree|
+	YR=|1995|
+	TG=|17536|
+	TA=|Gender-bending SF|
+	TP=|a|
+	LV=|99|
+}
+Shadow Man {
+	AE=|Melissa Scott|
+	AS=|Tiptree|
+	YR=|1995|
+	TG=|17537|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Other Nature {
+	AE=|Stephanie A. Smith|
+	AS=|Tiptree|
+	YR=|1995|
+	TG=|17540|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Mountain Ways {
+	AE=|Ursula K. Le Guin|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|7179|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|1|
+}
+The Sparrow {
+	AE=|Mary Doria Russell|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|10095|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|1|
+}
+The Silent Woman {
+	AE=|Fred Chappell|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|2585|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|9|
+}
+Beauty and the Opéra or The Phantom Beast {
+	AE=|Suzy McKee Charnas|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|2595|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|9|
+}
+Welcome, Kid, to the Real World {
+	AE=|L. Timmel Duchamp|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|3858|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|9|
+}
+A History Maker {
+	AE=|Alasdair Gray|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|5342|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Five Fucks {
+	AE=|Jonathan Lethem|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|7425|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|9|
+}
+Nadya {
+	AE=|Pat Murphy|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|8644|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Godmother Night {
+	AE=|Rachel Pollack|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|9280|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+The Pillow Friend {
+	AE=|Lisa Tuttle|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|12146|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+And She Was the Word {
+	AE=|Tess Williams|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|13288|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|9|
+}
+Leaning Towards Infinity {
+	AE=|Sue Woolfe|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|13726|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17485|
+	TA=|Gender-bending SF|
+	TP=|x|
+	LV=|90|
+}
+Pussy, King of the Pirates {
+	AE=|Kathy Acker|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17487|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Memory Palace {
+	AE=|Gill Alderman|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17488|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Jigsaw Woman {
+	AE=|Kim Antieau|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17489|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Y Chromosome {
+	AE=|Donald Antrim|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17490|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Alias Grace {
+	AE=|Margaret Atwood|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17491|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Excession {
+	AE=|Iain M. Banks|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17492|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Blue {
+	AE=|Francesca Lia Block|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17493|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Girl Goddess #9 {
+	AE=|Francesca Lia Block|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17494|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Dead Things {
+	AE=|Richard Calder|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17498|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Lucifer of Blue {
+	AE=|Sherry Coldsmith|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17501|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Splendor and the Misery of Bodies, of Cities {
+	AE=|Samuel R. Delany|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17563|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Lunatics {
+	AE=|Bradley Denton|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17503|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Distress {
+	AE=|Greg Egan|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17507|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Tiresias {
+	AE=|Firecat|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17509|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+The Bones of Time {
+	AE=|Kathleen Ann Goonan|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17512|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Lunatic Cafe {
+	AE=|Laurell K. Hamilton|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17514|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Into the Forest {
+	AE=|Jean Hegland|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17516|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+No Quarter {
+	AE=|Tanya Huff|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17517|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Red Sonja and Lessingham in Dreamland {
+	AE=|Gwyneth Jones|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17519|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|99|
+}
+Manchu Palaces {
+	AE=|Jeanne Larsen|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17524|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Reason for Not Going to the Ball {
+	AE=|Tanith Lee|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17525|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|99|
+}
+Sleepy People {
+	AE=|Jonathan Lethem|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17526|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Remnant Population {
+	AE=|Elizabeth Moon|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17530|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Foragers {
+	AE=|Charles Oberndorf|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17531|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Serial Killer Days {
+	AE=|David Prill|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17533|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Blue Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17534|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+A Boy's Night Out {
+	AE=|Liri Selke|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17538|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Fetish {
+	AE=|Martha Soukup|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17541|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Fair Peril {
+	AE=|Nancy Springer|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17542|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Bicycle Repairman {
+	AE=|Bruce Sterling|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17544|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|99|
+}
+Holy Fire {
+	AE=|Bruce Sterling|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17545|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Clouds End {
+	AE=|Sean Stewart|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17547|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Nearly Roadkill {
+	AE=|Caitlin Sullivan+Kate Bornstein|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17548|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Scarlet Rider {
+	AE=|Lucy Sussex|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17549|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Dead {
+	AE=|Michael Swanwick|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17550|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|99|
+}
+The Tale of One Bad Rat {
+	AE=|Bryan Talbot|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17551|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Desmodus {
+	AE=|Melanie Tem|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17552|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Gibbon's Decline and Fall {
+	AE=|Sheri S. Tepper|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17553|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Hermaphrodite {
+	AE=|Edmund White|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17555|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+The Stupefaction {
+	AE=|Diane Williams|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17556|
+	TA=|Gender-bending SF|
+	TP=|nv|
+	LV=|99|
+}
+Map of Power {
+	AE=|Tess Williams|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17557|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Natural Permanent Boy {
+	AE=|Laurel Winter|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17559|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Looking for the Mahdi {
+	AE=|N. Lee Wood|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17560|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Utensile Strength {
+	AE=|Patricia C. Wrede|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17561|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+The Frequency of Souls {
+	AE=|Mary Kay Zuravleff|
+	AS=|Tiptree|
+	YR=|1996|
+	TG=|17562|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Black Wine {
+	AE=|Candas Jane Dorsey|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17454|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|1|
+}
+Travels With the Snow Queen {
+	AE=|Kelly Link|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17466|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|1|
+}
+The Oracle Lips {
+	AE=|Storm Constantine|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17451|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+Alice, Alfie, Ted and the Aliens {
+	AE=|Paul Di Filippo|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17452|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+Kissing the Witch: Old Tales in New Skins {
+	AE=|Emma Donoghue|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17453|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+The Apprenticeship of Isabetta di Pietro Cavazzi {
+	AE=|L. Timmel Duchamp|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17455|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+The Dazzle of Day {
+	AE=|Molly Gloss|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17457|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Signs of Life {
+	AE=|M. John Harrison|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17460|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Balinese Dancer {
+	AE=|Gwyneth Jones|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17463|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|9|
+}
+Sacrifice of Fools {
+	AE=|Ian McDonald|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17470|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+The Moon and the Sun {
+	AE=|Vonda N. McIntyre|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17471|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Cereus Blooms at Night {
+	AE=|Shani Mootoo|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17473|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+The Firebird's Nest {
+	AE=|Salman Rushdie|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17476|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+Waking Beauty {
+	AE=|Paul Witcover|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17482|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|Tiptree|
+	YR=|1997|
+	TG=|17486|
+	TA=|Gender-bending SF|
+	TP=|x|
+	LV=|90|
+}
+Congenital Agenesis of Gender Ideation by K. N. Sirsi and Sandra Botkin {
+	AE=|Raphael Carter|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19502|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|1|
+}
+The Gauze Banner {
+	AE=|Eleanor Arnason|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19082|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+Parable of the Talents {
+	AE=|Octavia E. Butler|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19086|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Story of Your Life {
+	AE=|Ted Chiang|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19091|
+	TA=|Gender-bending SF|
+	TP=|nv|
+	LV=|9|
+}
+Singling Out the Couples {
+	AE=|Stella Duffy|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19100|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Black Glass {
+	AE=|Karen Joy Fowler|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19105|
+	TA=|Gender-bending SF|
+	TP=|c|
+	LV=|9|
+}
+The Ice People {
+	AE=|Maggie Gee|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19108|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Halfway Human {
+	AE=|Carolyn Ives Gilman|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19452|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Flesh and Gold {
+	AE=|Phyllis Gotlieb|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19453|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Brown Girl in the Ring {
+	AE=|Nalo Hopkinson|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19455|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+La Cenerentola {
+	AE=|Gwyneth Jones|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19458|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|9|
+}
+Pinkland {
+	AE=|Graham Joyce|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19459|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+Lovestory {
+	AE=|James Patrick Kelly|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19460|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|9|
+}
+Unchosen Love {
+	AE=|Ursula K. Le Guin|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19466|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|9|
+}
+Dragon's Winter {
+	AE=|Elizabeth A. Lynn|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19471|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Mission Child {
+	AE=|Maureen F. McHugh|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19473|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+The Hetairai Turncoat {
+	AE=|Karl-Rene Moore|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19475|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+Accelerated Grimace {
+	AE=|Rebecca Ore|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19478|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+Ghost Country {
+	AE=|Sara Paretsky|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19479|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Hand of Prophecy {
+	AE=|Severna Park|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19481|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Bride of Bigfoot {
+	AE=|Kit Reed|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19482|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+Weird Women, Wired Women {
+	AE=|Kit Reed|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19483|
+	TA=|Gender-bending SF|
+	TP=|c|
+	LV=|9|
+}
+Whiptail {
+	AE=|Robert Reed|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19484|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|9|
+}
+The Eye of God {
+	AE=|Mary Rosenblum|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19486|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|9|
+}
+The Children Star {
+	AE=|Joan Slonczewski|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19489|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+The House of Expectations {
+	AE=|Martha Soukup|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19490|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|9|
+}
+Mockingbird {
+	AE=|Sean Stewart|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19491|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Playing God {
+	AE=|Sarah Zettel|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19089|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19077|
+	TA=|Gender-bending SF|
+	TP=|x|
+	LV=|90|
+}
+Datableed {
+	AE=|Pat Cadigan|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19087|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+House of Sleep {
+	AE=|Jonathan Coe|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19092|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Quintessence: Realizing the Archaic Future {
+	AE=|Mary Daly|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19093|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Pig Tales: A Novel of Lust and Transformation {
+	AE=|Marie Darrieusecq|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19094|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Sirens and Other Daemon Lovers {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19096|
+	TA=|Gender-bending SF|
+	TP=|a|
+	LV=|99|
+}
+Transit {
+	AE=|Stephen Dedman|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19097|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|99|
+}
+The Plague Saint {
+	AE=|Rita Donovan|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19098|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Oceanic {
+	AE=|Greg Egan|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19102|
+	TA=|Gender-bending SF|
+	TP=|nv|
+	LV=|99|
+}
+The Eye of the Storm {
+	AE=|Kelley Eskridge|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19104|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+In the Realm of Dragons {
+	AE=|Esther M. Friesner|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19106|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Commitment Hour {
+	AE=|James Alan Gardner|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19107|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Time Gypsy {
+	AE=|Ellen Klages|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19461|
+	TA=|Gender-bending SF|
+	TP=|nt|
+	LV=|99|
+}
+Snow {
+	AE=|Geoffrey A. Landis|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19464|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|99|
+}
+Dark Waters Embrace {
+	AE=|Stephen Leigh|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19467|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Killing Darcy {
+	AE=|Melissa Lucashenko|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19470|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Children of God {
+	AE=|Mary Doria Russell|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19487|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Drag Queen of Elfland {
+	AE=|Lawrence Schimel|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19488|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Six Moon Dance {
+	AE=|Sheri S. Tepper|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19493|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Nameless Magery {
+	AE=|Delia Marshall Turner|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19495|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Body Politic {
+	AE=|Tess Williams|
+	AS=|Tiptree|
+	YR=|1998|
+	TG=|19496|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+The Conqueror's Child {
+	AE=|Suzy McKee Charnas|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19907|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|1|
+}
+If I Told You Once {
+	AE=|Judy Budnitz|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19084|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+In the Second Person {
+	AE=|Sally Caves|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19090|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+The Woman with the Flying Head: And Other Stories {
+	AE=|Yumiko Kurahashi|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19463|
+	TA=|Gender-bending SF|
+	TP=|a|
+	LV=|9|
+}
+5001 Nights {
+	AE=|Penelope Lively|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19469|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+The Iron Bridge {
+	AE=|David Morse|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19477|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Sexual Dimorphism {
+	AE=|Kim Stanley Robinson|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19485|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|9|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19078|
+	TA=|Gender-bending SF|
+	TP=|x|
+	LV=|90|
+}
+The Actors {
+	AE=|Eleanor Arnason|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19080|
+	TA=|Gender-bending SF|
+	TP=|nv|
+	LV=|99|
+}
+Dapple: A Hwarhath Historical Romance {
+	AE=|Eleanor Arnason|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19081|
+	TA=|Gender-bending SF|
+	TP=|nv|
+	LV=|99|
+}
+A Civil Campaign {
+	AE=|Lois McMaster Bujold|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19085|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Silver Birch, Blood Moon {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19095|
+	TA=|Gender-bending SF|
+	TP=|a|
+	LV=|99|
+}
+Remailer {
+	AE=|Debra Doyle+James D. Macdonald|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19099|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|99|
+}
+Teranesia {
+	AE=|Greg Egan|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19103|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Vintner's Luck {
+	AE=|Elizabeth Knox|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19462|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Dragonfly {
+	AE=|Ursula K. Le Guin|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19465|
+	TA=|Gender-bending SF|
+	TP=|nv|
+	LV=|99|
+}
+Speaking Stones {
+	AE=|Stephen Leigh|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19468|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Terrorists of Irustan {
+	AE=|Louise Marley|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19472|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+The Fathergod Experiment {
+	AE=|L. A. Taylor|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19492|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Singer from the Sea {
+	AE=|Sheri S. Tepper|
+	AS=|Tiptree|
+	YR=|1999|
+	TG=|19494|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|99|
+}
+Wild Life {
+	AE=|Molly Gloss|
+	AS=|Tiptree|
+	YR=|2000|
+	TG=|20691|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|1|
+}
+Fidelity: A Primer {
+	AE=|Michael Blumlein|
+	AS=|Tiptree|
+	YR=|2000|
+	TG=|19083|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+A Diagram of Rapture {
+	AE=|James L. Cambias|
+	AS=|Tiptree|
+	YR=|2000|
+	TG=|19088|
+	TA=|Gender-bending SF|
+	TP=|ss|
+	LV=|9|
+}
+The Danish Girl {
+	AE=|David Ebershoff|
+	AS=|Tiptree|
+	YR=|2000|
+	TG=|19101|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+A Secret History: The Book of Ash 1 {
+	AE=|Mary Gentle|
+	AS=|Tiptree|
+	YR=|2000|
+	TG=|19451|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Soma {
+	AE=|Camille Hernandez-Ramdwar|
+	AS=|Tiptree|
+	YR=|2000|
+	TG=|19454|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+The Glass Bottle Trick {
+	AE=|Nalo Hopkinson|
+	AS=|Tiptree|
+	YR=|2000|
+	TG=|19456|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+Midnight Robber {
+	AE=|Nalo Hopkinson|
+	AS=|Tiptree|
+	YR=|2000|
+	TG=|19457|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Perdido Street Station {
+	AE=|China Miéville|
+	AS=|Tiptree|
+	YR=|2000|
+	TG=|19474|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Once on the Shores of the Stream Senegambia {
+	AE=|Pamela Mordecai|
+	AS=|Tiptree|
+	YR=|2000|
+	TG=|19476|
+	TA=|Gender-bending SF|
+	TP=|sf|
+	LV=|9|
+}
+The Annunciate {
+	AE=|Severna Park|
+	AS=|Tiptree|
+	YR=|2000|
+	TG=|19480|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Sea As Mirror {
+	AE=|Tess Williams|
+	AS=|Tiptree|
+	YR=|2000|
+	TG=|19497|
+	TA=|Gender-bending SF|
+	TP=|n|
+	LV=|9|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|Tiptree|
+	YR=|2000|
+	TG=|19079|
+	TA=|Gender-bending SF|
+	TP=|x|
+	LV=|90|
+}
+The Handmaid's Tale {
+	AE=|Margaret Atwood|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|677|
+	TA=|Classics|
+	TP=|n|
+	LV=|1|
+}
+The Wasp Factory {
+	AE=|Iain M. Banks^Iain Banks|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|777|
+	TA=|Classics|
+	TP=|n|
+	LV=|1|
+}
+Swastika Night {
+	AE=|Katharine Burdekin|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|1978|
+	TA=|Classics|
+	TP=|n|
+	LV=|1|
+}
+Wild Seed {
+	AE=|Octavia E. Butler|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|2066|
+	TA=|Classics|
+	TP=|n|
+	LV=|1|
+}
+Babel-17 {
+	AE=|Samuel R. Delany|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|3431|
+	TA=|Classics|
+	TP=|n|
+	LV=|1|
+}
+Triton {
+	AE=|Samuel R. Delany|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|3467|
+	TA=|Classics|
+	TP=|n|
+	LV=|1|
+}
+When I Was Miss Dow {
+	AE=|Sonya Dorman|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|3718|
+	TA=|Classics|
+	TP=|ss|
+	LV=|1|
+}
+Carmen Dog {
+	AE=|Carol Emshwiller|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|4242|
+	TA=|Classics|
+	TP=|n|
+	LV=|1|
+}
+Watchtower {
+	AE=|Elizabeth A. Lynn|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|7654|
+	TA=|Classics|
+	TP=|n|
+	LV=|1|
+}
+Dreamsnake {
+	AE=|Vonda N. McIntyre|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|8225|
+	TA=|Classics|
+	TP=|n|
+	LV=|1|
+}
+Memoirs of a Spacewoman {
+	AE=|Naomi Mitchison|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|8419|
+	TA=|Classics|
+	TP=|n|
+	LV=|1|
+}
+Woman on the Edge of Time {
+	AE=|Marge Piercy|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|9153|
+	TA=|Classics|
+	TP=|n|
+	LV=|1|
+}
+The Two of Them {
+	AE=|Joanna Russ|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|10085|
+	TA=|Classics|
+	TP=|n|
+	LV=|1|
+}
+More Women of Wonder {
+	AE=|Pamela Sargent|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|10223|
+	TA=|Classics|
+	TP=|a|
+	LV=|1|
+}
+The New Women of Wonder {
+	AE=|Pamela Sargent|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|10225|
+	TA=|Classics|
+	TP=|a|
+	LV=|1|
+}
+Women of Wonder {
+	AE=|Pamela Sargent|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|10231|
+	TA=|Classics|
+	TP=|a|
+	LV=|1|
+}
+The Barbie Murders {
+	AE=|John Varley|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|12627|
+	TA=|Classics|
+	TP=|nt|
+	LV=|1|
+}
+The Clewiston Test {
+	AE=|Kate Wilhelm|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|13207|
+	TA=|Classics|
+	TP=|n|
+	LV=|1|
+}
+Les Guerillers {
+	AE=|Monique Wittig|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|13553|
+	TA=|Classics|
+	TP=|n|
+	LV=|1|
+}
+Busy About the Tree of Life^The Heat Death of the Universe and Other Stories {
+	AE=|Pamela Zoline|
+	AS=|TiptreeC|
+	YR=|1995|
+	TG=|13952|
+	TA=|Classics|
+	TP=|c|
+	LV=|1|
+}
+Motherlines {
+	AE=|Suzy McKee Charnas|
+	AS=|TiptreeR|
+	YR=|1995|
+	TG=|2606|
+	TA=|Retroactive|
+	TP=|n|
+	LV=|1|
+}
+Walk to the End of the World {
+	AE=|Suzy McKee Charnas|
+	AS=|TiptreeR|
+	YR=|1995|
+	TG=|2615|
+	TA=|Retroactive|
+	TP=|n|
+	LV=|1|
+}
+The Left Hand of Darkness {
+	AE=|Ursula K. Le Guin|
+	AS=|TiptreeR|
+	YR=|1995|
+	TG=|7168|
+	TA=|Retroactive|
+	TP=|n|
+	LV=|1|
+}
+The Female Man {
+	AE=|Joanna Russ|
+	AS=|TiptreeR|
+	YR=|1995|
+	TG=|10072|
+	TA=|Retroactive|
+	TP=|n|
+	LV=|1|
+}
+When It Changed {
+	AE=|Joanna Russ|
+	AS=|TiptreeR|
+	YR=|1995|
+	TG=|10088|
+	TA=|Retroactive|
+	TP=|ss|
+	LV=|1|
+}
+untitled {
+	AE=|Angela Carter|
+	AS=|TiptreeX|
+	YR=|1996|
+	TG=|15153|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}

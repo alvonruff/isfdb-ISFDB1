@@ -1,0 +1,198 @@
+/*
+ *     (C) COPYRIGHT 1995-2000   Al von Ruff
+ *         ALL RIGHTS RESERVED
+ *
+ *     The copyright notice above does not evidence any actual or
+ *     intended publication of such source code.
+ *
+ */
+
+static char sccsid[] = "@(#)ccpubs.c	1.15	06/05/97 SFdbase";
+
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#ifdef SUNOS
+#include <sys/unistd.h>
+#else
+#include <unistd.h>
+#endif
+#include "sfdbase.h"
+
+extern int do_attribute(char *targetattr, attr_t *list, int options);
+
+search_t        *title_list  = NULL;
+extern object_t	*Objlist;
+FILE            *notes_fp    = NULL;
+FILE            *titles_fp   = NULL;
+int             notes_offset = 0;
+
+
+void
+search_file(char *filename)
+{
+	object_t	*tmp;
+	attr_t		*attr;
+	extern		int line_number;
+
+	line_number = 1;
+	parse_pubs(filename);
+
+	tmp = Objlist;
+	while(tmp) {
+		if (do_attribute("AB", tmp->ob_attrs, NOOPTIONS)) {
+			fprintf(stderr, "*** %s: [%s] has no AB field\n", filename, tmp->ob_name);
+			exit(1);
+		}
+		printf("%s|", tmp->ob_name);
+		do_attribute("AE", tmp->ob_attrs, NOOPTIONS);
+		if ( do_attribute("YR", tmp->ob_attrs, NOOPTIONS) ) {
+			attr = tmp->ob_attrs;
+			while(attr) {
+				if (strncmp(attr->at_name, "AB", 2) == 0) {
+					fprintf(stderr, "*** Publication %s: ", attr->at_value);
+					break;
+				}
+				attr = attr->at_next;
+			}
+			fprintf(stderr, "Missing year\n");
+			exit(1);
+		}
+		do_attribute("PB", tmp->ob_attrs, NOOPTIONS);
+		do_attribute("PP", tmp->ob_attrs, NOOPTIONS);
+		do_attribute("TP", tmp->ob_attrs, NOOPTIONS);
+		do_attribute("IS", tmp->ob_attrs, NOOPTIONS);
+		do_attribute("CV", tmp->ob_attrs, NOOPTIONS);
+		do_attribute("CT", tmp->ob_attrs, NOOPTIONS);
+		do_attribute("PR", tmp->ob_attrs, NOOPTIONS);
+		do_attribute("NT", tmp->ob_attrs, DO_NOTES);
+		printf("\n");
+		tmp = tmp->ob_next;
+	}
+
+	Objlist = NULL;
+}
+
+
+int
+cover_art(attr_t *list)
+{
+	attr_t		*attr;
+
+	attr = list;
+	while (attr) {
+		if (strncmp(attr->at_name, "CV", 2) == 0) {
+			return(1);
+		}
+		attr = attr->at_next;
+	}
+	return(0);
+}
+
+int
+backcover_art(attr_t *list)
+{
+	attr_t		*attr;
+
+	attr = list;
+	while (attr) {
+		if (strncmp(attr->at_name, "BC", 2) == 0) {
+			return(1);
+		}
+		attr = attr->at_next;
+	}
+	return(0);
+}
+
+void
+print_attribute(char *targetattr, attr_t *list)
+{
+	attr_t		*attr;
+
+	attr = list;
+	while (attr) {
+		if (strncmp(attr->at_name, targetattr, 2) == 0) {
+			if (strcmp("AB", targetattr) == 0) {
+				printf("\tPB=|%s|\n", attr->at_value);
+			} else if (strcmp("FT", targetattr) == 0) {
+				printf("\tTG=|%s|\n", attr->at_value);
+			} else if (strcmp("BT", targetattr) == 0) {
+				printf("\tTG=|%s|\n", attr->at_value);
+			} else if ((strcmp("CV", targetattr) == 0) || (strcmp("BC", targetattr) == 0)){
+				char *forptr;
+
+				forptr = (char *)strstr(attr->at_value, "for");
+				if (forptr) {
+					forptr--;
+					*forptr = 0;
+				}
+				printf("\tAE=|%s|\n", attr->at_value);
+			} else {
+				printf("\t%s=|%s|\n", targetattr, attr->at_value);
+			}
+			return;
+		}
+		attr = attr->at_next;
+	}
+}
+
+void
+gen_artists(char *filename)
+{
+	object_t	*tmp;
+	attr_t		*attr;
+	extern		int line_number;
+
+	line_number = 1;
+	parse_pubs(filename);
+
+	tmp = Objlist;
+	while(tmp) {
+		if (cover_art(tmp->ob_attrs) ) {
+			printf("Cover; %s {\n", tmp->ob_name);
+			print_attribute("CV", tmp->ob_attrs);
+			print_attribute("YR", tmp->ob_attrs);
+			print_attribute("AB", tmp->ob_attrs);
+			print_attribute("FT", tmp->ob_attrs);
+			printf("}\n");
+		}
+		if (backcover_art(tmp->ob_attrs) ) {
+			printf("Back Cover; %s {\n", tmp->ob_name);
+			print_attribute("BC", tmp->ob_attrs);
+			print_attribute("YR", tmp->ob_attrs);
+			print_attribute("AB", tmp->ob_attrs);
+			print_attribute("BT", tmp->ob_attrs);
+			printf("}\n");
+		}
+		tmp = tmp->ob_next;
+	}
+
+	Objlist = NULL;
+}
+
+
+int
+main(argc, argv)
+	int	argc;
+	char	*argv[];
+{
+	int		option;
+	int		index;
+	int		result;
+	search_t	*tmp;
+	char		path[256];
+	struct stat     statbuf;
+	FILE		*fp;
+
+	strcpy(path, BASE);
+	strcat(path, "/dbase.ascii");
+	result = chdir(path);
+        if (result != 0) {
+                printf("CHDIR to %s failed\n", path);
+                exit(1);
+        }
+	search_file("forthcoming");
+	exit(0);
+}

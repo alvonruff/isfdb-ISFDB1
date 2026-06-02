@@ -1,0 +1,700 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)IMAGINAIRE	1.4	06/18/98 ISFDB";
+##
+le Temps du twist {
+	AE=|Joël Houssin|
+	AS=|IMARF|
+	YR=|1992|
+	TG=|15125|
+	TA=|Grand Prix domaine français|
+	TP=|n|
+	LV=|1|
+}
+Demain, une oasis {
+	AE=|Ayerdhal|
+	AS=|IMARF|
+	YR=|1993|
+	TG=|15108|
+	TA=|Roman français|
+	TP=|n|
+	LV=|1|
+}
+les Guerriers du silence {
+	AE=|Pierre Bordage|
+	AS=|IMARF|
+	YR=|1994|
+	TG=|15112|
+	TA=|Roman français|
+	TP=|n|
+	LV=|1|
+}
+Arago {
+	AE=|Laurent Genefort|
+	AS=|IMARF|
+	YR=|1995|
+	TG=|15121|
+	TA=|Roman français|
+	TP=|n|
+	LV=|1|
+}
+Les racines du mal {
+	AE=|Maurice Dantec|
+	AS=|IMARF|
+	YR=|1996|
+	TG=|15150|
+	TA=|Roman (ou recueil) français|
+	TP=|n|
+	LV=|1|
+}
+J'ai lu^Inner City {
+	AE=|Jean-Marc Ligny|
+	AS=|IMARF|
+	YR=|1997|
+	TG=|15132|
+	TA=|Roman français|
+	TP=|n|
+	LV=|1|
+}
+Le Futurs Mysteres de Paris {
+	AE=|Roland C. Wagner|
+	AS=|IMARF|
+	YR=|1998|
+	TG=|18941|
+	TA=|Roman (ou recueil) français|
+	TP=|s|
+	LV=|1|
+}
+Le Successeur De Pierre {
+	AE=|Jean-Michel Truong|
+	AS=|IMARF|
+	YR=|1999|
+	TG=|22525|
+	TA=|Roman français|
+	TP=|n|
+	LV=|1|
+}
+Bouvard, Pecuchet Et Les Savants Fous^Bouvard, Pecuchet and the Mad Scienctists {
+	AE=|Rene Reouven|
+	AS=|IMARF|
+	YR=|2000|
+	TG=|22484|
+	TA=|Roman français|
+	TP=|n|
+	LV=|1|
+}
+l'Heure du loup^The Wolf's Hour {
+	AE=|Robert R. McCammon|
+	AS=|IMARE|
+	YR=|1992|
+	TG=|15135|
+	TA=|Grand Prix domaine étranger|
+	TP=|n|
+	LV=|1|
+}
+la Danse du scalpel^Dark Matter {
+	AE=|Garfield Reeves-Stevens|
+	AS=|IMARE|
+	YR=|1993|
+	TG=|15142|
+	TA=|Roman étranger|
+	TP=|n|
+	LV=|1|
+}
+le Voyage de Simon Morley^Time and Again {
+	AE=|Jack Finney|
+	AS=|IMARE|
+	YR=|1994|
+	TG=|15120|
+	TA=|Roman étranger|
+	TP=|n|
+	LV=|1|
+}
+la Voie terrestre^Down the Bright Way {
+	AE=|Robert Reed|
+	AS=|IMARE|
+	YR=|1995|
+	TG=|15141|
+	TA=|Roman étranger|
+	TP=|n|
+	LV=|1|
+}
+En remorquant Jehovah^Towing Jehovah {
+	AE=|James Morrow|
+	AS=|IMARE|
+	YR=|1996|
+	TG=|15137|
+	TA=|Roman (ou recueil) étranger|
+	TP=|n|
+	LV=|1|
+}
+Le Samouraï Virtuel^Snow Crash {
+	AE=|Neal Stephenson|
+	AS=|IMARE|
+	YR=|1997|
+	TG=|15145|
+	TA=|Roman étranger|
+	TP=|n|
+	LV=|1|
+}
+Nicholas Eymerich {
+	AE=|Valerio Evangelisti|
+	AS=|IMARE|
+	YR=|1998|
+	TG=|18937|
+	TA=|Roman (ou recueil) étranger|
+	TP=|ob|
+	LV=|1|
+}
+The Chronicles of Alvin Maker {
+	AE=|Orson Scott Card|
+	AS=|IMARE|
+	YR=|1999|
+	TG=|22377|
+	TA=|Roman étranger|
+	TP=|n|
+	LV=|1|
+}
+Des Milliards De Tapis De Cheveux^Billions of Hair Carpets {
+	AE=|Andreas Eschbach|
+	AS=|IMARE|
+	YR=|2000|
+	TG=|22397|
+	TA=|Roman étranger|
+	TP=|n|
+	LV=|1|
+}
+M'éveiller à nouveau près de toi, mon amour {
+	AE=|Alain Dorémieux|
+	AS=|IMANF|
+	YR=|1992|
+	TG=|15119|
+	TA=|Nouvelle|
+	TP=|sf|
+	LV=|1|
+}
+Accident d'amour {
+	AE=|Wildy Petoud|
+	AS=|IMANF|
+	YR=|1993|
+	TG=|15138|
+	TA=|Nouvelle|
+	TP=|sf|
+	LV=|1|
+}
+Une {
+	AE=|Katherine Quenot|
+	AS=|IMANF|
+	YR=|1994|
+	TG=|15140|
+	TA=|Nouvelle|
+	TP=|sf|
+	LV=|1|
+}
+Dans l'abîme {
+	AE=|Serge Lehman|
+	AS=|IMANF|
+	YR=|1995|
+	TG=|15129|
+	TA=|Nouvelle française|
+	TP=|sf|
+	LV=|1|
+}
+Quiconque {
+	AE=|G. O. Châteaureynaud|
+	AS=|IMANF|
+	YR=|1996|
+	TG=|15115|
+	TA=|Nouvelle française|
+	TP=|sf|
+	LV=|1|
+}
+Dernières Nouvelles de King Kong {
+	AE=|G. O. Châteaureynaud|
+	AS=|IMANF|
+	YR=|1996|
+	TG=|15114|
+	TA=|Nouvelle française|
+	TP=|c|
+	LV=|2|
+}
+Le colliers de Thasus {
+	AE=|Serge Lehman|
+	AS=|IMANF|
+	YR=|1997|
+	TG=|15130|
+	TA=|Nouvelle française|
+	TP=|sf|
+	LV=|1|
+}
+L'Amour au temps du silicium^Love in the Silicium Era {
+	AE=|Jean-Jaques Nguyen|
+	AS=|IMANF|
+	YR=|1998|
+	TG=|18944|
+	TA=|Nouvelle française|
+	TP=|sf|
+	LV=|1|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|IMANF|
+	YR=|1998|
+	TG=|18942|
+	TA=|Nouvelle française|
+	TP=|x|
+	LV=|90|
+}
+Escales sur l'Horizon^Ports of Call on the Horizon {
+	AE=|Serge Lehman|
+	AS=|IMANF|
+	YR=|1998|
+	TG=|18938|
+	TA=|Nouvelle française|
+	TP=|a|
+	LV=|93|
+}
+Naufrage, Mode D'emploi^Shipwrecking, a User's Manual {
+	AE=|Fabrice Colin|
+	AS=|IMANF|
+	YR=|1999|
+	TG=|22383|
+	TA=|Nouvelle française|
+	TP=|sf|
+	LV=|1|
+}
+Monsieur Boum-Boum {
+	AE=|Jeanne Faivre D'arcier|
+	AS=|IMANF|
+	YR=|2000|
+	TG=|22386|
+	TA=|Nouvelle française|
+	TP=|sf|
+	LV=|1|
+}
+l'Une rêve et l'autre pas^Beggars in Spain {
+	AE=|Nancy Kress|
+	AS=|IMANE|
+	YR=|1995|
+	TG=|15127|
+	TA=|Nouvelle étrangère|
+	TP=|nv|
+	LV=|1|
+}
+Le grand amant^The Great Lover {
+	AE=|Dan Simmons|
+	AS=|IMANE|
+	YR=|1996|
+	TG=|15144|
+	TA=|Nouvelle étrangère|
+	TP=|sf|
+	LV=|1|
+}
+Vous voyez et vous n'observez pas^You See and You Do Not Observe {
+	AE=|Robert J. Sawyer|
+	AS=|IMANE|
+	YR=|1997|
+	TG=|15143|
+	TA=|Nouvelle étrangère|
+	TP=|sf|
+	LV=|1|
+}
+Great Work of Time {
+	AE=|John Crowley|
+	AS=|IMANE|
+	YR=|1998|
+	TG=|18936|
+	TA=|Nouvelle étrangère|
+	TP=|nv|
+	LV=|1|
+}
+Uh-Oh City {
+	AE=|Jonathan Carroll|
+	AS=|IMANE|
+	YR=|1999|
+	TG=|22378|
+	TA=|Nouvelle étrangère|
+	TP=|nv|
+	LV=|1|
+}
+meucs^macs {
+	AE=|Terry Bisson|
+	AS=|IMANE|
+	YR=|2000|
+	TG=|22360|
+	TA=|Nouvelle étrangère|
+	TP=|ss|
+	LV=|1|
+}
+la Face des eaux par Robert Silverberg^The Face of the Waters by Robert Silverberg {
+	AE=|Patrick Berthon|
+	AS=|IMAT|
+	YR=|1992|
+	TG=|15111|
+	TA=|Traducteur|
+	TP=|tr|
+	LV=|1|
+}
+les Livres magiques de Xanth par Piers Anthony^The Xanth Series by Piers Anthony {
+	AE=|Dominique Haas|
+	AS=|IMAT|
+	YR=|1993|
+	TG=|15123|
+	TA=|Traduction|
+	TP=|tr|
+	LV=|1|
+}
+l'Homme des jeux par Iain M. Banks^The Player of Games by Iain M. Banks {
+	AE=|Hélène Collon|
+	AS=|IMAT|
+	YR=|1994|
+	TG=|15116|
+	TA=|Traduction|
+	TP=|tr|
+	LV=|1|
+}
+Âmes perdues par Poppy Z. Brite+les Larmes d'Icare par Dan Simmons {
+	AE=|Jean-Daniel Brèque|
+	AS=|IMAT|
+	YR=|1995|
+	TG=|15113|
+	TA=|Traduction|
+	TP=|tr|
+	LV=|1|
+}
+La chute des fils d'Anne McCaffrey {
+	AE=|Simone Hilling|
+	AS=|IMAT|
+	YR=|1996|
+	TG=|15124|
+	TA=|Traducteur|
+	TP=|tr|
+	LV=|1|
+}
+Endymion par Dan Simmons^Endymion by Dan Simmons {
+	AE=|Guy Abadia|
+	AS=|IMAT|
+	YR=|1997|
+	TG=|15105|
+	TA=|Traducteur|
+	TP=|tr|
+	LV=|1|
+}
+From the Teeth of Angels & A Child Across the Sky par Jonathan Carroll {
+	AE=|Nathalie Serval|
+	AS=|IMAT|
+	YR=|1998|
+	TG=|18940|
+	TA=|Traducteur|
+	TP=|tr|
+	LV=|1|
+}
+Forever Peace by Joe Haldeman {
+	AE=|Michel Pagel|
+	AS=|IMAT|
+	YR=|1999|
+	TG=|22468|
+	TA=|Traducteur|
+	TP=|tr|
+	LV=|1|
+}
+The Tooth Fairy by Graham Joyce {
+	AE=|Michel Pagel|
+	AS=|IMAT|
+	YR=|1999|
+	TG=|22469|
+	TA=|Traducteur|
+	TP=|tr|
+	LV=|1|
+}
+Jack Faust by Michael Swanwick {
+	AE=|Jean-Pierre Pugi|
+	AS=|IMAT|
+	YR=|2000|
+	TG=|22479|
+	TA=|Traducteur|
+	TP=|tr|
+	LV=|1|
+}
+le Rêve de Lucy {
+	AE=|Yves Coppens+Pierre Pelot+Tanino Liberatore|
+	AS=|IMAJ|
+	YR=|1992|
+	TG=|15131|
+	TA=|Jeunesse|
+	TP=|n|
+	LV=|1|
+}
+le Fils du concierge de l'Opéra {
+	AE=|François Coupry|
+	AS=|IMAJ|
+	YR=|1993|
+	TG=|15118|
+	TA=|Jeunesse|
+	TP=|n|
+	LV=|1|
+}
+les Chasse-marée {
+	AE=|Alain Grousset|
+	AS=|IMAJ|
+	YR=|1994|
+	TG=|15122|
+	TA=|Jeunesse|
+	TP=|n|
+	LV=|1|
+}
+Le Voleur d'éternité^The Thief of Always {
+	AE=|Clive Barker|
+	AS=|IMAJ|
+	YR=|1995|
+	TG=|15109|
+	TA=|Jeunesse|
+	TP=|n|
+	LV=|1|
+}
+La falaise maudite^Fall into Darkness {
+	AE=|Christopher Pike|
+	AS=|IMAJ|
+	YR=|1996|
+	TG=|15139|
+	TA=|Oeuvre pour la Jeunesse (français ou étrangère)|
+	TP=|n|
+	LV=|1|
+}
+Papa, j'ai remonté le temps! {
+	AE=|Raymond Milési|
+	AS=|IMAJ|
+	YR=|1997|
+	TG=|15136|
+	TA=|Oeuvre pour la Jeunesse (français ou étrangère)|
+	TP=|n|
+	LV=|1|
+}
+Prisonniere du Tableau^Trapped in the Picture! {
+	AE=|Gerard Moncombe|
+	AS=|IMAJ|
+	YR=|1998|
+	TG=|18939|
+	TA=|Oeuvre pour la Jeunesse (français ou étrangère)|
+	TP=|n|
+	LV=|1|
+}
+La Fille Au Chien Noir^The Girl with the Black Dog {
+	AE=|Anne Duguel^Gudule|
+	AS=|IMAJ|
+	YR=|1999|
+	TG=|22416|
+	TA=|Jeunesse|
+	TP=|n|
+	LV=|1|
+}
+La Maison Brisee^The Broken House {
+	AE=|Francis Berthelot|
+	AS=|IMAJ|
+	YR=|2000|
+	TG=|22358|
+	TA=|Jeunesse|
+	TP=|n|
+	LV=|1|
+}
+l'Année 1989 du Polar, de la S.F., du Fantastique et de l'Espionnage {
+	AE=|Jean-Claude Alizet|
+	AS=|IMAE|
+	YR=|1992|
+	TG=|15106|
+	TA=|Essai|
+	TP=|e|
+	LV=|1|
+}
+Mythologie du Fantastique {
+	AE=|Francis Lacassin|
+	AS=|IMAE|
+	YR=|1993|
+	TG=|15128|
+	TA=|Essai|
+	TP=|e|
+	LV=|1|
+}
+le Fantastique {
+	AE=|Joël Malrieu|
+	AS=|IMAE|
+	YR=|1994|
+	TG=|15133|
+	TA=|Essai|
+	TP=|e|
+	LV=|1|
+}
+la Métamorphose généralisée {
+	AE=|Francis Berthelot|
+	AS=|IMAE|
+	YR=|1995|
+	TG=|15110|
+	TA=|Essai|
+	TP=|e|
+	LV=|1|
+}
+Invasions divines {
+	AE=|Lawrence Sutin|
+	AS=|IMAE|
+	YR=|1996|
+	TG=|15147|
+	TA=|Essai (français ou étrangère)|
+	TP=|e|
+	LV=|1|
+}
+Pages noires {
+	AE=|Stephen King|
+	AS=|IMAE|
+	YR=|1997|
+	TG=|15126|
+	TA=|Essai|
+	TP=|e|
+	LV=|1|
+}
+H. G. Wells {
+	AE=|Joseph Altairac|
+	AS=|IMAB|
+	YR=|1998|
+	TG=|18935|
+	TA=|Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+Rumeurs Et Legendes Urbaines^Rumors and Urban Legends {
+	AE=|Jean-Bruno Renard|
+	AS=|IMAB|
+	YR=|1999|
+	TG=|22483|
+	TA=|Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+L'ecriture De L'exces: Fiction Fantastique Et Poetique De La Terreur^Writing in Excess: Fantastic Fiction and the Poetry of Terror {
+	AE=|Denis Mellier|
+	AS=|IMAB|
+	YR=|2000|
+	TG=|22456|
+	TA=|Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+La Litterature Fantastique^The Literature of the Fantastic {
+	AE=|Denis Mellier|
+	AS=|IMAB|
+	YR=|2000|
+	TG=|22457|
+	TA=|Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+Covers ("Bibliotheque Du Fantastique" Line) {
+	AE=|Philippe Jozelon|
+	AS=|IMAG|
+	YR=|1999|
+	TG=|22431|
+	TA=|Graphic Work|
+	TP=|aw|
+	LV=|1|
+}
+Galaxies Magazine {
+	AE=|Unknown-Mags|
+	AS=|IMAG|
+	YR=|1999|
+	TG=|22529|
+	TA=|Graphic Work|
+	TP=|mz|
+	LV=|1|
+}
+untitled {
+	AE=|Manchu|
+	AS=|IMAA|
+	YR=|2000|
+	TG=|22451|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+la Grande anthologie de la Science-Fiction Française {
+	AE=|Gérard Klein+Ellen Herzfeld+Dominique Martel|
+	AS=|IMAX|
+	YR=|1992|
+	TG=|15134|
+	TA=|Prix Spécial|
+	TP=|a|
+	LV=|1|
+}
+pour la qualité et l'originalité de leur production {
+	AE=|Atalante|
+	AS=|IMAX|
+	YR=|1993|
+	TG=|15107|
+	TA=|Prix Spécial|
+	TP=|pc|
+	LV=|1|
+}
+Regards sur Philip K. Dick -- le Kalédickoscope {
+	AE=|Hélène Collon|
+	AS=|IMAX|
+	YR=|1994|
+	TG=|15117|
+	TA=|Prix Spécial|
+	TP=|nf|
+	LV=|1|
+}
+les Nourritures extraterrestres {
+	AE=|Dona Sussan+René Sussan|
+	AS=|IMAX|
+	YR=|1995|
+	TG=|15146|
+	TA=|Prix Spécial|
+	TP=|nf|
+	LV=|1|
+}
+Cyberdreams {
+	AE=|Unknown-Mags|
+	AS=|IMAX|
+	YR=|1996|
+	TG=|15148|
+	TA=|Prix Spécial|
+	TP=|mz|
+	LV=|1|
+}
+Le magazine Mad Movies qui a fêté cette année son numéro 100 {
+	AE=|Unknown-Mags|
+	AS=|IMAX|
+	YR=|1997|
+	TG=|15149|
+	TA=|Prix Spécial|
+	TP=|mz|
+	LV=|1|
+}
+Sous Le Vent Du Mond^Under the Wind of the World {
+	AE=|Pierre Pelot|
+	AS=|IMAX|
+	YR=|2000|
+	TG=|22473|
+	TA=|Prix Spécial|
+	TP=|n|
+	LV=|1|
+}
+For His Work As Editor, Literary Agent, Etc., on Behalf of European Sf, Fantasy & Horror {
+	AE=|Piergiorgio Nicolazzini|
+	AS=|IMAY|
+	YR=|2000|
+	TG=|22465|
+	TA=|Grand Prix Europeen d l'Imaginaire|
+	TP=|hu|
+	LV=|1|
+}

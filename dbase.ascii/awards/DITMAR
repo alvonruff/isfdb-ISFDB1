@@ -1,0 +1,7978 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)DITMAR	1.6	05/05/98 ISFDB";
+##
+False Fatherland^Spartan Planet {
+	AE=|A. Bertram Chandler|
+	AS=|DitN|
+	YR=|1969|
+	TG=|2560|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Pacific Book of Australian SF {
+	AE=|John Baxter|
+	AS=|DitN|
+	YR=|1969|
+	TG=|921|
+	TA=|Best Australian Long Fiction|
+	TP=|c|
+	LV=|9|
+}
+Final Flower {
+	AE=|Stephen Cook|
+	AS=|DitN|
+	YR=|1969|
+	TG=|2963|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Dancing Gerontius {
+	AE=|Lee Harding|
+	AS=|DitN|
+	YR=|1970|
+	TG=|5624|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Kinsolving Planet's Irregulars {
+	AE=|A. Bertram Chandler|
+	AS=|DitN|
+	YR=|1970|
+	TG=|2566|
+	TA=|Best Australian Long Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Anchor Man {
+	AE=|Jack Wodhams|
+	AS=|DitN|
+	YR=|1970|
+	TG=|13561|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Split Personality {
+	AE=|Jack Wodhams|
+	AS=|DitN|
+	YR=|1970|
+	TG=|13567|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Bitter Pill {
+	AE=|A. Bertram Chandler|
+	AS=|DitN|
+	YR=|1971|
+	TG=|2558|
+	TA=|Best Australian Long Fiction|
+	TP=|nv|
+	LV=|1|
+}
+After Ragnarok {
+	AE=|Robert Bowden|
+	AS=|DitN|
+	YR=|1971|
+	TG=|1530|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Squat {
+	AE=|David Rome|
+	AS=|DitN|
+	YR=|1971|
+	TG=|9915|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Fallen Spaceman {
+	AE=|Lee Harding|
+	AS=|DitN|
+	YR=|1972|
+	TG=|5626|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+What You Know {
+	AE=|A. Bertram Chandler|
+	AS=|DitN|
+	YR=|1972|
+	TG=|2570|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Immortal {
+	AE=|Olaf Ruhen|
+	AS=|DitN|
+	YR=|1972|
+	TG=|10000|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Man of Slow Feeling {
+	AE=|Michael Wilding|
+	AS=|DitN|
+	YR=|1972|
+	TG=|13194|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Authentic Touch {
+	AE=|Jack Wodhams|
+	AS=|DitN|
+	YR=|1972|
+	TG=|13563|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Let It Ring {
+	AE=|John Foyster^John Ossian|
+	AS=|DitN|
+	YR=|1973|
+	TG=|4654|
+	TA=|Best Australian Long Fiction|
+	TP=|nv|
+	LV=|1|
+}
+The Hard Way Up {
+	AE=|A. Bertram Chandler|
+	AS=|DitN|
+	YR=|1973|
+	TG=|2563|
+	TA=|Best Australian Long Fiction|
+	TP=|c|
+	LV=|9|
+}
+Gone Fishing {
+	AE=|David Rome|
+	AS=|DitN|
+	YR=|1973|
+	TG=|9914|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Budnip {
+	AE=|Jack Wodhams|
+	AS=|DitN|
+	YR=|1973|
+	TG=|13564|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|DitN|
+	YR=|1974|
+	TG=|27|
+	TA=|Best Australian Long Fiction|
+	TP=|x|
+	LV=|73|
+}
+The Bitter Pill {
+	AE=|A. Bertram Chandler|
+	AS=|DitN|
+	YR=|1975|
+	TG=|2559|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Soft Kill {
+	AE=|Colin Free|
+	AS=|DitN|
+	YR=|1975|
+	TG=|4728|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Ark of James Carlyle {
+	AE=|Cherry Wilder|
+	AS=|DitN|
+	YR=|1975|
+	TG=|13191|
+	TA=|Best Australian Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+The Big Black Mark {
+	AE=|A. Bertram Chandler|
+	AS=|DitN|
+	YR=|1976|
+	TG=|2557|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Way Out West {
+	AE=|Cherry Wilder|
+	AS=|DitN|
+	YR=|1976|
+	TG=|13193|
+	TA=|Best Australian Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|DitN|
+	YR=|1976|
+	TG=|75|
+	TA=|Best Australian Long Fiction|
+	TP=|x|
+	LV=|80|
+}
+The Frozen Sky {
+	AE=|Lee Harding|
+	AS=|DitN|
+	YR=|1976|
+	TG=|5627|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|85|
+}
+Walkers on the Sky {
+	AE=|David Lake|
+	AS=|DitN|
+	YR=|1977|
+	TG=|6922|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Kelly Country {
+	AE=|A. Bertram Chandler|
+	AS=|DitN|
+	YR=|1977|
+	TG=|2564|
+	TA=|Best Australian Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+Future Sanctuary {
+	AE=|Lee Harding|
+	AS=|DitN|
+	YR=|1977|
+	TG=|5628|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Ins and Outs of the Hadhya City State {
+	AE=|Phillipa Maddern|
+	AS=|DitN|
+	YR=|1977|
+	TG=|7714|
+	TA=|Best Australian Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+The Luck of Brin's Five {
+	AE=|Cherry Wilder|
+	AS=|DitN|
+	YR=|1978|
+	TG=|13192|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Weeping Sky {
+	AE=|Lee Harding|
+	AS=|DitN|
+	YR=|1978|
+	TG=|5630|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Wildings of Westron {
+	AE=|David Lake|
+	AS=|DitN|
+	YR=|1978|
+	TG=|6924|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Right Hand of Dextra {
+	AE=|David Lake^David J. Lake|
+	AS=|DitN|
+	YR=|1978|
+	TG=|6921|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Beloved Son {
+	AE=|George Turner|
+	AS=|DitN|
+	YR=|1979|
+	TG=|12070|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+To Keep the Ship {
+	AE=|A. Bertram Chandler|
+	AS=|DitN|
+	YR=|1979|
+	TG=|2569|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Play Little Victims {
+	AE=|Kenneth Cook|
+	AS=|DitN|
+	YR=|1979|
+	TG=|2958|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Pie Row Joe {
+	AE=|Kevin McKay|
+	AS=|DitN|
+	YR=|1979|
+	TG=|8249|
+	TA=|Best Australian Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+Australian Gnomes {
+	AE=|Robert Ingpen|
+	AS=|DitN|
+	YR=|1980|
+	TG=|6107|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Moon in the Ground {
+	AE=|Antill|
+	AS=|DitN|
+	YR=|1980|
+	TG=|480|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Displaced Person {
+	AE=|Lee Harding|
+	AS=|DitN|
+	YR=|1980|
+	TG=|5625|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+One Clay Foot {
+	AE=|Jack Wodhams|
+	AS=|DitN|
+	YR=|1980|
+	TG=|13566|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Dreaming Dragons {
+	AE=|Damien Broderick|
+	AS=|DitN|
+	YR=|1981|
+	TG=|1718|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Fourth Hemisphere {
+	AE=|David Lake|
+	AS=|DitN|
+	YR=|1981|
+	TG=|6919|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Breathing Space Only {
+	AE=|Wynne Whiteford|
+	AS=|DitN|
+	YR=|1981|
+	TG=|13165|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Looking for Blucher {
+	AE=|Jack Wodhams|
+	AS=|DitN|
+	YR=|1981|
+	TG=|13565|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Man Who Loved Morlocks {
+	AE=|David Lake|
+	AS=|DitN|
+	YR=|1982|
+	TG=|6920|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Anarch Lords {
+	AE=|A. Bertram Chandler|
+	AS=|DitN|
+	YR=|1982|
+	TG=|2556|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+City of Women {
+	AE=|David Ireland|
+	AS=|DitN|
+	YR=|1982|
+	TG=|6117|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Bard {
+	AE=|Keith Taylor|
+	AS=|DitN|
+	YR=|1982|
+	TG=|11834|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Journey Behind the Wind {
+	AE=|Patricia Wrightson|
+	AS=|DitN|
+	YR=|1982|
+	TG=|13737|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Ones Who Walk Away Behind the Eyes {
+	AE=|Terry Dowling|
+	AS=|DitN|
+	YR=|1983|
+	TG=|3749|
+	TA=|Best Australian Long Fiction|
+	TP=|nv|
+	LV=|1|
+}
+The Lances of Nengesdul {
+	AE=|Keith Taylor|
+	AS=|DitN|
+	YR=|1983|
+	TG=|11837|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Vaneglory {
+	AE=|George Turner|
+	AS=|DitN|
+	YR=|1983|
+	TG=|12098|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Yesterday's Men {
+	AE=|George Turner|
+	AS=|DitN|
+	YR=|1984|
+	TG=|12100|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Tempting of the Witchking {
+	AE=|Russell Blackford|
+	AS=|DitN|
+	YR=|1984|
+	TG=|1363|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Judas Mandala {
+	AE=|Damien Broderick|
+	AS=|DitN|
+	YR=|1984|
+	TG=|1720|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Valencies {
+	AE=|Damien Broderick+Rory Barnes|
+	AS=|DitN|
+	YR=|1984|
+	TG=|1728|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Kelly Country {
+	AE=|A. Bertram Chandler|
+	AS=|DitN|
+	YR=|1984|
+	TG=|2565|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Thor's Hammer {
+	AE=|Wynne Whiteford|
+	AS=|DitN|
+	YR=|1984|
+	TG=|13170|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Beast of Heaven {
+	AE=|Victor Kelleher|
+	AS=|DitN|
+	YR=|1985|
+	TG=|6366|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Last Amazon {
+	AE=|A. Bertram Chandler|
+	AS=|DitN|
+	YR=|1985|
+	TG=|2567|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Wild Ones {
+	AE=|A. Bertram Chandler|
+	AS=|DitN|
+	YR=|1985|
+	TG=|2571|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Suburbs of Hell {
+	AE=|Randolph Stow|
+	AS=|DitN|
+	YR=|1985|
+	TG=|11580|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Illywhacker {
+	AE=|Peter Carey|
+	AS=|DitN|
+	YR=|1986|
+	TG=|2365|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Changelings of Cha'an {
+	AE=|David Lake|
+	AS=|DitN|
+	YR=|1986|
+	TG=|6918|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Landscape With Landscapes {
+	AE=|Gerald Murnane|
+	AS=|DitN|
+	YR=|1986|
+	TG=|8859|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Transing Syndrome {
+	AE=|Kurt von Trojan|
+	AS=|DitN|
+	YR=|1986|
+	TG=|12746|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Bard III: The Wild Sea {
+	AE=|Keith Taylor|
+	AS=|DitN|
+	YR=|1987|
+	TG=|11835|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Black Grail {
+	AE=|Damien Broderick|
+	AS=|DitN|
+	YR=|1987|
+	TG=|1717|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Adventures of Christian Rosy Cross {
+	AE=|David Foster|
+	AS=|DitN|
+	YR=|1987|
+	TG=|4608|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Taronga {
+	AE=|Victor Kelleher|
+	AS=|DitN|
+	YR=|1987|
+	TG=|6372|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Oasis {
+	AE=|Patrick Urth|
+	AS=|DitN|
+	YR=|1987|
+	TG=|12517|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+For As Long As You Burn {
+	AE=|Terry Dowling|
+	AS=|DitN|
+	YR=|1988|
+	TG=|3737|
+	TA=|Best Australian Long Fiction|
+	TP=|nv|
+	LV=|1|
+}
+The Makers {
+	AE=|Victor Kelleher|
+	AS=|DitN|
+	YR=|1988|
+	TG=|6370|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Bard IV: Raven's Gathering {
+	AE=|Keith Taylor|
+	AS=|DitN|
+	YR=|1988|
+	TG=|11836|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Drowning Towers^The Sea and the Summer {
+	AE=|George Turner|
+	AS=|DitN|
+	YR=|1988|
+	TG=|12077|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Hyades Contact {
+	AE=|Wynne Whiteford|
+	AS=|DitN|
+	YR=|1988|
+	TG=|13166|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Striped Holes {
+	AE=|Damien Broderick|
+	AS=|DitN|
+	YR=|1989|
+	TG=|1727|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+West of the Moon {
+	AE=|David Lake^David J. Lake|
+	AS=|DitN|
+	YR=|1989|
+	TG=|6923|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Huaco of the Golden God {
+	AE=|Carolyn Logan|
+	AS=|DitN|
+	YR=|1989|
+	TG=|7550|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Beyond the Labyrinth {
+	AE=|Gillian Rubinstein|
+	AS=|DitN|
+	YR=|1989|
+	TG=|9983|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Lake of the Sun {
+	AE=|Wynne Whiteford|
+	AS=|DitN|
+	YR=|1990|
+	TG=|13167|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Red King {
+	AE=|Victor Kelleher|
+	AS=|DitN|
+	YR=|1990|
+	TG=|6371|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Sorcerer's Sacred Isle {
+	AE=|Keith Taylor|
+	AS=|DitN|
+	YR=|1990|
+	TG=|11838|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Rynosseros {
+	AE=|Terry Dowling|
+	AS=|DitN|
+	YR=|1991|
+	TG=|3752|
+	TA=|Best Australian Long Fiction|
+	TP=|c|
+	LV=|1|
+}
+My Lady Tongue and Other Tales {
+	AE=|Lucy Sussex|
+	AS=|DitN|
+	YR=|1991|
+	TG=|11698|
+	TA=|Best Australian Long Fiction|
+	TP=|c|
+	LV=|9|
+}
+A Pursuit of Miracles {
+	AE=|George Turner|
+	AS=|DitN|
+	YR=|1991|
+	TG=|12094|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Specialist {
+	AE=|Wynne Whiteford|
+	AS=|DitN|
+	YR=|1991|
+	TG=|13168|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Fortress of Eternity {
+	AE=|Andrew Whitmore|
+	AS=|DitN|
+	YR=|1991|
+	TG=|13174|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Wormwood {
+	AE=|Terry Dowling|
+	AS=|DitN|
+	YR=|1992|
+	TG=|3760|
+	TA=|Best Australian Long Fiction|
+	TP=|c|
+	LV=|1|
+}
+From Sea to Shining Star {
+	AE=|A. Bertram Chandler|
+	AS=|DitN|
+	YR=|1992|
+	TG=|2561|
+	TA=|Best Australian Long Fiction|
+	TP=|c|
+	LV=|9|
+}
+Brother Night {
+	AE=|Victor Kelleher|
+	AS=|DitN|
+	YR=|1992|
+	TG=|6367|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Del Del {
+	AE=|Victor Kelleher|
+	AS=|DitN|
+	YR=|1992|
+	TG=|6368|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Brain Child {
+	AE=|George Turner|
+	AS=|DitN|
+	YR=|1992|
+	TG=|12071|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Quarantine {
+	AE=|Greg Egan|
+	AS=|DitN|
+	YR=|1993|
+	TG=|4034|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Blue Tyson {
+	AE=|Terry Dowling|
+	AS=|DitN|
+	YR=|1993|
+	TG=|3732|
+	TA=|Best Australian Long Fiction|
+	TP=|c|
+	LV=|9|
+}
+Back Door Man {
+	AE=|Ian M. Hails|
+	AS=|DitN|
+	YR=|1993|
+	TG=|5483|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Call to the Edge {
+	AE=|Sean McMullen|
+	AS=|DitN|
+	YR=|1993|
+	TG=|8312|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Brain Child {
+	AE=|George Turner|
+	AS=|DitN|
+	YR=|1993|
+	TG=|12072|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+And Disregards the Rest {
+	AE=|Paul Voermans|
+	AS=|DitN|
+	YR=|1993|
+	TG=|12738|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Destiny Makers {
+	AE=|George Turner|
+	AS=|DitN|
+	YR=|1994|
+	TG=|12075|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Twilight Beach {
+	AE=|Terry Dowling|
+	AS=|DitN|
+	YR=|1994|
+	TG=|3758|
+	TA=|Best Australian Long Fiction|
+	TP=|c|
+	LV=|9|
+}
+Graffiti {
+	AE=|Dirk Strasser|
+	AS=|DitN|
+	YR=|1994|
+	TG=|11601|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Weird Colonial Boy {
+	AE=|Paul Voermans|
+	AS=|DitN|
+	YR=|1994|
+	TG=|12739|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Permutation City {
+	AE=|Greg Egan|
+	AS=|DitN|
+	YR=|1995|
+	TG=|4028|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Voices in the Light {
+	AE=|Sean McMullen|
+	AS=|DitN|
+	YR=|1995|
+	TG=|8319|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Deersnake {
+	AE=|Lucy Sussex|
+	AS=|DitN|
+	YR=|1995|
+	TG=|11692|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Genetic Soldier {
+	AE=|George Turner|
+	AS=|DitN|
+	YR=|1995|
+	TG=|12083|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Mirrorsun Rising {
+	AE=|Sean McMullen|
+	AS=|DitN|
+	YR=|1996|
+	TG=|8318|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+An Intimate Knowledge of the Night {
+	AE=|Terry Dowling|
+	AS=|DitN|
+	YR=|1996|
+	TG=|3741|
+	TA=|Best Australian Long Fiction|
+	TP=|c|
+	LV=|9|
+}
+Sabriel {
+	AE=|Garth Nix|
+	AS=|DitN|
+	YR=|1996|
+	TG=|8818|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+She's Fantastical {
+	AE=|Lucy Sussex+Judith Raphael Buckrich|
+	AS=|DitN|
+	YR=|1996|
+	TG=|11700|
+	TA=|Best Australian Long Fiction|
+	TP=|a|
+	LV=|9|
+}
+The Unknown Soldier {
+	AE=|Sean Williams+Shane Dix|
+	AS=|DitN|
+	YR=|1996|
+	TG=|13281|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Scarlet Rider {
+	AE=|Lucy Sussex|
+	AS=|DitN|
+	YR=|1997|
+	TG=|15408|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Dreamweavers {
+	AE=|Paul Collins|
+	AS=|DitN|
+	YR=|1997|
+	TG=|15388|
+	TA=|Best Australian Long Fiction|
+	TP=|a|
+	LV=|9|
+}
+The Memory Cathedral {
+	AE=|Jack Dann|
+	AS=|DitN|
+	YR=|1997|
+	TG=|15390|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Metal Fatigue {
+	AE=|Sean Williams|
+	AS=|DitN|
+	YR=|1997|
+	TG=|15416|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The White Abacus {
+	AE=|Damien Broderick|
+	AS=|DitN|
+	YR=|1998|
+	TG=|18149|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Winter {
+	AE=|Simon Brown|
+	AS=|DitN|
+	YR=|1998|
+	TG=|18150|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Darkfall: Book One of the Legendsong {
+	AE=|Isobelle Carmody|
+	AS=|DitN|
+	YR=|1998|
+	TG=|18153|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Old Bones {
+	AE=|Paul Collins|
+	AS=|DitN|
+	YR=|1998|
+	TG=|18157|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Sinner: Book One of the Wayfarer Redemption {
+	AE=|Sara Douglass|
+	AS=|DitN|
+	YR=|1998|
+	TG=|18163|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Resurrected Man {
+	AE=|Sean Williams|
+	AS=|DitN|
+	YR=|1999|
+	TG=|20831|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Pilgrim {
+	AE=|Sara Douglass|
+	AS=|DitN|
+	YR=|1999|
+	TG=|20742|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Feral {
+	AE=|Kerry Greenwood|
+	AS=|DitN|
+	YR=|1999|
+	TG=|20757|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Centurion's Empire {
+	AE=|Sean McMullen|
+	AS=|DitN|
+	YR=|1999|
+	TG=|20792|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Tilecutter's Penny {
+	AE=|Caiseal Mor|
+	AS=|DitN|
+	YR=|1999|
+	TG=|20796|
+	TA=|Best Australian Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Teranesia {
+	AE=|Greg Egan|
+	AS=|DitN|
+	YR=|2000|
+	TG=|20745|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+The Book of Revelation {
+	AE=|Damien Broderick+Rory Barnes|
+	AS=|DitN|
+	YR=|2000|
+	TG=|20720|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Foreign Bodies {
+	AE=|Stephen Dedman|
+	AS=|DitN|
+	YR=|2000|
+	TG=|20739|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Hidden from View {
+	AE=|Richard Harland|
+	AS=|DitN|
+	YR=|2000|
+	TG=|20760|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+A Dark Victory {
+	AE=|Dave Luckett|
+	AS=|DitN|
+	YR=|2000|
+	TG=|20785|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Souls in the Great Machine {
+	AE=|Sean McMullen|
+	AS=|DitN|
+	YR=|2000|
+	TG=|20794|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Aramaya {
+	AE=|Jane Routley|
+	AS=|DitN|
+	YR=|2000|
+	TG=|20802|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Evergence 2: The Dying Light {
+	AE=|Sean Williams+Shane Dix|
+	AS=|DitN|
+	YR=|2001|
+	TG=|22123|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Cyberskin {
+	AE=|Paul Collins|
+	AS=|DitN|
+	YR=|2001|
+	TG=|22092|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Miocene Arrow {
+	AE=|Sean McMullen|
+	AS=|DitN|
+	YR=|2001|
+	TG=|22109|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Sea As Mirror {
+	AE=|Tess Williams|
+	AS=|DitN|
+	YR=|2001|
+	TG=|22124|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Camp Concentration {
+	AE=|Thomas M. Disch|
+	AS=|DitI|
+	YR=|1969|
+	TG=|3640|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Cryptozoic!^An Age (UK) {
+	AE=|Brian W. Aldiss|
+	AS=|DitI|
+	YR=|1969|
+	TG=|244|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Ring of Ritornel {
+	AE=|Charles L. Harness|
+	AS=|DitI|
+	YR=|1969|
+	TG=|5647|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Cosmicomics {
+	AE=|Italo Calvino|
+	AS=|DitI|
+	YR=|1970|
+	TG=|2159|
+	TA=|Best International Long Fiction|
+	TP=|c|
+	LV=|1|
+}
+The Left Hand of Darkness {
+	AE=|Ursula K. Le Guin|
+	AS=|DitI|
+	YR=|1970|
+	TG=|7163|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+No Award {
+	AE=|(********)|
+	AS=|DitI|
+	YR=|1971|
+	TG=|5|
+	TA=|Best International Long Fiction|
+	TP=|x|
+	LV=|1|
+}
+Time and the Hunter^T-Zero {
+	AE=|Italo Calvino|
+	AS=|DitI|
+	YR=|1971|
+	TG=|2161|
+	TA=|Best International Long Fiction|
+	TP=|c|
+	LV=|9|
+}
+The Region Between {
+	AE=|Harlan Ellison|
+	AS=|DitI|
+	YR=|1971|
+	TG=|4217|
+	TA=|Best International Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+Tower of Glass {
+	AE=|Robert Silverberg|
+	AS=|DitI|
+	YR=|1971|
+	TG=|10920|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Ringworld {
+	AE=|Larry Niven|
+	AS=|DitI|
+	YR=|1972|
+	TG=|8776|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+To Your Scattered Bodies Go {
+	AE=|Philip José Farmer|
+	AS=|DitI|
+	YR=|1972|
+	TG=|4381|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Continued on Next Rock {
+	AE=|R. A. Lafferty|
+	AS=|DitI|
+	YR=|1972|
+	TG=|6882|
+	TA=|Best International Long Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Lathe of Heaven {
+	AE=|Ursula K. Le Guin|
+	AS=|DitI|
+	YR=|1972|
+	TG=|7159|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+A Time of Changes {
+	AE=|Robert Silverberg|
+	AS=|DitI|
+	YR=|1972|
+	TG=|10910|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Gods Themselves {
+	AE=|Isaac Asimov|
+	AS=|DitI|
+	YR=|1973|
+	TG=|580|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Gorgon Festival {
+	AE=|John Boyd|
+	AS=|DitI|
+	YR=|1973|
+	TG=|1544|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The IQ Merchant {
+	AE=|John Boyd|
+	AS=|DitI|
+	YR=|1973|
+	TG=|1545|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Dying Inside {
+	AE=|Robert Silverberg|
+	AS=|DitI|
+	YR=|1973|
+	TG=|10804|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|DitI|
+	YR=|1974|
+	TG=|24|
+	TA=|Best International Long Fiction|
+	TP=|x|
+	LV=|73|
+}
+Protector {
+	AE=|Larry Niven|
+	AS=|DitI|
+	YR=|1975|
+	TG=|8772|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Frankenstein Unbound {
+	AE=|Brian W. Aldiss|
+	AS=|DitI|
+	YR=|1975|
+	TG=|248|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Dispossessed {
+	AE=|Ursula K. Le Guin|
+	AS=|DitI|
+	YR=|1975|
+	TG=|7131|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Forever War {
+	AE=|Joe Haldeman|
+	AS=|DitI|
+	YR=|1976|
+	TG=|5505|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Computer Connection^The Indian Giver^Extro {
+	AE=|Alfred Bester|
+	AS=|DitI|
+	YR=|1976|
+	TG=|1161|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Shockwave Rider {
+	AE=|John Brunner|
+	AS=|DitI|
+	YR=|1976|
+	TG=|1835|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Inferno {
+	AE=|Larry Niven+Jerry Pournelle|
+	AS=|DitI|
+	YR=|1976|
+	TG=|8801|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Down to a Sunless Sea {
+	AE=|Cordwainer Smith+Genevieve Linebarger|
+	AS=|DitI|
+	YR=|1976|
+	TG=|11087|
+	TA=|Best International Long Fiction|
+	TP=|nt|
+	LV=|9|
+}
+The Space Machine {
+	AE=|Christopher Priest|
+	AS=|DitI|
+	YR=|1977|
+	TG=|9452|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Piper at the Gates of Dawn {
+	AE=|Richard Cowper|
+	AS=|DitI|
+	YR=|1977|
+	TG=|3024|
+	TA=|Best International Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+A World Out of Time {
+	AE=|Larry Niven|
+	AS=|DitI|
+	YR=|1977|
+	TG=|8788|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Hand of Oberon {
+	AE=|Roger Zelazny|
+	AS=|DitI|
+	YR=|1977|
+	TG=|13894|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Silmarillion {
+	AE=|J. R. R. Tolkien+Christopher Tolkien|
+	AS=|DitI|
+	YR=|1978|
+	TG=|12023|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+The House of Compassionate Sharers {
+	AE=|Michael Bishop|
+	AS=|DitI|
+	YR=|1978|
+	TG=|1259|
+	TA=|Best International Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+Silver on the Tree {
+	AE=|Susan Cooper|
+	AS=|DitI|
+	YR=|1978|
+	TG=|2968|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Our Lady of Darkness {
+	AE=|Fritz Leiber|
+	AS=|DitI|
+	YR=|1978|
+	TG=|7375|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Gateway {
+	AE=|Frederik Pohl|
+	AS=|DitI|
+	YR=|1978|
+	TG=|9210|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+A Dream of Wessex^The Perfect Lover {
+	AE=|Christopher Priest|
+	AS=|DitI|
+	YR=|1978|
+	TG=|9436|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+In the Hall of the Martian Kings {
+	AE=|John Varley|
+	AS=|DitI|
+	YR=|1978|
+	TG=|12644|
+	TA=|Best International Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+The White Dragon {
+	AE=|Anne McCaffrey|
+	AS=|DitI|
+	YR=|1979|
+	TG=|8042|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Far Call {
+	AE=|Gordon R. Dickson|
+	AS=|DitI|
+	YR=|1979|
+	TG=|3596|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Dreamsnake {
+	AE=|Vonda N. McIntyre|
+	AS=|DitI|
+	YR=|1979|
+	TG=|8221|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Stardance II {
+	AE=|Spider Robinson+Jeanne Robinson|
+	AS=|DitI|
+	YR=|1979|
+	TG=|9884|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Persistence of Vision {
+	AE=|John Varley|
+	AS=|DitI|
+	YR=|1979|
+	TG=|12656|
+	TA=|Best International Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+The Hitchhiker's Guide to the Galaxy {
+	AE=|Douglas Adams|
+	AS=|DitI|
+	YR=|1980|
+	TG=|207|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Castle Roogna {
+	AE=|Piers Anthony|
+	AS=|DitI|
+	YR=|1980|
+	TG=|458|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Flight of Dragons {
+	AE=|Peter Dickinson|
+	AS=|DitI|
+	YR=|1980|
+	TG=|3580|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Dragondrums {
+	AE=|Anne McCaffrey|
+	AS=|DitI|
+	YR=|1980|
+	TG=|8015|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Titan {
+	AE=|John Varley|
+	AS=|DitI|
+	YR=|1980|
+	TG=|12675|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Timescape {
+	AE=|Gregory Benford|
+	AS=|DitI|
+	YR=|1981|
+	TG=|1101|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Wounded Land {
+	AE=|Stephen R. Donaldson|
+	AS=|DitI|
+	YR=|1981|
+	TG=|3711|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Mockingbird {
+	AE=|Walter Tevis|
+	AS=|DitI|
+	YR=|1981|
+	TG=|11900|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Snow Queen {
+	AE=|Joan D. Vinge|
+	AS=|DitI|
+	YR=|1981|
+	TG=|12708|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Affirmation {
+	AE=|Christopher Priest|
+	AS=|DitI|
+	YR=|1982|
+	TG=|9432|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Radix {
+	AE=|A. A. Attanasio|
+	AS=|DitI|
+	YR=|1982|
+	TG=|657|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Sirian Experiments {
+	AE=|Doris Lessing|
+	AS=|DitI|
+	YR=|1982|
+	TG=|7418|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Claw of the Conciliator {
+	AE=|Gene Wolfe|
+	AS=|DitI|
+	YR=|1982|
+	TG=|13591|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Riddley Walker {
+	AE=|Russell Hoban|
+	AS=|DitI|
+	YR=|1983|
+	TG=|5939|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+No Enemy But Time {
+	AE=|Michael Bishop|
+	AS=|DitI|
+	YR=|1983|
+	TG=|1276|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The One Tree {
+	AE=|Stephen R. Donaldson|
+	AS=|DitI|
+	YR=|1983|
+	TG=|3704|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Roderick {
+	AE=|John Sladek|
+	AS=|DitI|
+	YR=|1983|
+	TG=|11053|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+No Award {
+	AE=|(********)|
+	AS=|DitI|
+	YR=|1984|
+	TG=|6|
+	TA=|Best International Long Fiction|
+	TP=|x|
+	LV=|1|
+}
+The Birth of the People's Republic of Antarctica {
+	AE=|John Calvin Batchelor|
+	AS=|DitI|
+	YR=|1984|
+	TG=|904|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Tempting of the Witchking {
+	AE=|Russell Blackford|
+	AS=|DitI|
+	YR=|1984|
+	TG=|1362|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Pilgerman {
+	AE=|Russell Hoban|
+	AS=|DitI|
+	YR=|1984|
+	TG=|5938|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Yesterday's Men {
+	AE=|George Turner|
+	AS=|DitI|
+	YR=|1984|
+	TG=|12099|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Dr. Who {
+	AE=|Unknown-TV-Series|
+	MV=|"Doctor Who" (1963)|
+	AS=|DitI|
+	YR=|1984|
+	TG=|705|
+	TA=|Best International Long Fiction|
+	TP=|tvs|
+	LV=|9|
+}
+Thor's Hammer {
+	AE=|Wynne Whiteford|
+	AS=|DitI|
+	YR=|1984|
+	TG=|13169|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Neuromancer {
+	AE=|William Gibson|
+	AS=|DitI|
+	YR=|1985|
+	TG=|4989|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Final Encyclopedia {
+	AE=|Gordon R. Dickson|
+	AS=|DitI|
+	YR=|1985|
+	TG=|3600|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Native Tongue {
+	AE=|Suzette Haden Elgin|
+	AS=|DitI|
+	YR=|1985|
+	TG=|4114|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Damiano's Lute {
+	AE=|R. A. MacAvoy|
+	AS=|DitI|
+	YR=|1985|
+	TG=|7670|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Compass Rose {
+	AE=|Ursula K. Le Guin|
+	AS=|DitI|
+	YR=|1986|
+	TG=|7121|
+	TA=|Best International Long Fiction|
+	TP=|c|
+	LV=|1|
+}
+Tik-Tok {
+	AE=|John Sladek|
+	AS=|DitI|
+	YR=|1986|
+	TG=|11057|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Devil in a Forest {
+	AE=|Gene Wolfe|
+	AS=|DitI|
+	YR=|1986|
+	TG=|13602|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Free Live Free {
+	AE=|Gene Wolfe|
+	AS=|DitI|
+	YR=|1986|
+	TG=|13612|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Peace {
+	AE=|Gene Wolfe|
+	AS=|DitI|
+	YR=|1986|
+	TG=|13627|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Elleander Morning {
+	AE=|Jerry Yulsman|
+	AS=|DitI|
+	YR=|1986|
+	TG=|13823|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|DitI|
+	YR=|1987|
+	TG=|25|
+	TA=|Best International Long Fiction|
+	TP=|x|
+	LV=|73|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|DitI|
+	YR=|1988|
+	TG=|26|
+	TA=|Best International Long Fiction|
+	TP=|x|
+	LV=|73|
+}
+Seventh Son {
+	AE=|Orson Scott Card|
+	AS=|DitI|
+	YR=|1989|
+	TG=|2344|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|1|
+}
+Dawn {
+	AE=|Octavia E. Butler|
+	AS=|DitI|
+	YR=|1989|
+	TG=|2051|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Ægypt {
+	AE=|John Crowley|
+	AS=|DitI|
+	YR=|1989|
+	TG=|3080|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Mona Lisa Overdrive {
+	AE=|William Gibson|
+	AS=|DitI|
+	YR=|1989|
+	TG=|4983|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+On Stranger Tides {
+	AE=|Tim Powers|
+	AS=|DitI|
+	YR=|1989|
+	TG=|9391|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Life During Wartime {
+	AE=|Lucius Shepard|
+	AS=|DitI|
+	YR=|1989|
+	TG=|10631|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Islands in the Net {
+	AE=|Bruce Sterling|
+	AS=|DitI|
+	YR=|1989|
+	TG=|11471|
+	TA=|Best International Long Fiction|
+	TP=|n|
+	LV=|9|
+}
+Albert's Bellyful {
+	AE=|Francis Payne|
+	AS=|DitS|
+	YR=|1978|
+	TG=|9084|
+	TA=|Australian Science Fiction - Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Two Body Problem {
+	AE=|Bruce Barnes|
+	AS=|DitS|
+	YR=|1978|
+	TG=|827|
+	TA=|Australian Science Fiction - Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Long Fall {
+	AE=|A. Bertram Chandler|
+	AS=|DitS|
+	YR=|1978|
+	TG=|2568|
+	TA=|Australian Science Fiction - Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Ignorant of Magic {
+	AE=|Phillipa Maddern|
+	AS=|DitS|
+	YR=|1978|
+	TG=|7713|
+	TA=|Australian Science Fiction - Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Deus Ex Corporus {
+	AE=|Leanne Frahm|
+	AS=|DitS|
+	YR=|1981|
+	TG=|4662|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Passage to Earth {
+	AE=|Leanne Frahm|
+	AS=|DitS|
+	YR=|1981|
+	TG=|4668|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Horg {
+	AE=|Jay Hoffman|
+	AS=|DitS|
+	YR=|1981|
+	TG=|5964|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Pastseer {
+	AE=|Phillipa Maddern|
+	AS=|DitS|
+	YR=|1981|
+	TG=|7716|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Where Silence Rules {
+	AE=|Keith Taylor|
+	AS=|DitS|
+	YR=|1982|
+	TG=|11839|
+	TA=|Best Short Australasian Science Fiction or Fantasy|
+	TP=|sf|
+	LV=|1|
+}
+Tales of Mirric {
+	AE=|Elizabeth Travers|
+	AS=|DitS|
+	YR=|1982|
+	TG=|12033|
+	TA=|Best Short Australasian Science Fiction or Fantasy|
+	TP=|sf|
+	LV=|9|
+}
+Armstrong {
+	AE=|Jack Wodhams|
+	AS=|DitS|
+	YR=|1982|
+	TG=|13562|
+	TA=|Best Short Australasian Science Fiction or Fantasy|
+	TP=|sf|
+	LV=|9|
+}
+Above Atlas His Shoulders {
+	AE=|Andrew Whitmore|
+	AS=|DitS|
+	YR=|1984|
+	TG=|13173|
+	TA=|Best Australian Short Science Fiction or Fantasy|
+	TP=|sf|
+	LV=|1|
+}
+Crystal Soldier {
+	AE=|Russell Blackford|
+	AS=|DitS|
+	YR=|1984|
+	TG=|1357|
+	TA=|Best Australian Short Science Fiction or Fantasy|
+	TP=|sf|
+	LV=|9|
+}
+Life the Solitude {
+	AE=|Kevin McKay|
+	AS=|DitS|
+	YR=|1984|
+	TG=|8248|
+	TA=|Best Australian Short Science Fiction or Fantasy|
+	TP=|sf|
+	LV=|9|
+}
+Land Deal {
+	AE=|Gerald Murnane|
+	AS=|DitS|
+	YR=|1984|
+	TG=|8622|
+	TA=|Best Australian Short Science Fiction or Fantasy|
+	TP=|sf|
+	LV=|9|
+}
+Terrarium {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1985|
+	TG=|3756|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Resurrection {
+	AE=|Damien Broderick|
+	AS=|DitS|
+	YR=|1985|
+	TG=|1724|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Maze Man {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1985|
+	TG=|3747|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Three Star Trek {
+	AE=|Roy Ferguson|
+	AS=|DitS|
+	YR=|1985|
+	TG=|4414|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Bullet That Grows in the Gun {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1986|
+	TG=|3734|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Glass Reptile Breakout {
+	AE=|Russell Blackford|
+	AS=|DitS|
+	YR=|1986|
+	TG=|1360|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Twist of Fate {
+	AE=|David Grigg|
+	AS=|DitS|
+	YR=|1986|
+	TG=|5409|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Lipton Village Society {
+	AE=|Lucy Sussex|
+	AS=|DitS|
+	YR=|1986|
+	TG=|11694|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Montage {
+	AE=|Lucy Sussex|
+	AS=|DitS|
+	YR=|1986|
+	TG=|11696|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Fittest {
+	AE=|George Turner|
+	AS=|DitS|
+	YR=|1986|
+	TG=|12080|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Man Who Lost Red {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1987|
+	TG=|3745|
+	TA=|Best Australian Science Fiction or Fantasy Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+A Dragon Between His Fingers {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1987|
+	TG=|3736|
+	TA=|Best Australian Science Fiction or Fantasy Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Time of the Star {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1987|
+	TG=|3757|
+	TA=|Best Australian Science Fiction or Fantasy Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+For the Man Who Has Everything {
+	AE=|Chris Simmons|
+	AS=|DitS|
+	YR=|1987|
+	TG=|10974|
+	TA=|Best Australian Science Fiction or Fantasy Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Shut the Door When You Go Out {
+	AE=|George Turner|
+	AS=|DitS|
+	YR=|1987|
+	TG=|12095|
+	TA=|Best Australian Science Fiction or Fantasy Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Last Elephant {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1988|
+	TG=|3743|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Dirty Little Unicorn {
+	AE=|Stephen Dedman|
+	AS=|DitS|
+	YR=|1988|
+	TG=|3381|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Marmordesse {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1988|
+	TG=|3746|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Supramarket {
+	AE=|Leanne Frahm|
+	AS=|DitS|
+	YR=|1988|
+	TG=|4669|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Celestial Intervention Agency {
+	AE=|Karen Herkes|
+	AS=|DitS|
+	YR=|1988|
+	TG=|5873|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+My Lady Tongue {
+	AE=|Lucy Sussex|
+	AS=|DitS|
+	YR=|1989|
+	TG=|11697|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+A Tale of Nine Cats {
+	AE=|Katherine Cummings|
+	AS=|DitS|
+	YR=|1989|
+	TG=|3113|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Scatter My Ashes {
+	AE=|Greg Egan|
+	AS=|DitS|
+	YR=|1989|
+	TG=|4038|
+	TA=|Best Australian Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Things Fall Apart {
+	AE=|Phillipa Maddern|
+	AS=|DitS|
+	YR=|1989|
+	TG=|7717|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Colors of the Masters {
+	AE=|Sean McMullen|
+	AS=|DitS|
+	YR=|1989|
+	TG=|8313|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Quiet Redemption of Andy the House {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1990|
+	TG=|3751|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+If You Go Down to the Park Today {
+	AE=|Rosaleen Love|
+	AS=|DitS|
+	YR=|1990|
+	TG=|7579|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Total Devotion Machine {
+	AE=|Rosaleen Love|
+	AS=|DitS|
+	YR=|1990|
+	TG=|7581|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Over the Edge {
+	AE=|Petrina Smith|
+	AS=|DitS|
+	YR=|1990|
+	TG=|11133|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+While the Gate is Open {
+	AE=|Sean McMullen|
+	AS=|DitS|
+	YR=|1991|
+	TG=|8320|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Caress {
+	AE=|Greg Egan|
+	AS=|DitS|
+	YR=|1991|
+	TG=|3996|
+	TA=|Best Australian Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Turtle Soup {
+	AE=|Rosaleen Love|
+	AS=|DitS|
+	YR=|1991|
+	TG=|7582|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+God and Her Black Sense of Humour {
+	AE=|Lucy Sussex|
+	AS=|DitS|
+	YR=|1991|
+	TG=|11693|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Red Ochre {
+	AE=|Lucy Sussex|
+	AS=|DitS|
+	YR=|1991|
+	TG=|11699|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Generation Gap {
+	AE=|George Turner|
+	AS=|DitS|
+	YR=|1991|
+	TG=|12082|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Alone in his Chariot {
+	AE=|Sean McMullen|
+	AS=|DitS|
+	YR=|1992|
+	TG=|8310|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+A Deadly Edge Their Red Beaks Pass Along {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1992|
+	TG=|3735|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Nobody's Fool {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1992|
+	TG=|3748|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Vanities {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1992|
+	TG=|3759|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Olive Truffles {
+	AE=|Leanne Frahm|
+	AS=|DitS|
+	YR=|1992|
+	TG=|4667|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Dominant Style {
+	AE=|Sean McMullen|
+	AS=|DitS|
+	YR=|1992|
+	TG=|8314|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Closer {
+	AE=|Greg Egan|
+	AS=|DitS|
+	YR=|1993|
+	TG=|3999|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Privateer's Moon {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1993|
+	TG=|3750|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Ship's Eye {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1993|
+	TG=|3755|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Worthless {
+	AE=|Greg Egan|
+	AS=|DitS|
+	YR=|1993|
+	TG=|4048|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Seas of Castle Hill Road {
+	AE=|Rick Kennett|
+	AS=|DitS|
+	YR=|1993|
+	TG=|6431|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+It's All in the Way You Look At It {
+	AE=|Michael Pryor|
+	AS=|DitS|
+	YR=|1993|
+	TG=|9490|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Catalyst {
+	AE=|Leanne Frahm|
+	AS=|DitS|
+	YR=|1994|
+	TG=|4661|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Starbaby {
+	AE=|Rosaleen Love|
+	AS=|DitS|
+	YR=|1994|
+	TG=|7580|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Lottery {
+	AE=|Lucy Sussex|
+	AS=|DitS|
+	YR=|1994|
+	TG=|11695|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Ghosts of the Fall {
+	AE=|Sean Williams|
+	AS=|DitS|
+	YR=|1994|
+	TG=|13274|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Cocoon {
+	AE=|Greg Egan|
+	AS=|DitS|
+	YR=|1995|
+	TG=|4001|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|1|
+}
+Our Lady of Chernobyl {
+	AE=|Greg Egan|
+	AS=|DitS|
+	YR=|1995|
+	TG=|4023|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Jinx Ship {
+	AE=|Leanne Frahm|
+	AS=|DitS|
+	YR=|1995|
+	TG=|4665|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Land's End {
+	AE=|Leanne Frahm|
+	AS=|DitS|
+	YR=|1995|
+	TG=|4666|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Patternmaker {
+	AE=|Dave Luckett|
+	AS=|DitS|
+	YR=|1995|
+	TG=|7603|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Schrödinger's Fridge {
+	AE=|Ian Gunn|
+	AS=|DitS|
+	YR=|1996|
+	TG=|5440|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Entropy {
+	AE=|Leanne Frahm|
+	AS=|DitS|
+	YR=|1996|
+	TG=|4664|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+A Sky Full of Ravens {
+	AE=|Sue Isle|
+	AS=|DitS|
+	YR=|1996|
+	TG=|6120|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Angel Thing {
+	AE=|Petrina Smith|
+	AS=|DitS|
+	YR=|1996|
+	TG=|11131|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+A Map of the Mines of Barnath {
+	AE=|Sean Williams|
+	AS=|DitS|
+	YR=|1996|
+	TG=|13276|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Perfect Gun {
+	AE=|Sean Williams|
+	AS=|DitS|
+	YR=|1996|
+	TG=|13279|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Sword of God {
+	AE=|Russell Blackford|
+	AS=|DitS|
+	YR=|1997|
+	TG=|15383|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Ichneumon and the Dormeuse {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|1997|
+	TG=|15391|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Borderline {
+	AE=|Leanne Frahm|
+	AS=|DitS|
+	YR=|1997|
+	TG=|15394|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Stray Cat {
+	AE=|Steven Paulsen|
+	AS=|DitS|
+	YR=|1997|
+	TG=|15404|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Niagara Falling {
+	AE=|Janeen Webb+Jack Dann|
+	AS=|DitS|
+	YR=|1998|
+	TG=|18230|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Lucent Carbon {
+	AE=|Russell Blackford|
+	AS=|DitS|
+	YR=|1998|
+	TG=|18148|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Willcroft Inheritance {
+	AE=|Rick Kennett+Paul Collins|
+	AS=|DitS|
+	YR=|1998|
+	TG=|18184|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Grievous Music {
+	AE=|Carole Nomarhas|
+	AS=|DitS|
+	YR=|1998|
+	TG=|18198|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Rank 81 = Withdrawn {
+	AE=|(********)|
+	AS=|DitS|
+	YR=|1998|
+	TG=|18139|
+	TA=|Best Short Fiction|
+	TP=|x|
+	LV=|80|
+}
+Reasons to Be Cheerful {
+	AE=|Greg Egan|
+	AS=|DitS|
+	YR=|1998|
+	TG=|18164|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|81|
+}
+The Truth About Weena {
+	AE=|David Lake|
+	AS=|DitS|
+	YR=|1999|
+	TG=|20779|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Marsh Runners {
+	AE=|Paul Brandon|
+	AS=|DitS|
+	YR=|1999|
+	TG=|20718|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Evil Within {
+	AE=|Sara Douglass|
+	AS=|DitS|
+	YR=|1999|
+	TG=|20741|
+	TA=|Best Australian Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Dream, Until God Burns {
+	AE=|Andrew Enstice|
+	AS=|DitS|
+	YR=|1999|
+	TG=|20746|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Queen of Soulmates {
+	AE=|Sean McMullen|
+	AS=|DitS|
+	YR=|1999|
+	TG=|20793|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+To Avalon {
+	AE=|Jane Routley|
+	AS=|DitS|
+	YR=|1999|
+	TG=|20803|
+	TA=|Best Australian Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Written in Blood {
+	AE=|Chris Lawson|
+	AS=|DitS|
+	YR=|2000|
+	TG=|20782|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+The Nabokov Affair {
+	AE=|Paul Collins|
+	AS=|DitS|
+	YR=|2000|
+	TG=|20730|
+	TA=|Best Short Fiction|
+	TP=|n|
+	LV=|9|
+}
+Generation X {
+	AE=|Paul Collins+Jack Wodhams|
+	AS=|DitS|
+	YR=|2000|
+	TG=|20732|
+	TA=|Best Short Fiction|
+	TP=|n|
+	LV=|9|
+}
+Ground Underfoot {
+	AE=|Robert Hood|
+	AS=|DitS|
+	YR=|2000|
+	TG=|20766|
+	TA=|Best Short Fiction|
+	TP=|n|
+	LV=|9|
+}
+Primal Etiquette {
+	AE=|Robert Hood|
+	AS=|DitS|
+	YR=|2000|
+	TG=|20767|
+	TA=|Best Short Fiction|
+	TP=|n|
+	LV=|9|
+}
+The Devotee {
+	AE=|Stephen Dedman|
+	AS=|DitS|
+	YR=|2001|
+	TG=|22096|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Saltimbanques {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|2001|
+	TG=|22100|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The First and Final Game {
+	AE=|Deborah Biancotti|
+	AS=|DitS|
+	YR=|2001|
+	TG=|22088|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The King with Three Daughters {
+	AE=|Russell Blackford|
+	AS=|DitS|
+	YR=|2001|
+	TG=|22089|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Basic Black {
+	AE=|Terry Dowling|
+	AS=|DitS|
+	YR=|2001|
+	TG=|22098|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+That Old Black Graffiti {
+	AE=|Robert Hood|
+	AS=|DitS|
+	YR=|2001|
+	TG=|22104|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Paradigm and Pattern; Form and Meaning in the Dispossessed {
+	AE=|George Turner|
+	AS=|DitR|
+	YR=|1976|
+	TG=|12092|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+Foundation & Asimov {
+	AE=|Algis Budrys|
+	AS=|DitR|
+	YR=|1976|
+	TG=|1896|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Alternate Worlds: The Illustrated History of Science Fiction {
+	AE=|James E. Gunn|
+	AS=|DitR|
+	YR=|1976|
+	TG=|5444|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|aa|
+	LV=|9|
+}
+New Worlds for Old {
+	AE=|David Ketterer|
+	AS=|DitR|
+	YR=|1976|
+	TG=|6473|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Philip Dick By 1975 {
+	AE=|George Turner|
+	AS=|DitR|
+	YR=|1976|
+	TG=|12093|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+The Jonah Kit {
+	AE=|George Turner|
+	AS=|DitR|
+	YR=|1977|
+	TG=|12089|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+Theme as an Element of Fiction {
+	AE=|George Turner|
+	AS=|DitR|
+	YR=|1977|
+	TG=|12097|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Plumbers of the Cosmos {
+	AE=|George Turner+Peter Nichols|
+	AS=|DitR|
+	YR=|1977|
+	TG=|12101|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+The Novels of D.G. Compton {
+	AE=|Andrew Whitmore|
+	AS=|DitR|
+	YR=|1978|
+	TG=|13175|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+Review of 'Going' {
+	AE=|Van Ikin|
+	AS=|DitR|
+	YR=|1978|
+	TG=|6094|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Science Fiction: History Science Vision O.U.P {
+	AE=|Robert Scholes+Eric S. Rabkin|
+	AS=|DitR|
+	YR=|1978|
+	TG=|10406|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|aa|
+	LV=|9|
+}
+The Martial Art of SF Criticism {
+	AE=|George Turner|
+	AS=|DitR|
+	YR=|1978|
+	TG=|12090|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+The Silverberg Phenomenon {
+	AE=|George Turner|
+	AS=|DitR|
+	YR=|1978|
+	TG=|12096|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Women and Science Fiction {
+	AE=|Susan Wood|
+	AS=|DitR|
+	YR=|1979|
+	TG=|13719|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+Parergon Papers 10 {
+	AE=|John Bangsund|
+	AS=|DitR|
+	YR=|1979|
+	TG=|775|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+The Morasses of Academe Revisited {
+	AE=|Lloyd Biggle, Jr.|
+	AS=|DitR|
+	YR=|1979|
+	TG=|1188|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+On the Ebb Tide of the New Wave {
+	AE=|John McPharlin|
+	AS=|DitR|
+	YR=|1979|
+	TG=|8326|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Paradox as Paradigm: A Review of the Chronicles of Thomas Covenant the Unbeliever {
+	AE=|Jack R. Herman|
+	AS=|DitR|
+	YR=|1980|
+	TG=|5881|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+The Art of Xenography {
+	AE=|Terry Dowling|
+	AS=|DitR|
+	YR=|1980|
+	TG=|3730|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+By Our Fruits {
+	AE=|Bruce Gillespie|
+	AS=|DitR|
+	YR=|1980|
+	TG=|5034|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+The Man Who Filled the Void {
+	AE=|Bruce Gillespie|
+	AS=|DitR|
+	YR=|1980|
+	TG=|5037|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Delany: A Victim of Great Applause {
+	AE=|George Turner|
+	AS=|DitR|
+	YR=|1980|
+	TG=|12074|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Frederik Pohl as a Creator of Future Societies {
+	AE=|George Turner|
+	AS=|DitR|
+	YR=|1981|
+	TG=|12081|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+Charting Paradise {
+	AE=|Algis Budrys|
+	AS=|DitR|
+	YR=|1981|
+	TG=|1894|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Outside the Whale {
+	AE=|Christopher Priest|
+	AS=|DitR|
+	YR=|1981|
+	TG=|9444|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Four Reasons for Reading Thomas M. Disch {
+	AE=|John Sladek|
+	AS=|DitR|
+	YR=|1981|
+	TG=|11051|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Sing a Song of Daniel {
+	AE=|Bruce Gillespie|
+	AS=|DitR|
+	YR=|1982|
+	TG=|5055|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+The Lately Great Alfred Bester {
+	AE=|Damien Broderick|
+	AS=|DitR|
+	YR=|1982|
+	TG=|1721|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+The Labor Day Group {
+	AE=|Thomas M. Disch|
+	AS=|DitR|
+	YR=|1982|
+	TG=|3648|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Kirth Gersen: The Other Demon Prince {
+	AE=|Terry Dowling|
+	AS=|DitR|
+	YR=|1983|
+	TG=|3742|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+The Lever of Life: Winning and Losing in the Fiction of Cordwainer Smith {
+	AE=|Terry Dowling|
+	AS=|DitR|
+	YR=|1983|
+	TG=|3744|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+SF Commentary - The First Year {
+	AE=|Bruce Gillespie|
+	AS=|DitR|
+	YR=|1983|
+	TG=|5054|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|fz|
+	LV=|9|
+}
+No Award {
+	AE=|(********)|
+	AS=|DitR|
+	YR=|1984|
+	TG=|7|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|x|
+	LV=|1|
+}
+In the Heart or in the Head: An Essay in Time Travel {
+	AE=|George Turner|
+	AS=|DitR|
+	YR=|1985|
+	TG=|12087|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+SF Reviews in The Australian {
+	AE=|John Baxter|
+	AS=|DitR|
+	YR=|1985|
+	TG=|923|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+SF Reviews in The Age {
+	AE=|Damien Broderick|
+	AS=|DitR|
+	YR=|1985|
+	TG=|1725|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Article on George Turner {
+	AE=|John Foyster|
+	AS=|DitR|
+	YR=|1985|
+	TG=|4648|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Neuromancer, et al {
+	AE=|George Turner|
+	AS=|DitR|
+	YR=|1986|
+	TG=|12091|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+unknown {
+	AE=|Russell Blackford|
+	AS=|DitR|
+	YR=|1986|
+	TG=|1354|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+unknown {
+	AE=|Yvonne Rousseau|
+	AS=|DitR|
+	YR=|1986|
+	TG=|9971|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+unknown {
+	AE=|Norman Talbot|
+	AS=|DitR|
+	YR=|1986|
+	TG=|11805|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Debased and Lascivious {
+	AE=|Russell Blackford|
+	AS=|DitR|
+	YR=|1987|
+	TG=|1358|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+unknown {
+	AE=|Dave Luckett|
+	AS=|DitR|
+	YR=|1987|
+	TG=|7602|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+unknown {
+	AE=|Michael J. Tolley|
+	AS=|DitR|
+	YR=|1987|
+	TG=|12026|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Frank's Tank {
+	AE=|Margaret Winch|
+	AS=|DitR|
+	YR=|1987|
+	TG=|13509|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Mirror Reversals and the Tolkien Writing Game {
+	AE=|Van Ikin|
+	AS=|DitR|
+	YR=|1988|
+	TG=|6093|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+Deconstructing the Demon: John Calvin Batchelor's Novels {
+	AE=|Russell Blackford|
+	AS=|DitR|
+	YR=|1988|
+	TG=|1359|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+A Prefilmic, Post-Poststructurialist Prostruction of ALIEN/ALIENS 3 {
+	AE=|Richard Erlich+Peter Hall|
+	AS=|DitR|
+	YR=|1988|
+	TG=|4271|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Review of TRILLION YEAR SPREE {
+	AE=|John Foyster|
+	AS=|DitR|
+	YR=|1988|
+	TG=|4655|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Structural Analysis of SF. Why? {
+	AE=|Susan Margaret|
+	AS=|DitR|
+	YR=|1988|
+	TG=|7807|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+I Know Who I Am, But What Is My Brand Name? {
+	AE=|Janeen Webb|
+	AS=|DitR|
+	YR=|1988|
+	TG=|12989|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Australian Science Fiction Review (Articles) {
+	AE=|Russell Blackford|
+	AS=|DitR|
+	YR=|1989|
+	TG=|1356|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+Counter Earth/Counter Humanity {
+	AE=|Martin Bridgestock|
+	AS=|DitR|
+	YR=|1989|
+	TG=|1649|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Sea & Summer {
+	AE=|Martin Bridgestock|
+	AS=|DitR|
+	YR=|1989|
+	TG=|1650|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Australian Science Fiction Review (Articles) {
+	AE=|Janeen Webb|
+	AS=|DitR|
+	YR=|1989|
+	TG=|12988|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Speaker for the Dead {
+	AE=|Arthur Webster|
+	AS=|DitR|
+	YR=|1989|
+	TG=|12998|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Insufficient Nominations - Not on ballot {
+	AE=|(********)|
+	AS=|DitR|
+	YR=|1990|
+	TG=|47|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|x|
+	LV=|72|
+}
+The Non-SF Novels of Philip K. Dick {
+	AE=|Bruce Gillespie|
+	AS=|DitR|
+	YR=|1991|
+	TG=|5041|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+Analogues of Anomie: Lee Harding's Novels {
+	AE=|Russell Blackford|
+	AS=|DitR|
+	YR=|1991|
+	TG=|1355|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Fantastic World (reviews in the Melbourne Sunday Herald) {
+	AE=|Peter Nicholls|
+	AS=|DitR|
+	YR=|1991|
+	TG=|8710|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Reviews (in Ethel the Aardvark and SF Commentary) {
+	AE=|Alan Stewart|
+	AS=|DitR|
+	YR=|1991|
+	TG=|11514|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Going Commercial {
+	AE=|Sean McMullen|
+	AS=|DitR|
+	YR=|1992|
+	TG=|8316|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+Jonathan Carroll, Storyteller {
+	AE=|Bruce Gillespie|
+	AS=|DitR|
+	YR=|1992|
+	TG=|5036|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Review of the Fantastic Civil War {
+	AE=|Blair Ramage|
+	AS=|DitR|
+	YR=|1992|
+	TG=|9510|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Australian SF Art Turns 50 {
+	AE=|Sean McMullen|
+	AS=|DitR|
+	YR=|1993|
+	TG=|8311|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+Five Go Camping with 12-01 Club {
+	AE=|Paul Ewings|
+	AS=|DitR|
+	YR=|1993|
+	TG=|4306|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+James Morrow and the Erni {
+	AE=|Bruce Gillespie|
+	AS=|DitR|
+	YR=|1993|
+	TG=|5035|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+From SFantasy to Galileo {
+	AE=|Sean McMullen|
+	AS=|DitR|
+	YR=|1993|
+	TG=|8315|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Reviews in Ethel the Aardvark {
+	AE=|Karen Pender-Gunn|
+	AS=|DitR|
+	YR=|1993|
+	TG=|9107|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+SF Sucks {
+	AE=|James Allen|
+	AS=|DitR|
+	YR=|1994|
+	TG=|305|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+Silverberg Not Moving {
+	AE=|Damien Broderick|
+	AS=|DitR|
+	YR=|1994|
+	TG=|1726|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Five Bikers of the Apocalypse {
+	AE=|Leigh Edmonds|
+	AS=|DitR|
+	YR=|1994|
+	TG=|3938|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|DitR|
+	YR=|1995|
+	TG=|28|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|x|
+	LV=|73|
+}
+The Hunt for Australian Horror Fiction {
+	AE=|Bill Congreve+Sean McMullen+Steven Paulsen|
+	AS=|DitR|
+	YR=|1996|
+	TG=|2938|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+Reading By Starlight {
+	AE=|Damien Broderick|
+	AS=|DitR|
+	YR=|1996|
+	TG=|1723|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+reviews in Thyme {
+	AE=|Alan Stewart|
+	AS=|DitR|
+	YR=|1997|
+	TG=|15407|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+The Tiger in the Prison House (Science Fiction #37); Reviews of "Distress" (Science Fiction and NYRSF); Jewels in Junk City (Review of Contemporary Fiction) {
+	AE=|Russell Blackford|
+	AS=|DitR|
+	YR=|1997|
+	TG=|15382|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Post Human SF; Lost in Cyberspace (The Festival of Imagination Programme Book) {
+	AE=|Janeen Webb|
+	AS=|DitR|
+	YR=|1997|
+	TG=|15415|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Australia: Australian Contemporary Fantasy (in Encyclopedia of Fantasy) {
+	AE=|Sean McMullen+Steven Paulsen|
+	AS=|DitR|
+	YR=|1998|
+	TG=|18190|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|1|
+}
+for X-files episode reviews in Frontier {
+	AE=|Katharine Maxwell+Darren Maxwell|
+	AS=|DitR|
+	YR=|1998|
+	TG=|18188|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+The MUP Encyclopaedia of Australian Science Fiction & Fantasy {
+	AE=|Paul Collins+Sean McMullen+Steven Paulsen|
+	AS=|DitR|
+	YR=|1999|
+	TG=|20728|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|en|
+	LV=|1|
+}
+reviews in The New York Review of Science Fiction {
+	AE=|Damien Broderick|
+	AS=|DitR|
+	YR=|1999|
+	TG=|20719|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|nf|
+	LV=|9|
+}
+Contributions to the MUP Encyclopaedia of Australian Science Fiction & Fantasy {
+	AE=|Steven Paulsen|
+	AS=|DitR|
+	YR=|1999|
+	TG=|20798|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|nf|
+	LV=|9|
+}
+reviews in Locus {
+	AE=|Jonathan Strahan|
+	AS=|DitR|
+	YR=|1999|
+	TG=|20819|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|nf|
+	LV=|9|
+}
+Aliens & Savages {
+	AE=|Janeen Webb+Andrew Enstice|
+	AS=|DitR|
+	YR=|1999|
+	TG=|20828|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|nf|
+	LV=|9|
+}
+No Axis No Boundary (In Altair 1) {
+	AE=|Sean Williams+Simon Brown|
+	AS=|DitR|
+	YR=|1999|
+	TG=|20832|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+Strange Constellations: A History of Australian Science Fiction {
+	AE=|Russell Blackford+Van Ikin+Sean McMullen|
+	AS=|DitR|
+	YR=|2000|
+	TG=|20716|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|nf|
+	LV=|1|
+}
+Women of Other Worlds {
+	AE=|Helen Merrick+Tess Williams|
+	AS=|DitR|
+	YR=|2000|
+	TG=|20833|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|nf|
+	LV=|1|
+}
+Writings in iam Website {
+	AE=|Robert Hood|
+	AS=|DitR|
+	YR=|2000|
+	TG=|20768|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|nf|
+	LV=|9|
+}
+reviews in Locus {
+	AE=|Jonathan Strahan|
+	AS=|DitR|
+	YR=|2000|
+	TG=|20820|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|nf|
+	LV=|9|
+}
+The Coode Street Review of Science Fiction {
+	AE=|Jonathan Strahan+Steven Paulsen|
+	AS=|DitR|
+	YR=|2000|
+	TG=|20822|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|fz|
+	LV=|9|
+}
+Time Travel, Timescapes and Timescape {
+	AE=|Russell Blackford|
+	AS=|DitR|
+	YR=|2001|
+	TG=|22090|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|nf|
+	LV=|9|
+}
+Transrealist Fiction: Writing in the Slipstream of Science {
+	AE=|Damien Broderick|
+	AS=|DitR|
+	YR=|2001|
+	TG=|22091|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|nf|
+	LV=|9|
+}
+The Unrelenting Gaze (SF Commentary 76) {
+	AE=|Bruce Gillespie|
+	AS=|DitR|
+	YR=|2001|
+	TG=|22102|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|e|
+	LV=|9|
+}
+reviews in Locus {
+	AE=|Jonathan Strahan|
+	AS=|DitR|
+	YR=|2001|
+	TG=|22114|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|nf|
+	LV=|9|
+}
+Waking Henson: A Jim Henson Retrospective (Presentation) {
+	AE=|Grant Watson+Simon Oxwell|
+	AS=|DitR|
+	YR=|2001|
+	TG=|22122|
+	TA=|William Atheling, Jr. Award for Criticism or Review|
+	TP=|ev|
+	LV=|9|
+}
+New Adventures in Sci-Fi {
+	AE=|Sean Williams|
+	AS=|DitC|
+	YR=|2000|
+	TG=|20830|
+	TA=|Best Collected Work|
+	TP=|a|
+	LV=|1|
+}
+Spinouts! {
+	AE=|Paul Collins+Meredith Costain|
+	AS=|DitC|
+	YR=|2000|
+	TG=|20731|
+	TA=|Best Collected Work|
+	TP=|a|
+	LV=|9|
+}
+The Lady of Situations {
+	AE=|Stephen Dedman|
+	AS=|DitC|
+	YR=|2000|
+	TG=|20740|
+	TA=|Best Collected Work|
+	TP=|c|
+	LV=|9|
+}
+Antique Futures: The Best of Terry Dowling {
+	AE=|Terry Dowling|
+	AS=|DitC|
+	YR=|2000|
+	TG=|20743|
+	TA=|Best Collected Work|
+	TP=|c|
+	LV=|9|
+}
+Centaurus: The Best of Australian Science Fiction {
+	AE=|David G. Hartwell+Damien Broderick|
+	AS=|DitC|
+	YR=|2000|
+	TG=|20761|
+	TA=|Best Collected Work|
+	TP=|a|
+	LV=|9|
+}
+Blackwater Days {
+	AE=|Terry Dowling|
+	AS=|DitC|
+	YR=|2001|
+	TG=|22099|
+	TA=|Best Collected Work|
+	TP=|c|
+	LV=|1|
+}
+Tales from the Wasteland {
+	AE=|Paul Collins|
+	AS=|DitC|
+	YR=|2001|
+	TG=|22093|
+	TA=|Best Collected Work|
+	TP=|c|
+	LV=|9|
+}
+Spinouts - Bronze {
+	AE=|Paul Collins+Meredith Costain|
+	AS=|DitC|
+	YR=|2001|
+	TG=|22094|
+	TA=|Best Collected Work|
+	TP=|a|
+	LV=|9|
+}
+White Time {
+	AE=|Margo Lanagan|
+	AS=|DitC|
+	YR=|2001|
+	TG=|22106|
+	TA=|Best Collected Work|
+	TP=|c|
+	LV=|9|
+}
+Dreaming Down-Under {
+	AE=|Jack Dann+Janeen Webb|
+	AS=|DitG|
+	YR=|1999|
+	TG=|20736|
+	TA=|Best Australian Magazine or Anthology|
+	TP=|a|
+	LV=|1|
+}
+Fantastic Worlds {
+	AE=|Paul Collins|
+	AS=|DitG|
+	YR=|1999|
+	TG=|20727|
+	TA=|Best Australian Magazine or Anthology|
+	TP=|nf|
+	LV=|9|
+}
+The MUP Encyclopaedia of Australian Science Fiction & Fantasy {
+	AE=|Paul Collins+Sean McMullen+Steven Paulsen|
+	AS=|DitG|
+	YR=|1999|
+	TG=|20729|
+	TA=|Best Australian Magazine or Anthology|
+	TP=|en|
+	LV=|9|
+}
+Aurealis: The Australian Magazine of Fantasy and Science Fiction {
+	AE=|Paul Higgins+Dirk Strasser|
+	AS=|DitG|
+	YR=|1999|
+	TG=|20764|
+	TA=|Best Australian Magazine or Anthology|
+	TP=|mz|
+	LV=|9|
+}
+Altair {
+	AE=|Robert N. Stephenson|
+	AS=|DitG|
+	YR=|1999|
+	TG=|20814|
+	TA=|Best Australian Magazine or Anthology|
+	TP=|mz|
+	LV=|9|
+}
+Eidolon: The Journal of Australian Science Fiction and Fantasy {
+	AE=|Jonathan Strahan+Jeremy G. Byrne|
+	AS=|DitG|
+	YR=|1999|
+	TG=|20821|
+	TA=|Best Australian Magazine or Anthology|
+	TP=|mz|
+	LV=|9|
+}
+untitled {
+	AE=|Marilyn Pride|
+	AS=|DitA|
+	YR=|1980|
+	TG=|9426|
+	TA=|Best Australian Fantasy/SF Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Bevan Casey|
+	AS=|DitA|
+	YR=|1980|
+	TG=|2498|
+	TA=|Best Australian Fantasy/SF Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Chris Johnston|
+	AS=|DitA|
+	YR=|1980|
+	TG=|6214|
+	TA=|Best Australian Fantasy/SF Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Rob McGough|
+	AS=|DitA|
+	YR=|1980|
+	TG=|8182|
+	TA=|Best Australian Fantasy/SF Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|John Packer|
+	AS=|DitA|
+	YR=|1980|
+	TG=|8986|
+	TA=|Best Australian Fantasy/SF Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jane Taubman|
+	AS=|DitA|
+	YR=|1980|
+	TG=|11820|
+	TA=|Best Australian Fantasy/SF Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Marilyn Pride|
+	AS=|DitA|
+	YR=|1981|
+	TG=|9427|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|John Packer|
+	AS=|DitA|
+	YR=|1981|
+	TG=|8987|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jane Taubman|
+	AS=|DitA|
+	YR=|1981|
+	TG=|11821|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Julie Vaux|
+	AS=|DitA|
+	YR=|1981|
+	TG=|12681|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Marilyn Pride|
+	AS=|DitA|
+	YR=|1982|
+	TG=|9430|
+	TA=|Best SF or Fantasy Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Steph Campbell|
+	AS=|DitA|
+	YR=|1982|
+	TG=|2230|
+	TA=|Best SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Chris Johnston|
+	AS=|DitA|
+	YR=|1982|
+	TG=|6217|
+	TA=|Best SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|John Packer|
+	AS=|DitA|
+	YR=|1982|
+	TG=|8992|
+	TA=|Best SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Marilyn Pride|
+	AS=|DitA|
+	YR=|1983|
+	TG=|9428|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Kerrie Hanlon|
+	AS=|DitA|
+	YR=|1983|
+	TG=|5608|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Chris Johnston|
+	AS=|DitA|
+	YR=|1983|
+	TG=|6215|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Nick Stathopoulos|
+	AS=|DitA|
+	YR=|1983|
+	TG=|11360|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Nick Stathopoulos|
+	AS=|DitA|
+	YR=|1984|
+	TG=|11361|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Neville Bain|
+	AS=|DitA|
+	YR=|1984|
+	TG=|723|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Steph Campbell|
+	AS=|DitA|
+	YR=|1984|
+	TG=|2229|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael Dutkiewicz|
+	AS=|DitA|
+	YR=|1984|
+	TG=|3885|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Chris Johnston|
+	AS=|DitA|
+	YR=|1984|
+	TG=|6216|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Nick Stathopoulos|
+	AS=|DitA|
+	YR=|1985|
+	TG=|11362|
+	TA=|Best Australian SF or Fantasy Artist, Cartoonist or Illustrator|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Kerrie Hanlon|
+	AS=|DitA|
+	YR=|1985|
+	TG=|5609|
+	TA=|Best Australian SF or Fantasy Artist, Cartoonist or Illustrator|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Craig Hilton|
+	AS=|DitA|
+	YR=|1985|
+	TG=|5902|
+	TA=|Best Australian SF or Fantasy Artist, Cartoonist or Illustrator|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Peter Reading|
+	AS=|DitA|
+	YR=|1985|
+	TG=|9543|
+	TA=|Best Australian SF or Fantasy Artist, Cartoonist or Illustrator|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Nick Stathopoulos|
+	AS=|DitA|
+	YR=|1986|
+	TG=|11363|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Betty de Gabrielle|
+	AS=|DitA|
+	YR=|1986|
+	TG=|3324|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Craig Hilton|
+	AS=|DitA|
+	YR=|1986|
+	TG=|5903|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Lewis Morley|
+	AS=|DitA|
+	YR=|1986|
+	TG=|8523|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|John Packer|
+	AS=|DitA|
+	YR=|1986|
+	TG=|8988|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Marilyn Pride|
+	AS=|DitA|
+	YR=|1986|
+	TG=|9429|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Craig Hilton|
+	AS=|DitA|
+	YR=|1987|
+	TG=|5904|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Betty de Gabrielle|
+	AS=|DitA|
+	YR=|1987|
+	TG=|3325|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Kerrie Hanlon|
+	AS=|DitA|
+	YR=|1987|
+	TG=|5610|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|John Packer|
+	AS=|DitA|
+	YR=|1987|
+	TG=|8989|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Nick Stathopoulos|
+	AS=|DitA|
+	YR=|1987|
+	TG=|11364|
+	TA=|Best Australian SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Nick Stathopoulos|
+	AS=|DitA|
+	YR=|1992|
+	TG=|11365|
+	TA=|Best SF or Fantasy Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|DitA|
+	YR=|1992|
+	TG=|5423|
+	TA=|Best SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Craig Hilton|
+	AS=|DitA|
+	YR=|1992|
+	TG=|5905|
+	TA=|Best SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Phil Wlodarczyk|
+	AS=|DitA|
+	YR=|1992|
+	TG=|13554|
+	TA=|Best SF or Fantasy Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|John Packer|
+	AS=|DitAC|
+	YR=|1983|
+	TG=|8990|
+	TA=|Best Australian SF or Fantasy Cartoonist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Terry Frost|
+	AS=|DitAC|
+	YR=|1983|
+	TG=|4775|
+	TA=|Best Australian SF or Fantasy Cartoonist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael McGann|
+	AS=|DitAC|
+	YR=|1983|
+	TG=|8174|
+	TA=|Best Australian SF or Fantasy Cartoonist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jane Taubman|
+	AS=|DitAC|
+	YR=|1983|
+	TG=|11822|
+	TA=|Best Australian SF or Fantasy Cartoonist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Julie Vaux|
+	AS=|DitAC|
+	YR=|1983|
+	TG=|12682|
+	TA=|Best Australian SF or Fantasy Cartoonist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|John Packer|
+	AS=|DitAC|
+	YR=|1984|
+	TG=|8991|
+	TA=|Best Australian SF or Fantasy Cartoonist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Bill Flowers|
+	AS=|DitAC|
+	YR=|1984|
+	TG=|4531|
+	TA=|Best Australian SF or Fantasy Cartoonist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Terry Frost|
+	AS=|DitAC|
+	YR=|1984|
+	TG=|4776|
+	TA=|Best Australian SF or Fantasy Cartoonist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Craig Hilton|
+	AS=|DitAC|
+	YR=|1984|
+	TG=|5906|
+	TA=|Best Australian SF or Fantasy Cartoonist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael McGann|
+	AS=|DitAC|
+	YR=|1984|
+	TG=|8175|
+	TA=|Best Australian SF or Fantasy Cartoonist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Clint Strickland|
+	AS=|DitAC|
+	YR=|1984|
+	TG=|11630|
+	TA=|Best Australian SF or Fantasy Cartoonist|
+	TP=|ar|
+	LV=|9|
+}
+Cover (Blue Tyson by Terry Dowling) {
+	AE=|Nick Stathopoulos|
+	AS=|DitAW|
+	YR=|1993|
+	TG=|11367|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|1|
+}
+Fanimals {
+	AE=|Ian Gunn|
+	AS=|DitAW|
+	YR=|1993|
+	TG=|5439|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Space Time Buckaneers {
+	AE=|Ian Gunn|
+	AS=|DitAW|
+	YR=|1993|
+	TG=|5441|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|9|
+}
+1992 Ditmar Award {
+	AE=|Lewis Morley|
+	AS=|DitAW|
+	YR=|1993|
+	TG=|8525|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Relics {
+	AE=|Shaun Tan|
+	AS=|DitAW|
+	YR=|1993|
+	TG=|11809|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Snowman {
+	AE=|Leisl Yvette|
+	AS=|DitAW|
+	YR=|1993|
+	TG=|13825|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Twilight Beach by Terry Dowling) {
+	AE=|Nick Stathopoulos|
+	AS=|DitAW|
+	YR=|1994|
+	TG=|11368|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|1|
+}
+Galaxy Bookshop Dragon {
+	AE=|Lewis Morley|
+	AS=|DitAW|
+	YR=|1994|
+	TG=|8526|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Artwork in Aurealis and Eidolon {
+	AE=|Shaun Tan|
+	AS=|DitAW|
+	YR=|1995|
+	TG=|11807|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Eidolon 19) {
+	AE=|Shaun Tan|
+	AS=|DitAW|
+	YR=|1996|
+	TG=|11808|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Thyme 106) {
+	AE=|Ian Gunn|
+	AS=|DitAW|
+	YR=|1996|
+	TG=|5438|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Cover (An Intimate Knowledge of the Night by Terry Dowling) {
+	AE=|Nick Stathopoulos|
+	AS=|DitAW|
+	YR=|1996|
+	TG=|11366|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Dreamweavers by Paul Collins) {
+	AE=|Elizabeth Kyle|
+	AS=|DitAW|
+	YR=|1997|
+	TG=|15402|
+	TA=|Best Professional Artwork|
+	TP=|aw|
+	LV=|1|
+}
+Interior (Aurealis 17+Eidolon 22+Eidolon 23) {
+	AE=|Trudy Canavan|
+	AS=|DitAW|
+	YR=|1997|
+	TG=|15385|
+	TA=|Best Professional Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Mr Squiggle (ABC TV) {
+	AE=|Norm Hetherington+Margaret Hetherington|
+	AS=|DitAW|
+	YR=|1997|
+	TG=|15399|
+	TA=|Best Professional Artwork|
+	TP=|tvs|
+	LV=|9|
+}
+Cover (The Stray Cat by Steven Paulsen) {
+	AE=|Shaun Tan|
+	AS=|DitAW|
+	YR=|1997|
+	TG=|15410|
+	TA=|Best Professional Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Eidolon) {
+	AE=|Shaun Tan|
+	AS=|DitAW|
+	YR=|1997|
+	TG=|15411|
+	TA=|Best Professional Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Australian Realms 28) Valdo Over Evora {
+	AE=|Jason Towers|
+	AS=|DitAW|
+	YR=|1997|
+	TG=|15412|
+	TA=|Best Professional Artwork|
+	TP=|aw|
+	LV=|9|
+}
+untitled {
+	AE=|Nick Stathopoulos|
+	AS=|DitAW|
+	YR=|1998|
+	TG=|18218|
+	TA=|Best Artwork or Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Robert Jan|
+	AS=|DitAW|
+	YR=|1998|
+	TG=|18179|
+	TA=|Best Artwork or Artist|
+	TP=|ar|
+	LV=|9|
+}
+Shivers Series {
+	AE=|Mack McBride|
+	AS=|DitAW|
+	YR=|1998|
+	TG=|18189|
+	TA=|Best Artwork or Artist|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Eidolon) {
+	AE=|R & D Studios|
+	AS=|DitAW|
+	YR=|1998|
+	TG=|18206|
+	TA=|Best Artwork or Artist|
+	TP=|aw|
+	LV=|9|
+}
+The Viewer {
+	AE=|Shaun Tan|
+	AS=|DitAW|
+	YR=|1998|
+	TG=|18223|
+	TA=|Best Artwork or Artist|
+	TP=|aw|
+	LV=|9|
+}
+untitled {
+	AE=|Kerri Valkova|
+	AS=|DitAW|
+	YR=|1998|
+	TG=|18229|
+	TA=|Best Artwork or Artist|
+	TP=|ar|
+	LV=|9|
+}
+Cover (The Man Who Melted by Jack Dann) {
+	AE=|Nick Stathopoulos|
+	AS=|DitAW|
+	YR=|1999|
+	TG=|20813|
+	TA=|Best Professional Artwork|
+	TP=|aw|
+	LV=|1|
+}
+Cover (A View Before Dying) {
+	AE=|Emma Barber|
+	AS=|DitAW|
+	YR=|1999|
+	TG=|20712|
+	TA=|Best Professional Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Cannibals of the Fine Light) {
+	AE=|Emma Barber|
+	AS=|DitAW|
+	YR=|1999|
+	TG=|20713|
+	TA=|Best Professional Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Fantastic Worlds) {
+	AE=|Marc McBride|
+	AS=|DitAW|
+	YR=|1999|
+	TG=|20789|
+	TA=|Best Professional Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Aussiecon Three Progress Reports {
+	AE=|Marilyn Pride|
+	AS=|DitAW|
+	YR=|1999|
+	TG=|20800|
+	TA=|Best Professional Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Dreaming Down-Under by Jack Dann & Janeen Webb) {
+	AE=|Nick Stathopoulos|
+	AS=|DitAW|
+	YR=|1999|
+	TG=|20812|
+	TA=|Best Professional Artwork|
+	TP=|aw|
+	LV=|9|
+}
+The Rabbits {
+	AE=|Shaun Tan|
+	AS=|DitAW|
+	YR=|1999|
+	TG=|20825|
+	TA=|Best Professional Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Coode Street Review of Science Fiction) {
+	AE=|Shaun Tan|
+	AS=|DitAW|
+	YR=|2000|
+	TG=|20824|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|1|
+}
+Covers (Spinouts!) {
+	AE=|Marc McBride|
+	AS=|DitAW|
+	YR=|2000|
+	TG=|20790|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Aussiecon 3 Programme Book) {
+	AE=|Nick Stathopoulos|
+	AS=|DitAW|
+	YR=|2000|
+	TG=|20810|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|DitAW|
+	YR=|2000|
+	TG=|20234|
+	TA=|Best Artwork|
+	TP=|x|
+	LV=|80|
+}
+Cover (Dreaming Down-Under, Volume 2) {
+	AE=|Nick Stathopoulos|
+	AS=|DitAW|
+	YR=|2000|
+	TG=|20811|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|85|
+}
+The Lost Thing {
+	AE=|Shaun Tan|
+	AS=|DitAW|
+	YR=|2001|
+	TG=|22115|
+	TA=|Best Artwork|
+	TP=|ac|
+	LV=|1|
+}
+Cover (Spinouts - Bronze by Paul Collins & Meredith Costain) {
+	AE=|Marc McBride|
+	AS=|DitAW|
+	YR=|2001|
+	TG=|22107|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Tales from the Wasteland by Paul Collins) {
+	AE=|Marc McBride|
+	AS=|DitAW|
+	YR=|2001|
+	TG=|22108|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Australia Post Space Stamp Issue {
+	AE=|Otto Schmidinger|
+	AS=|DitAW|
+	YR=|2001|
+	TG=|22112|
+	TA=|Best Artwork|
+	TP=|aw|
+	LV=|9|
+}
+Aussiefan {
+	AE=|Unknown-Movie|
+	AS=|DitD|
+	YR=|1973|
+	TG=|12276|
+	TA=|Best Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+A Clockwork Orange {
+	AE=|Anthony Burgess+Stanley Kubrick|
+	MV=|Clockwork Orange, A (1971)|
+	AS=|DitD|
+	YR=|1973|
+	TG=|12308|
+	TA=|Best Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Tales from the Crypt {
+	AE=|Johnny Craig+Al Feldstein+Bill Gaines+Milton Subotsky|
+	MV=|Tales from the Crypt (1972)|
+	AS=|DitD|
+	YR=|1973|
+	TG=|12507|
+	TA=|Best Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Slaughterhouse Five {
+	AE=|Stephen Geller+Kurt Vonnegut, Jr.|
+	MV=|Slaughterhouse Five (1972)|
+	AS=|DitD|
+	YR=|1973|
+	TG=|12423|
+	TA=|Best Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Kindred Spirits {
+	AE=|ABC|
+	AS=|DitD|
+	YR=|1985|
+	TG=|193|
+	TA=|Best Australian SF or Fantasy Dramatic Presentation|
+	TP=|tvs|
+	LV=|1|
+}
+Iceman (direction) {
+	AE=|Fred Schepisi|
+	MV=|Iceman (1984)|
+	AS=|DitD|
+	YR=|1985|
+	TG=|10311|
+	TA=|Best Australian SF or Fantasy Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Iceman (Musical score) {
+	AE=|Bruce Smeaton|
+	MV=|Iceman (1984)|
+	AS=|DitD|
+	YR=|1985|
+	TG=|11065|
+	TA=|Best Australian SF or Fantasy Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Thief of Sydney {
+	AE=|Unknown-Movie|
+	AS=|DitD|
+	YR=|1985|
+	TG=|12440|
+	TA=|Best Australian SF or Fantasy Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Beach Blanket Tempest {
+	AE=|Unknown-Play|
+	AS=|DitD|
+	YR=|1985|
+	TG=|12286|
+	TA=|Best Australian SF or Fantasy Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Boiling Frog {
+	AE=|Unknown-Play|
+	AS=|DitD|
+	YR=|1985|
+	TG=|12295|
+	TA=|Best Australian SF or Fantasy Dramatic Presentation|
+	TP=|dp|
+	LV=|9|
+}
+Spellbinder 2 {
+	AE=|9 Network|
+	AS=|DitD|
+	YR=|1998|
+	TG=|18141|
+	TA=|Best Dramatic Presentation|
+	TP=|tve|
+	LV=|1|
+}
+Degree Absolute {
+	AE=|Bedlam Theatre Company|
+	AS=|DitD|
+	YR=|1998|
+	TG=|18146|
+	TA=|Best Dramatic Presentation|
+	TP=|dp|
+	LV=|9|
+}
+Multiverse Ceremonies Video {
+	AE=|Unknown-TV-Episode|
+	AS=|DitD|
+	YR=|1998|
+	TG=|18226|
+	TA=|Best Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Insufficient Nominations - Category Cancelled {
+	AE=|(********)|
+	AS=|DitD|
+	YR=|1999|
+	TG=|20707|
+	TA=|Best Dramatic Presentation|
+	TP=|x|
+	LV=|72|
+}
+untitled {
+	AE=|Van Ikin|
+	AS=|DitE|
+	YR=|1983|
+	TG=|6086|
+	TA=|Best Australian SF or Fantasy Editor|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Neville J. Angove|
+	AS=|DitE|
+	YR=|1983|
+	TG=|432|
+	TA=|Best Australian SF or Fantasy Editor|
+	TP=|ed|
+	LV=|9|
+}
+untitled {
+	AE=|Mervyn R. Binns|
+	AS=|DitE|
+	YR=|1983|
+	TG=|1195|
+	TA=|Best Australian SF or Fantasy Editor|
+	TP=|ed|
+	LV=|9|
+}
+untitled {
+	AE=|Ron L. Clarke|
+	AS=|DitE|
+	YR=|1983|
+	TG=|2830|
+	TA=|Best Australian SF or Fantasy Editor|
+	TP=|ed|
+	LV=|9|
+}
+untitled {
+	AE=|Paul Collins|
+	AS=|DitE|
+	YR=|1983|
+	TG=|2905|
+	TA=|Best Australian SF or Fantasy Editor|
+	TP=|ed|
+	LV=|9|
+}
+Norstrilia Press {
+	AE=|Rob Gerrand+Bruce Gillespie+Carey Handfield|
+	AS=|DitE|
+	YR=|1983|
+	TG=|8857|
+	TA=|Best Australian SF or Fantasy Editor|
+	TP=|ed|
+	LV=|9|
+}
+untitled {
+	AE=|Van Ikin|
+	AS=|DitE|
+	YR=|1984|
+	TG=|6087|
+	TA=|Best Australian SF or Fantasy Editor|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Paul Collins|
+	AS=|DitE|
+	YR=|1984|
+	TG=|2906|
+	TA=|Best Australian SF or Fantasy Editor|
+	TP=|ed|
+	LV=|9|
+}
+Norstrilia Press {
+	AE=|Rob Gerrand+Bruce Gillespie+Carey Handfield|
+	AS=|DitE|
+	YR=|1984|
+	TG=|8858|
+	TA=|Best Australian SF or Fantasy Editor|
+	TP=|ed|
+	LV=|9|
+}
+untitled {
+	AE=|David King|
+	AS=|DitE|
+	YR=|1984|
+	TG=|6521|
+	TA=|Best Australian SF or Fantasy Editor|
+	TP=|ed|
+	LV=|9|
+}
+untitled {
+	AE=|Bruce Gillespie|
+	AS=|DitE|
+	YR=|1985|
+	TG=|5027|
+	TA=|Best Australian SF or Fantasy Editor|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Paul Collins|
+	AS=|DitE|
+	YR=|1985|
+	TG=|2907|
+	TA=|Best Australian SF or Fantasy Editor|
+	TP=|ed|
+	LV=|9|
+}
+untitled {
+	AE=|Philip Gore|
+	AS=|DitE|
+	YR=|1985|
+	TG=|5229|
+	TA=|Best Australian SF or Fantasy Editor|
+	TP=|ed|
+	LV=|9|
+}
+untitled {
+	AE=|Van Ikin|
+	AS=|DitE|
+	YR=|1985|
+	TG=|6088|
+	TA=|Best Australian SF or Fantasy Editor|
+	TP=|ed|
+	LV=|9|
+}
+untitled {
+	AE=|Brian W. Aldiss|
+	AS=|DitW|
+	YR=|1969|
+	TG=|234|
+	TA=|Best Contemporary Writer of Science Fiction|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Samuel R. Delany|
+	AS=|DitW|
+	YR=|1969|
+	TG=|3418|
+	TA=|Best Contemporary Writer of Science Fiction|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|R. A. Lafferty|
+	AS=|DitW|
+	YR=|1969|
+	TG=|6875|
+	TA=|Best Contemporary Writer of Science Fiction|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Roger Zelazny|
+	AS=|DitW|
+	YR=|1969|
+	TG=|13857|
+	TA=|Best Contemporary Writer of Science Fiction|
+	TP=|au|
+	LV=|9|
+}
+Australian Science Fiction Review {
+	AE=|John Bangsund|
+	AS=|DitFZ|
+	YR=|1969|
+	TG=|772|
+	TA=|Best Australian Amateur Science Fiction Publication or Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+The Mentor {
+	AE=|Ron L. Clarke|
+	AS=|DitFZ|
+	YR=|1969|
+	TG=|2831|
+	TA=|Best Australian Amateur Science Fiction Publication or Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Rataplan {
+	AE=|Leigh Edmonds|
+	AS=|DitFZ|
+	YR=|1969|
+	TG=|3941|
+	TA=|Best Australian Amateur Science Fiction Publication or Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Journal of Omphalistic Epistemology {
+	AE=|John Foyster|
+	AS=|DitFZ|
+	YR=|1970|
+	TG=|4653|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+SF Commentary {
+	AE=|Bruce Gillespie|
+	AS=|DitFZ|
+	YR=|1970|
+	TG=|5042|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Somerset Gazette {
+	AE=|Noel Kerr|
+	AS=|DitFZ|
+	YR=|1971|
+	TG=|6444|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+SF Commentary {
+	AE=|Bruce Gillespie|
+	AS=|DitFZ|
+	YR=|1971|
+	TG=|5043|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The New Forerunner {
+	AE=|Gary Mason|
+	AS=|DitFZ|
+	YR=|1971|
+	TG=|7902|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+SF Commentary {
+	AE=|Bruce Gillespie|
+	AS=|DitFZ|
+	YR=|1972|
+	TG=|5044|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Chao {
+	AE=|John Alderson|
+	AS=|DitFZ|
+	YR=|1972|
+	TG=|230|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Scythrop {
+	AE=|John Bangsund|
+	AS=|DitFZ|
+	YR=|1972|
+	TG=|776|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Mentor {
+	AE=|Ron L. Clarke|
+	AS=|DitFZ|
+	YR=|1972|
+	TG=|2832|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Fanarchist {
+	AE=|David Grigg|
+	AS=|DitFZ|
+	YR=|1972|
+	TG=|5408|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+SF Commentary {
+	AE=|Bruce Gillespie|
+	AS=|DitFZ|
+	YR=|1973|
+	TG=|5045|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Chao {
+	AE=|John Alderson|
+	AS=|DitFZ|
+	YR=|1973|
+	TG=|231|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Rataplan {
+	AE=|Leigh Edmonds|
+	AS=|DitFZ|
+	YR=|1973|
+	TG=|3942|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Gegenschein {
+	AE=|Eric B. Lindsay|
+	AS=|DitFZ|
+	YR=|1973|
+	TG=|7517|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Osiris {
+	AE=|Del Stocks+Dennis Stocks|
+	AS=|DitFZ|
+	YR=|1975|
+	TG=|11566|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Chao {
+	AE=|John Alderson|
+	AS=|DitFZ|
+	YR=|1975|
+	TG=|232|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Forerunner {
+	AE=|Sue Clarke|
+	AS=|DitFZ|
+	YR=|1975|
+	TG=|2836|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Fanew Sletter {
+	AE=|Leigh Edmonds|
+	AS=|DitFZ|
+	YR=|1975|
+	TG=|3935|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Gegenschein {
+	AE=|Eric B. Lindsay|
+	AS=|DitFZ|
+	YR=|1975|
+	TG=|7518|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Fanew Sletter {
+	AE=|Leigh Edmonds|
+	AS=|DitFZ|
+	YR=|1976|
+	TG=|3936|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Chao {
+	AE=|John Alderson|
+	AS=|DitFZ|
+	YR=|1976|
+	TG=|233|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Mad Dan's Review {
+	AE=|Marc Ortlieb|
+	AS=|DitFZ|
+	YR=|1976|
+	TG=|8966|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Osiris {
+	AE=|Del Stocks+Dennis Stocks|
+	AS=|DitFZ|
+	YR=|1976|
+	TG=|11567|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Interstellar Ramjet Scoop {
+	AE=|Bill Wright|
+	AS=|DitFZ|
+	YR=|1976|
+	TG=|13733|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+SF Commentary {
+	AE=|Bruce Gillespie|
+	AS=|DitFZ|
+	YR=|1977|
+	TG=|5046|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Enigma {
+	AE=|Van Ikin|
+	AS=|DitFZ|
+	YR=|1977|
+	TG=|6091|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+South of Harad, East of Rhun {
+	AE=|Jon Noble|
+	AS=|DitFZ|
+	YR=|1977|
+	TG=|8833|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Mad Dan's Review {
+	AE=|Marc Ortlieb|
+	AS=|DitFZ|
+	YR=|1977|
+	TG=|8967|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Enigma {
+	AE=|Van Ikin|
+	AS=|DitFZ|
+	YR=|1978|
+	TG=|6092|
+	TA=|Best Amateur Australian Publication (Fanzine)|
+	TP=|fz|
+	LV=|1|
+}
+The Epsilon Eridani Express {
+	AE=|Neville J. Angove|
+	AS=|DitFZ|
+	YR=|1978|
+	TG=|433|
+	TA=|Best Amateur Australian Publication (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Yggdrasil {
+	AE=|Dennis Callegari+Alan Wilson|
+	AS=|DitFZ|
+	YR=|1978|
+	TG=|2155|
+	TA=|Best Amateur Australian Publication (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Fanew Sletter {
+	AE=|Leigh Edmonds|
+	AS=|DitFZ|
+	YR=|1978|
+	TG=|3937|
+	TA=|Best Amateur Australian Publication (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Minardor {
+	AE=|Marc Ortlieb|
+	AS=|DitFZ|
+	YR=|1978|
+	TG=|8968|
+	TA=|Best Amateur Australian Publication (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Chunder! {
+	AE=|John Foyster|
+	AS=|DitFZ|
+	YR=|1979|
+	TG=|4649|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+The Epsilon Eridani Express {
+	AE=|Neville J. Angove|
+	AS=|DitFZ|
+	YR=|1979|
+	TG=|434|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Yggdrasil {
+	AE=|Dennis Callegari+Alan Wilson|
+	AS=|DitFZ|
+	YR=|1979|
+	TG=|2156|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Forerunner {
+	AE=|Jack R. Herman|
+	AS=|DitFZ|
+	YR=|1979|
+	TG=|5879|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Scytale {
+	AE=|Peter Toluzzi|
+	AS=|DitFZ|
+	YR=|1979|
+	TG=|12027|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+SF Commentary {
+	AE=|Bruce Gillespie|
+	AS=|DitFZ|
+	YR=|1980|
+	TG=|5047|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Bionic Rabbit {
+	AE=|Damian Brennan|
+	AS=|DitFZ|
+	YR=|1980|
+	TG=|1626|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Wasffan {
+	AE=|Roy Ferguson|
+	AS=|DitFZ|
+	YR=|1980|
+	TG=|4415|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Chunder! {
+	AE=|John Foyster|
+	AS=|DitFZ|
+	YR=|1980|
+	TG=|4650|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Forerunner {
+	AE=|Jack R. Herman|
+	AS=|DitFZ|
+	YR=|1980|
+	TG=|5880|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Q36 {
+	AE=|Marc Ortlieb|
+	AS=|DitFZ|
+	YR=|1981|
+	TG=|8969|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Australian Science Fiction News {
+	AE=|Mervyn R. Binns|
+	AS=|DitFZ|
+	YR=|1981|
+	TG=|1196|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Chunder! {
+	AE=|John Foyster|
+	AS=|DitFZ|
+	YR=|1981|
+	TG=|4651|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+SF Commentary {
+	AE=|Bruce Gillespie|
+	AS=|DitFZ|
+	YR=|1981|
+	TG=|5048|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Q36 {
+	AE=|Marc Ortlieb|
+	AS=|DitFZ|
+	YR=|1982|
+	TG=|8970|
+	TA=|Best Australasian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Australian Science Fiction News {
+	AE=|Mervyn R. Binns|
+	AS=|DitFZ|
+	YR=|1982|
+	TG=|1197|
+	TA=|Best Australasian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Thyme {
+	AE=|Andrew Brown+Irwin Hirsh|
+	AS=|DitFZ|
+	YR=|1982|
+	TG=|1740|
+	TA=|Best Australasian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+SF Commentary {
+	AE=|Bruce Gillespie|
+	AS=|DitFZ|
+	YR=|1982|
+	TG=|5049|
+	TA=|Best Australasian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Weberwoman's Wrevenge {
+	AE=|Jean Weber|
+	AS=|DitFZ|
+	YR=|1982|
+	TG=|12996|
+	TA=|Best Australasian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Q36 {
+	AE=|Marc Ortlieb|
+	AS=|DitFZ|
+	YR=|1983|
+	TG=|8971|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Thyme {
+	AE=|Andrew Brown+Irwin Hirsh+Roger Weddall|
+	AS=|DitFZ|
+	YR=|1983|
+	TG=|1741|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Ornithopter {
+	AE=|Leigh Edmonds|
+	AS=|DitFZ|
+	YR=|1983|
+	TG=|3940|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Science Fiction {
+	AE=|Van Ikin|
+	AS=|DitFZ|
+	YR=|1983|
+	TG=|6095|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Weberwoman's Wrevenge {
+	AE=|Jean Weber|
+	AS=|DitFZ|
+	YR=|1983|
+	TG=|12997|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Rataplan/Ornithopter {
+	AE=|Leigh Edmonds|
+	AS=|DitFZ|
+	YR=|1984|
+	TG=|3945|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Australian Science Fiction News {
+	AE=|Mervyn R. Binns|
+	AS=|DitFZ|
+	YR=|1984|
+	TG=|1198|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Wahf-full {
+	AE=|Jack R. Herman|
+	AS=|DitFZ|
+	YR=|1984|
+	TG=|5883|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Science Fiction {
+	AE=|Van Ikin|
+	AS=|DitFZ|
+	YR=|1984|
+	TG=|6096|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Thyme {
+	AE=|Roger Weddall|
+	AS=|DitFZ|
+	YR=|1984|
+	TG=|13000|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Australian Science Fiction News {
+	AE=|Mervyn R. Binns|
+	AS=|DitFZ|
+	YR=|1985|
+	TG=|1199|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+The Mentor {
+	AE=|Ron L. Clarke|
+	AS=|DitFZ|
+	YR=|1985|
+	TG=|2833|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Rataplan {
+	AE=|Leigh Edmonds|
+	AS=|DitFZ|
+	YR=|1985|
+	TG=|3943|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Science Fiction {
+	AE=|Van Ikin|
+	AS=|DitFZ|
+	YR=|1985|
+	TG=|6097|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Metaphysical Review {
+	AE=|Bruce Gillespie|
+	AS=|DitFZ|
+	YR=|1986|
+	TG=|5038|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+The Notional {
+	AE=|Leigh Edmonds|
+	AS=|DitFZ|
+	YR=|1986|
+	TG=|3939|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Sikander {
+	AE=|Irwin Hirsh|
+	AS=|DitFZ|
+	YR=|1986|
+	TG=|5919|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Tigger {
+	AE=|Marc Ortlieb|
+	AS=|DitFZ|
+	YR=|1986|
+	TG=|8972|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Thyme {
+	AE=|Roger Weddall+Peter Burns|
+	AS=|DitFZ|
+	YR=|1986|
+	TG=|13002|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Thyme {
+	AE=|Roger Weddall+Peter Burns|
+	AS=|DitFZ|
+	YR=|1987|
+	TG=|13003|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Motional {
+	AE=|Anonymous|
+	AS=|DitFZ|
+	YR=|1987|
+	TG=|438|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Metaphysical Review {
+	AE=|Bruce Gillespie|
+	AS=|DitFZ|
+	YR=|1987|
+	TG=|5039|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Larrikin {
+	AE=|Irwin Hirsh+Perry Middlemiss|
+	AS=|DitFZ|
+	YR=|1987|
+	TG=|5920|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Space Wastrel {
+	AE=|Mark Loney+Michelle Muijsert+Julian Warner|
+	AS=|DitFZ|
+	YR=|1987|
+	TG=|7552|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Science Fiction {
+	AE=|Van Ikin|
+	AS=|DitFZ|
+	YR=|1988|
+	TG=|6098|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Larrikin {
+	AE=|Irwin Hirsh+Perry Middlemiss|
+	AS=|DitFZ|
+	YR=|1988|
+	TG=|5921|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Space Wastrel {
+	AE=|Mark Loney+Michelle Muijsert+Julian Warner|
+	AS=|DitFZ|
+	YR=|1988|
+	TG=|7553|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Australian Science Fiction Review {
+	AE=|Melbourne Collective|
+	AS=|DitFZ|
+	YR=|1988|
+	TG=|8345|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Get Stuffed {
+	AE=|Jacob Blake|
+	AS=|DitFZ|
+	YR=|1989|
+	TG=|1364|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Science Fiction {
+	AE=|Van Ikin|
+	AS=|DitFZ|
+	YR=|1989|
+	TG=|6099|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Larrikin {
+	AE=|Perry Middlemiss+Irwin Hirsh|
+	AS=|DitFZ|
+	YR=|1989|
+	TG=|8375|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Australian Science Fiction Review {
+	AE=|SF Collective|
+	AS=|DitFZ|
+	YR=|1989|
+	TG=|10488|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Ethel the Aardvark {
+	AE=|M.S.F.C.|
+	AS=|DitFZ|
+	YR=|1990|
+	TG=|7662|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Get Stuffed {
+	AE=|Jacob Blake|
+	AS=|DitFZ|
+	YR=|1990|
+	TG=|1365|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Sweetness and Light {
+	AE=|Jack R. Herman|
+	AS=|DitFZ|
+	YR=|1990|
+	TG=|5882|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Australian Science Fiction Review {
+	AE=|SF Collective|
+	AS=|DitFZ|
+	YR=|1990|
+	TG=|10489|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Australian Science Fiction Review {
+	AE=|SF Collective|
+	AS=|DitFZ|
+	YR=|1991|
+	TG=|10490|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Doxy {
+	AE=|John Foyster|
+	AS=|DitFZ|
+	YR=|1991|
+	TG=|4652|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+StunGunn {
+	AE=|Ian Gunn|
+	AS=|DitFZ|
+	YR=|1991|
+	TG=|5442|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Doxa! {
+	AE=|Roman Orszanski|
+	AS=|DitFZ|
+	YR=|1991|
+	TG=|8958|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Pink {
+	AE=|Karen Pender-Gunn|
+	AS=|DitFZ|
+	YR=|1991|
+	TG=|9105|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Ethel the Aardvark {
+	AE=|Alan Stewart|
+	AS=|DitFZ|
+	YR=|1991|
+	TG=|11510|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Eidolon {
+	AE=|Jeremy G. Byrne|
+	AS=|DitFZ|
+	YR=|1992|
+	TG=|2073|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Thyme {
+	AE=|Greg Hills+Mark Loney|
+	AS=|DitFZ|
+	YR=|1992|
+	TG=|5901|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Thyme {
+	AE=|LynC Newall+Clive Newall|
+	AS=|DitFZ|
+	YR=|1992|
+	TG=|8693|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Inconsequential Parallax {
+	AE=|Tim Richards+Narelle Harris|
+	AS=|DitFZ|
+	YR=|1992|
+	TG=|9709|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Ethel the Aardvark {
+	AE=|Alan Stewart|
+	AS=|DitFZ|
+	YR=|1992|
+	TG=|11511|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Eidolon {
+	AE=|Jeremy G. Byrne|
+	AS=|DitFZ|
+	YR=|1993|
+	TG=|2074|
+	TA=|Best Periodical|
+	TP=|fz|
+	LV=|1|
+}
+Slow Glass Books Catalog {
+	AE=|Justin Ackroyd|
+	AS=|DitFZ|
+	YR=|1993|
+	TG=|200|
+	TA=|Best Periodical|
+	TP=|fz|
+	LV=|9|
+}
+Ethel the Aardvark {
+	AE=|Alan Stewart|
+	AS=|DitFZ|
+	YR=|1993|
+	TG=|11512|
+	TA=|Best Periodical|
+	TP=|fz|
+	LV=|9|
+}
+Thyme {
+	AE=|Alan Stewart|
+	AS=|DitFZ|
+	YR=|1993|
+	TG=|11515|
+	TA=|Best Periodical|
+	TP=|fz|
+	LV=|9|
+}
+Aurealis {
+	AE=|Dirk Strasser+Stephen Higgins|
+	AS=|DitFZ|
+	YR=|1993|
+	TG=|11602|
+	TA=|Best Periodical|
+	TP=|fz|
+	LV=|9|
+}
+Ethel the Aardvark {
+	AE=|Alan Stewart|
+	AS=|DitFZ|
+	YR=|1994|
+	TG=|11513|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Get Stuffed {
+	AE=|Jacob Blake|
+	AS=|DitFZ|
+	YR=|1994|
+	TG=|1366|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Mentor {
+	AE=|Ron L. Clarke|
+	AS=|DitFZ|
+	YR=|1994|
+	TG=|2834|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+SF Commentary {
+	AE=|Bruce Gillespie|
+	AS=|DitFZ|
+	YR=|1994|
+	TG=|5050|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Thyme {
+	AE=|Alan Stewart|
+	AS=|DitFZ|
+	YR=|1994|
+	TG=|12257|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Black Light {
+	AE=|Unknown-Mags|
+	AS=|DitFZ|
+	YR=|1994|
+	TG=|12187|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Thyme {
+	AE=|Alan Stewart|
+	AS=|DitFZ|
+	YR=|1995|
+	TG=|11516|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+The Mentor {
+	AE=|Ron L. Clarke|
+	AS=|DitFZ|
+	YR=|1995|
+	TG=|2835|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Gegenschein {
+	AE=|Eric B. Lindsay|
+	AS=|DitFZ|
+	YR=|1995|
+	TG=|7519|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Sirius {
+	AE=|Garry Wyatt|
+	AS=|DitFZ|
+	YR=|1995|
+	TG=|13752|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Eidolon {
+	AE=|Jeremy G. Byrne+R. Scriven+Jonathan Strahan|
+	AS=|DitFZ|
+	YR=|1996|
+	TG=|2075|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Ethel the Aardvark {
+	AE=|Paul Ewings|
+	AS=|DitFZ|
+	YR=|1996|
+	TG=|4305|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Metaphysical Review {
+	AE=|Bruce Gillespie|
+	AS=|DitFZ|
+	YR=|1996|
+	TG=|5040|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Pinkette {
+	AE=|Karen Pender-Gunn|
+	AS=|DitFZ|
+	YR=|1996|
+	TG=|9106|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Thyme {
+	AE=|Alan Stewart|
+	AS=|DitFZ|
+	YR=|1996|
+	TG=|11517|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Thyme {
+	AE=|Alan Stewart|
+	AS=|DitFZ|
+	YR=|1997|
+	TG=|15423|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Oscillation Overthruster {
+	AE=|Sue Ann Barber|
+	AS=|DitFZ|
+	YR=|1997|
+	TG=|15418|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Science Fiction {
+	AE=|Van Ikin|
+	AS=|DitFZ|
+	YR=|1997|
+	TG=|15419|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Emerald City {
+	AE=|Cheryl Morgan|
+	AS=|DitFZ|
+	YR=|1997|
+	TG=|15420|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Pinkette {
+	AE=|Karen Pender-Gunn|
+	AS=|DitFZ|
+	YR=|1997|
+	TG=|15421|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Communicator {
+	AE=|Derek Screen|
+	AS=|DitFZ|
+	YR=|1997|
+	TG=|15422|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Eidolon {
+	AE=|Jeremy G. Byrne+R. Scriven+Jonathan Strahan|
+	AS=|DitFZ|
+	YR=|1998|
+	TG=|18152|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Oscillation Overthruster {
+	AE=|Sue Ann Barber|
+	AS=|DitFZ|
+	YR=|1998|
+	TG=|18145|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Captain's Log {
+	AE=|Rose Mitchell|
+	AS=|DitFZ|
+	YR=|1998|
+	TG=|18227|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Thyme {
+	AE=|Alan Stewart|
+	AS=|DitFZ|
+	YR=|1998|
+	TG=|18221|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Frontier {
+	AE=|Unknown-Mags|
+	AS=|DitFZ|
+	YR=|1998|
+	TG=|18228|
+	TA=|Best Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Metaphysical Review {
+	AE=|Bruce Gillespie|
+	AS=|DitFZ|
+	YR=|1999|
+	TG=|20754|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Ethel the Aardvark {
+	AE=|Ian Gunn|
+	AS=|DitFZ|
+	YR=|1999|
+	TG=|20759|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Out of the Kaje {
+	AE=|Karen Johnson|
+	AS=|DitFZ|
+	YR=|1999|
+	TG=|20773|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+The Captain's Log {
+	AE=|Rose Mitchell|
+	AS=|DitFZ|
+	YR=|1999|
+	TG=|20795|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Thyme {
+	AE=|Alan Stewart|
+	AS=|DitFZ|
+	YR=|1999|
+	TG=|20816|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Interstellar Ramjet Scoop {
+	AE=|Bill Wright|
+	AS=|DitFZ|
+	YR=|1999|
+	TG=|20836|
+	TA=|Best Australian Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Aussiecon 3 Opening Ceremony Video {
+	AE=|Danny Heap|
+	AS=|DitFZ|
+	YR=|2000|
+	TG=|20762|
+	TA=|Best Fan Production|
+	TP=|tve|
+	LV=|1|
+}
+The Rhizome Factor {
+	AE=|Cathy Cupitt|
+	AS=|DitFZ|
+	YR=|2000|
+	TG=|20735|
+	TA=|Best Fan Production|
+	TP=|fz|
+	LV=|9|
+}
+Ethel the Aardvark {
+	AE=|Paul Ewings|
+	AS=|DitFZ|
+	YR=|2000|
+	TG=|20829|
+	TA=|Best Fan Production|
+	TP=|fz|
+	LV=|9|
+}
+Aussicon 3 Masquerade Ceremony {
+	AE=|Danny Heap+Nick Stathopoulos|
+	AS=|DitFZ|
+	YR=|2000|
+	TG=|20763|
+	TA=|Best Fan Production|
+	TP=|ev|
+	LV=|9|
+}
+Thyme {
+	AE=|Alan Stewart|
+	AS=|DitFZ|
+	YR=|2000|
+	TG=|20817|
+	TA=|Best Fan Production|
+	TP=|fz|
+	LV=|9|
+}
+The Coode Street Review of Science Fiction {
+	AE=|Jonathan Strahan+Steven Paulsen|
+	AS=|DitFZ|
+	YR=|2000|
+	TG=|20823|
+	TA=|Best Fan Production|
+	TP=|fz|
+	LV=|9|
+}
+Interstellar Ramjet Scoop {
+	AE=|Bill Wright|
+	AS=|DitFZ|
+	YR=|2000|
+	TG=|20835|
+	TA=|Best Fan Production|
+	TP=|fz|
+	LV=|9|
+}
+The Angriest Video Store Clerk in the World {
+	AE=|Grant Watson|
+	AS=|DitFZ|
+	YR=|2001|
+	TG=|22121|
+	TA=|Best Fan Production|
+	TP=|tve|
+	LV=|1|
+}
+The Rhizome Factor {
+	AE=|Cathy Cupitt|
+	AS=|DitFZ|
+	YR=|2001|
+	TG=|22095|
+	TA=|Best Fan Production|
+	TP=|fz|
+	LV=|9|
+}
+First Sight {
+	AE=|Chris Dickinson|
+	AS=|DitFZ|
+	YR=|2001|
+	TG=|22097|
+	TA=|Best Fan Production|
+	TP=|fz|
+	LV=|9|
+}
+The Unrelenting Gaze (SF Commentary 76) {
+	AE=|Bruce Gillespie|
+	AS=|DitFZ|
+	YR=|2001|
+	TG=|22103|
+	TA=|Best Fan Production|
+	TP=|e|
+	LV=|9|
+}
+Short Stories for Short Attention Spans {
+	AE=|Unknown|
+	AS=|DitFZ|
+	YR=|2001|
+	TG=|22117|
+	TA=|Best Fan Production|
+	TP=|c|
+	LV=|9|
+}
+Swancon 2001 Launch Video {
+	AE=|Unknown-TV-Episode|
+	AS=|DitFZ|
+	YR=|2001|
+	TG=|22118|
+	TA=|Best Fan Production|
+	TP=|tve|
+	LV=|9|
+}
+untitled {
+	AE=|Marc Ortlieb|
+	AS=|DitFW|
+	YR=|1979|
+	TG=|8959|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|John Bangsund|
+	AS=|DitFW|
+	YR=|1979|
+	TG=|770|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|John Foyster|
+	AS=|DitFW|
+	YR=|1979|
+	TG=|4647|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Leanne Frahm|
+	AS=|DitFW|
+	YR=|1979|
+	TG=|4656|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Eric B. Lindsay|
+	AS=|DitFW|
+	YR=|1979|
+	TG=|7515|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Anthony Peacy|
+	AS=|DitFW|
+	YR=|1979|
+	TG=|9087|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Leanne Frahm|
+	AS=|DitFW|
+	YR=|1980|
+	TG=|4657|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Damian Brennan|
+	AS=|DitFW|
+	YR=|1980|
+	TG=|1625|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Roy Ferguson|
+	AS=|DitFW|
+	YR=|1980|
+	TG=|4413|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Jack R. Herman|
+	AS=|DitFW|
+	YR=|1980|
+	TG=|5874|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Marc Ortlieb|
+	AS=|DitFW|
+	YR=|1980|
+	TG=|8960|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Marc Ortlieb|
+	AS=|DitFW|
+	YR=|1981|
+	TG=|8961|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Leigh Edmonds|
+	AS=|DitFW|
+	YR=|1981|
+	TG=|3928|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Leanne Frahm|
+	AS=|DitFW|
+	YR=|1981|
+	TG=|4658|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|David Grigg|
+	AS=|DitFW|
+	YR=|1981|
+	TG=|5406|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Marc Ortlieb|
+	AS=|DitFW|
+	YR=|1982|
+	TG=|8962|
+	TA=|Best Australasian Fanwriter|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Leigh Edmonds|
+	AS=|DitFW|
+	YR=|1982|
+	TG=|3929|
+	TA=|Best Australasian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Judith Hanna|
+	AS=|DitFW|
+	YR=|1982|
+	TG=|5614|
+	TA=|Best Australasian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Eric B. Lindsay|
+	AS=|DitFW|
+	YR=|1982|
+	TG=|7516|
+	TA=|Best Australasian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Marc Ortlieb|
+	AS=|DitFW|
+	YR=|1983|
+	TG=|8963|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Terry Dowling|
+	AS=|DitFW|
+	YR=|1983|
+	TG=|3729|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Leigh Edmonds|
+	AS=|DitFW|
+	YR=|1983|
+	TG=|3930|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Leigh Edmonds|
+	AS=|DitFW|
+	YR=|1984|
+	TG=|3931|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Terry Frost|
+	AS=|DitFW|
+	YR=|1984|
+	TG=|4777|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Jack R. Herman|
+	AS=|DitFW|
+	YR=|1984|
+	TG=|5875|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Seth Lockwood|
+	AS=|DitFW|
+	YR=|1984|
+	TG=|7546|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Leigh Edmonds|
+	AS=|DitFW|
+	YR=|1985|
+	TG=|3932|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Leanne Frahm|
+	AS=|DitFW|
+	YR=|1985|
+	TG=|4659|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|David Grigg|
+	AS=|DitFW|
+	YR=|1985|
+	TG=|5407|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Yvonne Rousseau|
+	AS=|DitFW|
+	YR=|1985|
+	TG=|9972|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Leigh Edmonds|
+	AS=|DitFW|
+	YR=|1986|
+	TG=|3933|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Damien Broderick|
+	AS=|DitFW|
+	YR=|1986|
+	TG=|1716|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Bruce Gillespie|
+	AS=|DitFW|
+	YR=|1986|
+	TG=|5028|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Marc Ortlieb|
+	AS=|DitFW|
+	YR=|1986|
+	TG=|8964|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Yvonne Rousseau|
+	AS=|DitFW|
+	YR=|1986|
+	TG=|9973|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Perry Middlemiss|
+	AS=|DitFW|
+	YR=|1988|
+	TG=|8373|
+	TA=|Best Australian Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Karen Herkes|
+	AS=|DitFW|
+	YR=|1988|
+	TG=|5872|
+	TA=|Best Australian Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Jack R. Herman|
+	AS=|DitFW|
+	YR=|1988|
+	TG=|5876|
+	TA=|Best Australian Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Irwin Hirsh|
+	AS=|DitFW|
+	YR=|1988|
+	TG=|5918|
+	TA=|Best Australian Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Van Ikin|
+	AS=|DitFW|
+	YR=|1988|
+	TG=|6089|
+	TA=|Best Australian Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Bruce Gillespie|
+	AS=|DitFW|
+	YR=|1989|
+	TG=|5029|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Jack R. Herman|
+	AS=|DitFW|
+	YR=|1989|
+	TG=|5877|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Van Ikin|
+	AS=|DitFW|
+	YR=|1989|
+	TG=|6090|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Perry Middlemiss|
+	AS=|DitFW|
+	YR=|1989|
+	TG=|8374|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Bruce Gillespie|
+	AS=|DitFW|
+	YR=|1990|
+	TG=|5030|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|DitFW|
+	YR=|1990|
+	TG=|5430|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Terry Frost|
+	AS=|DitFW|
+	YR=|1990|
+	TG=|4778|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Jack R. Herman|
+	AS=|DitFW|
+	YR=|1990|
+	TG=|5878|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Yvonne Hintz|
+	AS=|DitFW|
+	YR=|1990|
+	TG=|5913|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Alan Stewart|
+	AS=|DitFW|
+	YR=|1990|
+	TG=|11505|
+	TA=|Best Australian Fanwriter|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Bruce Gillespie|
+	AS=|DitFW|
+	YR=|1991|
+	TG=|5031|
+	TA=|Best Australian Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Terry Frost|
+	AS=|DitFW|
+	YR=|1991|
+	TG=|4779|
+	TA=|Best Australian Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|DitFW|
+	YR=|1991|
+	TG=|5431|
+	TA=|Best Australian Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Marc Ortlieb|
+	AS=|DitFW|
+	YR=|1991|
+	TG=|8965|
+	TA=|Best Australian Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Alan Stewart|
+	AS=|DitFW|
+	YR=|1991|
+	TG=|11506|
+	TA=|Best Australian Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Bruce Gillespie|
+	AS=|DitFW|
+	YR=|1992|
+	TG=|5032|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|James Allen|
+	AS=|DitFW|
+	YR=|1992|
+	TG=|304|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Terry Frost|
+	AS=|DitFW|
+	YR=|1992|
+	TG=|4780|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Greg Hills|
+	AS=|DitFW|
+	YR=|1992|
+	TG=|5900|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Alan Stewart|
+	AS=|DitFW|
+	YR=|1992|
+	TG=|11507|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Robin Pen|
+	AS=|DitFW|
+	YR=|1993|
+	TG=|9103|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Paul Ewings|
+	AS=|DitFW|
+	YR=|1993|
+	TG=|4303|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Terry Frost|
+	AS=|DitFW|
+	YR=|1993|
+	TG=|4781|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Karen Pender-Gunn|
+	AS=|DitFW|
+	YR=|1993|
+	TG=|9104|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Alan Stewart|
+	AS=|DitFW|
+	YR=|1993|
+	TG=|11508|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Roger Weddall|
+	AS=|DitFW|
+	YR=|1993|
+	TG=|12999|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Bruce Gillespie|
+	AS=|DitFW|
+	YR=|1994|
+	TG=|5033|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Paul Ewings|
+	AS=|DitFW|
+	YR=|1994|
+	TG=|4304|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Terry Frost|
+	AS=|DitFW|
+	YR=|1994|
+	TG=|4782|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Jan MacNally|
+	AS=|DitFW|
+	YR=|1994|
+	TG=|7712|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Terry Frost|
+	AS=|DitFW|
+	YR=|1995|
+	TG=|4783|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|DitFW|
+	YR=|1995|
+	TG=|5432|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Graham Stone|
+	AS=|DitFW|
+	YR=|1995|
+	TG=|11575|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|DitFW|
+	YR=|1996|
+	TG=|5433|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Terry Frost|
+	AS=|DitFW|
+	YR=|1996|
+	TG=|4784|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Cheryl Morgan|
+	AS=|DitFW|
+	YR=|1996|
+	TG=|8521|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Alan Stewart|
+	AS=|DitFW|
+	YR=|1996|
+	TG=|11509|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Bruce Gillespie|
+	AS=|DitFW|
+	YR=|1997|
+	TG=|15396|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Terry Frost|
+	AS=|DitFW|
+	YR=|1997|
+	TG=|15395|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|DitFW|
+	YR=|1997|
+	TG=|15398|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Cheryl Morgan|
+	AS=|DitFW|
+	YR=|1997|
+	TG=|15403|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Karen Pender-Gunn|
+	AS=|DitFW|
+	YR=|1997|
+	TG=|15405|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Leanne Frahm|
+	AS=|DitFW|
+	YR=|1998|
+	TG=|18167|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Cathy Cupitt|
+	AS=|DitFW|
+	YR=|1998|
+	TG=|18158|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Terry Frost|
+	AS=|DitFW|
+	YR=|1998|
+	TG=|18169|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Bruce Gillespie|
+	AS=|DitFW|
+	YR=|1998|
+	TG=|18170|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|George Ivanoff|
+	AS=|DitFW|
+	YR=|1998|
+	TG=|18176|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Karen Johnson|
+	AS=|DitFW|
+	YR=|1998|
+	TG=|18181|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+Insufficient Nominations - Category Cancelled {
+	AE=|(********)|
+	AS=|DitFW|
+	YR=|1999|
+	TG=|20708|
+	TA=|Best Fan Writer|
+	TP=|x|
+	LV=|72|
+}
+untitled {
+	AE=|Robin Pen|
+	AS=|DitFW|
+	YR=|2000|
+	TG=|20799|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Mervyn R. Binns|
+	AS=|DitFW|
+	YR=|2000|
+	TG=|20715|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Bruce Gillespie|
+	AS=|DitFW|
+	YR=|2000|
+	TG=|20753|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Karen Johnson|
+	AS=|DitFW|
+	YR=|2000|
+	TG=|20772|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Alan Stewart|
+	AS=|DitFW|
+	YR=|2000|
+	TG=|20815|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Robin Pen|
+	AS=|DitFW|
+	YR=|2001|
+	TG=|22111|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Bruce Gillespie|
+	AS=|DitFW|
+	YR=|2001|
+	TG=|22101|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Alan Stewart|
+	AS=|DitFW|
+	YR=|2001|
+	TG=|22113|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Grant Watson|
+	AS=|DitFW|
+	YR=|2001|
+	TG=|22119|
+	TA=|Best Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Lewis Morley|
+	AS=|DitFA|
+	YR=|1988|
+	TG=|8524|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Donna Angus|
+	AS=|DitFA|
+	YR=|1988|
+	TG=|435|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Kerrie Hanlon|
+	AS=|DitFA|
+	YR=|1988|
+	TG=|5611|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Craig Hilton|
+	AS=|DitFA|
+	YR=|1988|
+	TG=|5907|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|David Kenyon|
+	AS=|DitFA|
+	YR=|1988|
+	TG=|6432|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Stephen McArthur|
+	AS=|DitFA|
+	YR=|1988|
+	TG=|7967|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|DitFA|
+	YR=|1989|
+	TG=|5424|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Kerrie Hanlon|
+	AS=|DitFA|
+	YR=|1989|
+	TG=|5612|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Craig Hilton|
+	AS=|DitFA|
+	YR=|1989|
+	TG=|5908|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Michael McGann|
+	AS=|DitFA|
+	YR=|1989|
+	TG=|8176|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Kiera McKenzie|
+	AS=|DitFA|
+	YR=|1989|
+	TG=|8265|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Phil Wlodarczyk|
+	AS=|DitFA|
+	YR=|1989|
+	TG=|13555|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|DitFA|
+	YR=|1990|
+	TG=|5425|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Kerrie Hanlon|
+	AS=|DitFA|
+	YR=|1990|
+	TG=|5613|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Craig Hilton|
+	AS=|DitFA|
+	YR=|1990|
+	TG=|5909|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Phil Wlodarczyk|
+	AS=|DitFA|
+	YR=|1990|
+	TG=|13556|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|DitFA|
+	YR=|1991|
+	TG=|5426|
+	TA=|Best Australian Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Craig Hilton|
+	AS=|DitFA|
+	YR=|1991|
+	TG=|5910|
+	TA=|Best Australian Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Marion Plumridge|
+	AS=|DitFA|
+	YR=|1991|
+	TG=|9185|
+	TA=|Best Australian Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Phil Wlodarczyk|
+	AS=|DitFA|
+	YR=|1991|
+	TG=|13557|
+	TA=|Best Australian Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Kerri Valkova|
+	AS=|DitFA|
+	YR=|1994|
+	TG=|12524|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|DitFA|
+	YR=|1994|
+	TG=|5427|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Craig Hilton|
+	AS=|DitFA|
+	YR=|1994|
+	TG=|5911|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Pamela Rendall|
+	AS=|DitFA|
+	YR=|1994|
+	TG=|9586|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Steve Scholz|
+	AS=|DitFA|
+	YR=|1994|
+	TG=|10414|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Phil Wlodarczyk|
+	AS=|DitFA|
+	YR=|1994|
+	TG=|13558|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|DitFA|
+	YR=|1995|
+	TG=|5428|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Kerri Valkova|
+	AS=|DitFA|
+	YR=|1995|
+	TG=|12525|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|DitFA|
+	YR=|1996|
+	TG=|5429|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Steve Scholz|
+	AS=|DitFA|
+	YR=|1996|
+	TG=|10415|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Kerri Valkova|
+	AS=|DitFA|
+	YR=|1996|
+	TG=|12526|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|DitFA|
+	YR=|1997|
+	TG=|15397|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Steve Scholz|
+	AS=|DitFA|
+	YR=|1997|
+	TG=|15406|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Kerri Valkova|
+	AS=|DitFA|
+	YR=|1997|
+	TG=|15413|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Phil Wlodarczyk|
+	AS=|DitFA|
+	YR=|1997|
+	TG=|15417|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|DitFA|
+	YR=|1998|
+	TG=|20709|
+	TA=|Best Fan Artist|
+	TP=|x|
+	LV=|73|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|DitFA|
+	YR=|1999|
+	TG=|20837|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Robert Jan|
+	AS=|DitFA|
+	YR=|1999|
+	TG=|20838|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Dick Jenssen|
+	AS=|DitFA|
+	YR=|1999|
+	TG=|20839|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Marco Nero|
+	AS=|DitFA|
+	YR=|1999|
+	TG=|20840|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Kerri Valkova|
+	AS=|DitFA|
+	YR=|1999|
+	TG=|20841|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Catriona Sparks|
+	AS=|DitFA|
+	YR=|2000|
+	TG=|20809|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Dick Jensen|
+	AS=|DitFA|
+	YR=|2000|
+	TG=|20771|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|DitFA|
+	YR=|2000|
+	TG=|20235|
+	TA=|Best Fan Artist|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|Brad W. Foster|
+	AS=|DitFA|
+	YR=|2000|
+	TG=|20749|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|85|
+}
+untitled {
+	AE=|Grant Watson|
+	AS=|DitFA|
+	YR=|2001|
+	TG=|22120|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Dick Jenssen|
+	AS=|DitFA|
+	YR=|2001|
+	TG=|22105|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Jade Todd|
+	AS=|DitFA|
+	YR=|2001|
+	TG=|22116|
+	TA=|Best Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Deborah Biancotti|
+	AS=|DitT|
+	YR=|2001|
+	TG=|22087|
+	TA=|Best New Talent|
+	TP=|au|
+	LV=|1|
+}
+Typo {
+	AE=|Roger Weddall|
+	AS=|DitFC|
+	YR=|1991|
+	TG=|13001|
+	TA=|Best Fannish Cat|
+	TP=|fc|
+	LV=|1|
+}
+Apple Blossom {
+	AE=|Elaine Cochrane+Bruce Gillespie|
+	AS=|DitFC|
+	YR=|1991|
+	TG=|2871|
+	TA=|Best Fannish Cat|
+	TP=|fc|
+	LV=|9|
+}
+Emma Peel {
+	AE=|Terry Frost|
+	AS=|DitFC|
+	YR=|1991|
+	TG=|4785|
+	TA=|Best Fannish Cat|
+	TP=|fc|
+	LV=|9|
+}
+Godzilla {
+	AE=|Ian Gunn+Karen Pender-Gunn|
+	AS=|DitFC|
+	YR=|1991|
+	TG=|5443|
+	TA=|Best Fannish Cat|
+	TP=|fc|
+	LV=|9|
+}
+Truffle {
+	AE=|Mark Loney+Michelle Muijsert|
+	AS=|DitFC|
+	YR=|1991|
+	TG=|7551|
+	TA=|Best Fannish Cat|
+	TP=|fc|
+	LV=|9|
+}
+Honey {
+	AE=|Gerald Smith+Womble|
+	AS=|DitFC|
+	YR=|1991|
+	TG=|11113|
+	TA=|Best Fannish Cat|
+	TP=|fc|
+	LV=|9|
+}
+Constantinople {
+	AE=|Phil Wlodarczyk|
+	AS=|DitFC|
+	YR=|1991|
+	TG=|13559|
+	TA=|Best Fannish Cat|
+	TP=|fc|
+	LV=|9|
+}
+Satan {
+	AE=|Phil Wlodarczyk|
+	AS=|DitFC|
+	YR=|1991|
+	TG=|13560|
+	TA=|Best Fannish Cat|
+	TP=|fc|
+	LV=|9|
+}
+Visions of Tomorrow {
+	AE=|Ron Graham|
+	AS=|DitP|
+	YR=|1970|
+	TG=|5263|
+	TA=|Best International Publication|
+	TP=|mz|
+	LV=|1|
+}
+Amazing Science Fiction Stories {
+	AE=|Cele Goldsmith|
+	AS=|DitP|
+	YR=|1970|
+	TG=|5172|
+	TA=|Best International Publication|
+	TP=|mz|
+	LV=|9|
+}
+SF in The Cinema {
+	AE=|John Baxter|
+	AS=|DitX|
+	YR=|1971|
+	TG=|922|
+	TA=|Special Award|
+	TP=|fz|
+	LV=|1|
+}
+Visions of Tomorrow {
+	AE=|Ron Graham|
+	AS=|DitX|
+	YR=|1971|
+	TG=|5264|
+	TA=|Special Award|
+	TP=|mz|
+	LV=|1|
+}
+untitled {
+	AE=|Robin Johnson|
+	AS=|DitX|
+	YR=|1974|
+	TG=|6209|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+The Ins and Outs of the Hadhya City State {
+	AE=|Phillipa Maddern|
+	AS=|DitX|
+	YR=|1977|
+	TG=|7715|
+	TA=|Special Committee Award|
+	TP=|nv|
+	LV=|1|
+}
+Contribution to Fandom {
+	AE=|Robin Johnson|
+	AS=|DitX|
+	YR=|1983|
+	TG=|6210|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+Outstanding Contribution to Australian Fandom to Carey Handfield T.R.O. (The Real Official) {
+	AE=|Carey Handfield|
+	AS=|DitX|
+	YR=|1987|
+	TG=|5600|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Peter Nicholls|
+	AS=|DitX|
+	YR=|1995|
+	TG=|22110|
+	TA=|Special Committee Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Susan Smith Clarke|
+	AS=|DitY|
+	YR=|1997|
+	TG=|17691|
+	TA=|Australian SF Foundation - A. Bertram Chandler Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Graham Stone|
+	AS=|DitY|
+	YR=|1999|
+	TG=|20818|
+	TA=|Australian SF Foundation - A. Bertram Chandler Award|
+	TP=|hu|
+	LV=|1|
+}

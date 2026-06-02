@@ -1,0 +1,1070 @@
+<html>
+<head>
+<title>ISFDB Bulk Data Procedures</title>
+</head>
+<body bgcolor="#ffffff" text="#000000" >
+
+<h1>ISFDB Bulk Data Procedures</h1>
+<hr>
+
+There have been a number of inquiries about merging private
+databases with the ISFDB. This page describes how to go about
+submitting your database to the ISFDB.
+
+<hr>
+<h1><a name="PREPARE">How to Prepare Your Data</a></h1>
+Typically, a new database comes to me in one of the following 
+formats:
+<ol>
+   <li> Flat text. The equivalent of typing up the Table of Contents
+   and emailing it. This is the least preferred type of data, since it
+   requires the most hand work. Should only be used to convey a
+   limited number of magazines when no other method is possible.
+   <li> Proprietary Database Format. This is some database format
+   other than DBASE or ACCESS. To date, I have always been able to
+   examine the binary contents of the file and figure out the data
+   format. I've written a number of tools to extract this kind of 
+   data. Better than the Flat Text format, but still error-prone.
+   <li> DBASE or ACCESS format. I have already written tools to
+   convert a DBASE file into a format I can work with. This format
+   is almost always okay, unless some required data fields are missing.
+   Everyone has a difference database layout, so conversion always
+   requires writing a customized tool, which usually takes some time.
+   <li> ISFDB format. Some people like to take the plunge and try
+   to do some of thework for me by doing the conversions to ISFDB
+   format themselves. Naturally, this is the best solution for me,
+   since I can usually go directly to the data merging phase.
+</ol>
+The purpose of this document is to describe how to submit your data in
+ISFDB format, either by directly creating the data in this format,
+or by converting your current data into this format. The conversion
+of databases in other formats usually requires some customized tools,
+and remains beyond the scor of this document.
+
+<h2><a name="PREPARE0">General Rules</a></h2>
+No matter how you layout your database, there are three fields which are
+absolutely required to merge your data into the ISFDB:
+<ol>
+   <li> The title of the work.
+   <li> The author of the Work.
+   <li> The year of publication.
+</ol>
+Everything else is gravy.  In addition, if you are submitting collection,
+anthology, or magazine data, an additional field is needed: the publication key.
+A publication key links a story to a magazine; it tells us where a story
+appeared in print. I can create publication keys for some books like novels,
+nonfiction, and non-genre works, but I can't guess which one of your collections
+one of your short stories appeared in. More on publication keys later.
+
+<h3><a name="PREPARE0A">Data Entry Rules</a></h3>
+Most of the rules for data entry can be found in the FAQ or in the
+online help page. A quick summary:
+<ol>
+   <li> Enter the title as-is; don't move leading articles to the end of
+   the title. For instance, use "The Difference Engine", <b>not</b>
+   "Difference Engine, The".
+   <li> Enter authors as-is; don't enter them Lastname, Firstname. For instance,
+   use "Robert A. Heinlein", <b>not</b> "Heinlein, Robert A.".
+   <li> Use the "+" symbol to denote collaborations. For instance:
+   "George R. R. Martin+Lisa Tuttle", <b>not</b>: "George R. R. Martin and Lisa Tuttle".
+   <li> Do not remove the spaces between double-initialed authors. For
+   instance, use "George R. R. Martin" or "H. P. Lovecraft", <b>not</b>
+   "George R.R. Martin" or "H.P. Lovecraft".
+   <li> If the author is unknown, enter an author of "unknown".
+   <li> Don't guess the author, such as: "John Varley (??)". If you
+   don't know the author use "unknown".
+   <li> The year of the work must be an integer. Don't use "1938 (??)",
+   or "circa 1921". If you don't know the year, use "0".
+   <li> If the work is a famously unpublished work, use the year "8888"
+   (For instance, <i>The Last Dangerous Visions</i>).
+   <li> A work must belong to a series before it can belong to a super-series.
+   <li> Do not include blank fields. For instance, if a novel does not
+   belong to a series, don't include a blank series attribute.
+   <li> The Cover Artist field should be treated just like the author field,
+   so the same rules apply. The one difference: the artist name can be
+   followed by the string <i>for "Story Name"</i>. This only applies to
+   magazines which feature a story on the cover. For instance:
+   <i>Paul Alexander for "The Barbie Murders"</i>.
+</ol>
+<h3><a name="PREPARE0B">Publication Keys or Tags</a></h3>
+A publication key is a string which links a story to a particular
+collection, anthology, or magazine. Since the key refers to a
+specific publication, each book key must be unique.
+<p>
+The key can be any ascii string, although typically it is some
+abbreviated version of the book's title and year. For instance,
+I usually remove the vowels from a title, convert everything
+to uppercase, and append the year of publication. For instance,
+the publication key for <i>Rock of Ages</i> is: RCKFAGES1996.
+The NESFA database used a couple of different methods. One
+was to squish the title and precede it with the last two digits
+of the year. <i>The Doris Lessing Reader</i> has a publication
+tag of 88LessingReader. The other method was to use the initials
+of the person entering the data, followed by the record number.
+For instance, <i>Pleasant Dreams</i> has a publication key
+of MLO4618.
+<p>
+If the concept of how a key or tag is used is still a little fuzzy, follow along
+with this diagram:
+<pre>
+       title1     title2   title3       title4     title5
+       TAG1       TAG1     TAG1,TAG2    TAG2       TAG2
+        |          |        |    |       |          |
+        +----------+--------+    +-------+----------+
+        |                                |
+       collection1                collection2
+       TAG1                       TAG2
+</pre>
+title1, title2, and title3 were published in collection1.
+collection1 has a publication tag of "TAG1". title1, title2,
+and title3 show that they were published in collection1 by
+having the TAG1 publication tag in their tag list.
+<p>
+title3, title4, and title5 were published in collection2.
+collection2 has a publication tag of "TAG2". title3, title4,
+and title5 show that they were published in collection2 by
+having the TAG2 publication tag in their tag list.
+<p>
+Note that title3 was published in both collection1 and
+collection2, so it has both TAG1 and TAG2 in its tag list.
+
+<h3><a name="PREPARE0C">Capitalization Rules</a></h3>
+About 95% of all data disagreements between the ISFDB and new
+databases are differences in capitalization. There are a
+number of reasons for the capitalization difficulties:
+many titles, particularly short story titles, only appeared
+in all-caps when published; the person entering the data 
+altered the capitalization while typing in the information;
+or the publisher didn't follow the traditional capitalization rules.
+<p>
+If you are confronted with an all-caps title and aren't
+sure how to capitalize it, default to the following
+rules: Capitalize all words unless
+they are articles, prepositions, or conjunctions which are less
+than 5 letters in length. The conjunctions include coordinating
+conjunctions, subordinating conjunctions, and relative pronouns.
+Note that the leading word of a title as well as all words which
+follow a colon, hyphen, or slash should remain capitalized. 
+<p>
+So the list of words which should be lowercase are: a, also, an, 
+and, at, but, by, for, from, if, in, into, near, next, nor, now, of,
+off, on, once, onto, or, out, over, past, than, that, the, then,
+thus, till, to, up, upon, what, when, who, with, yet. (Unless
+they start the title or follow a ":" "-" "/") <b>Important Note:</b> If
+the publisher capitalized the title improperly, please do <i>not</i>
+correct it. Only use the capitalization rules if the title is
+not capitalized at all.  Some titles do not follow the capitalization
+rules; if the preferred capitalization is specified in the Table of 
+Contents, use it. 
+
+<h2><a name="PREPARE1">Data Format for Novels</a></h2>
+
+Novels are probably the easiest of all the ISFDB data formats. Typically,
+there are just two files involved: NOVELS and BOOKS. 
+<p>
+The NOVELS file lists novels without any regard to publication. It's
+like a list of manuscripts that haven't been published: it contains data
+about a novel that is not tied to any particular publication of the novel,
+such as the novel's title, the author, copyright date, series information,
+synopsis, and notes.
+<p>
+The BOOKS file lists all of the publication data for a specific printing
+of a NOVEL. It contains publication data such as ISBN, price, page count,
+the publisher, the publication format (hardcover, paperback, trade), and
+the cover artist. It also contains information that might be found in the
+NOVELS file, but can differ between print runs. For instance, the NOVELS
+file will list the novel's first date of publication, the BOOKS file lists
+the actual date of publication; the NOVELS file will list the actual
+author of the novel, while the BOOKS file will list the author as it appears
+on the title page (which may be a pseudonym); the NOVELS file will track
+all of the variant titles that a novel may have had, while the BOOKS file
+lists the exact title of that particular publication. The ISFDB database
+format for the two files are:
+<pre>
+
+    -- NOVELS ------------------
+    TITLE {
+        AE=|AUTHOR|
+        YR=|YEAR|
+        SE=|SERIES|
+        SS=|SUPER SERIES|
+        SN=|SERIES NUMBER|
+        PB=|ABV|
+    }
+
+    -- BOOKS ------------------
+    TITLE {
+	AB=|ABV|
+	AE=|AUTHOR|
+	YR=|YEAR|
+	PB=|PUB|
+	IS=|ISBN|
+	PR=|$PRICE|
+	PP=|PAGES|
+	TP=|FORMAT|
+	CV=|ARTIST|
+    }
+</pre>
+<p>
+Why the split between the NOVELS and BOOKS information? Because a book is 
+usually written only once (although it may be revised a few times), while
+it may be published numerous times.  The NOVEL entry points at it's
+publication records through the PB field (which is the publication tag
+or key), which points to the AB field of the associated BOOKS entry.
+<p>
+For example, here is the novel entry for <i>Hyperion</i> and two of
+it's publication records:
+<pre>
+
+    -- NOVELS ------------------
+    Hyperion {
+        AE=|Dan Simmons|
+        YR=|1989|
+        SE=|Hyperion Cantos|
+        SN=|1|
+        PB=|HYPE1989A,HYPE1989B|
+    }
+
+    -- BOOKS ------------------
+    Hyperion {
+        AB=|HYPE1989A|
+        AE=|Dan Simmons|
+        YR=|1989|
+        PB=|Bantam Spectra|
+        IS=|0-553-28368-5|
+        PP=|482|
+        TP=|pb|
+        PR=|$5.99|
+        CV=|Gary Ruddell|
+    }
+    Hyperion {
+        AB=|HYPE1989B|
+        AE=|Dan Simmons|
+        YR=|1989|
+        PB=|Doubleday|
+        IS=|0-385-24949-7|
+        PP=|481|
+        TP=|hc|
+        PR=|$18.95|
+    }
+</pre>
+
+<h3><a name="PREPARE1A">Introductions, Forwards, and Prefaces</a></h3>
+If you wish to be <i>really</i> complete, you may want to add data
+on introductions, forwards, and other nonfiction material written
+by the author or someone else, and place either before or after the novel.
+At present, this type of data is
+place in the essays/articles area of the database. The entry should
+be listed under the file "ESSAYS". Here's an example of how an afterword
+could be added to <i>Foundation's Edge</i>:
+
+<pre>
+
+    -- NOVELS ------------------
+    Foundation's Edge {
+        AE=|Isaac Asimov|
+        YR=|1982|
+        SE=|Foundation|
+        PB=|FNDTNSDG1982|
+    }
+
+    -- ESSAYS ------------------
+    Afterword by the Author {
+        AE=|Isaac Asimov|
+        YR=|1982|
+        PB=|FNDTNSDG1982|
+    }
+
+    -- BOOKS ------------------
+    Foundation's Edge {
+        AB=|FNDTNSDG1982|
+        AE=|Isaac Asimov|
+        YR=|1982|
+	PB=|Doubleday|
+	IS=|SFBC|
+	PP=|366|
+	TP=|hc|
+	CV=|Joe Caroff|
+}
+</pre>
+
+<h3><a name="PREPARE1B">The Omnibus</a></h3>
+An omnibus is a special publication, usually offered as a Book Club
+edition, containing 2 or more novels. An omnibus is almost always
+part of a series, so it should be placed in the same series as the
+novels that are contained within the omnibus. Omnibus entries are
+placed in the file called OMNIBUS. The omnibus data is entered just
+like a novel. The only unusual thing that occurs is the publication
+tag for the omnibus is put in the omnibus entry as well as each novel
+that appears in the omnibus. As an example, here is the
+omnibus for Walter Jon Williams' Maijstral series, with publication
+data for both the omnibus and each novel's previous publications:
+<pre>
+
+    -- OMNIBUS ----------------
+    Ten Points For Style {
+        AE=|Walter Jon Williams|
+        YR=|1995|
+        PB=|TPFS1995|
+        SE=|Maijstral|
+    }
+
+    -- NOVELS -----------------
+    The Crown Jewels {
+        AE=|Walter Jon Williams|
+        YR=|1987|
+        SE=|Maijstral|
+        SN=|1|
+        PB=|CRJW1987,TPFS1995|
+    }
+    House of Shards {
+        AE=|Walter Jon Williams|
+        YR=|1988|
+        SE=|Maijstral|
+        SN=|2|
+        PB=|HOSH1988,TPFS1995|
+    }
+    Rock of Ages {
+        AE=|Walter Jon Williams|
+        YR=|1995|
+        SE=|Maijstral|
+        SN=|3|
+        PB=|TPFS1995,RCKFAGES1996|
+    }
+
+    -- BOOKS ------------------
+    The Crown Jewels {
+        AB=|CRJW1987|
+        AE=|Walter Jon Williams|
+        YR=|1987|
+        PB=|Tor|
+        PP=|247|
+        TP=|pb|
+        PR=|$3.50|
+        IS=|0-812-55798-0|
+    }
+    House of Shards {
+        AB=|HOSH1988|
+        AE=|Walter Jon Williams|
+        IS=|0-812-55783-2|
+        YR=|1988|
+        PB=|Tor|
+        PP=|309|
+        PR=|3.95|
+        TP=|pb|
+        CV=|Don Brautigan|
+    }
+    Rock of Ages {
+        AB=|RCKFAGES1996|
+        AE=|Walter Jon Williams|
+        YR=|1996|
+        CV=|Romas|
+        PB=|Tor|
+        IS=|0-812-51382-7|
+        PP=|287|
+        PR=|$5.99|
+        TP=|pb|
+    }
+    Ten Points For Style {
+        AB=|TPFS1995|
+        AE=|Walter Jon Williams|
+        YR=|1995|
+        PB=|Guild America|
+        IS=|1-56865-166-X|
+        PP=|638|
+        TP=|hc|
+        CV=|Romas|
+        NT=|SFBC omnibus|
+    }
+
+</pre>
+
+<h2><a name="PREPARE2">Data Format for Collections and Anthologies</a></h2>
+Since people still ask this question, let's get it out of the
+way first thing. The difference between a collection and an anthology
+is this: a collection is a collection of short fiction by a single author;
+an anthology is a collection of short fiction, each story written by a different
+author. As always, there are exceptions, but for the most part the above
+rule applies just fine.
+<p>
+Both collections and anthologies tend to group data into 3 files: either
+COLLECTIONS, SHORTFICTION, and BOOKS; or ANTHOLOGIES, SHORTFICTION, and
+BOOKS. As with novels above, introductory material may be placed in the
+ESSAYS file. Some anthologies may consist purely of essays, in which 
+case there would be no associated entries in the SHORTFICTION file at all,
+with everything being placed in the ESSAYS file.
+<p>
+Here's an example of a collection by Rebecca Ore. Note that many of
+the short fiction entries have multiple publication keys, indicating
+publication elsewhere.
+
+<pre>
+    -- COLLECTIONS ------------
+    Alien Bootlegger and Other Stories {
+        AE=|Rebecca Ore|
+        YR=|1993|
+        PB=|ALBL1993|
+    }
+
+    -- ESSAYS -----------------
+    Aliens and the Artificial Other {
+        AE=|Rebecca Ore|
+        YR=|1993|
+        PB=|ALBL1993|
+    }
+
+    -- SHORTFICTION -----------
+    Alien Bootlegger {
+        AE=|Rebecca Ore|
+        YR=|1993|
+        PB=|ALBL1993,TYBSF11A,TYBSF11B|
+    }
+    The Tyrant That I Serve {
+        AE=|Rebecca Ore|
+        YR=|1993|
+        PB=|ALBL1993|
+    }
+    Giant Flesh Holograms Keep My Baby's Eyes Warm {
+        AE=|Rebecca Ore|
+        YR=|1993|
+        PB=|ALBL1993|
+    }
+    Farming in Virginia {
+        AE=|Rebecca Ore|
+        YR=|1993|
+        PB=|ALBL1993|
+    }
+    Projectile Weapons {
+        AE=|Rebecca Ore|
+        YR=|1993|
+        PB=|ALBL1993|
+    }
+    Ice-Gouged Lakes, Glacier-Bound Times {
+        AE=|Rebecca Ore|
+        YR=|1988|
+        SL=|ss|
+        PB=|AMAZJUL1988,ALBL1993|
+    }
+
+    -- BOOKS ------------------
+    Alien Bootlegger and Other Stories{
+        AB=|ALBL1993|
+        AE=|Rebecca Ore|
+        YR=|1993|
+        PB=|Tor|
+        IS=|0-312-85549-4|
+        PP=|313|
+        PR=|19.95|
+        TP=|hc|
+        CV=|Wayne Barlowe|
+        NT=|[V]|
+    }
+
+</pre>
+<h2><a name="PREPARE3">Data Format for Magazines</a></h2>
+Magazine data can be far more complex than the other forms of
+publication. There isn't anything inherently difficult about it,
+but it can cross a large number of files.
+<p>
+In the most simplified form, a magazine usually crosses just 2
+files: SHORTFICTION and ZINES. The ZINE file contains the publication
+data, while the SHORTFICTION file is filled in just as with collections
+or anthologies. For instance, the entries for the January 97 issue
+of <i>Science Fiction Age</i> are:
+
+<pre>
+    -- ZINES ------------------
+    Science Fiction Age, January 1997 {
+        AB=|SFAGEJAN97|
+        AE=|Scott Edelman|
+        YR=|1997|
+        PP=|106|
+        PR=|$3.95|
+        CV=|David Mattingly|
+        NT=|Vol 5, No 2|
+    }
+
+    -- SHORTFICTION -----------
+    Blind Eye {
+        AE=|Jack Dann|
+        YR=|1997|
+        SL=|sf|
+        PB=|SFAGEJAN97|
+    }
+    Sam and the Prudent Jurist {
+        AE=|Ben Bova|
+        YR=|1997|
+        SL=|sf|
+        PB=|SFAGEJAN97|
+    }
+    The Five Biographies of General Gerrhan {
+        AE=|Don Webb|
+        YR=|1997|
+        SL=|sf|
+        PB=|SFAGEJAN97|
+    }
+
+</pre>
+There are a couple of notes here: First, it is customary to add the
+the volume and issue number to the notes section of the ZINE entry.
+Second, in order to duplicate a modern-era Table of Contents, the
+story length is entered in the SL field. Preferred SL entries are
+ss=short story, nt=novelette, nv=novella. If the magazine does not
+publish the story lengths (as with SF Age), use a length of sf
+(for short fiction). Failure to use the SL field will cause the 
+content listing of the magazine to appear like a collection or
+anthology.
+<p>
+<h3><a name="PREPARE3A">Essays</a></h3>
+In addition to short fiction, there are usually articles and essays.
+In general, we like to list titled articles and drop the rest. We
+really don't need to fill in Isaac Asimov's bibliography with several
+hundred essays titled "Editorial". These entries, as with collections
+and anthologies, go into the ESSAYS file:
+
+<pre>
+
+    -- ESSAYS -----------------
+    Living Space {
+        AE=|Alan Dean Foster|
+        YR=|1997|
+        PB=|SFAGEJAN97|
+        NT=|An artist's gallery of Barclay Shaw's illustrations.|
+    }
+</pre>
+
+<h3><a name="PREPARE3B">Interior Artists</a></h3>
+Interior artists can be tracked by placing entries in the
+INTERIORS file. These should have some descriptive title
+(usually the same as the story being illustrated):
+
+<pre>
+
+    -- INTERIORS --------------
+    Blooming Ice {
+        AE=|David Beck|
+        YR=|1997|
+        PB=|SFAGEJAN97|
+    }
+    Living Space {
+        AE=|Barclay Shaw|
+        YR=|1997|
+        PB=|SFAGEJAN97|
+        NT=|An artist's gallery of illustrations.|
+    }
+    The Jackdaw's Last Case {
+        AE=|Tom Simonton|
+        YR=|1997|
+        PB=|SFAGEJAN97|
+    }
+</pre>
+
+<h3><a name="PREPARE3C">Book Reviews</a></h3>
+Books reviews can also be entered into the REVIEWS file. The AE
+field should reflect the author of the reviewed work, while the
+RV field should be the author of the review. The YR field should
+be set to the year of the review, not the year of the reviewed
+work. While only the AE, YR, RV, and PB fields are required it
+is helpful if you can add a TP field which indicates what kind
+of book is being reviewed (n=novel, a=anthology, c=collection,
+nf=nonfiction). Since review data can be helpful in locating
+new data for the ISFDB, the type information is needed to figure
+out which file the new entry should be placed in.
+
+<pre>
+
+    -- REVIEWS ----------------
+    Voyage {
+        AE=|Stephen Baxter|
+        YR=|1997|
+        RV=|Mark Tiedemann|
+        PB=|SFAGEJAN97|
+    }
+    Infinity's Shore {
+        AE=|David Brin|
+        YR=|1997|
+        RV=|Richard Parks|
+        PB=|SFAGEJAN97|
+    }
+    Acts of Conscience {
+        AE=|William Barton|
+        YR=|1997|
+        RV=|Paul Di Filippo|
+        PB=|SFAGEJAN97|
+    }
+</pre>
+
+<h3><a name="PREPARE3D">Interviews</a></h3>
+Interview data can be added to the INTERVIEWS file. The person
+being interviewed should be entered into the AE field. The 
+interviewer should be entered in the IT field. The YR and PB
+fields should be completed as usual. Example:
+
+<pre>
+
+    -- INTERVIEWS -------------
+    Ellen Asher: Life at the Science Fiction Book Club {
+        AE=|Ellen Asher|
+        IT=|Richard Gilliam|
+        YR=|1996|
+        PB=|MNFCSFT1996|
+    }
+
+</pre>
+
+<h3><a name="PREPARE3E">Magazine Page</a></h3>
+When entering data for a magazine which is not currently
+tracked by the ISFDB, an html page needs to be created. 
+I probably have enough resources to construct this page,
+but on occasion may need help in constructed the issue/year
+matrix.
+
+<hr>
+
+<h1><a name="RECEIVED">What Happens To Your Data</a></h2>
+
+Okay; you give me your data, and three weeks later it still hasn't shown
+up in the ISFDB. What gives? As it turns out, merging your data into the
+ISFDB isn't just a matter of dropping the new data on the disk and letting 
+her rip. Duplicates have to be merged. Some of the duplicates will have 
+slightly different titles (due to typos) and be difficult to find. Your 
+data may think that "Collection X" by "Author Z" has 5 short stories, 
+while the ISFDB claims that it has 6. Your data may claim that some novel
+has 162 pages while the ISFDB has "xii+162" (preface).
+<p>
+The following paragraphs describe, step-by-step,
+exactly what is done to the data before it is integrated into the ISFDB.
+This section started as a place to write down the procedures as they
+were being developed; now it's grown into a kind of monograph about the
+arcane science of merging fiction databases. They are the steps that
+anyone needs to take when merging any two fiction databases together.
+As it turns out, almost all of the merging work centers around finding
+errors in the two databases.
+
+<h2><a name="RECEIVED1">Checking the Veracity of the New Data</a></h2>
+The first step in merging the new data is to check for meta-errors. This
+phase isn't concerned with incorrect data, but rather with
+missing and mangled data.  In order to check the new database for lexical 
+inconsistencies, certain fields in the new database are required. For 
+instance, it is impossible to determine whether the following two stories:
+
+<pre>
+	"The Database on the Edge of Forever" by Cordwainer Ellison
+	"The Data on the Edge of Forever" by ??
+</pre>
+
+are actually the same story. A search of the standard references for the
+second record can be made by title only. If the second record is the errant
+one, it will not show up in any index; since the author is missing,
+a search by author name cannot be performed. But all indexes are 
+incomplete, so a missing title is no guarantee that the title is bogus.
+So the veracity tool checks the following:
+<ol>
+  <li> If the database files are constructed from a proprietary format,
+  the field which determines that a record is a novel, collections,
+  anthology, magazine, etc.. is checked. Bad values are flagged and
+  researched.
+  <li> Each collection and anthology record is checked for
+  missing author/editor data. If the work is a collection, the author 
+  can be determined by just looking at the author of the story data that
+  points to it.  If the work is an anthology, the editor can be found
+  by going back to the primary source, or by looking up the data in a 
+  secondary source. If no editor is found, the editor is made "unknown".
+  Every novel, collection, and anthology <i>will</i> have an author/editor.
+  <li> Each record is searched for missing year data. The second pass
+  of the lexical inconsistency tools (a later phase in the merging process)
+  looks for similar titles with 
+  identical years; the more accurate the year field, the more accurate
+  the lexical search will be. Unknown years are given the value "0".
+  Note that, in the example above, if the year of publication were
+  present in both records:
+<pre>
+	"The Database on the Edge of Forever" (1972)
+	"The Data on the Edge of Forever" (1972)
+</pre>
+  The lexical tool <i>would</i> find this error during the second pass
+  through the data (and since the 2nd record is incomplete, it's accuracy
+  would be suspect).
+  <li> If the database contains story data, each of the stories is
+  checked to make sure that its key (or tag) refers to a publication
+  that actually resides in the database. Bad references are flagged.
+  <li> If the database contains story data, each publication is checked
+  to make sure that some story actually refers to it.
+</ol>
+<b>Note:</b> <i>Once a list of meta-errors has been collected, you may
+be asked to help resolve these errors, since you probably have access
+to the primary sources.</i> After all, the data came from <i>your</i> database.
+<p>
+<hr>
+<h2><a name="RECEIVED2">Scanning for Lexical Inconsistencies</a></h2>
+Okay, you're probably asking "What, <i>exactly</i>, is a lexical
+inconsistency?" The answer: 
+<ol>
+  <li> If both titles are "similar" and both authors are "similar", or
+  <li> If both "titles" are similar and both years are identical,
+  <li> And, the titles and authors are not identical, then
+  <li> the records are <i>possibly</i> inconsistent.
+</ol>
+Okay, now you're probably asking "What, <i>exactly</i>, is "similar"?"
+"Similar" is defined as:
+<ol>
+  <li>If two target strings are identical, then they also similar.
+  <li>If two target strings are reduced to lowercase, and they are
+      then identical, then they are similar. Example:
+<pre>
+	"Children Of The Centaur" = "children of the centaur"
+	"Children of the Centaur" = "children of the centaur"
+</pre>
+     are similar, but not identical.
+  <li>If two target strings are reduced to lowercase, and the spaces
+      are removed, and they are then identical, then they are similar.
+      Example:
+<pre>
+	"H. P. Lovecraft" = "h.p.lovecraft"
+	"H.P. Lovecraft"  = "h.p.lovecraft"
+</pre>
+  <li>Two target strings are reduced to lowercase, and the spaces
+     are removed. The strings are then compared by position from front to end,
+     counting the number of matching characters. The strings are
+     then compared from end to front, counting the number of 
+     matching characters. A ratio of character matches to the longest string
+     length is then made (perfectly identical strings have a ratio
+     of 2.0). If the ratio is greater than 0.85, the strings are
+     considered similar. Example:
+<pre>
+	Forward Pass:
+	"The Shobies Story"  = "theshobiesstory"
+	"The Shobies' Story" = "theshobies'story"
+	                        ^^^^^^^^^^        Matches on 10 characters
+
+	Backward Pass:
+	"The Shobies Story"  =  "theshobiesstory"
+	"The Shobies' Story" = "theshobies'story"
+	                                   ^^^^^  Matches on 5 characters
+
+	Ratio = (10+5)/16 = 0.9375 = similar
+</pre>
+     Why 0.85? This value was found empirically by feeding 
+     known problem authors and titles into the tool. The intention of
+     this rule is to find minor typographic insertions or deletions.
+<p>
+  <li>If the target strings contain multiple data items (for instance,
+     the author field may list multiple authors for a collaboration,
+     or the title field may list multiple variant titles), then the
+     possibility exists that the data items are presented in a different
+     order in the two target strings. In this case, the above definitions
+     of "similar" may not detect truly similar strings. In the ISFDB,
+     if the target strings contain either the "+" character (collaboration)
+     or the "^" character (variant title or pseudonym), the strings are
+     decomposed into substrings using those characters as delimeters. Each
+     substring from one target string is compared to each substring of the
+     other target string. If any substrings are similar (in the sense of
+     similar[1] through similar[4] above), the strings are similar. 
+<p>
+     An example collaboration citation, where string [2] is missing the
+     collaboration:
+<pre>
+     [1] = "Jerry Pournelle+Larry Niven"   = "jerrypournelle" +
+	                                     "larryniven"
+
+     [2] = "Larry Niven"                   = "larryniven"
+</pre>
+     Normally, strings [1] and [2] would not be considered similar. String
+     [1] has been decomposed into "jerrypournelle" and "larryniven" 
+     substrings. Each will be compared to string [2]:
+<pre>
+     "jerrypournelle" vs "larryniven"  = (NOT SIMILAR)
+     "larryniven" vs "larryniven"      = (SIMILAR) **
+</pre>
+<p>
+     Hence, strings [1] and [2] are similar.  Strings with "^" characters 
+     are used to denote a pseudonym or variant title.  An example
+     of a missing pseudonym citation:
+<pre>
+     [1] = "S. P. Somtow^Somtow Sucharitkul"  = "s.p.somtow" +
+				                "somtowsucharitkul"
+
+     [2] = "Somtow Sucharitkul"               = "somtowsucharitkul"
+
+     "s.p.somtow" vs "somtowsucharitkul"        = (NOT SIMILAR)
+     "somtowsucharitkul" vs "somtowsucharitkul" = (SIMILAR) **
+</pre>
+     And the variant title case:
+<pre>
+     [1] = "The Computer Connection^The Indian Giver^Extro"
+				    = "thecomputerconnection"
+				    = "theindiangiver"
+				    = "extro"
+
+     [2] = "Extro^Computer Connection"
+				    = "extro"
+				    = "computerconnection"
+
+     "thecomputerconnection" vs "extro"              = (NOT SIMILAR)
+     "thecomputerconnection" vs "computerconnection" = (SIMILAR) **
+     "theindiangiver"        vs "extro"              = (NOT SIMILAR)
+     "theindiangiver"        vs "computerconnection" = (NOT SIMILAR)
+     "extro"                 vs "extro"              = (SIMILAR) **
+     "extro"                 vs "computerconnection" = (NOT SIMILAR)
+</pre>
+</ol>
+<p>
+Note that the above rules will not find every error. For instance, the
+current rules are not powerful enough to detect that these titles:
+<pre>
+	"The Private War of Pvt. Jacob"
+	"The Private War of Private Jacob"
+</pre>
+<p>
+are, in fact, similar (they generate a similarity ratio of 0.81). The target
+similarity ratio could be reduced to find more titles, but the number of
+false positives begins to grow overwhelmingly. Every similarity hit must
+be looked at by hand, so reducing the number of false positives is important.
+The other fact to keep in mind is that in a later phase, the content of
+collections, anthologies, and magazines will be compared, and that these
+comparisons are done by exact title. As long as the two databases share 
+the book the story was published in, the error will be detected.
+<p>
+Now that you know what a "lexical inconsistency" is, and what "similar"
+means, we can discuss the tool itself.
+<p>
+The lexical inconsistency tool scans the new database and creates a list 
+of title/author/year triplets. On the first pass, each title/author pair
+in the database is checked against every other title/author pair in the database. If 
+two pairs are similar, but not identical, the entries are flagged.  On
+the second pass, each title/year pair is checked against every other
+title/year pair in the new database. If the titles are similar and the
+years are identical, the entries are flagged. Each flagged entry is then
+examined by hand. 
+<p>
+Note that, at this phase in the merging process, nothing has yet been
+compared to the ISFDB; these are all internal inconsistencies in your
+database.
+<i>Once a list of lexical inconsistencies has been collected,
+you may be asked to help resolve these errors, since you probably have 
+access to the primary sources.</i> 
+
+<p>
+<hr>
+<h2><a name="RECEIVED3">Collapsing the Records</a></h2>
+
+Most bibliographic databases have a separate record for each short
+story publication. That is, if a short story appears in a magazine,
+an anthology, and a collection, there will be three separate short
+story records for that title:
+<pre>
+	Bears Discover Fire {
+       		AE=|Terry Bisson|
+       		YR=|1990|
+        	SL=|ss|
+        	PB=|ASFAUG90|
+	}
+	Bears Discover Fire {
+       		AE=|Terry Bisson|
+       		YR=|1992|
+        	PB=|NEAW1992B|
+	}
+	Bears Discover Fire {
+       		AE=|Terry Bisson|
+       		YR=|1993|
+        	PB=|BRDF1993|
+	}
+</pre>
+
+The ISFDB, on the other hand, displays a <i>summary</i> of an author's
+works, so we only want a single title to be displayed on the author's
+Summary Bibliography page. In order to reduce the amount of computation
+done at run-time, the three records above are collapsed into the single 
+record:
+
+<pre>
+	Bears Discover Fire {
+       		AE=|Terry Bisson|
+       		YR=|1990|
+        	SL=|ss|
+        	PB=|ASFAUG90,NEAW1992B,BRDF1993|
+	}
+</pre>
+
+While this result is completely machine-generated, it does require
+an exact title/author match. This explains the importance of the
+previous lexical inconsistency search.
+
+<p>
+<hr>
+<h2><a name="RECEIVED4">Finding External Lexical Inconsistencies</a></h2>
+
+Now that both databases are in ISFDB format, and both databases are
+supposedly internally consistent, we can now start the process of
+merging the databases by looking for lexical inconsistencies between
+the two databases.
+<p>
+When the actual merging begins, there are four possible relationships
+that the data can have between the two databases:
+<ol>
+  <li> The book in the new database is not present in the ISFDB. In
+  this case, the data can simply be inserted wholesale.
+  <li> The book is known to the ISFDB, but only by title. No publication
+  data or content information is known to the ISFDB. In this case, the
+  publication and content data can simply be inserted, <i>but</i> the
+  databases have to be in agreement on the title/author of the book. 
+  Title typos will result in the introduction of a duplicate lexical variant.
+  <li> The book is known to the ISFDB, and both databases are in complete
+  agreement. In this case, the new data is tossed, as the ISFDB already
+  has it. The title/authors of everything must be in agreement for this
+  to occur.
+  <li> The book is known to the ISFDB, but there is a disagreement over
+  publication data or content information. Naturally, this is where all
+  the merging work occurs.
+</ol>
+So once again, ensuring the integrity of the titles is the first order
+of business. The process for external lexical inconsistencies is the
+nearly the same as finding internal ones, with one small difference:
+only differences <i>between</i> the databases are reported. Internal
+inconsistencies are ignored, so it is critical to go through the
+internal inconsistency phase prior to moving on to this one. 
+<p>
+For example, say each database has two records for "Title 1". Both
+databases have a correct record and an incorrect one (internal inconsistency):
+<pre>
+	ISFDB: "Title 1" and "Titel 1"
+	NEWDB: "Title 1" and "title 1"
+</pre>
+If the internal inconsistencies are not removed first, then the external
+inconsistency phase will find the following errors:
+<pre>
+	"Title 1" (ISFDB)  vs  "title 1" (NEWDB)
+	"Titel 1" (ISFDB)  vs  "Title 1" (NEWDB)
+	"Titel 1" (ISFDB)  vs  "title 1" (NEWDB)
+</pre>
+Whereas, if the databases were internally consistent, there would have
+been no errors found at all, saving a great deal of time.
+<p>
+After the external inconsistencies have been resolved, both the ISFDB
+and the NEWDB are collapsed again to pick up any duplicate titles that
+might have been introduced.
+<p>
+<hr>
+<h2><a name="RECEIVED5">Putting Publication Data Into Agreement</a></h2>
+
+The first step in merging the publication data is ensuring that there are
+no internal publication duplicates. An internal duplicate basically means
+that the same book has been mistakenly entered twice into the database.
+Duplicates in the NEWDB will have been found in an earlier merging phase.
+Duplicates in the ISFDB can be found be running the "pubint" utility. 
+<p>
+Once the duplicates have been removed, we can search for external publication
+data differences between the two databases. So far, we have made sure
+that the databases agree on story titles, book titles, and who wrote
+what. Now we want the databases to agree on ISBN's, publication houses, page
+count, etc...  Title matches must be identical during this phase, so the
+databases must be lexically consistent at this point. The simplified
+algorithm for finding these differences is:
+<pre>
+   For every book entry in the NEWDB
+      Find the matching book entry in the ISFDB
+      If a match exists
+         Extract pub keys from the NEWDB 
+         Extract pub keys from the ISFDB 
+         For every NEWDB pub key
+            For every ISFDB pub key
+	       Extract the pub data using the NEWDB key
+	       Extract the pub data using the ISFDB key
+	       Compare NEWDB pub data to ISFDB pub data
+	       If differences
+	          Output differences
+               Else
+	          Emit a NEWDB:ISFDB key mapping
+</pre>
+As an example, let's say the NEWDB has a set of collections (a book
+of short fiction by a single author):
+<ol> 
+   <li> Every collection in the NEWDB is examined.
+   <li> The ISFDB is searched to see if a collection with a matching
+	title and author name is found.
+   <li> If there is no such entry in the ISFDB, the NEWDB collection
+	must be new (since all lexical inconsistencies have already been
+	resolved). New entries will be added to the ISFDB in a
+	subsequent merging phase.
+   <li> If there was a matching entry in the ISFDB, then prepare
+	to compare publication data.
+   <li> Extract the publication keys from the NEWDB collection entry. This is
+	the field that connects a short stories to a particular publication.
+   <li> Extract the publication keys from the ISFDB collection entry.
+   <li> For each NEWDB publication key, find the associated publication
+	data.
+   <li> For each ISFDB publication key, find the associated publication
+	data.
+   <li> Compare each NEWDB publication field of one publication record
+	to the associated publication field of one ISFDB publication
+	record.
+   <li> If a difference exists, there may be a problem.
+   <li> If no differences exist, then the NEWDB and the ISFDB are in agreement.
+	Output a key mapping. This states: for NEWDB publication key X, the 
+	corresponding ISFDB publication key is Y. This mapping list describes
+	the books which intersect both the NEWDB and the ISFDB.
+</ol>
+After modifying the databases, the above algorithm is repeated. This
+cycle continues until all discrepancies have been addressed, or have been
+dismissed as irrelevant.  Once this phase is complete, the keymap should
+describe those books which are common to both the ISFDB and the NEWDB;
+all further work will be based on this keymap instead of title/author string matches.
+<p>
+<hr>
+<h2><a name="RECEIVED6">Putting Content Into Agreement</a></h2>
+
+For books which intersect both the ISFDB and the new database,
+there is now agreement on book titles, author names, and publication
+data. Now we need to put the two databases into agreement concerning
+content. When this phase is complete, a book will either be completely
+and accurately represented in the ISFDB, or it will be completely new
+data which can simply be tossed into the ISFDB as-is.
+<pre>
+	For each entry in the keymap
+	   Extract all data associated with the NEWDB key
+	   Get the associated ISFDB key from the keymap
+	   Extract all data associated with the ISFDB key
+	   For each data record in the NEWDB
+	       Find the related ISFDB record
+	       If no record exists
+		  Emit an NEWDB->ISFDB error
+               Else
+		  Mark the record as verified
+	   For each unverified data record in the ISFDB
+	      Emit an ISFDB->NEWDB error
+</pre>
+
+<hr>
+<h2><a name="RECEIVED7">Merging Non-intersecting Data from the NEWDB into ISFDB</a></h2>
+At this point, all data in the NEWDB which has a key that is not
+in the keymap should be moved into the ISFDB. The first step in this
+process is to cull the data associated with keys that are in the keymap.
+The algorithm for this is:
+<pre>
+	For each entry in the keymap
+	   Search all data records
+	   If the key is contained in a record's keylist
+	      Remove the key
+           If the record's keylist is now empty
+	      Mark the record DONTUSE
+        For each record in the NEWDB
+	   If the record is not marked DONTUSE
+	      Emit the record's data appropriately
+</pre>
+This will created a new set of NEWDB files. Then:
+<pre>
+      For each non-empty file in the NEWDB, concatenate the file
+        with the associated ISFDB file
+      Collapse every touched file in the ISFDB
+      As a final check, look for internal inconsistencies in the
+	affected ISFDB files
+</pre>
+At this point, the merging is officially complete.
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

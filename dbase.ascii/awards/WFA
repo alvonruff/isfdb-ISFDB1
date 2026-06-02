@@ -1,0 +1,9457 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)WFA	1.8	12/29/98 ISFDB";
+##
+untitled {
+	AE=|Robert Bloch|
+	AS=|WFAU|
+	YR=|1975|
+	TG=|1415|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Robert Aickman|
+	AS=|WFAU|
+	YR=|1975|
+	TG=|219|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Frank Belknap Long|
+	AS=|WFAU|
+	YR=|1975|
+	TG=|7555|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Donald Wandrei|
+	AS=|WFAU|
+	YR=|1975|
+	TG=|12899|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Manly Wade Wellman|
+	AS=|WFAU|
+	YR=|1975|
+	TG=|13034|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Fritz Leiber|
+	AS=|WFAU|
+	YR=|1976|
+	TG=|7332|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Ray Bradbury|
+	AS=|WFAU|
+	YR=|1976|
+	TG=|1564|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Frank Belknap Long|
+	AS=|WFAU|
+	YR=|1976|
+	TG=|7556|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Manly Wade Wellman|
+	AS=|WFAU|
+	YR=|1976|
+	TG=|13035|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Ray Bradbury|
+	AS=|WFAU|
+	YR=|1977|
+	TG=|1565|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Jorge Luis Borges|
+	AS=|WFAU|
+	YR=|1977|
+	TG=|1466|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|L. Sprague de Camp|
+	AS=|WFAU|
+	YR=|1977|
+	TG=|3309|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Frank Belknap Long|
+	AS=|WFAU|
+	YR=|1977|
+	TG=|7557|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|H. Warner Munn|
+	AS=|WFAU|
+	YR=|1977|
+	TG=|8612|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|E. Hoffmann Price|
+	AS=|WFAU|
+	YR=|1977|
+	TG=|9417|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Manly Wade Wellman|
+	AS=|WFAU|
+	YR=|1977|
+	TG=|13036|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Frank Belknap Long|
+	AS=|WFAU|
+	YR=|1978|
+	TG=|7558|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Jorge Luis Borges|
+	AS=|WFAU|
+	YR=|1978|
+	TG=|1467|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|John Collier|
+	AS=|WFAU|
+	YR=|1978|
+	TG=|2885|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Roald Dahl|
+	AS=|WFAU|
+	YR=|1978|
+	TG=|3128|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Richard Matheson|
+	AS=|WFAU|
+	YR=|1978|
+	TG=|7919|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Manly Wade Wellman|
+	AS=|WFAU|
+	YR=|1978|
+	TG=|13037|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Jorge Luis Borges|
+	AS=|WFAU|
+	YR=|1979|
+	TG=|1468|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|John Collier|
+	AS=|WFAU|
+	YR=|1979|
+	TG=|2886|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|L. Sprague de Camp|
+	AS=|WFAU|
+	YR=|1979|
+	TG=|3310|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|H. Warner Munn|
+	AS=|WFAU|
+	YR=|1979|
+	TG=|8613|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|John Myers Myers|
+	AS=|WFAU|
+	YR=|1979|
+	TG=|8667|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Manly Wade Wellman|
+	AS=|WFAU|
+	YR=|1979|
+	TG=|13038|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Manly Wade Wellman|
+	AS=|WFAU|
+	YR=|1980|
+	TG=|13039|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Avram Davidson|
+	AS=|WFAU|
+	YR=|1980|
+	TG=|3257|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|L. Sprague de Camp|
+	AS=|WFAU|
+	YR=|1980|
+	TG=|3311|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|H. Warner Munn|
+	AS=|WFAU|
+	YR=|1980|
+	TG=|8614|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Jack Vance|
+	AS=|WFAU|
+	YR=|1980|
+	TG=|12566|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|C. L. Moore|
+	AS=|WFAU|
+	YR=|1981|
+	TG=|8512|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Joseph Payne Brennan|
+	AS=|WFAU|
+	YR=|1981|
+	TG=|1630|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Avram Davidson|
+	AS=|WFAU|
+	YR=|1981|
+	TG=|3258|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|L. Sprague de Camp|
+	AS=|WFAU|
+	YR=|1981|
+	TG=|3312|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Andre Norton|
+	AS=|WFAU|
+	YR=|1981|
+	TG=|8872|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Jack Vance|
+	AS=|WFAU|
+	YR=|1981|
+	TG=|12567|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Italo Calvino|
+	AS=|WFAU|
+	YR=|1982|
+	TG=|2158|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|L. Sprague de Camp|
+	AS=|WFAU|
+	YR=|1982|
+	TG=|3313|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Andre Norton|
+	AS=|WFAU|
+	YR=|1982|
+	TG=|8873|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Jack Vance|
+	AS=|WFAU|
+	YR=|1982|
+	TG=|12568|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Roald Dahl|
+	AS=|WFAU|
+	YR=|1983|
+	TG=|3129|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|L. Sprague de Camp|
+	AS=|WFAU|
+	YR=|1984|
+	TG=|3314|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Richard Matheson|
+	AS=|WFAU|
+	YR=|1984|
+	TG=|7920|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|E. Hoffmann Price|
+	AS=|WFAU|
+	YR=|1984|
+	TG=|9418|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Jack Vance|
+	AS=|WFAU|
+	YR=|1984|
+	TG=|12569|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Donald Wandrei|
+	AS=|WFAU|
+	YR=|1984|
+	TG=|12900|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Theodore Sturgeon|
+	AS=|WFAU|
+	YR=|1985|
+	TG=|11639|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Avram Davidson|
+	AS=|WFAU|
+	YR=|1986|
+	TG=|3259|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Jack Finney|
+	AS=|WFAU|
+	YR=|1987|
+	TG=|4509|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Everett F. Bleiler|
+	AS=|WFAU|
+	YR=|1988|
+	TG=|1396|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Evangeline Walton|
+	AS=|WFAU|
+	YR=|1989|
+	TG=|12892|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|R. A. Lafferty|
+	AS=|WFAU|
+	YR=|1990|
+	TG=|6876|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Ray Russell|
+	AS=|WFAU|
+	YR=|1991|
+	TG=|10097|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Edd Cartier|
+	AS=|WFAU|
+	YR=|1992|
+	TG=|2497|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Harlan Ellison|
+	AS=|WFAU|
+	YR=|1993|
+	TG=|4137|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Jack Williamson|
+	AS=|WFAU|
+	YR=|1994|
+	TG=|13345|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Ursula K. Le Guin|
+	AS=|WFAU|
+	YR=|1995|
+	TG=|7103|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Gene Wolfe|
+	AS=|WFAU|
+	YR=|1996|
+	TG=|13575|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Madeleine L'Engle|
+	AS=|WFAU|
+	YR=|1997|
+	TG=|15511|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Edward L. Ferman|
+	AS=|WFAU|
+	YR=|1998|
+	TG=|18943|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Andre Norton|
+	AS=|WFAU|
+	YR=|1998|
+	TG=|18945|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Hugh B. Cave|
+	AS=|WFAU|
+	YR=|1999|
+	TG=|20842|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Marion Zimmer Bradley|
+	AS=|WFAU|
+	YR=|2000|
+	TG=|20241|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Michael Moorcock|
+	AS=|WFAU|
+	YR=|2000|
+	TG=|20263|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+The Forgotten Beasts of Eld {
+	AE=|Patricia A. McKillip|
+	AS=|WFAN|
+	YR=|1975|
+	TG=|8278|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+A Midsummer Tempest {
+	AE=|Poul Anderson|
+	AS=|WFAN|
+	YR=|1975|
+	TG=|392|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Merlin's Ring {
+	AE=|H. Warner Munn|
+	AS=|WFAN|
+	YR=|1975|
+	TG=|8619|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Bid Time Return {
+	AE=|Richard Matheson|
+	AS=|WFAN|
+	YR=|1976|
+	TG=|7921|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+'Salem's Lot {
+	AE=|Stephen King|
+	AS=|WFAN|
+	YR=|1976|
+	TG=|6526|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Dr. Rat {
+	AE=|William Kotzwinkle|
+	AS=|WFAN|
+	YR=|1977|
+	TG=|6741|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+The Doll Who Ate His Mother {
+	AE=|Ramsey Campbell|
+	AS=|WFAN|
+	YR=|1977|
+	TG=|2206|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dragon and the George {
+	AE=|Gordon R. Dickson|
+	AS=|WFAN|
+	YR=|1977|
+	TG=|3594|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Sailor on the Seas of Fate {
+	AE=|Michael Moorcock|
+	AS=|WFAN|
+	YR=|1977|
+	TG=|8500|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Acts of King Arthur and His Noble Knights {
+	AE=|John Steinbeck|
+	AS=|WFAN|
+	YR=|1977|
+	TG=|11426|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Dark Crusade {
+	AE=|Karl Edward Wagner|
+	AS=|WFAN|
+	YR=|1977|
+	TG=|12780|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Our Lady of Darkness {
+	AE=|Fritz Leiber|
+	AS=|WFAN|
+	YR=|1978|
+	TG=|7378|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+The Chronicles of Thomas Covenant the Unbeliever {
+	AE=|Stephen R. Donaldson|
+	AS=|WFAN|
+	YR=|1978|
+	TG=|3692|
+	TA=|Best Novel|
+	TP=|s|
+	LV=|9|
+}
+The Hour of the Oxrun Dead {
+	AE=|Charles L. Grant|
+	AS=|WFAN|
+	YR=|1978|
+	TG=|5281|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Gloriana {
+	AE=|Michael Moorcock|
+	AS=|WFAN|
+	YR=|1979|
+	TG=|8492|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+The Black Castle {
+	AE=|Les Daniels|
+	AS=|WFAN|
+	YR=|1979|
+	TG=|3147|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Sound of Midnight {
+	AE=|Charles L. Grant|
+	AS=|WFAN|
+	YR=|1979|
+	TG=|5314|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Stand {
+	AE=|Stephen King|
+	AS=|WFAN|
+	YR=|1979|
+	TG=|6609|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Night's Master {
+	AE=|Tanith Lee|
+	AS=|WFAN|
+	YR=|1979|
+	TG=|7273|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Watchtower {
+	AE=|Elizabeth A. Lynn|
+	AS=|WFAN|
+	YR=|1980|
+	TG=|7655|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+The Last Call of Mourning {
+	AE=|Charles L. Grant|
+	AS=|WFAN|
+	YR=|1980|
+	TG=|5284|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dead Zone {
+	AE=|Stephen King|
+	AS=|WFAN|
+	YR=|1980|
+	TG=|6558|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dancers of Arun {
+	AE=|Elizabeth A. Lynn|
+	AS=|WFAN|
+	YR=|1980|
+	TG=|7648|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Harpist in the Wind {
+	AE=|Patricia A. McKillip|
+	AS=|WFAN|
+	YR=|1980|
+	TG=|8283|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dark Bright Water {
+	AE=|Patricia Wrightson|
+	AS=|WFAN|
+	YR=|1980|
+	TG=|13736|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Palace {
+	AE=|Chelsea Quinn Yarbro|
+	AS=|WFAN|
+	YR=|1980|
+	TG=|13762|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Shadow of the Torturer {
+	AE=|Gene Wolfe|
+	AS=|WFAN|
+	YR=|1981|
+	TG=|13638|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Firelord {
+	AE=|Parke Godwin|
+	AS=|WFAN|
+	YR=|1981|
+	TG=|5145|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Mist {
+	AE=|Stephen King|
+	AS=|WFAN|
+	YR=|1981|
+	TG=|6584|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Shadowland {
+	AE=|Peter Straub|
+	AS=|WFAN|
+	YR=|1981|
+	TG=|11621|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Ariosto {
+	AE=|Chelsea Quinn Yarbro|
+	AS=|WFAN|
+	YR=|1981|
+	TG=|13757|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Little, Big {
+	AE=|John Crowley|
+	AS=|WFAN|
+	YR=|1982|
+	TG=|3098|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+The Nameless {
+	AE=|Ramsey Campbell|
+	AS=|WFAN|
+	YR=|1982|
+	TG=|2218|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The War Hound and the World's Pain {
+	AE=|Michael Moorcock|
+	AS=|WFAN|
+	YR=|1982|
+	TG=|8503|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The White Hotel {
+	AE=|D. M. Thomas|
+	AS=|WFAN|
+	YR=|1982|
+	TG=|11906|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Claw of the Conciliator {
+	AE=|Gene Wolfe|
+	AS=|WFAN|
+	YR=|1982|
+	TG=|13597|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Nifft the Lean {
+	AE=|Michael Shea|
+	AS=|WFAN|
+	YR=|1983|
+	TG=|10531|
+	TA=|Best Novel|
+	TP=|c|
+	LV=|1|
+}
+The Nestling {
+	AE=|Charles L. Grant|
+	AS=|WFAN|
+	YR=|1983|
+	TG=|5285|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Fevre Dream {
+	AE=|George R. R. Martin|
+	AS=|WFAN|
+	YR=|1983|
+	TG=|7826|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Phantom {
+	AE=|Thomas Tessier|
+	AS=|WFAN|
+	YR=|1983|
+	TG=|11897|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Sword of the Lictor {
+	AE=|Gene Wolfe|
+	AS=|WFAN|
+	YR=|1983|
+	TG=|13653|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dragon Waiting {
+	AE=|John M. Ford|
+	AS=|WFAN|
+	YR=|1984|
+	TG=|4570|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Pet Sematary {
+	AE=|Stephen King|
+	AS=|WFAN|
+	YR=|1984|
+	TG=|6595|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Wandering Unicorn {
+	AE=|Manuel Mujica Lainez|
+	AS=|WFAN|
+	YR=|1984|
+	TG=|6917|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Tea with the Black Dragon {
+	AE=|R. A. MacAvoy|
+	AS=|WFAN|
+	YR=|1984|
+	TG=|7681|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Armageddon Rag {
+	AE=|George R. R. Martin|
+	AS=|WFAN|
+	YR=|1984|
+	TG=|7819|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Lyonesse: Suldrun's Garden^Lyonesse (1984 UK) {
+	AE=|Jack Vance|
+	AS=|WFAN|
+	YR=|1984|
+	TG=|12598|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Mythago Wood {
+	AE=|Robert Holdstock|
+	AS=|WFAN|
+	YR=|1985|
+	TG=|6018|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Bridge of Birds {
+	AE=|Barry Hughart|
+	AS=|WFAN|
+	YR=|1985|
+	TG=|6066|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Archer's Goon {
+	AE=|Diana Wynne Jones|
+	AS=|WFAN|
+	YR=|1985|
+	TG=|6221|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Talisman {
+	AE=|Stephen King+Peter Straub|
+	AS=|WFAN|
+	YR=|1985|
+	TG=|6616|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Ceremonies {
+	AE=|T. E. D. Klein|
+	AS=|WFAN|
+	YR=|1985|
+	TG=|6661|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Song of Kali {
+	AE=|Dan Simmons|
+	AS=|WFAN|
+	YR=|1986|
+	TG=|11016|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+The Damnation Game {
+	AE=|Clive Barker|
+	AS=|WFAN|
+	YR=|1986|
+	TG=|806|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Illywhacker {
+	AE=|Peter Carey|
+	AS=|WFAN|
+	YR=|1986|
+	TG=|2364|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dream Years {
+	AE=|Lisa Goldstein|
+	AS=|WFAN|
+	YR=|1986|
+	TG=|5190|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Winter King {
+	AE=|Paul Hazel|
+	AS=|WFAN|
+	YR=|1986|
+	TG=|5779|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Vampire Lestat {
+	AE=|Anne Rice|
+	AS=|WFAN|
+	YR=|1986|
+	TG=|9703|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Perfume {
+	AE=|Patrick Suskind|
+	AS=|WFAN|
+	YR=|1987|
+	TG=|11691|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Talking Man {
+	AE=|Terry Bisson|
+	AS=|WFAN|
+	YR=|1987|
+	TG=|1348|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Pet {
+	AE=|Charles L. Grant|
+	AS=|WFAN|
+	YR=|1987|
+	TG=|5291|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+It {
+	AE=|Stephen King|
+	AS=|WFAN|
+	YR=|1987|
+	TG=|6575|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Strangers {
+	AE=|Dean R. Koontz|
+	AS=|WFAN|
+	YR=|1987|
+	TG=|6733|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Tricksters {
+	AE=|Margaret Mahy|
+	AS=|WFAN|
+	YR=|1987|
+	TG=|7722|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Soldier of the Mist {
+	AE=|Gene Wolfe|
+	AS=|WFAN|
+	YR=|1987|
+	TG=|13644|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Replay {
+	AE=|Ken Grimwood|
+	AS=|WFAN|
+	YR=|1988|
+	TG=|5412|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Weaveworld {
+	AE=|Clive Barker|
+	AS=|WFAN|
+	YR=|1988|
+	TG=|818|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Seventh Son {
+	AE=|Orson Scott Card|
+	AS=|WFAN|
+	YR=|1988|
+	TG=|2348|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Ægypt {
+	AE=|John Crowley|
+	AS=|WFAN|
+	YR=|1988|
+	TG=|3082|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Misery {
+	AE=|Stephen King|
+	AS=|WFAN|
+	YR=|1988|
+	TG=|6582|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Swan Song {
+	AE=|Robert R. McCammon|
+	AS=|WFAN|
+	YR=|1988|
+	TG=|8064|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+On Stranger Tides {
+	AE=|Tim Powers|
+	AS=|WFAN|
+	YR=|1988|
+	TG=|9393|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Koko {
+	AE=|Peter Straub|
+	AS=|WFAN|
+	YR=|1989|
+	TG=|11615|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+The Last Coin {
+	AE=|James P. Blaylock|
+	AS=|WFAN|
+	YR=|1989|
+	TG=|1380|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Sleeping in Flame {
+	AE=|Jonathan Carroll|
+	AS=|WFAN|
+	YR=|1989|
+	TG=|2473|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Fade {
+	AE=|Robert Cormier|
+	AS=|WFAN|
+	YR=|1989|
+	TG=|2982|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Silence of the Lambs {
+	AE=|Thomas Harris|
+	AS=|WFAN|
+	YR=|1989|
+	TG=|5663|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Drive-In {
+	AE=|Joe R. Lansdale|
+	AS=|WFAN|
+	YR=|1989|
+	TG=|7033|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Lyonesse: Madouc^Madouc (1990 UK) {
+	AE=|Jack Vance|
+	AS=|WFAN|
+	YR=|1990|
+	TG=|12595|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+A Child Across the Sky {
+	AE=|Jonathan Carroll|
+	AS=|WFAN|
+	YR=|1990|
+	TG=|2456|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+In a Dark Dream {
+	AE=|Charles L. Grant|
+	AS=|WFAN|
+	YR=|1990|
+	TG=|5283|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Stress of Her Regard {
+	AE=|Tim Powers|
+	AS=|WFAN|
+	YR=|1990|
+	TG=|9396|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Carrion Comfort {
+	AE=|Dan Simmons|
+	AS=|WFAN|
+	YR=|1990|
+	TG=|10979|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Soldier of Arete {
+	AE=|Gene Wolfe|
+	AS=|WFAN|
+	YR=|1990|
+	TG=|13641|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Thomas the Rhymer {
+	AE=|Ellen Kushner|
+	AS=|WFAN|
+	YR=|1991|
+	TG=|6857|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Only Begotten Daughter {
+	AE=|James Morrow|
+	AS=|WFAN|
+	YR=|1991|
+	TG=|8591|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Good Omens {
+	AE=|Neil Gaiman+Terry Pratchett|
+	AS=|WFAN|
+	YR=|1991|
+	TG=|4813|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Tigana {
+	AE=|Guy Gavriel Kay|
+	AS=|WFAN|
+	YR=|1991|
+	TG=|6361|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Mary Reilly {
+	AE=|Valerie Martin|
+	AS=|WFAN|
+	YR=|1991|
+	TG=|7895|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Boy's Life {
+	AE=|Robert R. McCammon|
+	AS=|WFAN|
+	YR=|1992|
+	TG=|8055|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Hunting the Ghost Dancer {
+	AE=|A. A. Attanasio|
+	AS=|WFAN|
+	YR=|1992|
+	TG=|655|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Paper Grail {
+	AE=|James P. Blaylock|
+	AS=|WFAN|
+	YR=|1992|
+	TG=|1390|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Bone Dance {
+	AE=|Emma Bull|
+	AS=|WFAN|
+	YR=|1992|
+	TG=|1962|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Outside the Dog Museum {
+	AE=|Jonathan Carroll|
+	AS=|WFAN|
+	YR=|1992|
+	TG=|2466|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Little Country {
+	AE=|Charles de Lint|
+	AS=|WFAN|
+	YR=|1992|
+	TG=|3353|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Last Call {
+	AE=|Tim Powers|
+	AS=|WFAN|
+	YR=|1993|
+	TG=|9389|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Anno Dracula {
+	AE=|Kim Newman|
+	AS=|WFAN|
+	YR=|1993|
+	TG=|8698|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Was {
+	AE=|Geoff Ryman|
+	AS=|WFAN|
+	YR=|1993|
+	TG=|10155|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Photographing Fairies {
+	AE=|Steve Szilagyi|
+	AS=|WFAN|
+	YR=|1993|
+	TG=|11800|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Briar Rose {
+	AE=|Jane Yolen|
+	AS=|WFAN|
+	YR=|1993|
+	TG=|13791|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Glimpses {
+	AE=|Lewis Shiner|
+	AS=|WFAN|
+	YR=|1994|
+	TG=|10715|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+The Innkeeper's Song {
+	AE=|Peter S. Beagle|
+	AS=|WFAN|
+	YR=|1994|
+	TG=|957|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Drawing Blood {
+	AE=|Poppy Z. Brite|
+	AS=|WFAN|
+	YR=|1994|
+	TG=|1704|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Skin {
+	AE=|Kathe Koja|
+	AS=|WFAN|
+	YR=|1994|
+	TG=|6713|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Throat {
+	AE=|Peter Straub|
+	AS=|WFAN|
+	YR=|1994|
+	TG=|11623|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Iron Dragon's Daughter {
+	AE=|Michael Swanwick|
+	AS=|WFAN|
+	YR=|1994|
+	TG=|11759|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Lord of the Two Lands {
+	AE=|Judith Tarr|
+	AS=|WFAN|
+	YR=|1994|
+	TG=|11817|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Towing Jehovah {
+	AE=|James Morrow|
+	AS=|WFAN|
+	YR=|1995|
+	TG=|8599|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Brittle Innings {
+	AE=|Michael Bishop|
+	AS=|WFAN|
+	YR=|1995|
+	TG=|1227|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+From the Teeth of Angels {
+	AE=|Jonathan Carroll|
+	AS=|WFAN|
+	YR=|1995|
+	TG=|2462|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Love & Sleep {
+	AE=|John Crowley|
+	AS=|WFAN|
+	YR=|1995|
+	TG=|3101|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Waking the Moon {
+	AE=|Elizabeth Hand|
+	AS=|WFAN|
+	YR=|1995|
+	TG=|5597|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Circus of the Earth and the Air {
+	AE=|Brooke Stevens|
+	AS=|WFAN|
+	YR=|1995|
+	TG=|11501|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Prestige {
+	AE=|Christopher Priest|
+	AS=|WFAN|
+	YR=|1996|
+	TG=|9451|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+All the Bells on Earth {
+	AE=|James P. Blaylock|
+	AS=|WFAN|
+	YR=|1996|
+	TG=|1374|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Red Earth, Pouring Rain {
+	AE=|Vikram Chandra|
+	AS=|WFAN|
+	YR=|1996|
+	TG=|2573|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Silent Strength of Stones {
+	AE=|Nina Kiriki Hoffman|
+	AS=|WFAN|
+	YR=|1996|
+	TG=|5976|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Requiem {
+	AE=|Graham Joyce|
+	AS=|WFAN|
+	YR=|1996|
+	TG=|6307|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Expiration Date {
+	AE=|Tim Powers|
+	AS=|WFAN|
+	YR=|1996|
+	TG=|9384|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Godmother Night {
+	AE=|Rachel Pollack|
+	AS=|WFAN|
+	YR=|1997|
+	TG=|15478|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Shadow of Ashland {
+	AE=|Terence M. Green|
+	AS=|WFAN|
+	YR=|1997|
+	TG=|15452|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Bear Went Over the Mountain {
+	AE=|William Kotzwinkle|
+	AS=|WFAN|
+	YR=|1997|
+	TG=|15460|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The 37th Mandala {
+	AE=|Marc Laidlaw|
+	AS=|WFAN|
+	YR=|1997|
+	TG=|15462|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+A Game of Thrones {
+	AE=|George R. R. Martin|
+	AS=|WFAN|
+	YR=|1997|
+	TG=|15469|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Golden Key {
+	AE=|Melanie Rawn+Jennifer Roberson+Kate Elliott|
+	AS=|WFAN|
+	YR=|1997|
+	TG=|15481|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Devil's Tower {
+	AE=|Mark Sumner|
+	AS=|WFAN|
+	YR=|1997|
+	TG=|15489|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Physiognomy {
+	AE=|Jeffrey Ford|
+	AS=|WFAN|
+	YR=|1998|
+	TG=|18482|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Trader {
+	AE=|Charles de Lint|
+	AS=|WFAN|
+	YR=|1998|
+	TG=|18429|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+American Goliath {
+	AE=|Harvey Jacobs|
+	AS=|WFAN|
+	YR=|1998|
+	TG=|18550|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Dry Water {
+	AE=|Eric S. Nylund|
+	AS=|WFAN|
+	YR=|1998|
+	TG=|18930|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Gift {
+	AE=|Patrick O'Leary|
+	AS=|WFAN|
+	YR=|1998|
+	TG=|18649|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 84 = Withdrawn - Official Publication in a Previous Year {
+	AE=|(********)|
+	AS=|WFAN|
+	YR=|1998|
+	TG=|18905|
+	TA=|Best Novel|
+	TP=|x|
+	LV=|80|
+}
+The Club Dumas {
+	AE=|Arturo Pérez-Reverte|
+	AS=|WFAN|
+	YR=|1998|
+	TG=|18680|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|84|
+}
+The Antelope Wife {
+	AE=|Louise Erdrich|
+	AS=|WFAN|
+	YR=|1999|
+	TG=|19879|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Someplace to be Flying {
+	AE=|Charles de Lint|
+	AS=|WFAN|
+	YR=|1999|
+	TG=|19877|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Sailing to Sarantium {
+	AE=|Guy Gavriel Kay|
+	AS=|WFAN|
+	YR=|1999|
+	TG=|19883|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Mockingbird {
+	AE=|Sean Stewart|
+	AS=|WFAN|
+	YR=|1999|
+	TG=|19899|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Martyring {
+	AE=|Thomas Sullivan|
+	AS=|WFAN|
+	YR=|1999|
+	TG=|19901|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Thraxas {
+	AE=|Martin Scott|
+	AS=|WFAN|
+	YR=|2000|
+	TG=|20274|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Tamsin {
+	AE=|Peter S. Beagle|
+	AS=|WFAN|
+	YR=|2000|
+	TG=|20238|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Rainy Season {
+	AE=|James P. Blaylock|
+	AS=|WFAN|
+	YR=|2000|
+	TG=|20240|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Gardens of the Moon {
+	AE=|Steven Erikson|
+	AS=|WFAN|
+	YR=|2000|
+	TG=|20249|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+A Witness to Life {
+	AE=|Terence M. Green|
+	AS=|WFAN|
+	YR=|2000|
+	TG=|20251|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+A Red Heart of Memories {
+	AE=|Nina Kiriki Hoffman|
+	AS=|WFAN|
+	YR=|2000|
+	TG=|20253|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Fire When It Comes {
+	AE=|Parke Godwin|
+	AS=|WFAL|
+	YR=|1982|
+	TG=|5140|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|1|
+}
+Ealdwood {
+	AE=|C. J. Cherryh|
+	AS=|WFAL|
+	YR=|1982|
+	TG=|2671|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Mythago Wood {
+	AE=|Robert Holdstock|
+	AS=|WFAL|
+	YR=|1982|
+	TG=|6015|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+The River of Night's Dreaming {
+	AE=|Karl Edward Wagner|
+	AS=|WFAL|
+	YR=|1982|
+	TG=|12790|
+	TA=|Best Novella|
+	TP=|sf|
+	LV=|9|
+}
+Confess the Seasons {
+	AE=|Charles L. Grant|
+	AS=|WFAL|
+	YR=|1983|
+	TG=|5271|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|1|
+}
+Beyond All Measure {
+	AE=|Karl Edward Wagner|
+	AS=|WFAL|
+	YR=|1983|
+	TG=|12778|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+Night's Swift Dragons {
+	AE=|Charles L. Grant|
+	AS=|WFAL|
+	YR=|1983|
+	TG=|5287|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+The Breathing Method {
+	AE=|Stephen King|
+	AS=|WFAL|
+	YR=|1983|
+	TG=|6542|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Horrible Imaginings {
+	AE=|Fritz Leiber|
+	AS=|WFAL|
+	YR=|1983|
+	TG=|7365|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Black Air {
+	AE=|Kim Stanley Robinson|
+	AS=|WFAL|
+	YR=|1984|
+	TG=|9777|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|1|
+}
+The Lurking Duck {
+	AE=|Scott Baker|
+	AS=|WFAL|
+	YR=|1984|
+	TG=|729|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+The Monkey's Bride {
+	AE=|Michael Bishop|
+	AS=|WFAL|
+	YR=|1984|
+	TG=|1270|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+Nunc Dimittis Grave {
+	AE=|Tanith Lee|
+	AS=|WFAL|
+	YR=|1984|
+	TG=|7279|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+The Red Hawk {
+	AE=|Elizabeth A. Lynn|
+	AS=|WFAL|
+	YR=|1984|
+	TG=|7651|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+The Unconquered Country {
+	AE=|Geoff Ryman|
+	AS=|WFAL|
+	YR=|1985|
+	TG=|10147|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+Jacqueline Ess: Her Will and Testament {
+	AE=|Clive Barker|
+	AS=|WFAL|
+	YR=|1985|
+	TG=|814|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+The Ballad of the Flexible Bullet {
+	AE=|Stephen King|
+	AS=|WFAL|
+	YR=|1985|
+	TG=|6539|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+In the Sumerian Marshes {
+	AE=|Gerald Pearce|
+	AS=|WFAL|
+	YR=|1985|
+	TG=|9094|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Man Who Painted the Dragon Griaule {
+	AE=|Lucius Shepard|
+	AS=|WFAL|
+	YR=|1985|
+	TG=|10641|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+Nadelman's God {
+	AE=|T. E. D. Klein|
+	AS=|WFAL|
+	YR=|1986|
+	TG=|6665|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|1|
+}
+Flight {
+	AE=|Peter Dickinson|
+	AS=|WFAL|
+	YR=|1986|
+	TG=|3579|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Dead Image {
+	AE=|David Morrell|
+	AS=|WFAL|
+	YR=|1986|
+	TG=|8529|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+The Gorgon Field {
+	AE=|Kate Wilhelm|
+	AS=|WFAL|
+	YR=|1986|
+	TG=|13221|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Dare I Eat a Peach? {
+	AE=|Chelsea Quinn Yarbro|
+	AS=|WFAL|
+	YR=|1986|
+	TG=|13759|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+Hatrack River {
+	AE=|Orson Scott Card|
+	AS=|WFAL|
+	YR=|1987|
+	TG=|2315|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|1|
+}
+The Hellbound Heart {
+	AE=|Clive Barker|
+	AS=|WFAL|
+	YR=|1987|
+	TG=|810|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+Night Moves {
+	AE=|Tim Powers|
+	AS=|WFAL|
+	YR=|1987|
+	TG=|9390|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+The Night Seasons {
+	AE=|J. N. Williamson|
+	AS=|WFAL|
+	YR=|1987|
+	TG=|13342|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+Chance {
+	AE=|Connie Willis|
+	AS=|WFAL|
+	YR=|1987|
+	TG=|13363|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+Buffalo Gals, Won't You Come Out Tonight {
+	AE=|Ursula K. Le Guin|
+	AS=|WFAL|
+	YR=|1988|
+	TG=|7118|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|1|
+}
+Nesting Instinct {
+	AE=|Scott Baker|
+	AS=|WFAL|
+	YR=|1988|
+	TG=|730|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+The Pear-Shaped Man {
+	AE=|George R. R. Martin|
+	AS=|WFAL|
+	YR=|1988|
+	TG=|7848|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+Best Friends {
+	AE=|Robert R. McCammon|
+	AS=|WFAL|
+	YR=|1988|
+	TG=|8049|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+A Hypothetical Lizard {
+	AE=|Alan Moore|
+	AS=|WFAL|
+	YR=|1988|
+	TG=|8506|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Boy Who Came Back from the Dead {
+	AE=|Alan Rodgers|
+	AS=|WFAL|
+	YR=|1988|
+	TG=|9899|
+	TA=|Best Novella|
+	TP=|sf|
+	LV=|9|
+}
+Shades {
+	AE=|Lucius Shepard|
+	AS=|WFAL|
+	YR=|1988|
+	TG=|10661|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+The Skin Trade {
+	AE=|George R. R. Martin|
+	AS=|WFAL|
+	YR=|1989|
+	TG=|7863|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Scalehunter's Beautiful Daughter {
+	AE=|Lucius Shepard|
+	AS=|WFAL|
+	YR=|1989|
+	TG=|10659|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Gardener {
+	AE=|Sheri S. Tepper|
+	AS=|WFAL|
+	YR=|1989|
+	TG=|11881|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+The Devil's Arithmetic {
+	AE=|Jane Yolen|
+	AS=|WFAL|
+	YR=|1989|
+	TG=|13795|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Great Work of Time {
+	AE=|John Crowley|
+	AS=|WFAL|
+	YR=|1990|
+	TG=|3090|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+Apartheid, Superstrings, and Mordecai Thubana {
+	AE=|Michael Bishop|
+	AS=|WFAL|
+	YR=|1990|
+	TG=|1215|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+On the Far Side of the Cadillac Desert with Dead Folks {
+	AE=|Joe R. Lansdale|
+	AS=|WFAL|
+	YR=|1990|
+	TG=|7041|
+	TA=|Best Novella|
+	TP=|sf|
+	LV=|9|
+}
+The Father of Stones {
+	AE=|Lucius Shepard|
+	AS=|WFAL|
+	YR=|1990|
+	TG=|10608|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+A Dozen Tough Jobs {
+	AE=|Howard Waldrop|
+	AS=|WFAL|
+	YR=|1990|
+	TG=|12828|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Bones {
+	AE=|Pat Murphy|
+	AS=|WFAL|
+	YR=|1991|
+	TG=|8633|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+Black Cocktail {
+	AE=|Jonathan Carroll|
+	AS=|WFAL|
+	YR=|1991|
+	TG=|2451|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+The Hemingway Hoax {
+	AE=|Joe Haldeman|
+	AS=|WFAL|
+	YR=|1991|
+	TG=|5519|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Barrens {
+	AE=|F. Paul Wilson|
+	AS=|WFAL|
+	YR=|1991|
+	TG=|13455|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+The Ragthorn {
+	AE=|Robert Holdstock+Garry Kilworth|
+	AS=|WFAL|
+	YR=|1992|
+	TG=|6023|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|1|
+}
+Gwydion and the Dragon {
+	AE=|C. J. Cherryh|
+	AS=|WFAL|
+	YR=|1992|
+	TG=|2684|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+Our Lady of the Harbour {
+	AE=|Charles de Lint|
+	AS=|WFAL|
+	YR=|1992|
+	TG=|3363|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Gallery of His Dreams {
+	AE=|Kristine Kathryn Rusch|
+	AS=|WFAL|
+	YR=|1992|
+	TG=|10033|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+To Become a Sorcerer {
+	AE=|Darrell Schweitzer|
+	AS=|WFAL|
+	YR=|1992|
+	TG=|10432|
+	TA=|Best Novella|
+	TP=|ss|
+	LV=|9|
+}
+The Pavilion of Frozen Women {
+	AE=|S. P. Somtow^Somtow Sucharitkul|
+	AS=|WFAL|
+	YR=|1992|
+	TG=|11675|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+The Ghost Village {
+	AE=|Peter Straub|
+	AS=|WFAL|
+	YR=|1993|
+	TG=|11608|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|1|
+}
+Uh-Oh City {
+	AE=|Jonathan Carroll|
+	AS=|WFAL|
+	YR=|1993|
+	TG=|2476|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Paperjack {
+	AE=|Charles de Lint|
+	AS=|WFAL|
+	YR=|1993|
+	TG=|3364|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Territory {
+	AE=|Bradley Denton|
+	AS=|WFAL|
+	YR=|1993|
+	TG=|3490|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Unmasking {
+	AE=|Nina Kiriki Hoffman|
+	AS=|WFAL|
+	YR=|1993|
+	TG=|5983|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Under the Crust {
+	AE=|Terry Lamsley|
+	AS=|WFAL|
+	YR=|1994|
+	TG=|6936|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Night We Buried Road Dog {
+	AE=|Jack Cady|
+	AS=|WFAL|
+	YR=|1994|
+	TG=|2148|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Mefisto in Onyx {
+	AE=|Harlan Ellison|
+	AS=|WFAL|
+	YR=|1994|
+	TG=|4208|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Erl-King {
+	AE=|Elizabeth Hand|
+	AS=|WFAL|
+	YR=|1994|
+	TG=|5583|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+Wall, Stone, Craft {
+	AE=|Walter Jon Williams|
+	AS=|WFAL|
+	YR=|1994|
+	TG=|13323|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Last Summer at Mars Hill {
+	AE=|Elizabeth Hand|
+	AS=|WFAL|
+	YR=|1995|
+	TG=|5590|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+The God Who Slept with Women {
+	AE=|Brian W. Aldiss|
+	AS=|WFAL|
+	YR=|1995|
+	TG=|251|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+A Slow Red Whisper of Sand {
+	AE=|Robert Devereaux|
+	AS=|WFAL|
+	YR=|1995|
+	TG=|3498|
+	TA=|Best Novella|
+	TP=|sf|
+	LV=|9|
+}
+Out of the Night, When the Full Moon is Bright... {
+	AE=|Kim Newman|
+	AS=|WFAL|
+	YR=|1995|
+	TG=|8705|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Last Time {
+	AE=|Lucius Shepard|
+	AS=|WFAL|
+	YR=|1995|
+	TG=|10629|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Fee {
+	AE=|Peter Straub|
+	AS=|WFAL|
+	YR=|1995|
+	TG=|11604|
+	TA=|Best Novella|
+	TP=|sf|
+	LV=|9|
+}
+Radio Waves {
+	AE=|Michael Swanwick|
+	AS=|WFAL|
+	YR=|1996|
+	TG=|11770|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|1|
+}
+Home for Christmas {
+	AE=|Nina Kiriki Hoffman|
+	AS=|WFAL|
+	YR=|1996|
+	TG=|5973|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+Ether OR {
+	AE=|Ursula K. Le Guin|
+	AS=|WFAL|
+	YR=|1996|
+	TG=|7142|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+The Insipid Profession of Jonathan Hornebom {
+	AE=|Jonathan Lethem|
+	AS=|WFAL|
+	YR=|1996|
+	TG=|7436|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+Where They Are Hid {
+	AE=|Tim Powers|
+	AS=|WFAL|
+	YR=|1996|
+	TG=|9397|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+More Tomorrow {
+	AE=|Michael Marshall Smith|
+	AS=|WFAL|
+	YR=|1996|
+	TG=|11126|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+A City in Winter {
+	AE=|Mark Helprin|
+	AS=|WFAL|
+	YR=|1997|
+	TG=|15455|
+	TA=|Best Novella|
+	TP=|sf|
+	LV=|1|
+}
+Beauty and the Opéra or The Phantom Beast {
+	AE=|Suzy McKee Charnas|
+	AS=|WFAL|
+	YR=|1997|
+	TG=|15445|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+Blood of the Dragon {
+	AE=|George R. R. Martin|
+	AS=|WFAL|
+	YR=|1997|
+	TG=|15468|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+GI Jesus {
+	AE=|Susan Palwick|
+	AS=|WFAL|
+	YR=|1997|
+	TG=|15475|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+Hell Hath Enlarged Herself {
+	AE=|Michael Marshall Smith|
+	AS=|WFAL|
+	YR=|1997|
+	TG=|15484|
+	TA=|Best Novella|
+	TP=|sf|
+	LV=|9|
+}
+Streetcar Dreams {
+	AE=|Richard Bowes|
+	AS=|WFAL|
+	YR=|1998|
+	TG=|18341|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Dripping of Sundered Wineskins {
+	AE=|Brian Hodge|
+	AS=|WFAL|
+	YR=|1998|
+	TG=|18541|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Fall of the Kings {
+	AE=|Ellen Kushner+Delia Sherman|
+	AS=|WFAL|
+	YR=|1998|
+	TG=|18574|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+Coppola's Dracula {
+	AE=|Kim Newman|
+	AS=|WFAL|
+	YR=|1998|
+	TG=|18634|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Zombies of Madison County {
+	AE=|Douglas E. Winter|
+	AS=|WFAL|
+	YR=|1998|
+	TG=|18801|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Summer Isles {
+	AE=|Ian R. MacLeod|
+	AS=|WFAL|
+	YR=|1999|
+	TG=|19891|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+Cold {
+	AE=|A. S. Byatt|
+	AS=|WFAL|
+	YR=|1999|
+	TG=|19868|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|9|
+}
+Dragonfly {
+	AE=|Ursula K. Le Guin|
+	AS=|WFAL|
+	YR=|1999|
+	TG=|19888|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Hedge Knight {
+	AE=|George R. R. Martin|
+	AS=|WFAL|
+	YR=|1999|
+	TG=|19893|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Mr. Clubb and Mr. Cuff {
+	AE=|Peter Straub|
+	AS=|WFAL|
+	YR=|1999|
+	TG=|19900|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Transformation of Martin Lake {
+	AE=|Jeff VanderMeer|
+	AS=|WFAL|
+	YR=|2000|
+	TG=|20279|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+Sky Eyes {
+	AE=|Laurel Winter|
+	AS=|WFAL|
+	YR=|2000|
+	TG=|20282|
+	TA=|Best Novella|
+	TP=|nt|
+	LV=|1|
+}
+Scarlet and Gold {
+	AE=|Tanith Lee|
+	AS=|WFAL|
+	YR=|2000|
+	TG=|20259|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Wizard Retires {
+	AE=|Michael Meddor|
+	AS=|WFAL|
+	YR=|2000|
+	TG=|20262|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Crocodile Rock {
+	AE=|Lucius Shepard|
+	AS=|WFAL|
+	YR=|2000|
+	TG=|20275|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Winds of Marble Arch {
+	AE=|Connie Willis|
+	AS=|WFAL|
+	YR=|2000|
+	TG=|20281|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|9|
+}
+Pages from a Young Girl's Journal {
+	AE=|Robert Aickman|
+	AS=|WFAS|
+	YR=|1975|
+	TG=|221|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Events at Poroth Farm {
+	AE=|T. E. D. Klein|
+	AS=|WFAS|
+	YR=|1975|
+	TG=|6664|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+A Father's Tale {
+	AE=|Sterling E. Lanier|
+	AS=|WFAS|
+	YR=|1975|
+	TG=|7024|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Sticks {
+	AE=|Karl Edward Wagner|
+	AS=|WFAS|
+	YR=|1975|
+	TG=|12792|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Belsen Express {
+	AE=|Fritz Leiber|
+	AS=|WFAS|
+	YR=|1976|
+	TG=|7334|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Barrow Troll {
+	AE=|David Drake|
+	AS=|WFAS|
+	YR=|1976|
+	TG=|3843|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Born of the Winds {
+	AE=|Brian Lumley|
+	AS=|WFAS|
+	YR=|1976|
+	TG=|7606|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Ghastly Priest Doth Reign {
+	AE=|Manly Wade Wellman|
+	AS=|WFAS|
+	YR=|1976|
+	TG=|13041|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+There's a Long, Long Trail A-Winding {
+	AE=|Russell Kirk|
+	AS=|WFAS|
+	YR=|1977|
+	TG=|6634|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Companion {
+	AE=|Ramsey Campbell|
+	AS=|WFAS|
+	YR=|1977|
+	TG=|2204|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+It Only Comes Out at Night {
+	AE=|Dennis Etchison|
+	AS=|WFAS|
+	YR=|1977|
+	TG=|4289|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Dark Wings {
+	AE=|Fritz Leiber|
+	AS=|WFAS|
+	YR=|1977|
+	TG=|7350|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+What is Life? {
+	AE=|Robert Sheckley|
+	AS=|WFAS|
+	YR=|1977|
+	TG=|10546|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Two Suns Setting {
+	AE=|Karl Edward Wagner|
+	AS=|WFAS|
+	YR=|1977|
+	TG=|12794|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Chimney {
+	AE=|Ramsey Campbell|
+	AS=|WFAS|
+	YR=|1978|
+	TG=|2203|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Loveman's Comeback {
+	AE=|Ramsey Campbell|
+	AS=|WFAS|
+	YR=|1978|
+	TG=|2215|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Manatee Gal Ain't You Coming Out Tonight {
+	AE=|Avram Davidson|
+	AS=|WFAS|
+	YR=|1978|
+	TG=|3278|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Jeffty is Five {
+	AE=|Harlan Ellison|
+	AS=|WFAS|
+	YR=|1978|
+	TG=|4199|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+When All the Children Call My Name {
+	AE=|Charles L. Grant|
+	AS=|WFAS|
+	YR=|1978|
+	TG=|5318|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Bagful of Dreams {
+	AE=|Jack Vance|
+	AS=|WFAS|
+	YR=|1978|
+	TG=|12575|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Naples {
+	AE=|Avram Davidson|
+	AS=|WFAS|
+	YR=|1979|
+	TG=|3279|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Within the Walls of Tyre {
+	AE=|Michael Bishop|
+	AS=|WFAS|
+	YR=|1979|
+	TG=|1312|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+A Good Night's Sleep^Sleep Well of Nights {
+	AE=|Avram Davidson|
+	AS=|WFAS|
+	YR=|1979|
+	TG=|3273|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Hear Me Now, My Sweet Abbey Rose {
+	AE=|Charles L. Grant|
+	AS=|WFAS|
+	YR=|1979|
+	TG=|5280|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Magic Goes Away {
+	AE=|Larry Niven+Esteban Maroto|
+	AS=|WFAS|
+	YR=|1979|
+	TG=|8760|
+	TA=|Best Short Fiction|
+	TP=|nv|
+	LV=|9|
+}
+Mackintosh Willy {
+	AE=|Ramsey Campbell|
+	AS=|WFAS|
+	YR=|1980|
+	TG=|2216|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Woman Who Loved the Moon {
+	AE=|Elizabeth A. Lynn|
+	AS=|WFAS|
+	YR=|1980|
+	TG=|7658|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Petey {
+	AE=|T. E. D. Klein|
+	AS=|WFAS|
+	YR=|1980|
+	TG=|6666|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Button Molder {
+	AE=|Fritz Leiber|
+	AS=|WFAS|
+	YR=|1980|
+	TG=|7342|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Saturday's Shadow {
+	AE=|William F. Nolan|
+	AS=|WFAS|
+	YR=|1980|
+	TG=|8834|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Ugly Chickens {
+	AE=|Howard Waldrop|
+	AS=|WFAS|
+	YR=|1981|
+	TG=|12866|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|1|
+}
+Unicorn Tapestry {
+	AE=|Suzy McKee Charnas|
+	AS=|WFAS|
+	YR=|1981|
+	TG=|2610|
+	TA=|Best Short Fiction|
+	TP=|nv|
+	LV=|9|
+}
+Children of the Kingdom {
+	AE=|T. E. D. Klein|
+	AS=|WFAS|
+	YR=|1981|
+	TG=|6663|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Cabin 33 {
+	AE=|Chelsea Quinn Yarbro|
+	AS=|WFAS|
+	YR=|1981|
+	TG=|13758|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Dark Country {
+	AE=|Dennis Etchison|
+	AS=|WFAS|
+	YR=|1982|
+	TG=|4284|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Do the Dead Sing? {
+	AE=|Stephen King|
+	AS=|WFAS|
+	YR=|1982|
+	TG=|6562|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Fairy Tale {
+	AE=|Jack Dann|
+	AS=|WFAS|
+	YR=|1982|
+	TG=|3164|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Coin of the Realm {
+	AE=|Charles L. Grant|
+	AS=|WFAS|
+	YR=|1982|
+	TG=|5270|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Gorgon {
+	AE=|Tanith Lee|
+	AS=|WFAS|
+	YR=|1983|
+	TG=|7265|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|1|
+}
+Petra {
+	AE=|Greg Bear|
+	AS=|WFAS|
+	YR=|1983|
+	TG=|997|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Deathtracks {
+	AE=|Dennis Etchison|
+	AS=|WFAS|
+	YR=|1983|
+	TG=|4286|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Man Who Met Picasso {
+	AE=|Michael Swanwick|
+	AS=|WFAS|
+	YR=|1983|
+	TG=|11761|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Firestorm {
+	AE=|Steve Rasnic Tem|
+	AS=|WFAS|
+	YR=|1983|
+	TG=|11868|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Elle Est Trois (La Mort) {
+	AE=|Tanith Lee|
+	AS=|WFAS|
+	YR=|1984|
+	TG=|7261|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Silent Cradle {
+	AE=|Leigh Kennedy|
+	AS=|WFAS|
+	YR=|1984|
+	TG=|6430|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Hundred-Year Christmas {
+	AE=|David Morrell|
+	AS=|WFAS|
+	YR=|1984|
+	TG=|8530|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Solitario's Eyes {
+	AE=|Lucius Shepard|
+	AS=|WFAS|
+	YR=|1984|
+	TG=|10665|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Into Whose Hands {
+	AE=|Karl Edward Wagner|
+	AS=|WFAS|
+	YR=|1984|
+	TG=|12784|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Wong's Lost and Found Emporium {
+	AE=|William F. Wu|
+	AS=|WFAS|
+	YR=|1984|
+	TG=|13747|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Still Life with Scorpion {
+	AE=|Scott Baker|
+	AS=|WFAS|
+	YR=|1985|
+	TG=|732|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Bones Wizard {
+	AE=|Alan Ryan|
+	AS=|WFAS|
+	YR=|1985|
+	TG=|10111|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Bad Medicine {
+	AE=|Jack Dann|
+	AS=|WFAS|
+	YR=|1985|
+	TG=|3155|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Nightcrawlers {
+	AE=|Robert R. McCammon|
+	AS=|WFAS|
+	YR=|1985|
+	TG=|8059|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Paper Dragons {
+	AE=|James P. Blaylock|
+	AS=|WFAS|
+	YR=|1986|
+	TG=|1388|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+The Slovo Stove {
+	AE=|Avram Davidson|
+	AS=|WFAS|
+	YR=|1986|
+	TG=|3290|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Return of the Dust Vampires {
+	AE=|Sharon N. Farber|
+	AS=|WFAS|
+	YR=|1986|
+	TG=|4351|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Jaguar Hunter {
+	AE=|Lucius Shepard|
+	AS=|WFAS|
+	YR=|1986|
+	TG=|10622|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Red Light {
+	AE=|David J. Schow|
+	AS=|WFAS|
+	YR=|1987|
+	TG=|10424|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Brains of Rats {
+	AE=|Michael Blumlein|
+	AS=|WFAS|
+	YR=|1987|
+	TG=|1434|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+They're Coming for You {
+	AE=|Les Daniels|
+	AS=|WFAS|
+	YR=|1987|
+	TG=|3149|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The End of the Whole Mess {
+	AE=|Stephen King|
+	AS=|WFAS|
+	YR=|1987|
+	TG=|6564|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Tight Little Stitches in a Dead Man's Back {
+	AE=|Joe R. Lansdale|
+	AS=|WFAS|
+	YR=|1987|
+	TG=|7044|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Rise and Fall of Father Alex {
+	AE=|Amyas Naegele|
+	AS=|WFAS|
+	YR=|1987|
+	TG=|8672|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Boy Who Plaited Manes {
+	AE=|Nancy Springer|
+	AS=|WFAS|
+	YR=|1987|
+	TG=|11265|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Pain {
+	AE=|Whitley Strieber|
+	AS=|WFAS|
+	YR=|1987|
+	TG=|11631|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Friend's Best Man {
+	AE=|Jonathan Carroll|
+	AS=|WFAS|
+	YR=|1988|
+	TG=|2459|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+Angel {
+	AE=|Pat Cadigan|
+	AS=|WFAS|
+	YR=|1988|
+	TG=|2088|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Hogfoot Right and Bird-Hands {
+	AE=|Garry Kilworth|
+	AS=|WFAS|
+	YR=|1988|
+	TG=|6512|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Pamela's Get {
+	AE=|David J. Schow|
+	AS=|WFAS|
+	YR=|1988|
+	TG=|10423|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Splatter: A Cautionary Tale {
+	AE=|Douglas E. Winter|
+	AS=|WFAS|
+	YR=|1988|
+	TG=|13552|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+In the House of Gingerbread {
+	AE=|Gene Wolfe|
+	AS=|WFAS|
+	YR=|1988|
+	TG=|13618|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Winter Solstice, Camelot Station {
+	AE=|John M. Ford|
+	AS=|WFAS|
+	YR=|1989|
+	TG=|4581|
+	TA=|Best Short Fiction|
+	TP=|po|
+	LV=|1|
+}
+Night They Missed the Horror Show {
+	AE=|Joe R. Lansdale|
+	AS=|WFAS|
+	YR=|1989|
+	TG=|7038|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Life of Buddha {
+	AE=|Lucius Shepard|
+	AS=|WFAS|
+	YR=|1989|
+	TG=|10634|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Metastasis {
+	AE=|Dan Simmons|
+	AS=|WFAS|
+	YR=|1989|
+	TG=|11007|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Illusionist {
+	AE=|Steven Millhauser|
+	AS=|WFAS|
+	YR=|1990|
+	TG=|8411|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Varicose Worms {
+	AE=|Scott Baker|
+	AS=|WFAS|
+	YR=|1990|
+	TG=|734|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+A Sad Last Love at the Diner of the Damned {
+	AE=|Edward Bryant|
+	AS=|WFAS|
+	YR=|1990|
+	TG=|1872|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Mr. Fiddlehead {
+	AE=|Jonathan Carroll|
+	AS=|WFAS|
+	YR=|1990|
+	TG=|2463|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Edge of the World {
+	AE=|Michael Swanwick|
+	AS=|WFAS|
+	YR=|1990|
+	TG=|11743|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+"Yore Skin's Jes's Soft 'n Purty..." He Said. (Page 243) {
+	AE=|Chet Williamson|
+	AS=|WFAS|
+	YR=|1990|
+	TG=|13332|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+A Midsummer Night's Dream {
+	AE=|Neil Gaiman+Charles Vess|
+	AS=|WFAS|
+	YR=|1991|
+	TG=|4814|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Bears Discover Fire {
+	AE=|Terry Bisson|
+	AS=|WFAS|
+	YR=|1991|
+	TG=|1322|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Last Feast of Harlequin {
+	AE=|Thomas Ligotti|
+	AS=|WFAS|
+	YR=|1991|
+	TG=|7481|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Stephen {
+	AE=|Elizabeth Massie|
+	AS=|WFAS|
+	YR=|1991|
+	TG=|7913|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+The Somewhere Doors {
+	AE=|Fred Chappell|
+	AS=|WFAS|
+	YR=|1992|
+	TG=|2586|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Better Boy {
+	AE=|James P. Blaylock+Tim Powers|
+	AS=|WFAS|
+	YR=|1992|
+	TG=|1394|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+The Conjure Man {
+	AE=|Charles de Lint|
+	AS=|WFAS|
+	YR=|1992|
+	TG=|3336|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Pity the Monsters {
+	AE=|Charles de Lint|
+	AS=|WFAS|
+	YR=|1992|
+	TG=|3366|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Graves {
+	AE=|Joe Haldeman|
+	AS=|WFAS|
+	YR=|1993|
+	TG=|5514|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+This Year's Class Picture {
+	AE=|Dan Simmons|
+	AS=|WFAS|
+	YR=|1993|
+	TG=|11022|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+Calcutta, Lord of Nerves {
+	AE=|Poppy Z. Brite|
+	AS=|WFAS|
+	YR=|1993|
+	TG=|1700|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Bridges {
+	AE=|Charles de Lint|
+	AS=|WFAS|
+	YR=|1993|
+	TG=|3335|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Winterberry {
+	AE=|Nicholas A. DiChario|
+	AS=|WFAS|
+	YR=|1993|
+	TG=|3538|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Alfred {
+	AE=|Lisa Goldstein|
+	AS=|WFAS|
+	YR=|1993|
+	TG=|5184|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Arbitrary Placement of Walls {
+	AE=|Martha Soukup|
+	AS=|WFAS|
+	YR=|1993|
+	TG=|11177|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Lodger {
+	AE=|Fred Chappell|
+	AS=|WFAS|
+	YR=|1994|
+	TG=|2583|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+England Underway {
+	AE=|Terry Bisson|
+	AS=|WFAS|
+	YR=|1994|
+	TG=|1332|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+The Little Green Ones {
+	AE=|Les Daniels|
+	AS=|WFAS|
+	YR=|1994|
+	TG=|3148|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Moon is Drowning While I Sleep {
+	AE=|Charles de Lint|
+	AS=|WFAS|
+	YR=|1994|
+	TG=|3357|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Troll-Bridge {
+	AE=|Neil Gaiman|
+	AS=|WFAS|
+	YR=|1994|
+	TG=|4809|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Something Worse {
+	AE=|Terry Lamsley|
+	AS=|WFAS|
+	YR=|1994|
+	TG=|6934|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Some Strange Desire {
+	AE=|Ian McDonald|
+	AS=|WFAS|
+	YR=|1994|
+	TG=|8161|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Death in Bangkok^Dying in Bangkok {
+	AE=|Dan Simmons|
+	AS=|WFAS|
+	YR=|1994|
+	TG=|10984|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+The Man in the Black Suit {
+	AE=|Stephen King|
+	AS=|WFAS|
+	YR=|1995|
+	TG=|6580|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Sisterhood of Night {
+	AE=|Steven Millhauser|
+	AS=|WFAS|
+	YR=|1995|
+	TG=|8412|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Homecoming {
+	AE=|Nicholas Royle|
+	AS=|WFAS|
+	YR=|1995|
+	TG=|9977|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+To Receive is Better {
+	AE=|Michael Marshall Smith|
+	AS=|WFAS|
+	YR=|1995|
+	TG=|11129|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Changeling's Tale {
+	AE=|Michael Swanwick|
+	AS=|WFAS|
+	YR=|1995|
+	TG=|11734|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Grass Princess {
+	AE=|Gwyneth Jones|
+	AS=|WFAS|
+	YR=|1996|
+	TG=|6232|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Singing Marine {
+	AE=|Kit Reed|
+	AS=|WFAS|
+	YR=|1996|
+	TG=|9565|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Angel Thing {
+	AE=|Petrina Smith|
+	AS=|WFAS|
+	YR=|1996|
+	TG=|11132|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Dragon's Fin Soup {
+	AE=|S. P. Somtow|
+	AS=|WFAS|
+	YR=|1996|
+	TG=|11161|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Perseids {
+	AE=|Robert Charles Wilson|
+	AS=|WFAS|
+	YR=|1996|
+	TG=|13506|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Loop {
+	AE=|Douglas E. Winter|
+	AS=|WFAS|
+	YR=|1996|
+	TG=|13548|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Thirteen Phantasms {
+	AE=|James P. Blaylock|
+	AS=|WFAS|
+	YR=|1997|
+	TG=|15441|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+The Dead Cop {
+	AE=|Dennis Etchison|
+	AS=|WFAS|
+	YR=|1997|
+	TG=|15449|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Underbed {
+	AE=|Graham Masterton|
+	AS=|WFAS|
+	YR=|1997|
+	TG=|15471|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Dust Motes {
+	AE=|P. D. Cacek|
+	AS=|WFAS|
+	YR=|1998|
+	TG=|18371|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+Fortune and Misfortune {
+	AE=|Lisa Goldstein|
+	AS=|WFAS|
+	YR=|1998|
+	TG=|18496|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Get a Grip {
+	AE=|Paul Park|
+	AS=|WFAS|
+	YR=|1998|
+	TG=|18654|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Inner Inner City {
+	AE=|Robert Charles Wilson|
+	AS=|WFAS|
+	YR=|1998|
+	TG=|18797|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Audience {
+	AE=|Jack Womack|
+	AS=|WFAS|
+	YR=|1998|
+	TG=|18809|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Specialist's Hat {
+	AE=|Kelly Link|
+	AS=|WFAS|
+	YR=|1999|
+	TG=|19889|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+Shoggoth's Old Peculiar {
+	AE=|Neil Gaiman|
+	AS=|WFAS|
+	YR=|1999|
+	TG=|19882|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Every Angel is Terrifying {
+	AE=|John Kessel|
+	AS=|WFAS|
+	YR=|1999|
+	TG=|19886|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Death of the Duke {
+	AE=|Ellen Kushner|
+	AS=|WFAS|
+	YR=|1999|
+	TG=|19887|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Travels With the Snow Queen {
+	AE=|Kelly Link|
+	AS=|WFAS|
+	YR=|1999|
+	TG=|19890|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+The Chop Girl {
+	AE=|Ian R. MacLeod|
+	AS=|WFAS|
+	YR=|2000|
+	TG=|20260|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|1|
+}
+The Grammarian's Five Daughters {
+	AE=|Eleanor Arnason|
+	AS=|WFAS|
+	YR=|2000|
+	TG=|20237|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Naming the Dead {
+	AE=|Paul J. McAuley|
+	AS=|WFAS|
+	YR=|2000|
+	TG=|20261|
+	TA=|Best Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Amerikanski Dead at the Moscow Morgue {
+	AE=|Kim Newman|
+	AS=|WFAS|
+	YR=|2000|
+	TG=|20264|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Human Bay {
+	AE=|Robert Reed|
+	AS=|WFAS|
+	YR=|2000|
+	TG=|20269|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Parwat Ruby {
+	AE=|Delia Sherman|
+	AS=|WFAS|
+	YR=|2000|
+	TG=|20276|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Dynasters Vol.1: On the Downs {
+	AE=|Howard Waldrop|
+	AS=|WFAS|
+	YR=|2000|
+	TG=|20280|
+	TA=|Best Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Architecture of Fear {
+	AE=|Kathryn Cramer+Peter D. Pautz|
+	AS=|WFAO|
+	YR=|1988|
+	TG=|3066|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+The Dark Descent {
+	AE=|David G. Hartwell|
+	AS=|WFAO|
+	YR=|1988|
+	TG=|5722|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+In the Field of Fire {
+	AE=|Jeanne Van Buren Dann+Jack Dann|
+	AS=|WFAO|
+	YR=|1988|
+	TG=|3188|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Night Visions 4 {
+	AE=|Dark Harvest Publications|
+	AS=|WFAO|
+	YR=|1988|
+	TG=|3191|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Other Edens {
+	AE=|Christopher Evans+Robert Holdstock|
+	AS=|WFAO|
+	YR=|1988|
+	TG=|4300|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Year's Best Horror Stories: Series XV {
+	AE=|Karl Edward Wagner|
+	AS=|WFAO|
+	YR=|1988|
+	TG=|12804|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Masques II {
+	AE=|J. N. Williamson|
+	AS=|WFAO|
+	YR=|1988|
+	TG=|13339|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Year's Best Fantasy: First Annual Collection {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|WFAO|
+	YR=|1989|
+	TG=|3254|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+Night Visions 6 {
+	AE=|Paul Mikol|
+	AS=|WFAO|
+	YR=|1989|
+	TG=|3193|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Silver Scream {
+	AE=|David J. Schow|
+	AS=|WFAO|
+	YR=|1989|
+	TG=|10426|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Prime Evil {
+	AE=|Douglas E. Winter|
+	AS=|WFAO|
+	YR=|1989|
+	TG=|13551|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Year's Best Fantasy: Second Annual Collection {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|WFAO|
+	YR=|1990|
+	TG=|3256|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+Blood is Not Enough {
+	AE=|Ellen Datlow|
+	AS=|WFAO|
+	YR=|1990|
+	TG=|3223|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Razored Saddles {
+	AE=|Joe R. Lansdale+Pat LoBrutto|
+	AS=|WFAO|
+	YR=|1990|
+	TG=|7047|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Book of the Dead {
+	AE=|John Skipp+Craig Spector|
+	AS=|WFAO|
+	YR=|1990|
+	TG=|11046|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Best New Horror {
+	AE=|Stephen Jones+Ramsey Campbell|
+	AS=|WFAO|
+	YR=|1991|
+	TG=|6269|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+The Walls of Fear {
+	AE=|Kathryn Cramer|
+	AS=|WFAO|
+	YR=|1991|
+	TG=|3052|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Alien Sex {
+	AE=|Ellen Datlow|
+	AS=|WFAO|
+	YR=|1991|
+	TG=|18900|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Year's Best Fantasy and Horror: Third Annual Collection {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|WFAO|
+	YR=|1991|
+	TG=|3252|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Borderlands {
+	AE=|Thomas F. Monteleone|
+	AS=|WFAO|
+	YR=|1991|
+	TG=|8451|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Dark Voices 2: The Pan Book of Horror {
+	AE=|David Sutton+Stephen Jones|
+	AS=|WFAO|
+	YR=|1991|
+	TG=|11714|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Year's Best Fantasy and Horror: Fourth Annual Collection {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|WFAO|
+	YR=|1992|
+	TG=|3247|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+A Whisper of Blood {
+	AE=|Ellen Datlow|
+	AS=|WFAO|
+	YR=|1992|
+	TG=|3238|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Famous Fantastic Mysteries {
+	AE=|Stefan R. Dziemianowicz+Robert Weinberg+Martin H. Greenberg|
+	AS=|WFAO|
+	YR=|1992|
+	TG=|3889|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Final Shadows {
+	AE=|Charles L. Grant|
+	AS=|WFAO|
+	YR=|1992|
+	TG=|5277|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+After the King: Stories in Honor of J. R. R. Tolkien {
+	AE=|Martin H. Greenberg|
+	AS=|WFAO|
+	YR=|1992|
+	TG=|5367|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+When the Music's Over {
+	AE=|Lewis Shiner|
+	AS=|WFAO|
+	YR=|1992|
+	TG=|10724|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Metahorror {
+	AE=|Dennis Etchison|
+	AS=|WFAO|
+	YR=|1993|
+	TG=|4292|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+Narrow Houses {
+	AE=|Peter Crowther|
+	AS=|WFAO|
+	YR=|1993|
+	TG=|3110|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Grails: Quests, Visitations and Other Occurrences {
+	AE=|Richard Gilliam+Martin H. Greenberg+Edward E. Kramer|
+	AS=|WFAO|
+	YR=|1993|
+	TG=|5059|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Northern Frights {
+	AE=|Don Hutchison|
+	AS=|WFAO|
+	YR=|1993|
+	TG=|6080|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Freak Show {
+	AE=|F. Paul Wilson|
+	AS=|WFAO|
+	YR=|1993|
+	TG=|13461|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Full Spectrum 4 {
+	AE=|Lou Aronica+Amy Stout+Betsy Mitchell|
+	AS=|WFAO|
+	YR=|1994|
+	TG=|520|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+Snow White, Blood Red {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|WFAO|
+	YR=|1994|
+	TG=|3243|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Year's Best Fantasy and Horror: Sixth Annual Collection {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|WFAO|
+	YR=|1994|
+	TG=|3250|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Christmas Forever {
+	AE=|David G. Hartwell|
+	AS=|WFAO|
+	YR=|1994|
+	TG=|5721|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Sinestre {
+	AE=|George Hatch|
+	AS=|WFAO|
+	YR=|1994|
+	TG=|5759|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Oxford Book of Modern Fairy Tales {
+	AE=|Alison Lurie|
+	AS=|WFAO|
+	YR=|1994|
+	TG=|7632|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Little Deaths {
+	AE=|Ellen Datlow|
+	AS=|WFAO|
+	YR=|1995|
+	TG=|3227|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+Love in Vein {
+	AE=|Poppy Z. Brite+Martin H. Greenberg|
+	AS=|WFAO|
+	YR=|1995|
+	TG=|1713|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Black Thorn, White Rose {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|WFAO|
+	YR=|1995|
+	TG=|3240|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Shadows Over Innsmouth {
+	AE=|Stephen Jones|
+	AS=|WFAO|
+	YR=|1995|
+	TG=|6266|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Penguin Book of Modern Fantasy By Women {
+	AE=|A. Susan Williams+Richard Glyn Jones|
+	AS=|WFAO|
+	YR=|1996|
+	TG=|13263|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+Dark Love {
+	AE=|Nancy A. Collins+Edward E. Kramer+Martin H. Greenberg|
+	AS=|WFAO|
+	YR=|1996|
+	TG=|2904|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+She's Fantastical {
+	AE=|Lucy Sussex+Judith Raphael Buckrich|
+	AS=|WFAO|
+	YR=|1996|
+	TG=|11701|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Dark Terrors {
+	AE=|David Sutton+Stephen Jones|
+	AS=|WFAO|
+	YR=|1996|
+	TG=|11712|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+High Fantastic {
+	AE=|Steve Rasnic Tem|
+	AS=|WFAO|
+	YR=|1996|
+	TG=|11870|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Starlight 1 {
+	AE=|Patrick Nielsen Hayden|
+	AS=|WFAO|
+	YR=|1997|
+	TG=|15454|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+The Year's Best Fantasy and Horror: Ninth Annual Collection {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|WFAO|
+	YR=|1997|
+	TG=|15448|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Dark Terrors 2: The Gollancz Book of Horror {
+	AE=|Stephen Jones+David Sutton|
+	AS=|WFAO|
+	YR=|1997|
+	TG=|15458|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Shimmering Door {
+	AE=|Katharine Kerr+Martin H. Greenberg|
+	AS=|WFAO|
+	YR=|1997|
+	TG=|15459|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Bending the Landscape: Fantasy {
+	AE=|Nicola Griffith+Stephen Pagel|
+	AS=|WFAO|
+	YR=|1998|
+	TG=|18501|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+Modern Classics of Fantasy {
+	AE=|Gardner Dozois|
+	AS=|WFAO|
+	YR=|1998|
+	TG=|18455|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Northern Frights 4 {
+	AE=|Don Hutchison|
+	AS=|WFAO|
+	YR=|1998|
+	TG=|18548|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Dark Terrors 3 {
+	AE=|Stephen Jones+David Sutton|
+	AS=|WFAO|
+	YR=|1998|
+	TG=|18554|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Millennium^Revelations {
+	AE=|Douglas E. Winter|
+	AS=|WFAO|
+	YR=|1998|
+	TG=|18800|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Dreaming Down-Under {
+	AE=|Jack Dann+Janeen Webb|
+	AS=|WFAO|
+	YR=|1999|
+	TG=|19875|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+The Best of Crank! {
+	AE=|Bryan Cholfin|
+	AS=|WFAO|
+	YR=|1999|
+	TG=|19872|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Dark Terrors 4 {
+	AE=|Stephen Jones+David Sutton|
+	AS=|WFAO|
+	YR=|1999|
+	TG=|19885|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Starlight 2 {
+	AE=|Patrick Nielsen Hayden|
+	AS=|WFAO|
+	YR=|1999|
+	TG=|19895|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Legends {
+	AE=|Robert Silverberg|
+	AS=|WFAO|
+	YR=|1999|
+	TG=|19898|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Silver Birch, Blood Moon {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|WFAO|
+	YR=|2000|
+	TG=|20243|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+The Year's Best Fantasy and Horror: Twelfth Annual Collection {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|WFAO|
+	YR=|2000|
+	TG=|20244|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Northern Frights 5 {
+	AE=|Don Hutchison|
+	AS=|WFAO|
+	YR=|2000|
+	TG=|20254|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Dark Detectives: Adventures of the Supernatural Sleuths {
+	AE=|Stephen Jones|
+	AS=|WFAO|
+	YR=|2000|
+	TG=|20255|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+999: New Tales of Horror and Suspense {
+	AE=|Al Sarrantonio|
+	AS=|WFAO|
+	YR=|2000|
+	TG=|20271|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Jaguar Hunter {
+	AE=|Lucius Shepard|
+	AS=|WFAC|
+	YR=|1988|
+	TG=|10624|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Scared Stiff: Tales of Sex and Death {
+	AE=|Ramsey Campbell|
+	AS=|WFAC|
+	YR=|1988|
+	TG=|2225|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Night's Sorceries {
+	AE=|Tanith Lee|
+	AS=|WFAC|
+	YR=|1988|
+	TG=|7275|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Polyphemus {
+	AE=|Michael Shea|
+	AS=|WFAC|
+	YR=|1988|
+	TG=|10534|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Why Not You and I? {
+	AE=|Karl Edward Wagner|
+	AS=|WFAC|
+	YR=|1988|
+	TG=|12798|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Angry Candy {
+	AE=|Harlan Ellison|
+	AS=|WFAC|
+	YR=|1989|
+	TG=|4147|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Storeys from the Old Hotel {
+	AE=|Gene Wolfe|
+	AS=|WFAC|
+	YR=|1989|
+	TG=|13645|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Cabal {
+	AE=|Clive Barker|
+	AS=|WFAC|
+	YR=|1989|
+	TG=|798|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Charles Beaumont: Selected Stories {
+	AE=|Charles Beaumont+Roger Anker|
+	AS=|WFAC|
+	YR=|1989|
+	TG=|1016|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Blood Kiss {
+	AE=|Dennis Etchison|
+	AS=|WFAC|
+	YR=|1989|
+	TG=|4280|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Knight and Knave of Swords {
+	AE=|Fritz Leiber|
+	AS=|WFAC|
+	YR=|1989|
+	TG=|7369|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Richard Matheson: Collected Stories {
+	AE=|Richard Matheson|
+	AS=|WFAC|
+	YR=|1990|
+	TG=|7924|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Novelty {
+	AE=|John Crowley|
+	AS=|WFAC|
+	YR=|1990|
+	TG=|3105|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Harlan Ellison's Watching {
+	AE=|Harlan Ellison|
+	AS=|WFAC|
+	YR=|1990|
+	TG=|4189|
+	TA=|Best Collection|
+	TP=|nf|
+	LV=|9|
+}
+By Bizarre Hands {
+	AE=|Joe R. Lansdale|
+	AS=|WFAC|
+	YR=|1990|
+	TG=|7030|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Blue World and Other Stories {
+	AE=|Robert R. McCammon|
+	AS=|WFAC|
+	YR=|1990|
+	TG=|8052|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Start of the End of It All and Other Stories {
+	AE=|Carol Emshwiller|
+	AS=|WFAC|
+	YR=|1991|
+	TG=|4247|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+The Brains of Rats {
+	AE=|Michael Blumlein|
+	AS=|WFAC|
+	YR=|1991|
+	TG=|1437|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Leiber Chronicles {
+	AE=|Fritz Leiber|
+	AS=|WFAC|
+	YR=|1991|
+	TG=|7371|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Prayers to Broken Stones {
+	AE=|Dan Simmons|
+	AS=|WFAC|
+	YR=|1991|
+	TG=|11012|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Houses Without Doors {
+	AE=|Peter Straub|
+	AS=|WFAC|
+	YR=|1991|
+	TG=|11612|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Ends of the Earth {
+	AE=|Lucius Shepard|
+	AS=|WFAC|
+	YR=|1992|
+	TG=|10604|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+More Shapes Than One {
+	AE=|Fred Chappell|
+	AS=|WFAC|
+	YR=|1992|
+	TG=|2584|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Bone Forest {
+	AE=|Robert Holdstock|
+	AS=|WFAC|
+	YR=|1992|
+	TG=|6003|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Lafferty in Orbit {
+	AE=|R. A. Lafferty|
+	AS=|WFAC|
+	YR=|1992|
+	TG=|6901|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Grimscribe: His Lives and Works {
+	AE=|Thomas Ligotti|
+	AS=|WFAC|
+	YR=|1992|
+	TG=|7479|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Night of the Cooters: More Neat Stories {
+	AE=|Howard Waldrop|
+	AS=|WFAC|
+	YR=|1992|
+	TG=|12855|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Sons of Noah & Other Stories {
+	AE=|Jack Cady|
+	AS=|WFAC|
+	YR=|1993|
+	TG=|2151|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Bear's Fantasies {
+	AE=|Greg Bear|
+	AS=|WFAC|
+	YR=|1993|
+	TG=|963|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Lord Kelvin's Machine {
+	AE=|James P. Blaylock|
+	AS=|WFAC|
+	YR=|1993|
+	TG=|1382|
+	TA=|Best Collection|
+	TP=|n|
+	LV=|9|
+}
+Spiritwalk {
+	AE=|Charles de Lint|
+	AS=|WFAC|
+	YR=|1993|
+	TG=|3369|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Meeting in Infinity {
+	AE=|John Kessel|
+	AS=|WFAC|
+	YR=|1993|
+	TG=|6460|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Mr. Fox and Other Feral Tales {
+	AE=|Norman Partridge|
+	AS=|WFAC|
+	YR=|1993|
+	TG=|9066|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Alone with the Horrors {
+	AE=|Ramsey Campbell|
+	AS=|WFAC|
+	YR=|1994|
+	TG=|2200|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Antiquities {
+	AE=|John Crowley|
+	AS=|WFAC|
+	YR=|1994|
+	TG=|3084|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Dreams Underfoot {
+	AE=|Charles de Lint|
+	AS=|WFAC|
+	YR=|1994|
+	TG=|3339|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Angels and Visitations: A Miscellany {
+	AE=|Neil Gaiman|
+	AS=|WFAC|
+	YR=|1994|
+	TG=|4806|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Hogfoot Right and Bird-Hands {
+	AE=|Garry Kilworth|
+	AS=|WFAC|
+	YR=|1994|
+	TG=|6513|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Under the Crust {
+	AE=|Terry Lamsley|
+	AS=|WFAC|
+	YR=|1994|
+	TG=|6935|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Transients and Other Disquieting Stories {
+	AE=|Darrell Schweitzer|
+	AS=|WFAC|
+	YR=|1994|
+	TG=|10433|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Calvin Coolidge Home for Dead Comedians and A Conflagration Artist {
+	AE=|Bradley Denton|
+	AS=|WFAC|
+	YR=|1995|
+	TG=|3481|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+The Early Fears {
+	AE=|Robert Bloch|
+	AS=|WFAC|
+	YR=|1995|
+	TG=|1419|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Travellers in Magic {
+	AE=|Lisa Goldstein|
+	AS=|WFAC|
+	YR=|1995|
+	TG=|5205|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Earthwire and Other Stories {
+	AE=|Joel Lane|
+	AS=|WFAC|
+	YR=|1995|
+	TG=|6970|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Haunted: Tales of the Grotesque {
+	AE=|Joyce Carol Oates|
+	AS=|WFAC|
+	YR=|1995|
+	TG=|8919|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Seven Tales and a Fable {
+	AE=|Gwyneth Jones|
+	AS=|WFAC|
+	YR=|1996|
+	TG=|6238|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+The Secret of This Book^Common Clay: 20-Odd Stories {
+	AE=|Brian W. Aldiss|
+	AS=|WFAC|
+	YR=|1996|
+	TG=|279|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Panic Hand {
+	AE=|Jonathan Carroll|
+	AS=|WFAC|
+	YR=|1996|
+	TG=|2469|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Death Stalks the Night {
+	AE=|Hugh B. Cave|
+	AS=|WFAC|
+	YR=|1996|
+	TG=|2525|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Ivory and the Horn {
+	AE=|Charles de Lint|
+	AS=|WFAC|
+	YR=|1996|
+	TG=|3347|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Wall of the Sky, the Wall of the Eye {
+	AE=|Jonathan Lethem|
+	AS=|WFAC|
+	YR=|1997|
+	TG=|15465|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Midnight Promises {
+	AE=|Richard Chizmar|
+	AS=|WFAC|
+	YR=|1997|
+	TG=|15447|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Conference with the Dead {
+	AE=|Terry Lamsley|
+	AS=|WFAC|
+	YR=|1997|
+	TG=|15464|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Nightmare Factory {
+	AE=|Thomas Ligotti|
+	AS=|WFAC|
+	YR=|1997|
+	TG=|15467|
+	TA=|Best Collection|
+	TP=|a|
+	LV=|9|
+}
+Bible Stories for Adults {
+	AE=|James Morrow|
+	AS=|WFAC|
+	YR=|1997|
+	TG=|15474|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Bad Intentions {
+	AE=|Norman Partridge|
+	AS=|WFAC|
+	YR=|1997|
+	TG=|15476|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Pavilion of Frozen Women {
+	AE=|S. P. Somtow|
+	AS=|WFAC|
+	YR=|1997|
+	TG=|15486|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Throne of Bones {
+	AE=|Brian McNaughton|
+	AS=|WFAC|
+	YR=|1998|
+	TG=|18615|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Giant Bones {
+	AE=|Peter S. Beagle|
+	AS=|WFAC|
+	YR=|1998|
+	TG=|18321|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Driving Blind {
+	AE=|Ray Bradbury|
+	AS=|WFAC|
+	YR=|1998|
+	TG=|18345|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Fractal Paisleys {
+	AE=|Paul Di Filippo|
+	AS=|WFAC|
+	YR=|1998|
+	TG=|18438|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+A Geography of Unknown Lands {
+	AE=|Michael Swanwick|
+	AS=|WFAC|
+	YR=|1998|
+	TG=|18753|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Black Glass {
+	AE=|Karen Joy Fowler|
+	AS=|WFAC|
+	YR=|1999|
+	TG=|19881|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+The Night We Buried Road Dog {
+	AE=|Jack Cady|
+	AS=|WFAC|
+	YR=|1999|
+	TG=|19869|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Last Summer at Mars Hill {
+	AE=|Elizabeth Hand|
+	AS=|WFAC|
+	YR=|1999|
+	TG=|19884|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Manitou Man: The Worlds of Graham Masterton {
+	AE=|Graham Masterton+Ray Clark+Matt Williams|
+	AS=|WFAC|
+	YR=|1999|
+	TG=|19894|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Cleft and Other Odd Tales {
+	AE=|Gahan Wilson|
+	AS=|WFAC|
+	YR=|1999|
+	TG=|19905|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Moonlight and Vines {
+	AE=|Charles de Lint|
+	AS=|WFAC|
+	YR=|2000|
+	TG=|20245|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Reave the Just and Other Tales {
+	AE=|Stephen R. Donaldson|
+	AS=|WFAC|
+	YR=|2000|
+	TG=|20246|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Hearts in Atlantis {
+	AE=|Stephen King|
+	AS=|WFAC|
+	YR=|2000|
+	TG=|20257|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Deep into the Darkness Peering {
+	AE=|Tom Piccirilli|
+	AS=|WFAC|
+	YR=|2000|
+	TG=|20268|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Necromancies and Netherworlds {
+	AE=|Darrell Schweitzer+Jason Van Hollander|
+	AS=|WFAC|
+	YR=|2000|
+	TG=|20273|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+untitled {
+	AE=|Lee Brown Coye|
+	AS=|WFAA|
+	YR=|1975|
+	TG=|3043|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Stephen Fabian|
+	AS=|WFAA|
+	YR=|1975|
+	TG=|4324|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Gervasio Gallardo|
+	AS=|WFAA|
+	YR=|1975|
+	TG=|4816|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jeff Jones|
+	AS=|WFAA|
+	YR=|1975|
+	TG=|6247|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Tim Kirk|
+	AS=|WFAA|
+	YR=|1975|
+	TG=|6647|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Frank Frazetta|
+	AS=|WFAA|
+	YR=|1976|
+	TG=|4692|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|George Barr|
+	AS=|WFAA|
+	YR=|1976|
+	TG=|856|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Stephen Fabian|
+	AS=|WFAA|
+	YR=|1976|
+	TG=|4325|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Edward Gorey|
+	AS=|WFAA|
+	YR=|1976|
+	TG=|5231|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Tim Kirk|
+	AS=|WFAA|
+	YR=|1976|
+	TG=|6648|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Roger Dean|
+	AS=|WFAA|
+	YR=|1977|
+	TG=|3378|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|George Barr|
+	AS=|WFAA|
+	YR=|1977|
+	TG=|857|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Stephen Fabian|
+	AS=|WFAA|
+	YR=|1977|
+	TG=|4326|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Tim Kirk|
+	AS=|WFAA|
+	YR=|1977|
+	TG=|6649|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|WFAA|
+	YR=|1977|
+	TG=|13114|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Lee Brown Coye|
+	AS=|WFAA|
+	YR=|1978|
+	TG=|3044|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Stephen Fabian|
+	AS=|WFAA|
+	YR=|1978|
+	TG=|4327|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Tim Kirk|
+	AS=|WFAA|
+	YR=|1978|
+	TG=|6650|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|WFAA|
+	YR=|1978|
+	TG=|13115|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alicia Austin|
+	AS=|WFAA|
+	YR=|1979|
+	TG=|696|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Dale Enzenbacher|
+	AS=|WFAA|
+	YR=|1979|
+	TG=|4268|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Stephen Fabian|
+	AS=|WFAA|
+	YR=|1979|
+	TG=|4328|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|WFAA|
+	YR=|1979|
+	TG=|13116|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|WFAA|
+	YR=|1980|
+	TG=|7750|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Stephen Fabian|
+	AS=|WFAA|
+	YR=|1980|
+	TG=|4329|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Boris Vallejo|
+	AS=|WFAA|
+	YR=|1980|
+	TG=|12532|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|WFAA|
+	YR=|1980|
+	TG=|13117|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|WFAA|
+	YR=|1981|
+	TG=|13118|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Alicia Austin|
+	AS=|WFAA|
+	YR=|1981|
+	TG=|697|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|WFAA|
+	YR=|1981|
+	TG=|2263|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|WFAA|
+	YR=|1981|
+	TG=|7751|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Rowena Morrill|
+	AS=|WFAA|
+	YR=|1981|
+	TG=|8545|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Gahan Wilson|
+	AS=|WFAA|
+	YR=|1981|
+	TG=|13474|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|WFAA|
+	YR=|1982|
+	TG=|13119|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Alicia Austin|
+	AS=|WFAA|
+	YR=|1982|
+	TG=|698|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jill Bauman|
+	AS=|WFAA|
+	YR=|1982|
+	TG=|914|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|WFAA|
+	YR=|1982|
+	TG=|2264|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|WFAA|
+	YR=|1982|
+	TG=|7752|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Rowena Morrill|
+	AS=|WFAA|
+	YR=|1982|
+	TG=|8546|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|WFAA|
+	YR=|1983|
+	TG=|13120|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Jill Bauman|
+	AS=|WFAA|
+	YR=|1983|
+	TG=|915|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|WFAA|
+	YR=|1983|
+	TG=|2265|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|R. J. Krupowicz|
+	AS=|WFAA|
+	YR=|1983|
+	TG=|6816|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|WFAA|
+	YR=|1983|
+	TG=|7753|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Steve Gervais|
+	AS=|WFAA|
+	YR=|1984|
+	TG=|4962|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Jill Bauman|
+	AS=|WFAA|
+	YR=|1984|
+	TG=|916|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Edward Gorey|
+	AS=|WFAA|
+	YR=|1984|
+	TG=|5232|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Robert Gould|
+	AS=|WFAA|
+	YR=|1984|
+	TG=|5249|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|WFAA|
+	YR=|1984|
+	TG=|7754|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Rowena Morrill|
+	AS=|WFAA|
+	YR=|1984|
+	TG=|8547|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Edward Gorey|
+	AS=|WFAA|
+	YR=|1985|
+	TG=|5233|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|WFAA|
+	YR=|1985|
+	TG=|2266|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alan Lee|
+	AS=|WFAA|
+	YR=|1985|
+	TG=|7220|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|WFAA|
+	YR=|1985|
+	TG=|9351|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|WFAA|
+	YR=|1985|
+	TG=|13121|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|WFAA|
+	YR=|1986|
+	TG=|2267|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Jeff Jones|
+	AS=|WFAA|
+	YR=|1986|
+	TG=|6248|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Alan Lee|
+	AS=|WFAA|
+	YR=|1986|
+	TG=|7221|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|WFAA|
+	YR=|1986|
+	TG=|9352|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Robert Gould|
+	AS=|WFAA|
+	YR=|1987|
+	TG=|5250|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Steve Gervais|
+	AS=|WFAA|
+	YR=|1987|
+	TG=|4963|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|WFAA|
+	YR=|1987|
+	TG=|9353|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Chris Van Allsburg|
+	AS=|WFAA|
+	YR=|1987|
+	TG=|12538|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|WFAA|
+	YR=|1988|
+	TG=|9354|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|WFAA|
+	YR=|1988|
+	TG=|2268|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Harry O. Morris|
+	AS=|WFAA|
+	YR=|1988|
+	TG=|8550|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|WFAA|
+	YR=|1988|
+	TG=|13122|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Edward Gorey|
+	AS=|WFAA|
+	YR=|1989|
+	TG=|5234|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Jill Bauman|
+	AS=|WFAA|
+	YR=|1989|
+	TG=|917|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|WFAA|
+	YR=|1989|
+	TG=|2269|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|WFAA|
+	YR=|1989|
+	TG=|7755|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Harry O. Morris|
+	AS=|WFAA|
+	YR=|1989|
+	TG=|8551|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Phil Parks|
+	AS=|WFAA|
+	YR=|1989|
+	TG=|9061|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|WFAA|
+	YR=|1990|
+	TG=|2270|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|James Christensen|
+	AS=|WFAA|
+	YR=|1990|
+	TG=|2754|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|WFAA|
+	YR=|1990|
+	TG=|7756|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|WFAA|
+	YR=|1990|
+	TG=|9355|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Dave McKean|
+	AS=|WFAA|
+	YR=|1991|
+	TG=|8251|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Janet Aulisio|
+	AS=|WFAA|
+	YR=|1991|
+	TG=|689|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|David Bergen|
+	AS=|WFAA|
+	YR=|1991|
+	TG=|1133|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Brian Froud|
+	AS=|WFAA|
+	YR=|1991|
+	TG=|4789|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|WFAA|
+	YR=|1991|
+	TG=|7757|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|WFAA|
+	YR=|1991|
+	TG=|9356|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Tim Hildebrandt|
+	AS=|WFAA|
+	YR=|1992|
+	TG=|5899|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|David Bergen|
+	AS=|WFAA|
+	YR=|1992|
+	TG=|1134|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alan M. Clark|
+	AS=|WFAA|
+	YR=|1992|
+	TG=|2773|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Ned Dameron|
+	AS=|WFAA|
+	YR=|1992|
+	TG=|3134|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alan Lee|
+	AS=|WFAA|
+	YR=|1992|
+	TG=|7222|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|James Gurney|
+	AS=|WFAA|
+	YR=|1993|
+	TG=|5466|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Jill Bauman|
+	AS=|WFAA|
+	YR=|1993|
+	TG=|918|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|James Christensen|
+	AS=|WFAA|
+	YR=|1993|
+	TG=|2755|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alan M. Clark|
+	AS=|WFAA|
+	YR=|1993|
+	TG=|2774|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Harry O. Morris|
+	AS=|WFAA|
+	YR=|1993|
+	TG=|8552|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alan M. Clark|
+	AS=|WFAA|
+	YR=|1994|
+	TG=|2775|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|WFAA|
+	YR=|1994|
+	TG=|9357|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Rick Berry|
+	AS=|WFAA|
+	YR=|1994|
+	TG=|1153|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|WFAA|
+	YR=|1994|
+	TG=|2271|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jason Eckhardt|
+	AS=|WFAA|
+	YR=|1994|
+	TG=|3895|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Harry O. Morris|
+	AS=|WFAA|
+	YR=|1994|
+	TG=|8553|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jacek Yerka|
+	AS=|WFAA|
+	YR=|1995|
+	TG=|13777|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|WFAA|
+	YR=|1995|
+	TG=|4075|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Brian Froud|
+	AS=|WFAA|
+	YR=|1995|
+	TG=|4790|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Dave McKean|
+	AS=|WFAA|
+	YR=|1995|
+	TG=|8252|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Gahan Wilson|
+	AS=|WFAA|
+	YR=|1995|
+	TG=|13475|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+Rank 83 = Withdrawn - Conflict of Interest {
+	AE=|(********)|
+	AS=|WFAA|
+	YR=|1995|
+	TG=|72|
+	TA=|Best Artist|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|Rick Lieder|
+	AS=|WFAA|
+	YR=|1995|
+	TG=|7476|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|83|
+}
+untitled {
+	AE=|Gahan Wilson|
+	AS=|WFAA|
+	YR=|1996|
+	TG=|13476|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|WFAA|
+	YR=|1996|
+	TG=|2272|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alan M. Clark|
+	AS=|WFAA|
+	YR=|1996|
+	TG=|2776|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|WFAA|
+	YR=|1996|
+	TG=|4076|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|WFAA|
+	YR=|1996|
+	TG=|9358|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jean Giraud^Moebius|
+	AS=|WFAA|
+	YR=|1997|
+	TG=|15473|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|WFAA|
+	YR=|1997|
+	TG=|15444|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|H. R. Giger|
+	AS=|WFAA|
+	YR=|1997|
+	TG=|15451|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|WFAA|
+	YR=|1997|
+	TG=|15479|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alan Lee|
+	AS=|WFAA|
+	YR=|1998|
+	TG=|18294|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Rick Berry|
+	AS=|WFAA|
+	YR=|1998|
+	TG=|18686|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jim Burns|
+	AS=|WFAA|
+	YR=|1998|
+	TG=|18551|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|WFAA|
+	YR=|1998|
+	TG=|18444|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Dave McKean|
+	AS=|WFAA|
+	YR=|1998|
+	TG=|18425|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Charles Vess|
+	AS=|WFAA|
+	YR=|1999|
+	TG=|19903|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Jim Burns|
+	AS=|WFAA|
+	YR=|1999|
+	TG=|19867|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|WFAA|
+	YR=|1999|
+	TG=|19870|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alan M. Clark|
+	AS=|WFAA|
+	YR=|1999|
+	TG=|19873|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|WFAA|
+	YR=|1999|
+	TG=|19878|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jason Van Hollander|
+	AS=|WFAA|
+	YR=|2000|
+	TG=|20278|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Les Edwards|
+	AS=|WFAA|
+	YR=|2000|
+	TG=|20247|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|WFAA|
+	YR=|2000|
+	TG=|20248|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Stephen Fabian|
+	AS=|WFAA|
+	YR=|2000|
+	TG=|20250|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+for publishing excellence {
+	AE=|Ian Ballantine+Betty Ballantine|
+	AS=|WFAP|
+	YR=|1975|
+	TG=|744|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Donald A. Wollheim|
+	AS=|WFAP|
+	YR=|1975|
+	TG=|13677|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Donald M. Grant, Publisher {
+	AE=|Donald M. Grant|
+	AS=|WFAP|
+	YR=|1976|
+	TG=|5323|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+publisher {
+	AE=|Arkham House|
+	AS=|WFAP|
+	YR=|1976|
+	TG=|486|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Lovecraft at Last {
+	AE=|Willis Conover|
+	AS=|WFAP|
+	YR=|1976|
+	TG=|2945|
+	TA=|Special Award (Pro)|
+	TP=|nf|
+	LV=|9|
+}
+Lovecraft: A Biography {
+	AE=|L. Sprague de Camp|
+	AS=|WFAP|
+	YR=|1976|
+	TG=|3317|
+	TA=|Special Award (Pro)|
+	TP=|nf|
+	LV=|9|
+}
+Howard Phillips Lovecraft: Dreamer on the Night Side {
+	AE=|Frank Belknap Long|
+	AS=|WFAP|
+	YR=|1976|
+	TG=|7560|
+	TA=|Special Award (Pro)|
+	TP=|nf|
+	LV=|9|
+}
+DAW {
+	AE=|Donald A. Wollheim|
+	AS=|WFAP|
+	YR=|1976|
+	TG=|13670|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Alternate World Recordings {
+	AE=|Shelly Torgeson+Roy Torgeson|
+	AS=|WFAP|
+	YR=|1977|
+	TG=|327|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Arkham House|
+	AS=|WFAP|
+	YR=|1977|
+	TG=|487|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Ian Ballantine+Betty Ballantine|
+	AS=|WFAP|
+	YR=|1977|
+	TG=|746|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Edward L. Ferman|
+	AS=|WFAP|
+	YR=|1977|
+	TG=|4447|
+	TA=|Special Award (Pro)|
+	TP=|mz|
+	LV=|9|
+}
+DAW {
+	AE=|Donald A. Wollheim|
+	AS=|WFAP|
+	YR=|1977|
+	TG=|13697|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Everett F. Bleiler|
+	AS=|WFAP|
+	YR=|1978|
+	TG=|1395|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+Balantine Books {
+	AE=|Judy-Lynn del Rey+Lester del Rey|
+	AS=|WFAP|
+	YR=|1978|
+	TG=|3396|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Edward L. Ferman|
+	AS=|WFAP|
+	YR=|1978|
+	TG=|4448|
+	TA=|Special Award (Pro)|
+	TP=|mz|
+	LV=|9|
+}
+DAW {
+	AE=|Donald A. Wollheim|
+	AS=|WFAP|
+	YR=|1978|
+	TG=|13678|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Edward L. Ferman|
+	AS=|WFAP|
+	YR=|1979|
+	TG=|4478|
+	TA=|Special Award (Pro)|
+	TP=|mz|
+	LV=|1|
+}
+untitled {
+	AE=|John Bellairs|
+	AS=|WFAP|
+	YR=|1979|
+	TG=|1043|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Donald M. Grant, Publisher {
+	AE=|Donald M. Grant|
+	AS=|WFAP|
+	YR=|1979|
+	TG=|5329|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|John Myers Myers|
+	AS=|WFAP|
+	YR=|1979|
+	TG=|8666|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Donald M. Grant, Publisher {
+	AE=|Donald M. Grant|
+	AS=|WFAP|
+	YR=|1980|
+	TG=|5324|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+Del Rey Fantasy {
+	AE=|Lester del Rey|
+	AS=|WFAP|
+	YR=|1980|
+	TG=|3404|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Doubleday {
+	AE=|Pat LoBrutto|
+	AS=|WFAP|
+	YR=|1980|
+	TG=|7540|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Arkham House {
+	AE=|James Turner|
+	AS=|WFAP|
+	YR=|1980|
+	TG=|12102|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+DAW {
+	AE=|Donald A. Wollheim|
+	AS=|WFAP|
+	YR=|1980|
+	TG=|13698|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+DAW {
+	AE=|Donald A. Wollheim|
+	AS=|WFAP|
+	YR=|1981|
+	TG=|13699|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+anthologist {
+	AE=|Terry Carr|
+	AS=|WFAP|
+	YR=|1981|
+	TG=|2380|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Del Rey/Ballantine {
+	AE=|Lester del Rey|
+	AS=|WFAP|
+	YR=|1981|
+	TG=|3405|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Edward L. Ferman|
+	AS=|WFAP|
+	YR=|1981|
+	TG=|4479|
+	TA=|Special Award (Pro)|
+	TP=|mz|
+	LV=|9|
+}
+Pocket/Timescape/Simon&Schuster {
+	AE=|David G. Hartwell|
+	AS=|WFAP|
+	YR=|1981|
+	TG=|5725|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Underwood-Miller {
+	AE=|Tim Underwood+Chuck Miller|
+	AS=|WFAP|
+	YR=|1981|
+	TG=|12171|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Edward L. Ferman|
+	AS=|WFAP|
+	YR=|1982|
+	TG=|4480|
+	TA=|Special Award (Pro)|
+	TP=|mz|
+	LV=|1|
+}
+Donald M. Grant, Publisher {
+	AE=|Donald M. Grant|
+	AS=|WFAP|
+	YR=|1982|
+	TG=|5322|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Timescape {
+	AE=|David G. Hartwell|
+	AS=|WFAP|
+	YR=|1982|
+	TG=|5726|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Twilight Zone {
+	AE=|T. E. D. Klein|
+	AS=|WFAP|
+	YR=|1982|
+	TG=|6667|
+	TA=|Special Award (Pro)|
+	TP=|mz|
+	LV=|9|
+}
+Underwood-Miller {
+	AE=|Tim Underwood+Chuck Miller|
+	AS=|WFAP|
+	YR=|1982|
+	TG=|12163|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Donald M. Grant, Publisher {
+	AE=|Donald M. Grant|
+	AS=|WFAP|
+	YR=|1983|
+	TG=|5325|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+Ballantine/Del Rey {
+	AE=|Lester del Rey|
+	AS=|WFAP|
+	YR=|1983|
+	TG=|3402|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Timescape {
+	AE=|David G. Hartwell|
+	AS=|WFAP|
+	YR=|1983|
+	TG=|5727|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Doubleday {
+	AE=|Pat LoBrutto|
+	AS=|WFAP|
+	YR=|1983|
+	TG=|7541|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+writer/reviewer {
+	AE=|Douglas E. Winter|
+	AS=|WFAP|
+	YR=|1983|
+	TG=|13541|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+The High Kings {
+	AE=|Joy Chant+Ian Ballantine+Betty Ballantine+George Sharp+David Larkin|
+	AS=|WFAP|
+	YR=|1984|
+	TG=|2580|
+	TA=|Special Award (Pro)|
+	TP=|nf|
+	LV=|1|
+}
+The Guide to Supernatural Fiction {
+	AE=|Everett F. Bleiler|
+	AS=|WFAP|
+	YR=|1984|
+	TG=|1398|
+	TA=|Special Award (Pro)|
+	TP=|nf|
+	LV=|9|
+}
+Dark Valley Destiny: The Life of Robert E. Howard {
+	AE=|L. Sprague de Camp+Catherine Crook de Camp+Jane Griffin|
+	AS=|WFAP|
+	YR=|1984|
+	TG=|3320|
+	TA=|Special Award (Pro)|
+	TP=|nf|
+	LV=|9|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Edward L. Ferman|
+	AS=|WFAP|
+	YR=|1984|
+	TG=|4481|
+	TA=|Special Award (Pro)|
+	TP=|mz|
+	LV=|9|
+}
+Doubleday {
+	AE=|Pat LoBrutto|
+	AS=|WFAP|
+	YR=|1984|
+	TG=|7542|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+The Mysteries of Harris Burdick {
+	AE=|Chris Van Allsburg|
+	AS=|WFAP|
+	YR=|1985|
+	TG=|12539|
+	TA=|Special Award (Pro)|
+	TP=|ac|
+	LV=|1|
+}
+Fantasists on Fantasy {
+	AE=|Robert H. Boyer+Kenneth J. Zahorski|
+	AS=|WFAP|
+	YR=|1985|
+	TG=|1546|
+	TA=|Special Award (Pro)|
+	TP=|ea|
+	LV=|9|
+}
+Twilight Zone {
+	AE=|T. E. D. Klein|
+	AS=|WFAP|
+	YR=|1985|
+	TG=|6668|
+	TA=|Special Award (Pro)|
+	TP=|mz|
+	LV=|9|
+}
+Doubleday {
+	AE=|Pat LoBrutto|
+	AS=|WFAP|
+	YR=|1985|
+	TG=|7543|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Asimov's Science Fiction {
+	AE=|Shawna McCarthy|
+	AS=|WFAP|
+	YR=|1985|
+	TG=|8077|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Underwood-Miller {
+	AE=|Tim Underwood+Chuck Miller|
+	AS=|WFAP|
+	YR=|1985|
+	TG=|12170|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Doubleday {
+	AE=|Pat LoBrutto|
+	AS=|WFAP|
+	YR=|1986|
+	TG=|7544|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+A Monster at Christmas {
+	AE=|Thomas Canty+Phil Hale|
+	AS=|WFAP|
+	YR=|1986|
+	TG=|2275|
+	TA=|Special Award (Pro)|
+	TP=|ac|
+	LV=|9|
+}
+Donald M. Grant, Publisher {
+	AE=|Donald M. Grant|
+	AS=|WFAP|
+	YR=|1986|
+	TG=|5330|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+editing {
+	AE=|Terri Windling|
+	AS=|WFAP|
+	YR=|1986|
+	TG=|13522|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Favorite Folktales from Around the World {
+	AE=|Jane Yolen|
+	AS=|WFAP|
+	YR=|1987|
+	TG=|13798|
+	TA=|Special Award (Pro)|
+	TP=|a|
+	LV=|1|
+}
+Donald M. Grant, Publisher {
+	AE=|Donald M. Grant|
+	AS=|WFAP|
+	YR=|1987|
+	TG=|5331|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Arbor House {
+	AE=|David G. Hartwell|
+	AS=|WFAP|
+	YR=|1987|
+	TG=|5718|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Interzone {
+	AE=|Simon Ounsley+David Pringle|
+	AS=|WFAP|
+	YR=|1987|
+	TG=|9480|
+	TA=|Special Award (Pro)|
+	TP=|sz|
+	LV=|9|
+}
+The Penguin Encyclopedia of Horror and the Supernatural {
+	AE=|Jack Sullivan|
+	AS=|WFAP|
+	YR=|1987|
+	TG=|11682|
+	TA=|Special Award (Pro)|
+	TP=|en|
+	LV=|9|
+}
+Ace {
+	AE=|Terri Windling|
+	AS=|WFAP|
+	YR=|1987|
+	TG=|13523|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Arbor House/Tor/Anthologies {
+	AE=|David G. Hartwell|
+	AS=|WFAP|
+	YR=|1988|
+	TG=|5719|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+IASFM/Anthologies {
+	AE=|Gardner Dozois|
+	AS=|WFAP|
+	YR=|1988|
+	TG=|3765|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Twilight Zone {
+	AE=|Tappan King|
+	AS=|WFAP|
+	YR=|1988|
+	TG=|6617|
+	TA=|Special Award (Pro)|
+	TP=|mz|
+	LV=|9|
+}
+Service to the Field {
+	AE=|Dean R. Koontz|
+	AS=|WFAP|
+	YR=|1988|
+	TG=|6721|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Asimov's Science Fiction {
+	AE=|Shawna McCarthy|
+	AS=|WFAP|
+	YR=|1988|
+	TG=|8078|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Bantam Spectra {
+	AE=|Shawna McCarthy|
+	AS=|WFAP|
+	YR=|1988|
+	TG=|8076|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Weird Tales {
+	AE=|George H. Scithers|
+	AS=|WFAP|
+	YR=|1988|
+	TG=|10445|
+	TA=|Special Award (Pro)|
+	TP=|mz|
+	LV=|9|
+}
+Ace/Armadillo {
+	AE=|Terri Windling|
+	AS=|WFAP|
+	YR=|1988|
+	TG=|13524|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+A Biographical Dictionary of Science Fiction and Fantasy Artists {
+	AE=|Robert Weinberg|
+	AS=|WFAP|
+	YR=|1989|
+	TG=|13011|
+	TA=|Special Award (Pro)|
+	TP=|nf|
+	LV=|1|
+}
+Tor Books, Edicott Studio {
+	AE=|Terri Windling|
+	AS=|WFAP|
+	YR=|1989|
+	TG=|13512|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+Omni, anthologies {
+	AE=|Ellen Datlow|
+	AS=|WFAP|
+	YR=|1989|
+	TG=|3200|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+author {
+	AE=|Dean R. Koontz|
+	AS=|WFAP|
+	YR=|1989|
+	TG=|6720|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Dark Harvest {
+	AE=|Paul Mikol+Scott Studalsky|
+	AS=|WFAP|
+	YR=|1989|
+	TG=|8384|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Mark V. Zeising Books {
+	AE=|Mark V. Zeising|
+	AS=|WFAP|
+	YR=|1990|
+	TG=|13854|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+editor {
+	AE=|Ellen Datlow|
+	AS=|WFAP|
+	YR=|1990|
+	TG=|3219|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Dark Harvest {
+	AE=|Paul Mikol+Scott Studalsky|
+	AS=|WFAP|
+	YR=|1990|
+	TG=|8386|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Underwood-Miller {
+	AE=|Tim Underwood+Chuck Miller|
+	AS=|WFAP|
+	YR=|1990|
+	TG=|12172|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+designer of Zeising and Ursus Books {
+	AE=|Arnie Fenner|
+	AS=|WFAP|
+	YR=|1991|
+	TG=|4410|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+editor {
+	AE=|Ellen Datlow|
+	AS=|WFAP|
+	YR=|1991|
+	TG=|3197|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+The Weird Tale {
+	AE=|S. T. Joshi|
+	AS=|WFAP|
+	YR=|1991|
+	TG=|6302|
+	TA=|Special Award (Pro)|
+	TP=|nf|
+	LV=|9|
+}
+Dark Harvest {
+	AE=|Paul Mikol+Scott Studalsky|
+	AS=|WFAP|
+	YR=|1991|
+	TG=|8382|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Interzone {
+	AE=|David Pringle|
+	AS=|WFAP|
+	YR=|1991|
+	TG=|9481|
+	TA=|Special Award (Pro)|
+	TP=|sz|
+	LV=|9|
+}
+Weird Tales {
+	AE=|George H. Scithers+Darrell Schweitzer|
+	AS=|WFAP|
+	YR=|1992|
+	TG=|10449|
+	TA=|Special Award (Pro)|
+	TP=|mz|
+	LV=|1|
+}
+author and editor {
+	AE=|Ramsey Campbell|
+	AS=|WFAP|
+	YR=|1992|
+	TG=|2197|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Donald M. Grant, Publisher {
+	AE=|Donald M. Grant|
+	AS=|WFAP|
+	YR=|1992|
+	TG=|5332|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Pulphouse, The Hardback Magazine {
+	AE=|Dean Wesley Smith+Kristine Kathryn Rusch|
+	AS=|WFAP|
+	YR=|1992|
+	TG=|11105|
+	TA=|Special Award (Pro)|
+	TP=|sz|
+	LV=|9|
+}
+editor {
+	AE=|Terri Windling|
+	AS=|WFAP|
+	YR=|1992|
+	TG=|13513|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Dell Abyss editor {
+	AE=|Jeanne Cavelos|
+	AS=|WFAP|
+	YR=|1993|
+	TG=|2527|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+anthologies {
+	AE=|Martin H. Greenberg|
+	AS=|WFAP|
+	YR=|1993|
+	TG=|5355|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Dinotopia {
+	AE=|James Gurney|
+	AS=|WFAP|
+	YR=|1993|
+	TG=|5471|
+	TA=|Special Award (Pro)|
+	TP=|ac|
+	LV=|9|
+}
+Batman Gothic {
+	AE=|Grant Morrison+Klaus Janson|
+	AS=|WFAP|
+	YR=|1993|
+	TG=|8565|
+	TA=|Special Award (Pro)|
+	TP=|n|
+	LV=|9|
+}
+editor {
+	AE=|Terri Windling|
+	AS=|WFAP|
+	YR=|1993|
+	TG=|13510|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+publisher {
+	AE=|Underwood-Miller|
+	AS=|WFAP|
+	YR=|1994|
+	TG=|12164|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+reviewer {
+	AE=|John Clute|
+	AS=|WFAP|
+	YR=|1994|
+	TG=|2858|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+editor {
+	AE=|Ellen Datlow|
+	AS=|WFAP|
+	YR=|1994|
+	TG=|3198|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+The Monster Show: A Cultural History of Horror {
+	AE=|David J. Skal|
+	AS=|WFAP|
+	YR=|1994|
+	TG=|11039|
+	TA=|Special Award (Pro)|
+	TP=|nf|
+	LV=|9|
+}
+editor {
+	AE=|Terri Windling|
+	AS=|WFAP|
+	YR=|1994|
+	TG=|13511|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Mark V. Zeising Books {
+	AE=|Mark V. Zeising|
+	AS=|WFAP|
+	YR=|1994|
+	TG=|13853|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+editor {
+	AE=|Ellen Datlow|
+	AS=|WFAP|
+	YR=|1995|
+	TG=|3199|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+reviewer {
+	AE=|John Clute|
+	AS=|WFAP|
+	YR=|1995|
+	TG=|2859|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+publisher {
+	AE=|Fedogan+Bremer|
+	AS=|WFAP|
+	YR=|1995|
+	TG=|4391|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+The Sturgeon Project {
+	AE=|Paul Williams|
+	AS=|WFAP|
+	YR=|1995|
+	TG=|13272|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Mark V. Zeising Books {
+	AE=|Mark V. Zeising|
+	AS=|WFAP|
+	YR=|1995|
+	TG=|13855|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+contributions to the genre {
+	AE=|Richard Evans|
+	AS=|WFAP|
+	YR=|1996|
+	TG=|4302|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+editor {
+	AE=|Stephen Jones|
+	AS=|WFAP|
+	YR=|1996|
+	TG=|6257|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Kristine Kathryn Rusch|
+	AS=|WFAP|
+	YR=|1996|
+	TG=|10003|
+	TA=|Special Award (Pro)|
+	TP=|mz|
+	LV=|9|
+}
+editor {
+	AE=|Gordon Van Gelder|
+	AS=|WFAP|
+	YR=|1996|
+	TG=|12546|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+for editing: The Microcosmic God {
+	AE=|Paul Williams|
+	AS=|WFAP|
+	YR=|1996|
+	TG=|13265|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+The Psychotronic Video Guide {
+	AE=|Michael J. Weldon|
+	AS=|WFAP|
+	YR=|1997|
+	TG=|17966|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+The Tough Guide to Fantasyland {
+	AE=|Diana Wynne Jones|
+	AS=|WFAP|
+	YR=|1997|
+	TG=|15456|
+	TA=|Special Award (Pro)|
+	TP=|nf|
+	LV=|9|
+}
+editing and anthologies {
+	AE=|Stephen Jones|
+	AS=|WFAP|
+	YR=|1997|
+	TG=|15457|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+contributions to the genre {
+	AE=|David Pringle|
+	AS=|WFAP|
+	YR=|1997|
+	TG=|15480|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Kristine Kathryn Rusch|
+	AS=|WFAP|
+	YR=|1997|
+	TG=|15483|
+	TA=|Special Award (Pro)|
+	TP=|mz|
+	LV=|9|
+}
+The Encyclopedia of Fantasy {
+	AE=|John Clute+John Grant|
+	AS=|WFAP|
+	YR=|1998|
+	TG=|18410|
+	TA=|Special Award (Pro)|
+	TP=|en|
+	LV=|1|
+}
+for editing & anthologies {
+	AE=|Ellen Datlow|
+	AS=|WFAP|
+	YR=|1998|
+	TG=|18421|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+for editing & anthologies {
+	AE=|Gardner Dozois|
+	AS=|WFAP|
+	YR=|1998|
+	TG=|18450|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+editing and anthologies {
+	AE=|Stephen Jones|
+	AS=|WFAP|
+	YR=|1998|
+	TG=|18553|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+for editing books (St. Martin's) & for editing The Magazine of Fantasy & Science Fiction {
+	AE=|Gordon Van Gelder|
+	AS=|WFAP|
+	YR=|1998|
+	TG=|18488|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Golden Gryphon Press {
+	AE=|James Turner|
+	AS=|WFAP|
+	YR=|1999|
+	TG=|19902|
+	TA=|Special Award (Pro)|
+	TP=|pc|
+	LV=|1|
+}
+Superman: The Complete History {
+	AE=|Les Daniels|
+	AS=|WFAP|
+	YR=|1999|
+	TG=|19874|
+	TA=|Special Award (Pro)|
+	TP=|nf|
+	LV=|9|
+}
+for Editing {
+	AE=|Jo Fletcher|
+	AS=|WFAP|
+	YR=|1999|
+	TG=|19880|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Interzone {
+	AE=|David Pringle|
+	AS=|WFAP|
+	YR=|1999|
+	TG=|19897|
+	TA=|Special Award (Pro)|
+	TP=|sz|
+	LV=|9|
+}
+for Editing the Avram Davidson Treasury {
+	AE=|Robert Silverberg+Grania Davis|
+	AS=|WFAP|
+	YR=|1999|
+	TG=|19876|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+editing St. Martin's and F&SF {
+	AE=|Gordon Van Gelder|
+	AS=|WFAP|
+	YR=|2000|
+	TG=|20277|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|1|
+}
+Wildside Press {
+	AE=|John Betancourt|
+	AS=|WFAP|
+	YR=|2000|
+	TG=|20239|
+	TA=|Special Award (Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Beowulf {
+	AE=|Seamus Heaney|
+	AS=|WFAP|
+	YR=|2000|
+	TG=|20252|
+	TA=|Special Award (Pro)|
+	TP=|ep|
+	LV=|9|
+}
+The Essential Monster Movie Guide {
+	AE=|Stephen Jones|
+	AS=|WFAP|
+	YR=|2000|
+	TG=|20256|
+	TA=|Special Award (Pro)|
+	TP=|nf|
+	LV=|9|
+}
+DNA Publications {
+	AE=|Warren Lapine|
+	AS=|WFAP|
+	YR=|2000|
+	TG=|20258|
+	TA=|Special Award (Pro)|
+	TP=|pr|
+	LV=|9|
+}
+Millennium Movies^Apocalypse Movies (US) {
+	AE=|Kim Newman|
+	AS=|WFAP|
+	YR=|2000|
+	TG=|20265|
+	TA=|Special Award (Pro)|
+	TP=|nf|
+	LV=|9|
+}
+Whispers {
+	AE=|Stuart David Schiff|
+	AS=|WFAQ|
+	YR=|1975|
+	TG=|10322|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|1|
+}
+Nyctalops {
+	AE=|Harry O. Morris|
+	AS=|WFAQ|
+	YR=|1975|
+	TG=|8554|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+publisher {
+	AE=|Roy A. Squires|
+	AS=|WFAQ|
+	YR=|1975|
+	TG=|11279|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Carcosa House {
+	AE=|Karl Edward Wagner+David Drake+James Groce|
+	AS=|WFAQ|
+	YR=|1976|
+	TG=|12815|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|1|
+}
+publisher, editor {
+	AE=|Gerry de la Ree|
+	AS=|WFAQ|
+	YR=|1976|
+	TG=|3329|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+publisher, editor {
+	AE=|Harry O. Morris|
+	AS=|WFAQ|
+	YR=|1976|
+	TG=|8555|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+publisher, editor {
+	AE=|George H. Scithers|
+	AS=|WFAQ|
+	YR=|1976|
+	TG=|10441|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+publisher, editor {
+	AE=|Roy A. Squires|
+	AS=|WFAQ|
+	YR=|1976|
+	TG=|11280|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+publisher, editor {
+	AE=|Robert Weinberg|
+	AS=|WFAQ|
+	YR=|1976|
+	TG=|13007|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Whispers {
+	AE=|Stuart David Schiff|
+	AS=|WFAQ|
+	YR=|1977|
+	TG=|10323|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|1|
+}
+Fantasy Crossroads {
+	AE=|Jonathan Bacon|
+	AS=|WFAQ|
+	YR=|1977|
+	TG=|707|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Chacal {
+	AE=|Arnie Ferner|
+	AS=|WFAQ|
+	YR=|1977|
+	TG=|4485|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Xenophile {
+	AE=|Nils Hardin|
+	AS=|WFAQ|
+	YR=|1977|
+	TG=|5623|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Midnight Sun {
+	AE=|Gary Hoppenstand|
+	AS=|WFAQ|
+	YR=|1977|
+	TG=|6043|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Nyctalops {
+	AE=|Harry O. Morris|
+	AS=|WFAQ|
+	YR=|1977|
+	TG=|8556|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+publisher, editor {
+	AE=|Robert Weinberg|
+	AS=|WFAQ|
+	YR=|1978|
+	TG=|13008|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|1|
+}
+Fantasy Crossroads {
+	AE=|Jonathan Bacon|
+	AS=|WFAQ|
+	YR=|1978|
+	TG=|708|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Weirdbook {
+	AE=|W. Paul Ganley|
+	AS=|WFAQ|
+	YR=|1978|
+	TG=|4819|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Midnight Sun {
+	AE=|Gary Hoppenstand|
+	AS=|WFAQ|
+	YR=|1978|
+	TG=|6042|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Fantasy Tales {
+	AE=|Stephen Jones|
+	AS=|WFAQ|
+	YR=|1978|
+	TG=|6260|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Nyctalops {
+	AE=|Harry O. Morris|
+	AS=|WFAQ|
+	YR=|1978|
+	TG=|8557|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Encyclopedia of Science Fiction and Fantasy {
+	AE=|Donald H. Tuck|
+	AS=|WFAQ|
+	YR=|1979|
+	TG=|12053|
+	TA=|Special Award (Non-Pro)|
+	TP=|en|
+	LV=|1|
+}
+Fantasy Newsletter {
+	AE=|Paul C. Allen|
+	AS=|WFAQ|
+	YR=|1979|
+	TG=|312|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Shayol {
+	AE=|Pat Cadigan+Arnie Fenner|
+	AS=|WFAQ|
+	YR=|1979|
+	TG=|2134|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Weirdbook {
+	AE=|W. Paul Ganley|
+	AS=|WFAQ|
+	YR=|1979|
+	TG=|4823|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Whispers & Whispers Press {
+	AE=|Stuart David Schiff|
+	AS=|WFAQ|
+	YR=|1979|
+	TG=|10324|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Fantasy Newsletter {
+	AE=|Paul C. Allen|
+	AS=|WFAQ|
+	YR=|1980|
+	TG=|313|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|1|
+}
+Shayol {
+	AE=|Pat Cadigan+Arnie Fenner|
+	AS=|WFAQ|
+	YR=|1980|
+	TG=|2135|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Nyctalops {
+	AE=|Harry O. Morris|
+	AS=|WFAQ|
+	YR=|1980|
+	TG=|8558|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Whispers & Whispers Press {
+	AE=|Stuart David Schiff|
+	AS=|WFAQ|
+	YR=|1980|
+	TG=|10344|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Shayol {
+	AE=|Pat Cadigan+Arnie Fenner|
+	AS=|WFAQ|
+	YR=|1981|
+	TG=|2136|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|1|
+}
+Triskell Press/Dragonfields {
+	AE=|Charles de Lint+Charles R. Saunders|
+	AS=|WFAQ|
+	YR=|1981|
+	TG=|3373|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Weirdbook Press/Eerie Country/Amanita Brandy {
+	AE=|W. Paul Ganley|
+	AS=|WFAQ|
+	YR=|1981|
+	TG=|4829|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Fantasy Tales/Airgedlamh {
+	AE=|Stephen Jones|
+	AS=|WFAQ|
+	YR=|1981|
+	TG=|6264|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Fantasy Newsletter {
+	AE=|Paul C. Allen+Robert A. Collins|
+	AS=|WFAQ|
+	YR=|1982|
+	TG=|317|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|1|
+}
+Weirdbook {
+	AE=|W. Paul Ganley|
+	AS=|WFAQ|
+	YR=|1982|
+	TG=|4824|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Fantasy Tales {
+	AE=|Stephen Jones+David Sutton|
+	AS=|WFAQ|
+	YR=|1982|
+	TG=|6283|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Trumpet {
+	AE=|Ken Keller|
+	AS=|WFAQ|
+	YR=|1982|
+	TG=|6373|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Whispers {
+	AE=|Stuart David Schiff|
+	AS=|WFAQ|
+	YR=|1983|
+	TG=|10325|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|1|
+}
+Kadath {
+	AE=|Francesco Cova|
+	AS=|WFAQ|
+	YR=|1983|
+	TG=|3005|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Weirdbook {
+	AE=|W. Paul Ganley|
+	AS=|WFAQ|
+	YR=|1983|
+	TG=|4825|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+American Fantasy {
+	AE=|Robert T. Garcia|
+	AS=|WFAQ|
+	YR=|1983|
+	TG=|4837|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Fantasy Tales {
+	AE=|Stephen Jones+David Sutton|
+	AS=|WFAQ|
+	YR=|1983|
+	TG=|6284|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Fantasy Tales {
+	AE=|Stephen Jones+David Sutton|
+	AS=|WFAQ|
+	YR=|1984|
+	TG=|6285|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|1|
+}
+Fantasy Newsletter/Fantasy Review {
+	AE=|Robert A. Collins|
+	AS=|WFAQ|
+	YR=|1984|
+	TG=|2913|
+	TA=|Special Award (Non-Pro)|
+	TP=|sz|
+	LV=|9|
+}
+Weirdbook {
+	AE=|W. Paul Ganley|
+	AS=|WFAQ|
+	YR=|1984|
+	TG=|4826|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Crypt of Cthulhu {
+	AE=|Robert Price|
+	AS=|WFAQ|
+	YR=|1984|
+	TG=|9424|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+criticism {
+	AE=|Douglas E. Winter|
+	AS=|WFAQ|
+	YR=|1984|
+	TG=|13537|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Whispers & Whispers Press {
+	AE=|Stuart David Schiff|
+	AS=|WFAQ|
+	YR=|1985|
+	TG=|10345|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|1|
+}
+Scream/Press {
+	AE=|Jeff Conner|
+	AS=|WFAQ|
+	YR=|1985|
+	TG=|2939|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Weirdbook/Weirdbook Press {
+	AE=|W. Paul Ganley|
+	AS=|WFAQ|
+	YR=|1985|
+	TG=|4830|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Dark Harvest Press {
+	AE=|Paul Mikol+Scott Studalsky|
+	AS=|WFAQ|
+	YR=|1985|
+	TG=|8381|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+reviewing {
+	AE=|Douglas E. Winter|
+	AS=|WFAQ|
+	YR=|1986|
+	TG=|13540|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|1|
+}
+Scream/Press {
+	AE=|Jeff Conner|
+	AS=|WFAQ|
+	YR=|1986|
+	TG=|2940|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Weirdbook/Weirdbook Press {
+	AE=|W. Paul Ganley|
+	AS=|WFAQ|
+	YR=|1986|
+	TG=|4831|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Dark Harvest Press {
+	AE=|Paul Mikol+Scott Studalsky|
+	AS=|WFAQ|
+	YR=|1986|
+	TG=|8385|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+The Horror Show {
+	AE=|David B. Silva|
+	AS=|WFAQ|
+	YR=|1986|
+	TG=|10757|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Scream/Press {
+	AE=|Jeff Conner|
+	AS=|WFAQ|
+	YR=|1987|
+	TG=|2941|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|1|
+}
+Weirdbook/Weirdbook Press {
+	AE=|W. Paul Ganley|
+	AS=|WFAQ|
+	YR=|1987|
+	TG=|4832|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|1|
+}
+Fantasy Tales {
+	AE=|Stephen Jones+David Sutton|
+	AS=|WFAQ|
+	YR=|1987|
+	TG=|6286|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+The Horror Show {
+	AE=|David B. Silva|
+	AS=|WFAQ|
+	YR=|1987|
+	TG=|10758|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+American Fantasy {
+	AE=|Robert T. Garcia+Nancy Garcia|
+	AS=|WFAQ|
+	YR=|1988|
+	TG=|4838|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|1|
+}
+The Horror Show {
+	AE=|David B. Silva|
+	AS=|WFAQ|
+	YR=|1988|
+	TG=|10759|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|1|
+}
+Fantasy Tales {
+	AE=|Stephen Jones+David Sutton|
+	AS=|WFAQ|
+	YR=|1988|
+	TG=|6287|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Dark Harvest {
+	AE=|Paul Mikol+Scott Studalsky|
+	AS=|WFAQ|
+	YR=|1988|
+	TG=|8383|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Pulphouse, The Hardback Magazine {
+	AE=|Kristine Kathryn Rusch+Dean Wesley Smith|
+	AS=|WFAQ|
+	YR=|1989|
+	TG=|10058|
+	TA=|Special Award (Non-Pro)|
+	TP=|sz|
+	LV=|1|
+}
+Dagon Press {
+	AE=|Carl T. Ford|
+	AS=|WFAQ|
+	YR=|1989|
+	TG=|4566|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Grue {
+	AE=|Peggy Nadramia|
+	AS=|WFAQ|
+	YR=|1989|
+	TG=|8670|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Horrorstruck {
+	AE=|Paul Olson|
+	AS=|WFAQ|
+	YR=|1989|
+	TG=|8933|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Grue {
+	AE=|Peggy Nadramia|
+	AS=|WFAQ|
+	YR=|1990|
+	TG=|8671|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|1|
+}
+Cemetery Dance {
+	AE=|Richard Chizmar|
+	AS=|WFAQ|
+	YR=|1990|
+	TG=|2740|
+	TA=|Special Award (Non-Pro)|
+	TP=|mz|
+	LV=|9|
+}
+The Horror Show {
+	AE=|David B. Silva|
+	AS=|WFAQ|
+	YR=|1990|
+	TG=|10760|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Charnel House {
+	AE=|Joe Stefko+Traci Cocoman|
+	AS=|WFAQ|
+	YR=|1990|
+	TG=|11417|
+	TA=|Special Award (Non-Pro)|
+	TP=|sz|
+	LV=|9|
+}
+Cemetery Dance {
+	AE=|Richard Chizmar|
+	AS=|WFAQ|
+	YR=|1991|
+	TG=|2741|
+	TA=|Special Award (Non-Pro)|
+	TP=|mz|
+	LV=|1|
+}
+Gauntlet {
+	AE=|Barry Hoffman|
+	AS=|WFAQ|
+	YR=|1991|
+	TG=|5962|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Necronomicon Press {
+	AE=|Marc Michaud|
+	AS=|WFAQ|
+	YR=|1991|
+	TG=|8370|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Strange Plasma {
+	AE=|Stephen Pasechnick|
+	AS=|WFAQ|
+	YR=|1991|
+	TG=|9070|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Weirdbook {
+	AE=|W. Paul Ganley|
+	AS=|WFAQ|
+	YR=|1992|
+	TG=|4827|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|1|
+}
+Eldritch Tales {
+	AE=|Crispin Burnham|
+	AS=|WFAQ|
+	YR=|1992|
+	TG=|1988|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Gauntlet {
+	AE=|Barry Hoffman|
+	AS=|WFAQ|
+	YR=|1992|
+	TG=|5963|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Grue {
+	AE=|Peggy Nadramia|
+	AS=|WFAQ|
+	YR=|1992|
+	TG=|8669|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Charnel House {
+	AE=|Joe Stefko+Traci Cocoman|
+	AS=|WFAQ|
+	YR=|1992|
+	TG=|11416|
+	TA=|Special Award (Non-Pro)|
+	TP=|sz|
+	LV=|9|
+}
+Roadkill Press {
+	AE=|Doug Lewis+Tomi Lewis|
+	AS=|WFAQ|
+	YR=|1993|
+	TG=|7460|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|1|
+}
+Wildside Press {
+	AE=|John Gregory Betancourt+Kim Betancourt|
+	AS=|WFAQ|
+	YR=|1993|
+	TG=|1180|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Cemetery Dance {
+	AE=|Richard Chizmar|
+	AS=|WFAQ|
+	YR=|1993|
+	TG=|2735|
+	TA=|Special Award (Non-Pro)|
+	TP=|mz|
+	LV=|9|
+}
+Horror's Head Press {
+	AE=|George Hatch|
+	AS=|WFAQ|
+	YR=|1993|
+	TG=|5757|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Charnel House {
+	AE=|Joe Stefko+Traci Cocoman|
+	AS=|WFAQ|
+	YR=|1993|
+	TG=|11418|
+	TA=|Special Award (Non-Pro)|
+	TP=|sz|
+	LV=|9|
+}
+TAL Publications {
+	AE=|Stanislaus Tal|
+	AS=|WFAQ|
+	YR=|1993|
+	TG=|11802|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Necronomicon Press {
+	AE=|Marc Michaud|
+	AS=|WFAQ|
+	YR=|1994|
+	TG=|8371|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|1|
+}
+Cemetery Dance Publications {
+	AE=|Richard Chizmar|
+	AS=|WFAQ|
+	YR=|1994|
+	TG=|2742|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Horror's Head Press {
+	AE=|George Hatch|
+	AS=|WFAQ|
+	YR=|1994|
+	TG=|5758|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Small Press Reviews {
+	AE=|Brian Stableford|
+	AS=|WFAQ|
+	YR=|1994|
+	TG=|11282|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Charnel House {
+	AE=|Joe Stefko+Traci Cocoman|
+	AS=|WFAQ|
+	YR=|1994|
+	TG=|11419|
+	TA=|Special Award (Non-Pro)|
+	TP=|sz|
+	LV=|9|
+}
+Broken Mirror Press {
+	AE=|Bryan Cholfin|
+	AS=|WFAQ|
+	YR=|1995|
+	TG=|2746|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|1|
+}
+Crank! {
+	AE=|Bryan Cholfin|
+	AS=|WFAQ|
+	YR=|1995|
+	TG=|2751|
+	TA=|Special Award (Non-Pro)|
+	TP=|sz|
+	LV=|1|
+}
+Lexicon Urthus: A Dictionary for the Urth Cycle {
+	AE=|Michael Andre-Driussi|
+	AS=|WFAQ|
+	YR=|1995|
+	TG=|430|
+	TA=|Special Award (Non-Pro)|
+	TP=|d|
+	LV=|9|
+}
+Wildside Press {
+	AE=|John Gregory Betancourt+Kim Betancourt|
+	AS=|WFAQ|
+	YR=|1995|
+	TG=|1181|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Cemetery Dance Publications {
+	AE=|Richard Chizmar|
+	AS=|WFAQ|
+	YR=|1995|
+	TG=|2736|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Voices from Shadow {
+	AE=|David Sutton|
+	AS=|WFAQ|
+	YR=|1995|
+	TG=|11710|
+	TA=|Special Award (Non-Pro)|
+	TP=|fz|
+	LV=|9|
+}
+Necronomicon Press {
+	AE=|Marc Michaud|
+	AS=|WFAQ|
+	YR=|1996|
+	TG=|8372|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|1|
+}
+book publishing {
+	AE=|Fedogan+Bremer|
+	AS=|WFAQ|
+	YR=|1996|
+	TG=|4392|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Century {
+	AE=|Robert K. J. Killheffer+Meg Hamel+Jenna Felice|
+	AS=|WFAQ|
+	YR=|1996|
+	TG=|6499|
+	TA=|Special Award (Non-Pro)|
+	TP=|sz|
+	LV=|9|
+}
+Edgewood Press {
+	AE=|Stephen Pasechnick|
+	AS=|WFAQ|
+	YR=|1996|
+	TG=|9069|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+contributions to the genre {
+	AE=|Robert Weinberg|
+	AS=|WFAQ|
+	YR=|1996|
+	TG=|13005|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Ash-Tree Press {
+	AE=|Barbara Roden+Christopher Roden|
+	AS=|WFAQ|
+	YR=|1997|
+	TG=|15482|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|1|
+}
+book publishing {
+	AE=|Fedogan+Bremer|
+	AS=|WFAQ|
+	YR=|1997|
+	TG=|15450|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+DarkEcho {
+	AE=|Paula Guran|
+	AS=|WFAQ|
+	YR=|1997|
+	TG=|15453|
+	TA=|Special Award (Non-Pro)|
+	TP=|sz|
+	LV=|9|
+}
+for Cemetery Dance Magazine and CD Publications {
+	AE=|Richard Chizmar|
+	AS=|WFAQ|
+	YR=|1998|
+	TG=|18398|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|1|
+}
+book publishing {
+	AE=|Fedogan+Bremer|
+	AS=|WFAQ|
+	YR=|1998|
+	TG=|18476|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|1|
+}
+Tigereyes Press {
+	AE=|Chris Logan Edwards|
+	AS=|WFAQ|
+	YR=|1998|
+	TG=|18467|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+for Gauntlet Magazine and Gauntlet book publishing {
+	AE=|Barry Hoffman|
+	AS=|WFAQ|
+	YR=|1998|
+	TG=|18542|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+The Ministry of Whimsy Press {
+	AE=|Jeff VanderMeer+Tom Winstead|
+	AS=|WFAQ|
+	YR=|1998|
+	TG=|18772|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Cemetery Dance Publications {
+	AE=|Richard Chizmar|
+	AS=|WFAQ|
+	YR=|1999|
+	TG=|19871|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Pumpkin Books {
+	AE=|David Marshall|
+	AS=|WFAQ|
+	YR=|1999|
+	TG=|19892|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Edgewood Press {
+	AE=|Stephen Pasechnick|
+	AS=|WFAQ|
+	YR=|1999|
+	TG=|19896|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Tachyon Publications {
+	AE=|Jacob Weisman|
+	AS=|WFAQ|
+	YR=|1999|
+	TG=|19904|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+British Fantasy Society {
+	AE=|British Fantasy Society|
+	AS=|WFAQ|
+	YR=|2000|
+	TG=|20242|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|1|
+}
+Terminal Fright Press {
+	AE=|Ken Abner|
+	AS=|WFAQ|
+	YR=|2000|
+	TG=|20236|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Fedogan & Bremer {
+	AE=|Dwayne Olson+Peder Wagtskjold+Scott Wyatt|
+	AS=|WFAQ|
+	YR=|2000|
+	TG=|20266|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Haunted Library {
+	AE=|Rosemary Pardoe|
+	AS=|WFAQ|
+	YR=|2000|
+	TG=|20267|
+	TA=|Special Award (Non-Pro)|
+	TP=|fn|
+	LV=|9|
+}
+Tartarus Press {
+	AE=|R. B. Russell|
+	AS=|WFAQ|
+	YR=|2000|
+	TG=|20270|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+Subterranean Press {
+	AE=|William K. Schafer|
+	AS=|WFAQ|
+	YR=|2000|
+	TG=|20272|
+	TA=|Special Award (Non-Pro)|
+	TP=|pc|
+	LV=|9|
+}
+untitled {
+	AE=|Glenn Lord|
+	AS=|WFAX|
+	YR=|1978|
+	TG=|7575|
+	TA=|Special Convention Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Kirby McCauley|
+	AS=|WFAX|
+	YR=|1979|
+	TG=|8088|
+	TA=|Special Convention Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Stephen King|
+	AS=|WFAX|
+	YR=|1980|
+	TG=|6536|
+	TA=|Special Convention Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Gahan Wilson|
+	AS=|WFAX|
+	YR=|1981|
+	TG=|13477|
+	TA=|Special Convention Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Joseph Payne Brennan|
+	AS=|WFAX|
+	YR=|1982|
+	TG=|1631|
+	TA=|Special Convention Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Roy G. Krenkel|
+	AS=|WFAX|
+	YR=|1982|
+	TG=|6752|
+	TA=|Special Convention Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Arkham House|
+	AS=|WFAX|
+	YR=|1983|
+	TG=|488|
+	TA=|Special Convention Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Donald M. Grant|
+	AS=|WFAX|
+	YR=|1984|
+	TG=|5333|
+	TA=|Special Convention Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Evangeline Walton|
+	AS=|WFAX|
+	YR=|1985|
+	TG=|12893|
+	TA=|Special Convention Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Donald A. Wollheim|
+	AS=|WFAX|
+	YR=|1986|
+	TG=|13679|
+	TA=|Special Convention Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Andre Norton|
+	AS=|WFAX|
+	YR=|1987|
+	TG=|8874|
+	TA=|Special Convention Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Hugh B. Cave|
+	AS=|WFAX|
+	YR=|1997|
+	TG=|15495|
+	TA=|Special Convention Award|
+	TP=|hu|
+	LV=|1|
+}
+Worse Things Waiting {
+	AE=|Manly Wade Wellman|
+	AS=|WFAD|
+	YR=|1975|
+	TG=|13044|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|1|
+}
+From Earth's Pillow {
+	AE=|Basil Copper|
+	AS=|WFAD|
+	YR=|1975|
+	TG=|2977|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+The Enquiries of Dr. Eszterhazy {
+	AE=|Avram Davidson|
+	AS=|WFAD|
+	YR=|1976|
+	TG=|3267|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|1|
+}
+Deathbird Stories {
+	AE=|Harlan Ellison|
+	AS=|WFAD|
+	YR=|1976|
+	TG=|4165|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+The Early Long {
+	AE=|Frank Belknap Long|
+	AS=|WFAD|
+	YR=|1976|
+	TG=|7559|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Far Lands, Other Days {
+	AE=|E. Hoffmann Price|
+	AS=|WFAD|
+	YR=|1976|
+	TG=|9419|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Frights {
+	AE=|Kirby McCauley|
+	AS=|WFAD|
+	YR=|1977|
+	TG=|8094|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|1|
+}
+Long After Midnight {
+	AE=|Ray Bradbury|
+	AS=|WFAD|
+	YR=|1977|
+	TG=|1571|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Cinnabar {
+	AE=|Edward Bryant|
+	AS=|WFAD|
+	YR=|1977|
+	TG=|1856|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+The Height of the Scream {
+	AE=|Ramsey Campbell|
+	AS=|WFAD|
+	YR=|1977|
+	TG=|2207|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Superhorror {
+	AE=|Ramsey Campbell|
+	AS=|WFAD|
+	YR=|1977|
+	TG=|2226|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Flashing Swords! #3: Warriors and Wizards {
+	AE=|Lin Carter|
+	AS=|WFAD|
+	YR=|1977|
+	TG=|2493|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Murgunstrumm and Others {
+	AE=|Hugh B. Cave|
+	AS=|WFAD|
+	YR=|1978|
+	TG=|2526|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|1|
+}
+Cold Chills {
+	AE=|Robert Bloch|
+	AS=|WFAD|
+	YR=|1978|
+	TG=|1416|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Swords and Ice Magic {
+	AE=|Fritz Leiber|
+	AS=|WFAD|
+	YR=|1978|
+	TG=|7389|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Year's Best Horror #5 {
+	AE=|Gerald W. Page|
+	AS=|WFAD|
+	YR=|1978|
+	TG=|9000|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Whispers {
+	AE=|Stuart David Schiff|
+	AS=|WFAD|
+	YR=|1978|
+	TG=|10329|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Shadows {
+	AE=|Charles L. Grant|
+	AS=|WFAD|
+	YR=|1979|
+	TG=|5296|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|1|
+}
+The Redward Edward Papers {
+	AE=|Avram Davidson|
+	AS=|WFAD|
+	YR=|1979|
+	TG=|3285|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Night Shift {
+	AE=|Stephen King|
+	AS=|WFAD|
+	YR=|1979|
+	TG=|6591|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Heroes and Horrors {
+	AE=|Fritz Leiber|
+	AS=|WFAD|
+	YR=|1979|
+	TG=|7362|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Year's Best Horror #6 {
+	AE=|Gerald W. Page|
+	AS=|WFAD|
+	YR=|1979|
+	TG=|9001|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Night Winds {
+	AE=|Karl Edward Wagner|
+	AS=|WFAD|
+	YR=|1979|
+	TG=|12787|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Amazons! {
+	AE=|Jessica Amanda Salmonson|
+	AS=|WFAD|
+	YR=|1980|
+	TG=|10195|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|1|
+}
+Thieves' World {
+	AE=|Robert Asprin|
+	AS=|WFAD|
+	YR=|1980|
+	TG=|649|
+	TA=|Best Anthology/Collection (old)|
+	TP=|sw|
+	LV=|9|
+}
+The Year's Finest Fantasy, Volume 2 {
+	AE=|Terry Carr|
+	AS=|WFAD|
+	YR=|1980|
+	TG=|2445|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Nightmares {
+	AE=|Charles L. Grant|
+	AS=|WFAD|
+	YR=|1980|
+	TG=|5290|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Shadows 2 {
+	AE=|Charles L. Grant|
+	AS=|WFAD|
+	YR=|1980|
+	TG=|5301|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Whispers II {
+	AE=|Stuart David Schiff|
+	AS=|WFAD|
+	YR=|1980|
+	TG=|10335|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Dark Forces {
+	AE=|Kirby McCauley|
+	AS=|WFAD|
+	YR=|1981|
+	TG=|8092|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|1|
+}
+New Terrors 1 {
+	AE=|Ramsey Campbell|
+	AS=|WFAD|
+	YR=|1981|
+	TG=|2221|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Dragons of Light {
+	AE=|Orson Scott Card|
+	AS=|WFAD|
+	YR=|1981|
+	TG=|2294|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Shatterday {
+	AE=|Harlan Ellison|
+	AS=|WFAD|
+	YR=|1981|
+	TG=|4224|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Shadows 3 {
+	AE=|Charles L. Grant|
+	AS=|WFAD|
+	YR=|1981|
+	TG=|18901|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Mummy! A Chrestomathy of Crypt-ology {
+	AE=|Bill Pronzini|
+	AS=|WFAD|
+	YR=|1981|
+	TG=|9487|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Elsewhere {
+	AE=|Terri Windling+Mark Alan Arnold|
+	AS=|WFAD|
+	YR=|1982|
+	TG=|13531|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|1|
+}
+Fantasy Annual IV {
+	AE=|Terry Carr|
+	AS=|WFAD|
+	YR=|1982|
+	TG=|2421|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Shadows 4 {
+	AE=|Charles L. Grant|
+	AS=|WFAD|
+	YR=|1982|
+	TG=|5304|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Tales from the Nightside {
+	AE=|Charles L. Grant|
+	AS=|WFAD|
+	YR=|1982|
+	TG=|5315|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Whispers III {
+	AE=|Stuart David Schiff|
+	AS=|WFAD|
+	YR=|1982|
+	TG=|10338|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Nightmare Seasons {
+	AE=|Charles L. Grant|
+	AS=|WFAD|
+	YR=|1983|
+	TG=|5288|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|1|
+}
+The Dark Country {
+	AE=|Dennis Etchison|
+	AS=|WFAD|
+	YR=|1983|
+	TG=|4285|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Shadows 5 {
+	AE=|Charles L. Grant|
+	AS=|WFAD|
+	YR=|1983|
+	TG=|5307|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Different Seasons {
+	AE=|Stephen King|
+	AS=|WFAD|
+	YR=|1983|
+	TG=|6561|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Perpetual Light {
+	AE=|Alan Ryan|
+	AS=|WFAD|
+	YR=|1983|
+	TG=|18903|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Hecate's Cauldron {
+	AE=|Susan Shwartz|
+	AS=|WFAD|
+	YR=|1983|
+	TG=|10746|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+High Spirits {
+	AE=|Robertson Davies|
+	AS=|WFAD|
+	YR=|1984|
+	TG=|3298|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|1|
+}
+The Dodd, Mead Gallery of Horror {
+	AE=|Charles L. Grant|
+	AS=|WFAD|
+	YR=|1984|
+	TG=|5275|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Shadows 6 {
+	AE=|Charles L. Grant|
+	AS=|WFAD|
+	YR=|1984|
+	TG=|5309|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Red as Blood, or Tales from the Sisters Grimmer {
+	AE=|Tanith Lee|
+	AS=|WFAD|
+	YR=|1984|
+	TG=|7286|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Tales of Wonder {
+	AE=|Jane Yolen|
+	AS=|WFAD|
+	YR=|1984|
+	TG=|13807|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Clive Barker's Books of Blood, Vols. I-III {
+	AE=|Clive Barker|
+	AS=|WFAD|
+	YR=|1985|
+	TG=|801|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|1|
+}
+The Fire When It Comes {
+	AE=|Parke Godwin|
+	AS=|WFAD|
+	YR=|1985|
+	TG=|5142|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Viriconium Nights {
+	AE=|M. John Harrison|
+	AS=|WFAD|
+	YR=|1985|
+	TG=|5682|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+The Songbirds of Pain {
+	AE=|Garry Kilworth|
+	AS=|WFAD|
+	YR=|1985|
+	TG=|6516|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Night Visions 1 {
+	AE=|Alan Ryan|
+	AS=|WFAD|
+	YR=|1985|
+	TG=|10114|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Masques {
+	AE=|J. N. Williamson|
+	AS=|WFAD|
+	YR=|1985|
+	TG=|13337|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Imaginary Lands {
+	AE=|Robin McKinley|
+	AS=|WFAD|
+	YR=|1986|
+	TG=|8300|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|1|
+}
+Clive Barker's Books of Blood, Vols. IV-VI {
+	AE=|Clive Barker|
+	AS=|WFAD|
+	YR=|1986|
+	TG=|803|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Black Venus^Saints and Strangers {
+	AE=|Angela Carter|
+	AS=|WFAD|
+	YR=|1986|
+	TG=|2488|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Night Visions 2 {
+	AE=|Charles L. Grant|
+	AS=|WFAD|
+	YR=|1986|
+	TG=|5286|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Skeleton Crew {
+	AE=|Stephen King|
+	AS=|WFAD|
+	YR=|1986|
+	TG=|6603|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Whispers V {
+	AE=|Stuart David Schiff|
+	AS=|WFAD|
+	YR=|1986|
+	TG=|10342|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Faery! {
+	AE=|Terri Windling|
+	AS=|WFAD|
+	YR=|1986|
+	TG=|13528|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Dragonfield and Other Stories {
+	AE=|Jane Yolen|
+	AS=|WFAD|
+	YR=|1986|
+	TG=|13797|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Tales of the Quintana Roo {
+	AE=|James Tiptree, Jr.|
+	AS=|WFAD|
+	YR=|1987|
+	TG=|11993|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|1|
+}
+Cutting Edge {
+	AE=|Dennis Etchison|
+	AS=|WFAD|
+	YR=|1987|
+	TG=|4282|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Dreams of Dark and Light {
+	AE=|Tanith Lee|
+	AS=|WFAD|
+	YR=|1987|
+	TG=|7260|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}
+Night Visions 3 {
+	AE=|George R. R. Martin|
+	AS=|WFAD|
+	YR=|1987|
+	TG=|7842|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Liavek: The Players of Luck {
+	AE=|Will Shetterly+Emma Bull|
+	AS=|WFAD|
+	YR=|1987|
+	TG=|10690|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Black Wine {
+	AE=|Douglas E. Winter|
+	AS=|WFAD|
+	YR=|1987|
+	TG=|13543|
+	TA=|Best Anthology/Collection (old)|
+	TP=|a|
+	LV=|9|
+}
+Merlin's Booke {
+	AE=|Jane Yolen|
+	AS=|WFAD|
+	YR=|1987|
+	TG=|13802|
+	TA=|Best Anthology/Collection (old)|
+	TP=|c|
+	LV=|9|
+}

@@ -1,0 +1,12967 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)NEBULAS	1.10	05/05/98 ISFDB";
+##
+Dune {
+	AE=|Frank Herbert|
+	AS=|NebN|
+	YR=|1965|
+	TG=|5861|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Star Fox {
+	AE=|Poul Anderson|
+	AS=|NebN|
+	YR=|1965|
+	TG=|407|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Nova Express {
+	AE=|William S. Burroughs|
+	AS=|NebN|
+	YR=|1965|
+	TG=|2027|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Rogue Dragon {
+	AE=|Avram Davidson|
+	AS=|NebN|
+	YR=|1965|
+	TG=|3287|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Dr. Bloodmoney^Dr. Bloodmoney, or How We Got Along After the Bomb {
+	AE=|Philip K. Dick|
+	AS=|NebN|
+	YR=|1965|
+	TG=|3550|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Three Stigmata of Palmer Eldritch {
+	AE=|Philip K. Dick|
+	AS=|NebN|
+	YR=|1965|
+	TG=|3572|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Genocides {
+	AE=|Thomas M. Disch|
+	AS=|NebN|
+	YR=|1965|
+	TG=|3645|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Ship That Sailed the Time Stream {
+	AE=|G. C. Edmondson|
+	AS=|NebN|
+	YR=|1965|
+	TG=|3946|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+A Plague of Demons {
+	AE=|Keith Laumer|
+	AS=|NebN|
+	YR=|1965|
+	TG=|7074|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+All Flesh is Grass {
+	AE=|Clifford D. Simak|
+	AS=|NebN|
+	YR=|1965|
+	TG=|10950|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Clone {
+	AE=|Theodore L. Thomas+Kate Wilhelm|
+	AS=|NebN|
+	YR=|1965|
+	TG=|11913|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Open Prison^The Escape Orbit {
+	AE=|James White|
+	AS=|NebN|
+	YR=|1965|
+	TG=|13141|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Babel-17 {
+	AE=|Samuel R. Delany|
+	AS=|NebN|
+	YR=|1966|
+	TG=|3430|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Flowers for Algernon {
+	AE=|Daniel Keyes|
+	AS=|NebN|
+	YR=|1966|
+	TG=|6478|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Moon is a Harsh Mistress {
+	AE=|Robert A. Heinlein|
+	AS=|NebN|
+	YR=|1966|
+	TG=|5818|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 91 = First ballot {
+	AE=|(********)|
+	AS=|NebN|
+	YR=|1966|
+	TG=|85|
+	TA=|Novel|
+	TP=|x|
+	LV=|90|
+}
+World Without Stars^The Ancient Gods {
+	AE=|Poul Anderson|
+	AS=|NebN|
+	YR=|1966|
+	TG=|425|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+Fantastic Voyage {
+	AE=|Isaac Asimov|
+	AS=|NebN|
+	YR=|1966|
+	TG=|568|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+The Crystal World {
+	AE=|J. G. Ballard|
+	AS=|NebN|
+	YR=|1966|
+	TG=|750|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+Watchers of the Dark {
+	AE=|Lloyd Biggle, Jr.|
+	AS=|NebN|
+	YR=|1966|
+	TG=|1190|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+Earthblood {
+	AE=|Rosel George Brown+Keith Laumer|
+	AS=|NebN|
+	YR=|1966|
+	TG=|1803|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+A Planet of Your Own {
+	AE=|John Brunner|
+	AS=|NebN|
+	YR=|1966|
+	TG=|1831|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+The Productions of Time {
+	AE=|John Brunner|
+	AS=|NebN|
+	YR=|1966|
+	TG=|1832|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+Night of Light {
+	AE=|Philip José Farmer|
+	AS=|NebN|
+	YR=|1966|
+	TG=|4375|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+Make Room! Make Room! {
+	AE=|Harry Harrison|
+	AS=|NebN|
+	YR=|1966|
+	TG=|5667|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+The Eyes of Heisenberg {
+	AE=|Frank Herbert|
+	AS=|NebN|
+	YR=|1966|
+	TG=|5864|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+World of Ptavvs {
+	AE=|Larry Niven|
+	AS=|NebN|
+	YR=|1966|
+	TG=|8787|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+The Age of the Pussyfoot {
+	AE=|Frederik Pohl|
+	AS=|NebN|
+	YR=|1966|
+	TG=|9194|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+Danger from Vega {
+	AE=|John T. Phillifent^John Rackham|
+	AS=|NebN|
+	YR=|1966|
+	TG=|9506|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+The Blue World {
+	AE=|Jack Vance|
+	AS=|NebN|
+	YR=|1966|
+	TG=|12577|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+The Last Castle {
+	AE=|Jack Vance|
+	AS=|NebN|
+	YR=|1966|
+	TG=|12593|
+	TA=|Novel|
+	TP=|nv|
+	LV=|91|
+}
+...And Call Me Conrad^This Immortal (1966) {
+	AE=|Roger Zelazny|
+	AS=|NebN|
+	YR=|1966|
+	TG=|13869|
+	TA=|Novel|
+	TP=|n|
+	LV=|91|
+}
+The Einstein Intersection {
+	AE=|Samuel R. Delany|
+	AS=|NebN|
+	YR=|1967|
+	TG=|3443|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Chthon {
+	AE=|Piers Anthony|
+	AS=|NebN|
+	YR=|1967|
+	TG=|463|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Eskimo Invasion {
+	AE=|Hayden Howard|
+	AS=|NebN|
+	YR=|1967|
+	TG=|6049|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Thorns {
+	AE=|Robert Silverberg|
+	AS=|NebN|
+	YR=|1967|
+	TG=|10906|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Lord of Light {
+	AE=|Roger Zelazny|
+	AS=|NebN|
+	YR=|1967|
+	TG=|13910|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Rite of Passage {
+	AE=|Alexei Panshin|
+	AS=|NebN|
+	YR=|1968|
+	TG=|9041|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Masks of Time {
+	AE=|Robert Silverberg|
+	AS=|NebN|
+	YR=|1968|
+	TG=|10848|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Stand on Zanzibar {
+	AE=|John Brunner|
+	AS=|NebN|
+	YR=|1968|
+	TG=|1843|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+Picnic on Paradise {
+	AE=|Joanna Russ|
+	AS=|NebN|
+	YR=|1968|
+	TG=|10076|
+	TA=|Novel|
+	TP=|n|
+	LV=|4|
+}
+Black Easter {
+	AE=|James Blish|
+	AS=|NebN|
+	YR=|1968|
+	TG=|1406|
+	TA=|Novel|
+	TP=|n|
+	LV=|5|
+}
+Do Androids Dream of Electric Sheep?^Blade Runner {
+	AE=|Philip K. Dick|
+	AS=|NebN|
+	YR=|1968|
+	TG=|3549|
+	TA=|Novel|
+	TP=|n|
+	LV=|6|
+}
+Past Master {
+	AE=|R. A. Lafferty|
+	AS=|NebN|
+	YR=|1968|
+	TG=|6904|
+	TA=|Novel|
+	TP=|n|
+	LV=|6|
+}
+The Left Hand of Darkness {
+	AE=|Ursula K. Le Guin|
+	AS=|NebN|
+	YR=|1969|
+	TG=|7167|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Slaughterhouse Five or, The Children's Crusade {
+	AE=|Kurt Vonnegut, Jr.|
+	AS=|NebN|
+	YR=|1969|
+	TG=|12770|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Bug Jack Barron {
+	AE=|Norman Spinrad|
+	AS=|NebN|
+	YR=|1969|
+	TG=|11224|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+The Jagged Orbit {
+	AE=|John Brunner|
+	AS=|NebN|
+	YR=|1969|
+	TG=|1830|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Up the Line {
+	AE=|Robert Silverberg|
+	AS=|NebN|
+	YR=|1969|
+	TG=|10925|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Isle of the Dead {
+	AE=|Roger Zelazny|
+	AS=|NebN|
+	YR=|1969|
+	TG=|13900|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Ringworld {
+	AE=|Larry Niven|
+	AS=|NebN|
+	YR=|1970|
+	TG=|8781|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+And Chaos Died {
+	AE=|Joanna Russ|
+	AS=|NebN|
+	YR=|1970|
+	TG=|10065|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Tower of Glass {
+	AE=|Robert Silverberg|
+	AS=|NebN|
+	YR=|1970|
+	TG=|10923|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+The Year of the Quiet Sun {
+	AE=|Wilson Tucker|
+	AS=|NebN|
+	YR=|1970|
+	TG=|12064|
+	TA=|Novel|
+	TP=|n|
+	LV=|4|
+}
+Fourth Mansions {
+	AE=|R. A. Lafferty|
+	AS=|NebN|
+	YR=|1970|
+	TG=|6892|
+	TA=|Novel|
+	TP=|n|
+	LV=|5|
+}
+The Steel Crocodile^The Electric Crocodile (UK) {
+	AE=|D. G. Compton|
+	AS=|NebN|
+	YR=|1970|
+	TG=|2923|
+	TA=|Novel|
+	TP=|n|
+	LV=|6|
+}
+Rank 82 = Withdrawn - Nomination Declined {
+	AE=|(********)|
+	AS=|NebN|
+	YR=|1970|
+	TG=|18859|
+	TA=|Novel|
+	TP=|x|
+	LV=|80|
+}
+Downward to the Earth {
+	AE=|Robert Silverberg|
+	AS=|NebN|
+	YR=|1970|
+	TG=|18892|
+	TA=|Novel|
+	TP=|n|
+	LV=|82|
+}
+A Time of Changes {
+	AE=|Robert Silverberg|
+	AS=|NebN|
+	YR=|1971|
+	TG=|10913|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Lathe of Heaven {
+	AE=|Ursula K. Le Guin|
+	AS=|NebN|
+	YR=|1971|
+	TG=|7162|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+The Devil is Dead {
+	AE=|R. A. Lafferty|
+	AS=|NebN|
+	YR=|1971|
+	TG=|6886|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+Margaret and I {
+	AE=|Kate Wilhelm|
+	AS=|NebN|
+	YR=|1971|
+	TG=|13231|
+	TA=|Novel|
+	TP=|n|
+	LV=|4|
+}
+The Byworlder {
+	AE=|Poul Anderson|
+	AS=|NebN|
+	YR=|1971|
+	TG=|363|
+	TA=|Novel|
+	TP=|n|
+	LV=|5|
+}
+Half Past Human {
+	AE=|T. J. Bass|
+	AS=|NebN|
+	YR=|1971|
+	TG=|902|
+	TA=|Novel|
+	TP=|n|
+	LV=|6|
+}
+The Gods Themselves {
+	AE=|Isaac Asimov|
+	AS=|NebN|
+	YR=|1972|
+	TG=|583|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+When Harlie Was One {
+	AE=|David Gerrold|
+	AS=|NebN|
+	YR=|1972|
+	TG=|4960|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Dying Inside {
+	AE=|Robert Silverberg|
+	AS=|NebN|
+	YR=|1972|
+	TG=|10809|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+The Book of Skulls {
+	AE=|Robert Silverberg|
+	AS=|NebN|
+	YR=|1972|
+	TG=|10791|
+	TA=|Novel|
+	TP=|n|
+	LV=|4|
+}
+What Entropy Means to Me {
+	AE=|George Alec Effinger|
+	AS=|NebN|
+	YR=|1972|
+	TG=|3982|
+	TA=|Novel|
+	TP=|n|
+	LV=|5|
+}
+The Iron Dream {
+	AE=|Norman Spinrad|
+	AS=|NebN|
+	YR=|1972|
+	TG=|11230|
+	TA=|Novel|
+	TP=|n|
+	LV=|6|
+}
+The Sheep Look Up {
+	AE=|John Brunner|
+	AS=|NebN|
+	YR=|1972|
+	TG=|1834|
+	TA=|Novel|
+	TP=|n|
+	LV=|7|
+}
+Rendezvous With Rama {
+	AE=|Arthur C. Clarke|
+	AS=|NebN|
+	YR=|1973|
+	TG=|2819|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The People of the Wind {
+	AE=|Poul Anderson|
+	AS=|NebN|
+	YR=|1973|
+	TG=|398|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Man Who Folded Himself {
+	AE=|David Gerrold|
+	AS=|NebN|
+	YR=|1973|
+	TG=|4947|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Time Enough for Love {
+	AE=|Robert A. Heinlein|
+	AS=|NebN|
+	YR=|1973|
+	TG=|5836|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Gravity's Rainbow {
+	AE=|Thomas Pynchon|
+	AS=|NebN|
+	YR=|1973|
+	TG=|9503|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dispossessed {
+	AE=|Ursula K. Le Guin|
+	AS=|NebN|
+	YR=|1974|
+	TG=|7137|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Flow My Tears, the Policeman Said {
+	AE=|Philip K. Dick|
+	AS=|NebN|
+	YR=|1974|
+	TG=|3556|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+334 {
+	AE=|Thomas M. Disch|
+	AS=|NebN|
+	YR=|1974|
+	TG=|3630|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+The Godwhale {
+	AE=|T. J. Bass|
+	AS=|NebN|
+	YR=|1974|
+	TG=|901|
+	TA=|Novel|
+	TP=|n|
+	LV=|4|
+}
+The Forever War {
+	AE=|Joe Haldeman|
+	AS=|NebN|
+	YR=|1975|
+	TG=|5510|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Mote in God's Eye {
+	AE=|Larry Niven+Jerry Pournelle|
+	AS=|NebN|
+	YR=|1975|
+	TG=|8811|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Dhalgren {
+	AE=|Samuel R. Delany|
+	AS=|NebN|
+	YR=|1975|
+	TG=|3438|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+The Female Man {
+	AE=|Joanna Russ|
+	AS=|NebN|
+	YR=|1975|
+	TG=|10071|
+	TA=|Novel|
+	TP=|n|
+	LV=|4|
+}
+A Midsummer Tempest {
+	AE=|Poul Anderson|
+	AS=|NebN|
+	YR=|1975|
+	TG=|391|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Computer Connection^The Indian Giver^Extro {
+	AE=|Alfred Bester|
+	AS=|NebN|
+	YR=|1975|
+	TG=|1164|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+A Funeral for the Eyes of Fire {
+	AE=|Michael Bishop|
+	AS=|NebN|
+	YR=|1975|
+	TG=|1250|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Heritage of Hastur {
+	AE=|Marion Zimmer Bradley|
+	AS=|NebN|
+	YR=|1975|
+	TG=|1595|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Invisible Cities {
+	AE=|Italo Calvino|
+	AS=|NebN|
+	YR=|1975|
+	TG=|2160|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Autumn Angels {
+	AE=|Arthur Byron Cover|
+	AS=|NebN|
+	YR=|1975|
+	TG=|3007|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Ragtime {
+	AE=|E. L. Doctorow|
+	AS=|NebN|
+	YR=|1975|
+	TG=|3675|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Birthgrave {
+	AE=|Tanith Lee|
+	AS=|NebN|
+	YR=|1975|
+	TG=|7244|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Missing Man {
+	AE=|Katherine MacLean|
+	AS=|NebN|
+	YR=|1975|
+	TG=|7696|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Guernica Night {
+	AE=|Barry N. Malzberg|
+	AS=|NebN|
+	YR=|1975|
+	TG=|7781|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Exile Waiting {
+	AE=|Vonda N. McIntyre|
+	AS=|NebN|
+	YR=|1975|
+	TG=|8227|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Stochastic Man {
+	AE=|Robert Silverberg|
+	AS=|NebN|
+	YR=|1975|
+	TG=|10897|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Embedding {
+	AE=|Ian Watson|
+	AS=|NebN|
+	YR=|1975|
+	TG=|12940|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Doorways in the Sand {
+	AE=|Roger Zelazny|
+	AS=|NebN|
+	YR=|1975|
+	TG=|13885|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Man Plus {
+	AE=|Frederik Pohl|
+	AS=|NebN|
+	YR=|1976|
+	TG=|9238|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Where Late the Sweet Birds Sang {
+	AE=|Kate Wilhelm|
+	AS=|NebN|
+	YR=|1976|
+	TG=|13248|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Shadrach in the Furnace {
+	AE=|Robert Silverberg|
+	AS=|NebN|
+	YR=|1976|
+	TG=|10888|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+Inferno {
+	AE=|Larry Niven+Jerry Pournelle|
+	AS=|NebN|
+	YR=|1976|
+	TG=|8805|
+	TA=|Novel|
+	TP=|n|
+	LV=|4|
+}
+Islands {
+	AE=|Marta Randall|
+	AS=|NebN|
+	YR=|1976|
+	TG=|9520|
+	TA=|Novel|
+	TP=|n|
+	LV=|5|
+}
+Triton {
+	AE=|Samuel R. Delany|
+	AS=|NebN|
+	YR=|1976|
+	TG=|3466|
+	TA=|Novel|
+	TP=|n|
+	LV=|6|
+}
+Gateway {
+	AE=|Frederik Pohl|
+	AS=|NebN|
+	YR=|1977|
+	TG=|9215|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+In the Ocean of Night {
+	AE=|Gregory Benford|
+	AS=|NebN|
+	YR=|1977|
+	TG=|1073|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Cirque {
+	AE=|Terry Carr|
+	AS=|NebN|
+	YR=|1977|
+	TG=|2416|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+Moonstar Odyssey {
+	AE=|David Gerrold|
+	AS=|NebN|
+	YR=|1977|
+	TG=|4954|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Sword of the Demon {
+	AE=|Richard A. Lupoff|
+	AS=|NebN|
+	YR=|1977|
+	TG=|7625|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Dreamsnake {
+	AE=|Vonda N. McIntyre|
+	AS=|NebN|
+	YR=|1978|
+	TG=|8224|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Faded Sun: Kesrith {
+	AE=|C. J. Cherryh|
+	AS=|NebN|
+	YR=|1978|
+	TG=|2674|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Blind Voices {
+	AE=|Tom Reamy|
+	AS=|NebN|
+	YR=|1978|
+	TG=|9549|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+Strangers {
+	AE=|Gardner Dozois|
+	AS=|NebN|
+	YR=|1978|
+	TG=|3826|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Kalki {
+	AE=|Gore Vidal|
+	AS=|NebN|
+	YR=|1978|
+	TG=|12689|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Fountains of Paradise {
+	AE=|Arthur C. Clarke|
+	AS=|NebN|
+	YR=|1979|
+	TG=|2803|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+On Wings of Song {
+	AE=|Thomas M. Disch|
+	AS=|NebN|
+	YR=|1979|
+	TG=|3660|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Titan {
+	AE=|John Varley|
+	AS=|NebN|
+	YR=|1979|
+	TG=|12678|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+The Road to Corlay {
+	AE=|Richard Cowper|
+	AS=|NebN|
+	YR=|1979|
+	TG=|3031|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Jem {
+	AE=|Frederik Pohl|
+	AS=|NebN|
+	YR=|1979|
+	TG=|9233|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Juniper Time {
+	AE=|Kate Wilhelm|
+	AS=|NebN|
+	YR=|1979|
+	TG=|13229|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Timescape {
+	AE=|Gregory Benford|
+	AS=|NebN|
+	YR=|1980|
+	TG=|1106|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Beyond the Blue Event Horizon {
+	AE=|Frederik Pohl|
+	AS=|NebN|
+	YR=|1980|
+	TG=|9200|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Orphan {
+	AE=|Robert Stallman|
+	AS=|NebN|
+	YR=|1980|
+	TG=|11326|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Mockingbird {
+	AE=|Walter Tevis|
+	AS=|NebN|
+	YR=|1980|
+	TG=|11902|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Snow Queen {
+	AE=|Joan D. Vinge|
+	AS=|NebN|
+	YR=|1980|
+	TG=|12711|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Shadow of the Torturer {
+	AE=|Gene Wolfe|
+	AS=|NebN|
+	YR=|1980|
+	TG=|13637|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Claw of the Conciliator {
+	AE=|Gene Wolfe|
+	AS=|NebN|
+	YR=|1981|
+	TG=|13595|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Radix {
+	AE=|A. A. Attanasio|
+	AS=|NebN|
+	YR=|1981|
+	TG=|660|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Vampire Tapestry {
+	AE=|Suzy McKee Charnas|
+	AS=|NebN|
+	YR=|1981|
+	TG=|2613|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Little, Big {
+	AE=|John Crowley|
+	AS=|NebN|
+	YR=|1981|
+	TG=|3097|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Riddley Walker {
+	AE=|Russell Hoban|
+	AS=|NebN|
+	YR=|1981|
+	TG=|5942|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Many-Colored Land {
+	AE=|Julian May|
+	AS=|NebN|
+	YR=|1981|
+	TG=|7939|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+No Enemy But Time {
+	AE=|Michael Bishop|
+	AS=|NebN|
+	YR=|1982|
+	TG=|1279|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Helliconia Spring {
+	AE=|Brian W. Aldiss|
+	AS=|NebN|
+	YR=|1982|
+	TG=|256|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Foundation's Edge {
+	AE=|Isaac Asimov|
+	AS=|NebN|
+	YR=|1982|
+	TG=|577|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Transmigration of Timothy Archer {
+	AE=|Philip K. Dick|
+	AS=|NebN|
+	YR=|1982|
+	TG=|3574|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Friday {
+	AE=|Robert A. Heinlein|
+	AS=|NebN|
+	YR=|1982|
+	TG=|5803|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Sword of the Lictor {
+	AE=|Gene Wolfe|
+	AS=|NebN|
+	YR=|1982|
+	TG=|13651|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Startide Rising {
+	AE=|David Brin|
+	AS=|NebN|
+	YR=|1983|
+	TG=|1688|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Against Infinity {
+	AE=|Gregory Benford|
+	AS=|NebN|
+	YR=|1983|
+	TG=|1050|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Tea with the Black Dragon {
+	AE=|R. A. MacAvoy|
+	AS=|NebN|
+	YR=|1983|
+	TG=|7679|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Void Captain's Tale {
+	AE=|Norman Spinrad|
+	AS=|NebN|
+	YR=|1983|
+	TG=|11255|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Lyonesse: Suldrun's Garden^Lyonesse (1984 UK) {
+	AE=|Jack Vance|
+	AS=|NebN|
+	YR=|1983|
+	TG=|12597|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Citadel of the Autarch {
+	AE=|Gene Wolfe|
+	AS=|NebN|
+	YR=|1983|
+	TG=|13589|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Neuromancer {
+	AE=|William Gibson|
+	AS=|NebN|
+	YR=|1984|
+	TG=|4994|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Man Who Melted {
+	AE=|Jack Dann|
+	AS=|NebN|
+	YR=|1984|
+	TG=|3175|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Job: A Comedy of Justice {
+	AE=|Robert A. Heinlein|
+	AS=|NebN|
+	YR=|1984|
+	TG=|5813|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Integral Trees {
+	AE=|Larry Niven|
+	AS=|NebN|
+	YR=|1984|
+	TG=|8755|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Wild Shore {
+	AE=|Kim Stanley Robinson|
+	AS=|NebN|
+	YR=|1984|
+	TG=|9851|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Frontera {
+	AE=|Lewis Shiner|
+	AS=|NebN|
+	YR=|1984|
+	TG=|10713|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Ender's Game {
+	AE=|Orson Scott Card|
+	AS=|NebN|
+	YR=|1985|
+	TG=|2299|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Helliconia Winter {
+	AE=|Brian W. Aldiss|
+	AS=|NebN|
+	YR=|1985|
+	TG=|262|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Blood Music {
+	AE=|Greg Bear|
+	AS=|NebN|
+	YR=|1985|
+	TG=|971|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Postman {
+	AE=|David Brin|
+	AS=|NebN|
+	YR=|1985|
+	TG=|1680|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Remaking of Sigmund Freud {
+	AE=|Barry N. Malzberg|
+	AS=|NebN|
+	YR=|1985|
+	TG=|7790|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Dinner at Deviant's Palace {
+	AE=|Tim Powers|
+	AS=|NebN|
+	YR=|1985|
+	TG=|9377|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Schismatrix {
+	AE=|Bruce Sterling|
+	AS=|NebN|
+	YR=|1985|
+	TG=|11484|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Speaker for the Dead {
+	AE=|Orson Scott Card|
+	AS=|NebN|
+	YR=|1986|
+	TG=|2355|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Handmaid's Tale {
+	AE=|Margaret Atwood|
+	AS=|NebN|
+	YR=|1986|
+	TG=|675|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Count Zero {
+	AE=|William Gibson|
+	AS=|NebN|
+	YR=|1986|
+	TG=|4975|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Journal of Nicholas the American {
+	AE=|Leigh Kennedy|
+	AS=|NebN|
+	YR=|1986|
+	TG=|6429|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+This is the Way the World Ends {
+	AE=|James Morrow|
+	AS=|NebN|
+	YR=|1986|
+	TG=|8594|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Free Live Free {
+	AE=|Gene Wolfe|
+	AS=|NebN|
+	YR=|1986|
+	TG=|13614|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Falling Woman {
+	AE=|Pat Murphy|
+	AS=|NebN|
+	YR=|1987|
+	TG=|8641|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Forge of God {
+	AE=|Greg Bear|
+	AS=|NebN|
+	YR=|1987|
+	TG=|977|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Uplift War {
+	AE=|David Brin|
+	AS=|NebN|
+	YR=|1987|
+	TG=|1695|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Vergil in Averno {
+	AE=|Avram Davidson|
+	AS=|NebN|
+	YR=|1987|
+	TG=|3294|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+When Gravity Fails {
+	AE=|George Alec Effinger|
+	AS=|NebN|
+	YR=|1987|
+	TG=|3986|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Soldier of the Mist {
+	AE=|Gene Wolfe|
+	AS=|NebN|
+	YR=|1987|
+	TG=|13643|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Falling Free {
+	AE=|Lois McMaster Bujold|
+	AS=|NebN|
+	YR=|1988|
+	TG=|1938|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Great Sky River {
+	AE=|Gregory Benford|
+	AS=|NebN|
+	YR=|1988|
+	TG=|1068|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Red Prophet {
+	AE=|Orson Scott Card|
+	AS=|NebN|
+	YR=|1988|
+	TG=|2340|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Mona Lisa Overdrive {
+	AE=|William Gibson|
+	AS=|NebN|
+	YR=|1988|
+	TG=|4986|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Deserted Cities of the Heart {
+	AE=|Lewis Shiner|
+	AS=|NebN|
+	YR=|1988|
+	TG=|10711|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Drowning Towers^The Sea and the Summer {
+	AE=|George Turner|
+	AS=|NebN|
+	YR=|1988|
+	TG=|12079|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Urth of the New Sun {
+	AE=|Gene Wolfe|
+	AS=|NebN|
+	YR=|1988|
+	TG=|13658|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Healer's War {
+	AE=|Elizabeth Ann Scarborough|
+	AS=|NebN|
+	YR=|1989|
+	TG=|10284|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Boat of a Million Years {
+	AE=|Poul Anderson|
+	AS=|NebN|
+	YR=|1989|
+	TG=|360|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Prentice Alvin {
+	AE=|Orson Scott Card|
+	AS=|NebN|
+	YR=|1989|
+	TG=|2335|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Good News from Outer Space {
+	AE=|John Kessel|
+	AS=|NebN|
+	YR=|1989|
+	TG=|6457|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Ivory: A Legend of Past and Future {
+	AE=|Mike Resnick|
+	AS=|NebN|
+	YR=|1989|
+	TG=|9623|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Sister Light, Sister Dark {
+	AE=|Jane Yolen|
+	AS=|NebN|
+	YR=|1989|
+	TG=|13806|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Tehanu: The Last Book of Earthsea {
+	AE=|Ursula K. Le Guin|
+	AS=|NebN|
+	YR=|1990|
+	TG=|7203|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Mary Reilly {
+	AE=|Valerie Martin|
+	AS=|NebN|
+	YR=|1990|
+	TG=|7894|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Only Begotten Daughter {
+	AE=|James Morrow|
+	AS=|NebN|
+	YR=|1990|
+	TG=|8590|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Fall of Hyperion {
+	AE=|Dan Simmons|
+	AS=|NebN|
+	YR=|1990|
+	TG=|10991|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Redshift Rendezvous {
+	AE=|John E. Stith|
+	AS=|NebN|
+	YR=|1990|
+	TG=|11564|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+White Jenna {
+	AE=|Jane Yolen|
+	AS=|NebN|
+	YR=|1990|
+	TG=|13811|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Stations of the Tide {
+	AE=|Michael Swanwick|
+	AS=|NebN|
+	YR=|1991|
+	TG=|11776|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Orbital Resonance {
+	AE=|John Barnes|
+	AS=|NebN|
+	YR=|1991|
+	TG=|845|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Barrayar {
+	AE=|Lois McMaster Bujold|
+	AS=|NebN|
+	YR=|1991|
+	TG=|1928|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Bone Dance {
+	AE=|Emma Bull|
+	AS=|NebN|
+	YR=|1991|
+	TG=|1960|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Synners {
+	AE=|Pat Cadigan|
+	AS=|NebN|
+	YR=|1991|
+	TG=|2124|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Difference Engine {
+	AE=|William Gibson+Bruce Sterling|
+	AS=|NebN|
+	YR=|1991|
+	TG=|5015|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Doomsday Book {
+	AE=|Connie Willis|
+	AS=|NebN|
+	YR=|1992|
+	TG=|13388|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+A Million Open Doors {
+	AE=|John Barnes|
+	AS=|NebN|
+	YR=|1992|
+	TG=|835|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Sarah Canary {
+	AE=|Karen Joy Fowler|
+	AS=|NebN|
+	YR=|1992|
+	TG=|4638|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+China Mountain Zhang {
+	AE=|Maureen F. McHugh|
+	AS=|NebN|
+	YR=|1992|
+	TG=|8191|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+A Fire Upon the Deep {
+	AE=|Vernor Vinge|
+	AS=|NebN|
+	YR=|1992|
+	TG=|12724|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Briar Rose {
+	AE=|Jane Yolen|
+	AS=|NebN|
+	YR=|1992|
+	TG=|13790|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebN|
+	YR=|1992|
+	TG=|101|
+	TA=|Novel|
+	TP=|x|
+	LV=|90|
+}
+The Modular Man {
+	AE=|Roger MacBride Allen|
+	AS=|NebN|
+	YR=|1992|
+	TG=|319|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Trinity Paradox {
+	AE=|Kevin J. Anderson+Doug Beason|
+	AS=|NebN|
+	YR=|1992|
+	TG=|342|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Mars {
+	AE=|Ben Bova|
+	AS=|NebN|
+	YR=|1992|
+	TG=|1517|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Phoenix Guards {
+	AE=|Steven Brust|
+	AS=|NebN|
+	YR=|1992|
+	TG=|1853|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Exile Kiss {
+	AE=|George Alec Effinger|
+	AS=|NebN|
+	YR=|1992|
+	TG=|3965|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Moonwise {
+	AE=|Greer Ilene Gilman|
+	AS=|NebN|
+	YR=|1992|
+	TG=|5080|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Child of the Light {
+	AE=|Janet Gluckman+George Guthridge|
+	AS=|NebN|
+	YR=|1992|
+	TG=|5095|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Jumper {
+	AE=|Steven Gould|
+	AS=|NebN|
+	YR=|1992|
+	TG=|5253|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Mirabile {
+	AE=|Janet Kagan|
+	AS=|NebN|
+	YR=|1992|
+	TG=|6319|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Cipher {
+	AE=|Kathe Koja|
+	AS=|NebN|
+	YR=|1992|
+	TG=|6703|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Cloven Hooves {
+	AE=|Megan Lindholm|
+	AS=|NebN|
+	YR=|1992|
+	TG=|7499|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+King of Morning, Queen of Day {
+	AE=|Ian McDonald|
+	AS=|NebN|
+	YR=|1992|
+	TG=|8152|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Glass Houses {
+	AE=|Laura J. Mixon|
+	AS=|NebN|
+	YR=|1992|
+	TG=|8421|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Ragged World {
+	AE=|Judith Moffett|
+	AS=|NebN|
+	YR=|1992|
+	TG=|8431|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Elvenbane {
+	AE=|Andre Norton+Mercedes Lackey|
+	AS=|NebN|
+	YR=|1992|
+	TG=|8884|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Flying in Place {
+	AE=|Susan Palwick|
+	AS=|NebN|
+	YR=|1992|
+	TG=|9021|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Last Call {
+	AE=|Tim Powers|
+	AS=|NebN|
+	YR=|1992|
+	TG=|9388|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Dark Beyond the Stars {
+	AE=|Frank M. Robinson|
+	AS=|NebN|
+	YR=|1992|
+	TG=|9769|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Far-Seer {
+	AE=|Robert J. Sawyer|
+	AS=|NebN|
+	YR=|1992|
+	TG=|10256|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Reefsong {
+	AE=|Carol Severance|
+	AS=|NebN|
+	YR=|1992|
+	TG=|10487|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Kalimantan {
+	AE=|Lucius Shepard|
+	AS=|NebN|
+	YR=|1992|
+	TG=|10626|
+	TA=|Novel|
+	TP=|c|
+	LV=|92|
+}
+The Grail of Hearts {
+	AE=|Susan Shwartz|
+	AS=|NebN|
+	YR=|1992|
+	TG=|10743|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Russian Spring {
+	AE=|Norman Spinrad|
+	AS=|NebN|
+	YR=|1992|
+	TG=|11243|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Shivering World {
+	AE=|Kathy Tyers|
+	AS=|NebN|
+	YR=|1992|
+	TG=|12155|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Stranger Suns {
+	AE=|George Zebrowski|
+	AS=|NebN|
+	YR=|1992|
+	TG=|13849|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Red Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|NebN|
+	YR=|1993|
+	TG=|9828|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Assemblers of Infinity {
+	AE=|Kevin J. Anderson+Doug Beason|
+	AS=|NebN|
+	YR=|1993|
+	TG=|340|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Hard Landing {
+	AE=|Algis Budrys|
+	AS=|NebN|
+	YR=|1993|
+	TG=|1899|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Beggars in Spain {
+	AE=|Nancy Kress|
+	AS=|NebN|
+	YR=|1993|
+	TG=|6773|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Nightside the Long Sun {
+	AE=|Gene Wolfe|
+	AS=|NebN|
+	YR=|1993|
+	TG=|13626|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebN|
+	YR=|1993|
+	TG=|102|
+	TA=|Novel|
+	TP=|x|
+	LV=|90|
+}
+Dark Sky Legion {
+	AE=|William Barton|
+	AS=|NebN|
+	YR=|1993|
+	TG=|893|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Count Geiger's Blues {
+	AE=|Michael Bishop|
+	AS=|NebN|
+	YR=|1993|
+	TG=|1236|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Spirit Ring {
+	AE=|Lois McMaster Bujold|
+	AS=|NebN|
+	YR=|1993|
+	TG=|1950|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Fools {
+	AE=|Pat Cadigan|
+	AS=|NebN|
+	YR=|1993|
+	TG=|2101|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Virtual Light {
+	AE=|William Gibson|
+	AS=|NebN|
+	YR=|1993|
+	TG=|5003|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Thread That Binds the Bones {
+	AE=|Nina Kiriki Hoffman|
+	AS=|NebN|
+	YR=|1993|
+	TG=|5981|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Exile {
+	AE=|Michael P. Kube-McDowell|
+	AS=|NebN|
+	YR=|1993|
+	TG=|6824|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Metaphase {
+	AE=|Vonda N. McIntyre|
+	AS=|NebN|
+	YR=|1993|
+	TG=|8234|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Oracle {
+	AE=|Mike Resnick|
+	AS=|NebN|
+	YR=|1993|
+	TG=|9655|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Purgatory^Purgatory: A Chronicle of a Distant World {
+	AE=|Mike Resnick|
+	AS=|NebN|
+	YR=|1993|
+	TG=|9660|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Destroying Angel {
+	AE=|Richard Paul Russo|
+	AS=|NebN|
+	YR=|1993|
+	TG=|10104|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Fossil Hunter {
+	AE=|Robert J. Sawyer|
+	AS=|NebN|
+	YR=|1993|
+	TG=|10260|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Last Refuge {
+	AE=|Elizabeth Ann Scarborough|
+	AS=|NebN|
+	YR=|1993|
+	TG=|10286|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Hollow Man {
+	AE=|Dan Simmons|
+	AS=|NebN|
+	YR=|1993|
+	TG=|10998|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Manhattan Transfer {
+	AE=|John E. Stith|
+	AS=|NebN|
+	YR=|1993|
+	TG=|11558|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Guns of the South {
+	AE=|Harry Turtledove|
+	AS=|NebN|
+	YR=|1993|
+	TG=|12110|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Aristoi {
+	AE=|Walter Jon Williams|
+	AS=|NebN|
+	YR=|1993|
+	TG=|13293|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Moving Mars {
+	AE=|Greg Bear|
+	AS=|NebN|
+	YR=|1994|
+	TG=|991|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Parable of the Sower {
+	AE=|Octavia E. Butler|
+	AS=|NebN|
+	YR=|1994|
+	TG=|2062|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Gun, with Occasional Music {
+	AE=|Jonathan Lethem|
+	AS=|NebN|
+	YR=|1994|
+	TG=|7429|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Towing Jehovah {
+	AE=|James Morrow|
+	AS=|NebN|
+	YR=|1994|
+	TG=|8598|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Temporary Agency {
+	AE=|Rachel Pollack|
+	AS=|NebN|
+	YR=|1994|
+	TG=|9284|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Green Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|NebN|
+	YR=|1994|
+	TG=|9801|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+A Night in the Lonesome October {
+	AE=|Roger Zelazny|
+	AS=|NebN|
+	YR=|1994|
+	TG=|13913|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebN|
+	YR=|1994|
+	TG=|103|
+	TA=|Novel|
+	TP=|x|
+	LV=|90|
+}
+Climbing Olympus {
+	AE=|Kevin J. Anderson|
+	AS=|NebN|
+	YR=|1994|
+	TG=|335|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Innkeeper's Song {
+	AE=|Peter S. Beagle|
+	AS=|NebN|
+	YR=|1994|
+	TG=|956|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Brittle Innings {
+	AE=|Michael Bishop|
+	AS=|NebN|
+	YR=|1994|
+	TG=|1225|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Mirror Dance {
+	AE=|Lois McMaster Bujold|
+	AS=|NebN|
+	YR=|1994|
+	TG=|1942|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Growing Up Weightless {
+	AE=|John M. Ford|
+	AS=|NebN|
+	YR=|1994|
+	TG=|4576|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Pure Cold Light {
+	AE=|Gregory Frost|
+	AS=|NebN|
+	YR=|1994|
+	TG=|4774|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Strange Devices of the Sun and Moon {
+	AE=|Lisa Goldstein|
+	AS=|NebN|
+	YR=|1994|
+	TG=|5200|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Ammonite {
+	AE=|Nicola Griffith|
+	AS=|NebN|
+	YR=|1994|
+	TG=|5398|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+White Queen {
+	AE=|Gwyneth Jones|
+	AS=|NebN|
+	YR=|1994|
+	TG=|6240|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Wildlife {
+	AE=|James Patrick Kelly|
+	AS=|NebN|
+	YR=|1994|
+	TG=|6418|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Half the Day is Night {
+	AE=|Maureen F. McHugh|
+	AS=|NebN|
+	YR=|1994|
+	TG=|8196|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Inferno {
+	AE=|Mike Resnick|
+	AS=|NebN|
+	YR=|1994|
+	TG=|9621|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+End of an Era {
+	AE=|Robert J. Sawyer|
+	AS=|NebN|
+	YR=|1994|
+	TG=|10250|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Foreigner {
+	AE=|Robert J. Sawyer|
+	AS=|NebN|
+	YR=|1994|
+	TG=|10258|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Porcelain Dove {
+	AE=|Delia Sherman|
+	AS=|NebN|
+	YR=|1994|
+	TG=|10680|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Passion Play {
+	AE=|Sean Stewart|
+	AS=|NebN|
+	YR=|1994|
+	TG=|11537|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Lake of the Long Sun {
+	AE=|Gene Wolfe|
+	AS=|NebN|
+	YR=|1994|
+	TG=|13622|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Path of the Hero {
+	AE=|Dave Wolverton|
+	AS=|NebN|
+	YR=|1994|
+	TG=|13705|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Terminal Experiment^Hobson's Choice {
+	AE=|Robert J. Sawyer|
+	AS=|NebN|
+	YR=|1995|
+	TG=|10275|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Mother of Storms {
+	AE=|John Barnes|
+	AS=|NebN|
+	YR=|1995|
+	TG=|840|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Beggars and Choosers {
+	AE=|Nancy Kress|
+	AS=|NebN|
+	YR=|1995|
+	TG=|6763|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Celestis^Coelestis (UK 1993) {
+	AE=|Paul Park|
+	AS=|NebN|
+	YR=|1995|
+	TG=|9047|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Metropolitan {
+	AE=|Walter Jon Williams|
+	AS=|NebN|
+	YR=|1995|
+	TG=|13308|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Caldé of the Long Sun {
+	AE=|Gene Wolfe|
+	AS=|NebN|
+	YR=|1995|
+	TG=|13582|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebN|
+	YR=|1995|
+	TG=|104|
+	TA=|Novel|
+	TP=|x|
+	LV=|90|
+}
+The Shattered Sphere {
+	AE=|Roger MacBride Allen|
+	AS=|NebN|
+	YR=|1995|
+	TG=|323|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Primary Inversion {
+	AE=|Catherine Asaro|
+	AS=|NebN|
+	YR=|1995|
+	TG=|525|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+When Heaven Fell {
+	AE=|William Barton|
+	AS=|NebN|
+	YR=|1995|
+	TG=|896|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Memory & Dream {
+	AE=|Charles de Lint|
+	AS=|NebN|
+	YR=|1995|
+	TG=|3356|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Demon Blade {
+	AE=|Mark Garland+Charles McGraw|
+	AS=|NebN|
+	YR=|1995|
+	TG=|4847|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Queen City Jazz {
+	AE=|Kathleen Ann Goonan|
+	AS=|NebN|
+	YR=|1995|
+	TG=|5224|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Bride of the Rat God {
+	AE=|Barbara Hambly|
+	AS=|NebN|
+	YR=|1995|
+	TG=|5556|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Frostwing {
+	AE=|Richard Knaak|
+	AS=|NebN|
+	YR=|1995|
+	TG=|6669|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Siduri's Net {
+	AE=|P. K. McAllister|
+	AS=|NebN|
+	YR=|1995|
+	TG=|7966|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Aggressor Six {
+	AE=|Wil McCarthy|
+	AS=|NebN|
+	YR=|1995|
+	TG=|8081|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Engines of God {
+	AE=|Jack McDevitt|
+	AS=|NebN|
+	YR=|1995|
+	TG=|8114|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Bohr Maker {
+	AE=|Linda Nagata|
+	AS=|NebN|
+	YR=|1995|
+	TG=|8675|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Starmind {
+	AE=|Spider Robinson+Jeanne Robinson|
+	AS=|NebN|
+	YR=|1995|
+	TG=|9889|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Once a Hero {
+	AE=|Michael A. Stackpole|
+	AS=|NebN|
+	YR=|1995|
+	TG=|11318|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Jericho Iteration {
+	AE=|Allen Steele|
+	AS=|NebN|
+	YR=|1995|
+	TG=|11390|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Resurrection Man {
+	AE=|Sean Stewart|
+	AS=|NebN|
+	YR=|1995|
+	TG=|11540|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Remake {
+	AE=|Connie Willis|
+	AS=|NebN|
+	YR=|1995|
+	TG=|13428|
+	TA=|Novel|
+	TP=|nv|
+	LV=|92|
+}
+Slow River {
+	AE=|Nicola Griffith|
+	AS=|NebN|
+	YR=|1996|
+	TG=|5402|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Silent Strength of Stones {
+	AE=|Nina Kiriki Hoffman|
+	AS=|NebN|
+	YR=|1996|
+	TG=|5975|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Winter Rose {
+	AE=|Patricia A. McKillip|
+	AS=|NebN|
+	YR=|1996|
+	TG=|8291|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Expiration Date {
+	AE=|Tim Powers|
+	AS=|NebN|
+	YR=|1996|
+	TG=|9383|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Starplex {
+	AE=|Robert J. Sawyer|
+	AS=|NebN|
+	YR=|1996|
+	TG=|10269|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Diamond Age {
+	AE=|Neal Stephenson|
+	AS=|NebN|
+	YR=|1996|
+	TG=|11433|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebN|
+	YR=|1996|
+	TG=|105|
+	TA=|Novel|
+	TP=|x|
+	LV=|90|
+}
+Blindfold {
+	AE=|Kevin J. Anderson|
+	AS=|NebN|
+	YR=|1996|
+	TG=|332|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Feersum Endjinn {
+	AE=|Iain M. Banks|
+	AS=|NebN|
+	YR=|1996|
+	TG=|784|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Transmigration of Souls {
+	AE=|William Barton|
+	AS=|NebN|
+	YR=|1996|
+	TG=|894|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Sailing Bright Eternity {
+	AE=|Gregory Benford|
+	AS=|NebN|
+	YR=|1996|
+	TG=|1087|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Headcrash {
+	AE=|Bruce Bethke|
+	AS=|NebN|
+	YR=|1996|
+	TG=|1182|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Brightness Reef {
+	AE=|David Brin|
+	AS=|NebN|
+	YR=|1996|
+	TG=|1658|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Cetaganda {
+	AE=|Lois McMaster Bujold|
+	AS=|NebN|
+	YR=|1996|
+	TG=|1935|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Memory Cathedral {
+	AE=|Jack Dann|
+	AS=|NebN|
+	YR=|1996|
+	TG=|3177|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Permutation City {
+	AE=|Greg Egan|
+	AS=|NebN|
+	YR=|1996|
+	TG=|4032|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Bones of Time {
+	AE=|Kathleen Ann Goonan|
+	AS=|NebN|
+	YR=|1996|
+	TG=|5219|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+1968 {
+	AE=|Joe Haldeman|
+	AS=|NebN|
+	YR=|1996|
+	TG=|5489|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Remnant Population {
+	AE=|Elizabeth Moon|
+	AS=|NebN|
+	YR=|1996|
+	TG=|8464|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Beowulf's Children {
+	AE=|Larry Niven+Jerry Pournelle+Steven Barnes|
+	AS=|NebN|
+	YR=|1996|
+	TG=|8814|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Killing Star {
+	AE=|Charles Pellegrino+George Zebrowski|
+	AS=|NebN|
+	YR=|1996|
+	TG=|9100|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Shattered Oath {
+	AE=|Josepha Sherman|
+	AS=|NebN|
+	YR=|1996|
+	TG=|10683|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Holy Fire {
+	AE=|Bruce Sterling|
+	AS=|NebN|
+	YR=|1996|
+	TG=|11470|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Nobody's Son {
+	AE=|Sean Stewart|
+	AS=|NebN|
+	YR=|1996|
+	TG=|11534|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Whiteout {
+	AE=|Sage Walker|
+	AS=|NebN|
+	YR=|1996|
+	TG=|12874|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Moon and the Sun {
+	AE=|Vonda N. McIntyre|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17663|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Memory {
+	AE=|Lois McMaster Bujold|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17625|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+King's Dragon {
+	AE=|Kate Elliott|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17633|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+A Game of Thrones {
+	AE=|George R. R. Martin|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17658|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Ancient Shores {
+	AE=|Jack McDevitt|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17662|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+City on Fire {
+	AE=|Walter Jon Williams|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17680|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Bellwether {
+	AE=|Connie Willis|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17681|
+	TA=|Novel|
+	TP=|nv|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17807|
+	TA=|Novel|
+	TP=|x|
+	LV=|90|
+}
+God's Fires {
+	AE=|Patricia Anthony|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17811|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Catch the Lightning {
+	AE=|Catherine Asaro|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17812|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Shadowdance {
+	AE=|Robin Wayne Bailey|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17813|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+One for the Morning Glory {
+	AE=|John Barnes|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17814|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Acts of Conscience {
+	AE=|William Barton|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17815|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Fortunate Fall {
+	AE=|Raphael Carter|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17819|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+How Like a God {
+	AE=|Brenda Clough|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17821|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Lunatics {
+	AE=|Bradley Denton|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17824|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Groogleman {
+	AE=|Debra Doyle+James D. Macdonald|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17825|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Firestar {
+	AE=|Michael F. Flynn|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17830|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Sweetheart Season {
+	AE=|Karen Joy Fowler|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17831|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Expendable {
+	AE=|James Alan Gardner|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17833|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Celestial Matters {
+	AE=|Richard Garfinkle|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17834|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Crota {
+	AE=|Owl Goingback|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17836|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Instrument of Fate {
+	AE=|Christie Golden|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17837|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Wildside {
+	AE=|Steven Gould|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17838|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Palace {
+	AE=|Katharine Kerr+Mark Kreighbaum|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17840|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Corrupting Dr. Nice {
+	AE=|John Kessel|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17841|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Humpty Dumpty: An Oval {
+	AE=|Damon Knight|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17842|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Kings of the High Frontier {
+	AE=|Victor Koman|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17843|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+An Exchange of Hostages {
+	AE=|Susan R. Matthews|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17854|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Murder in the Solid State {
+	AE=|Wil McCarthy|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17855|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Blameless in Abaddon {
+	AE=|James Morrow|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17856|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Ringworld Throne {
+	AE=|Larry Niven|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17857|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Widowmaker {
+	AE=|Mike Resnick|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17861|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Tomorrow and Tomorrow {
+	AE=|Charles Sheffield|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17866|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Higher Education {
+	AE=|Charles Sheffield+Jerry Pournelle|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17867|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Shards of Empire {
+	AE=|Susan Shwartz|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17868|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Clouds End {
+	AE=|Sean Stewart|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17871|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Drakon {
+	AE=|S. M. Stirling|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17872|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Devil's Tower {
+	AE=|Mark Sumner|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17873|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Wood Wife {
+	AE=|Terri Windling|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17878|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Exodus from the Long Sun {
+	AE=|Gene Wolfe|
+	AS=|NebN|
+	YR=|1997|
+	TG=|17848|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Forever Peace {
+	AE=|Joe Haldeman|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19400|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Last Hawk {
+	AE=|Catherine Asaro|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19378|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Moonfall {
+	AE=|Jack McDevitt|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19414|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+How Few Remain {
+	AE=|Harry Turtledove|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19440|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Death of the Necromancer {
+	AE=|Martha Wells|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19444|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+To Say Nothing of the Dog {
+	AE=|Connie Willis|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19447|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebN|
+	YR=|1998|
+	TG=|22694|
+	TA=|Novel|
+	TP=|x|
+	LV=|90|
+}
+Alpha Centauri {
+	AE=|William Barton+Michael Capobianco|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19379|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Cosm {
+	AE=|Gregory Benford|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19381|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Komarr {
+	AE=|Lois McMaster Bujold|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19385|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Days of Cain {
+	AE=|J. R. Dunn|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19389|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Pleistocene Redemption {
+	AE=|Dan Gallagher|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19394|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Commitment Hour {
+	AE=|James Alan Gardner|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19395|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Dazzle of Day {
+	AE=|Molly Gloss|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19397|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Brown Girl in the Ring {
+	AE=|Nalo Hopkinson|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19402|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Maximum Light {
+	AE=|Nancy Kress|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19405|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Cold Iron {
+	AE=|Melisa C. Michaels|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19416|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Saint Leibowitz and the Wild Horse Woman {
+	AE=|Walter M. Miller, Jr.+Terry Bisson|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19417|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Once a Hero {
+	AE=|Elizabeth Moon|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19418|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Vast {
+	AE=|Linda Nagata|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19419|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Hand of Prophecy {
+	AE=|Severna Park|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19421|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Kirinyaga {
+	AE=|Mike Resnick|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19423|
+	TA=|Novel|
+	TP=|c|
+	LV=|92|
+}
+Children of God {
+	AE=|Mary Doria Russell|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19426|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Frameshift {
+	AE=|Robert J. Sawyer|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19428|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Jovah's Angel {
+	AE=|Sharon Shinn|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19430|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Night Watch {
+	AE=|Sean Stewart|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19431|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Island in the Sea of Time {
+	AE=|S. M. Stirling|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19432|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Reckoning Infinity {
+	AE=|John E. Stith|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19433|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Jack Faust {
+	AE=|Michael Swanwick|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19438|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Merro Tree {
+	AE=|Katie Waitman|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19442|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Darwinia {
+	AE=|Robert Charles Wilson|
+	AS=|NebN|
+	YR=|1998|
+	TG=|19448|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Parable of the Talents {
+	AE=|Octavia E. Butler|
+	AS=|NebN|
+	YR=|1999|
+	TG=|20878|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Cassini Division {
+	AE=|Ken MacLeod|
+	AS=|NebN|
+	YR=|1999|
+	TG=|20995|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+A Clash of Kings {
+	AE=|George R. R. Martin|
+	AS=|NebN|
+	YR=|1999|
+	TG=|20998|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Mission Child {
+	AE=|Maureen F. McHugh|
+	AS=|NebN|
+	YR=|1999|
+	TG=|21005|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Mockingbird {
+	AE=|Sean Stewart|
+	AS=|NebN|
+	YR=|1999|
+	TG=|21081|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+A Deepness in the Sky {
+	AE=|Vernor Vinge|
+	AS=|NebN|
+	YR=|1999|
+	TG=|21095|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebN|
+	YR=|1999|
+	TG=|22695|
+	TA=|Novel|
+	TP=|x|
+	LV=|90|
+}
+Minions of the Moon {
+	AE=|Richard Bowes|
+	AS=|NebN|
+	YR=|1999|
+	TG=|20870|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Prophets for the End of Time {
+	AE=|Marcos Donnelly|
+	AS=|NebN|
+	YR=|1999|
+	TG=|20906|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Vigilant {
+	AE=|James Alan Gardner|
+	AS=|NebN|
+	YR=|1999|
+	TG=|20923|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Termination Node {
+	AE=|Lois H. Gresh+Robert Weinberg|
+	AS=|NebN|
+	YR=|1999|
+	TG=|20934|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Noir {
+	AE=|K. W. Jeter|
+	AS=|NebN|
+	YR=|1999|
+	TG=|20955|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Changer {
+	AE=|Jane Lindskold|
+	AS=|NebN|
+	YR=|1999|
+	TG=|20991|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Bloom {
+	AE=|Wil McCarthy|
+	AS=|NebN|
+	YR=|1999|
+	TG=|21003|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Tower of Dreams {
+	AE=|Jamil Nasir|
+	AS=|NebN|
+	YR=|1999|
+	TG=|21020|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Blood Jaguar {
+	AE=|Michael H. Payne|
+	AS=|NebN|
+	YR=|1999|
+	TG=|21032|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Antarctica {
+	AE=|Kim Stanley Robinson|
+	AS=|NebN|
+	YR=|1999|
+	TG=|21046|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Ballad of Bill Badass and the Rose of Turkestan {
+	AE=|William Sanders|
+	AS=|NebN|
+	YR=|1999|
+	TG=|21053|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Climb the Wind {
+	AE=|Pamela Sargent|
+	AS=|NebN|
+	YR=|1999|
+	TG=|21059|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Factoring Humanity {
+	AE=|Robert J. Sawyer|
+	AS=|NebN|
+	YR=|1999|
+	TG=|21062|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Brute Orbits {
+	AE=|George Zebrowski|
+	AS=|NebN|
+	YR=|1999|
+	TG=|21113|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Darwin's Radio {
+	AE=|Greg Bear|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22353|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+A Civil Campaign {
+	AE=|Lois McMaster Bujold|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22371|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Forests of the Heart {
+	AE=|Charles de Lint|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22389|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Crescent City Rhapsody {
+	AE=|Kathleen Ann Goonan|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22413|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Midnight Robber {
+	AE=|Nalo Hopkinson|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22426|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Infinity Beach {
+	AE=|Jack McDevitt|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22455|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22338|
+	TA=|Novel|
+	TP=|x|
+	LV=|90|
+}
+The Veiled Web {
+	AE=|Catherine Asaro|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22349|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+When We Were Real {
+	AE=|William Barton|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22352|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Dark Cities Underground {
+	AE=|Lisa Goldstein|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22412|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Silk Code {
+	AE=|Paul Levinson|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22443|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Terrorists of Irustan {
+	AE=|Louise Marley|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22452|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Annunciate {
+	AE=|Severna Park|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22470|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Flashforward {
+	AE=|Robert J. Sawyer|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22495|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Galveston {
+	AE=|Sean Stewart|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22516|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Against the Tide of Years {
+	AE=|S. M. Stirling|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22518|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+Cave of Stars {
+	AE=|George Zebrowski|
+	AS=|NebN|
+	YR=|2000|
+	TG=|22524|
+	TA=|Novel|
+	TP=|n|
+	LV=|92|
+}
+The Saliva Tree {
+	AE=|Brian W. Aldiss|
+	AS=|NebL|
+	YR=|1965|
+	TG=|276|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+He Who Shapes {
+	AE=|Roger Zelazny|
+	AS=|NebL|
+	YR=|1965|
+	TG=|13896|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Rogue Dragon {
+	AE=|Avram Davidson|
+	AS=|NebL|
+	YR=|1965|
+	TG=|3286|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Ballad of Beta-2 {
+	AE=|Samuel R. Delany|
+	AS=|NebL|
+	YR=|1965|
+	TG=|3432|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Mercurymen {
+	AE=|C. C. MacApp|
+	AS=|NebL|
+	YR=|1965|
+	TG=|7663|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Under Two Moons {
+	AE=|Frederik Pohl|
+	AS=|NebL|
+	YR=|1965|
+	TG=|9261|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+On the Storm Planet {
+	AE=|Cordwainer Smith|
+	AS=|NebL|
+	YR=|1965|
+	TG=|11084|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Research Alpha {
+	AE=|A. E. van Vogt+James H. Schmitz|
+	AS=|NebL|
+	YR=|1965|
+	TG=|12557|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Last Castle {
+	AE=|Jack Vance|
+	AS=|NebL|
+	YR=|1966|
+	TG=|12592|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Clash of Star Kings {
+	AE=|Avram Davidson|
+	AS=|NebL|
+	YR=|1966|
+	TG=|3263|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Alchemist {
+	AE=|Charles L. Harness|
+	AS=|NebL|
+	YR=|1966|
+	TG=|5640|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Rank 91 = First ballot {
+	AE=|(********)|
+	AS=|NebL|
+	YR=|1966|
+	TG=|84|
+	TA=|Novella|
+	TP=|x|
+	LV=|90|
+}
+Strangers to Paradise {
+	AE=|Christopher Anvil|
+	AS=|NebL|
+	YR=|1966|
+	TG=|482|
+	TA=|Novella|
+	TP=|nv|
+	LV=|91|
+}
+Kangaroo Court {
+	AE=|Virginia Kidd|
+	AS=|NebL|
+	YR=|1966|
+	TG=|6488|
+	TA=|Novella|
+	TP=|nv|
+	LV=|91|
+}
+Silkies in Space {
+	AE=|A. E. van Vogt|
+	AS=|NebL|
+	YR=|1966|
+	TG=|12555|
+	TA=|Novella|
+	TP=|nv|
+	LV=|91|
+}
+Behold the Man {
+	AE=|Michael Moorcock|
+	AS=|NebL|
+	YR=|1967|
+	TG=|8474|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Riders of the Purple Wage {
+	AE=|Philip José Farmer|
+	AS=|NebL|
+	YR=|1967|
+	TG=|4378|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Weyr Search {
+	AE=|Anne McCaffrey|
+	AS=|NebL|
+	YR=|1967|
+	TG=|8040|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Hawksbill Station {
+	AE=|Robert Silverberg|
+	AS=|NebL|
+	YR=|1967|
+	TG=|10827|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+If All Men Were Brothers Would You Let One Marry Your Sister? {
+	AE=|Theodore Sturgeon|
+	AS=|NebL|
+	YR=|1967|
+	TG=|11646|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Dragonrider {
+	AE=|Anne McCaffrey|
+	AS=|NebL|
+	YR=|1968|
+	TG=|8021|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Nightwings {
+	AE=|Robert Silverberg|
+	AS=|NebL|
+	YR=|1968|
+	TG=|10862|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+Lines of Power {
+	AE=|Samuel R. Delany|
+	AS=|NebL|
+	YR=|1968|
+	TG=|3446|
+	TA=|Novella|
+	TP=|nv|
+	LV=|3|
+}
+The Day Beyond Forever {
+	AE=|Keith Laumer|
+	AS=|NebL|
+	YR=|1968|
+	TG=|7070|
+	TA=|Novella|
+	TP=|nv|
+	LV=|4|
+}
+Hawk Among the Sparrows {
+	AE=|Dean McLaughlin|
+	AS=|NebL|
+	YR=|1968|
+	TG=|8304|
+	TA=|Novella|
+	TP=|nv|
+	LV=|4|
+}
+A Boy and His Dog {
+	AE=|Harlan Ellison|
+	AS=|NebL|
+	YR=|1969|
+	TG=|4153|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Ship of Shadows {
+	AE=|Fritz Leiber|
+	AS=|NebL|
+	YR=|1969|
+	TG=|7385|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+Dramatic Mission {
+	AE=|Anne McCaffrey|
+	AS=|NebL|
+	YR=|1969|
+	TG=|8028|
+	TA=|Novella|
+	TP=|nv|
+	LV=|3|
+}
+Probable Cause {
+	AE=|Charles L. Harness|
+	AS=|NebL|
+	YR=|1969|
+	TG=|5646|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+To Jorslem {
+	AE=|Robert Silverberg|
+	AS=|NebL|
+	YR=|1969|
+	TG=|10916|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Ill Met in Lankhmar {
+	AE=|Fritz Leiber|
+	AS=|NebL|
+	YR=|1970|
+	TG=|7367|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Thing in the Stone {
+	AE=|Clifford D. Simak|
+	AS=|NebL|
+	YR=|1970|
+	TG=|10971|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+The Region Between {
+	AE=|Harlan Ellison|
+	AS=|NebL|
+	YR=|1970|
+	TG=|4219|
+	TA=|Novella|
+	TP=|nv|
+	LV=|3|
+}
+April Fool's Day Forever {
+	AE=|Kate Wilhelm|
+	AS=|NebL|
+	YR=|1970|
+	TG=|13198|
+	TA=|Novella|
+	TP=|nv|
+	LV=|4|
+}
+The Fatal Fulfillment {
+	AE=|Poul Anderson|
+	AS=|NebL|
+	YR=|1970|
+	TG=|366|
+	TA=|Novella|
+	TP=|nv|
+	LV=|5|
+}
+A Style in Treason {
+	AE=|James Blish|
+	AS=|NebL|
+	YR=|1970|
+	TG=|18878|
+	TA=|Novella|
+	TP=|nv|
+	LV=|6|
+}
+The Missing Man {
+	AE=|Katherine MacLean|
+	AS=|NebL|
+	YR=|1971|
+	TG=|7694|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Infinity Box {
+	AE=|Kate Wilhelm|
+	AS=|NebL|
+	YR=|1971|
+	TG=|13226|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+Being There {
+	AE=|Jerzy Kosinski|
+	AS=|NebL|
+	YR=|1971|
+	TG=|6740|
+	TA=|Novella|
+	TP=|nv|
+	LV=|3|
+}
+The God House {
+	AE=|Keith Roberts|
+	AS=|NebL|
+	YR=|1971|
+	TG=|9724|
+	TA=|Novella|
+	TP=|nv|
+	LV=|4|
+}
+The Plastic Abyss {
+	AE=|Kate Wilhelm|
+	AS=|NebL|
+	YR=|1971|
+	TG=|13240|
+	TA=|Novella|
+	TP=|nv|
+	LV=|5|
+}
+A Meeting with Medusa {
+	AE=|Arthur C. Clarke|
+	AS=|NebL|
+	YR=|1972|
+	TG=|2811|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Fifth Head of Cerberus {
+	AE=|Gene Wolfe|
+	AS=|NebL|
+	YR=|1972|
+	TG=|13609|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+The Word for World is Forest {
+	AE=|Ursula K. Le Guin|
+	AS=|NebL|
+	YR=|1972|
+	TG=|7216|
+	TA=|Novella|
+	TP=|nv|
+	LV=|3|
+}
+The Gold at the Starbow's End {
+	AE=|Frederik Pohl|
+	AS=|NebL|
+	YR=|1972|
+	TG=|9218|
+	TA=|Novella|
+	TP=|nv|
+	LV=|4|
+}
+With the Bentfin Boomer Boys on Little Old New Alabama {
+	AE=|Richard A. Lupoff|
+	AS=|NebL|
+	YR=|1972|
+	TG=|7629|
+	TA=|Novella|
+	TP=|nv|
+	LV=|5|
+}
+Son of the Morning {
+	AE=|Phyllis Gotlieb|
+	AS=|NebL|
+	YR=|1972|
+	TG=|5243|
+	TA=|Novella|
+	TP=|nv|
+	LV=|6|
+}
+The Death of Doctor Island {
+	AE=|Gene Wolfe|
+	AS=|NebL|
+	YR=|1973|
+	TG=|13600|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Death and Designation Among the Asadi {
+	AE=|Michael Bishop|
+	AS=|NebL|
+	YR=|1973|
+	TG=|1245|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The White Otters of Childhood {
+	AE=|Michael Bishop|
+	AS=|NebL|
+	YR=|1973|
+	TG=|1308|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Junction {
+	AE=|Jack Dann|
+	AS=|NebL|
+	YR=|1973|
+	TG=|3172|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Chains of the Sea {
+	AE=|Gardner Dozois|
+	AS=|NebL|
+	YR=|1973|
+	TG=|3801|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Born with the Dead {
+	AE=|Robert Silverberg|
+	AS=|NebL|
+	YR=|1974|
+	TG=|10795|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+A Song for Lya {
+	AE=|George R. R. Martin|
+	AS=|NebL|
+	YR=|1974|
+	TG=|7867|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+On the Street of Serpents or, The Assassination of Chairman Mao, as Effected by the Author in Seville, Spain, in the Spring of 1992, a Year of No Certain Historicity {
+	AE=|Michael Bishop|
+	AS=|NebL|
+	YR=|1974|
+	TG=|1283|
+	TA=|Novella|
+	TP=|nv|
+	LV=|3|
+}
+Home Is the Hangman {
+	AE=|Roger Zelazny|
+	AS=|NebL|
+	YR=|1975|
+	TG=|13899|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Storms of Windhaven {
+	AE=|Lisa Tuttle+George R. R. Martin|
+	AS=|NebL|
+	YR=|1975|
+	TG=|7888|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+A Momentary Taste of Being {
+	AE=|James Tiptree, Jr.|
+	AS=|NebL|
+	YR=|1975|
+	TG=|11977|
+	TA=|Novella|
+	TP=|nv|
+	LV=|3|
+}
+Sunrise West {
+	AE=|William K. Carlson|
+	AS=|NebL|
+	YR=|1975|
+	TG=|2366|
+	TA=|Novella|
+	TP=|nv|
+	LV=|4|
+}
+Houston, Houston, Do You Read? {
+	AE=|James Tiptree, Jr.|
+	AS=|NebL|
+	YR=|1976|
+	TG=|11968|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Samurai and the Willows {
+	AE=|Michael Bishop|
+	AS=|NebL|
+	YR=|1976|
+	TG=|1292|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+Piper at the Gates of Dawn {
+	AE=|Richard Cowper|
+	AS=|NebL|
+	YR=|1976|
+	TG=|3027|
+	TA=|Novella|
+	TP=|nv|
+	LV=|3|
+}
+The Eyeflash Miracles {
+	AE=|Gene Wolfe|
+	AS=|NebL|
+	YR=|1976|
+	TG=|13606|
+	TA=|Novella|
+	TP=|nv|
+	LV=|4|
+}
+Stardance {
+	AE=|Spider Robinson+Jeanne Robinson|
+	AS=|NebL|
+	YR=|1977|
+	TG=|9882|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Aztecs {
+	AE=|Vonda N. McIntyre|
+	AS=|NebL|
+	YR=|1977|
+	TG=|8220|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+The Persistence of Vision {
+	AE=|John Varley|
+	AS=|NebL|
+	YR=|1978|
+	TG=|12659|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Seven American Nights {
+	AE=|Gene Wolfe|
+	AS=|NebL|
+	YR=|1978|
+	TG=|13630|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+Enemy Mine {
+	AE=|Barry B. Longyear|
+	AS=|NebL|
+	YR=|1979|
+	TG=|7568|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Fireship {
+	AE=|Joan D. Vinge|
+	AS=|NebL|
+	YR=|1979|
+	TG=|12702|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+The Tale of Gorgik {
+	AE=|Samuel R. Delany|
+	AS=|NebL|
+	YR=|1979|
+	TG=|3461|
+	TA=|Novella|
+	TP=|nv|
+	LV=|3|
+}
+Mars Masked {
+	AE=|Frederik Pohl|
+	AS=|NebL|
+	YR=|1979|
+	TG=|9240|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Battle of the Abaco Reefs {
+	AE=|Hilbert Schenck|
+	AS=|NebL|
+	YR=|1979|
+	TG=|10295|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Story Writer {
+	AE=|Richard Wilson|
+	AS=|NebL|
+	YR=|1979|
+	TG=|13484|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Unicorn Tapestry {
+	AE=|Suzy McKee Charnas|
+	AS=|NebL|
+	YR=|1980|
+	TG=|2609|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+There Beneath the Silky-Trees and Whelmed in Deeper Gulphs Than Me {
+	AE=|Avram Davidson|
+	AS=|NebL|
+	YR=|1980|
+	TG=|3293|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Lost Dorsai {
+	AE=|Gordon R. Dickson|
+	AS=|NebL|
+	YR=|1980|
+	TG=|3607|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Brave Little Toaster {
+	AE=|Thomas M. Disch|
+	AS=|NebL|
+	YR=|1980|
+	TG=|3637|
+	TA=|Novella|
+	TP=|nt|
+	LV=|9|
+}
+Dangerous Games {
+	AE=|Marta Randall|
+	AS=|NebL|
+	YR=|1980|
+	TG=|9518|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Autopsy {
+	AE=|Michael Shea|
+	AS=|NebL|
+	YR=|1980|
+	TG=|10524|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Saturn Game {
+	AE=|Poul Anderson|
+	AS=|NebL|
+	YR=|1981|
+	TG=|403|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Swarmer, Skimmer {
+	AE=|Gregory Benford|
+	AS=|NebL|
+	YR=|1981|
+	TG=|1097|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Amnesia {
+	AE=|Jack Dann|
+	AS=|NebL|
+	YR=|1981|
+	TG=|3152|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+In the Western Tradition {
+	AE=|Phyllis Eisenstein|
+	AS=|NebL|
+	YR=|1981|
+	TG=|4098|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+True Names {
+	AE=|Vernor Vinge|
+	AS=|NebL|
+	YR=|1981|
+	TG=|12734|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Winter Beach {
+	AE=|Kate Wilhelm|
+	AS=|NebL|
+	YR=|1981|
+	TG=|13250|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Another Orphan {
+	AE=|John Kessel|
+	AS=|NebL|
+	YR=|1982|
+	TG=|6447|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Horrible Imaginings {
+	AE=|Fritz Leiber|
+	AS=|NebL|
+	YR=|1982|
+	TG=|7364|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Moon of Ice {
+	AE=|Brad Linaweaver|
+	AS=|NebL|
+	YR=|1982|
+	TG=|7489|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Unsound Variations {
+	AE=|George R. R. Martin|
+	AS=|NebL|
+	YR=|1982|
+	TG=|7875|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Souls {
+	AE=|Joanna Russ|
+	AS=|NebL|
+	YR=|1982|
+	TG=|10081|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Hardfought {
+	AE=|Greg Bear|
+	AS=|NebL|
+	YR=|1983|
+	TG=|980|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Gospel According to Gamaliel Crucis {
+	AE=|Michael Bishop|
+	AS=|NebL|
+	YR=|1983|
+	TG=|1255|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Her Habiline Husband {
+	AE=|Michael Bishop|
+	AS=|NebL|
+	YR=|1983|
+	TG=|1257|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Eszterhazy and the Autogondola-Invention {
+	AE=|Avram Davidson|
+	AS=|NebL|
+	YR=|1983|
+	TG=|3269|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Transit {
+	AE=|Vonda N. McIntyre|
+	AS=|NebL|
+	YR=|1983|
+	TG=|8243|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Homefaring {
+	AE=|Robert Silverberg|
+	AS=|NebL|
+	YR=|1983|
+	TG=|10829|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Press Enter [] {
+	AE=|John Varley|
+	AS=|NebL|
+	YR=|1984|
+	TG=|12664|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Young Doctor Eszterhazy {
+	AE=|Avram Davidson|
+	AS=|NebL|
+	YR=|1984|
+	TG=|3296|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Trinity {
+	AE=|Nancy Kress|
+	AS=|NebL|
+	YR=|1984|
+	TG=|6812|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Greening of Bed-Stuy {
+	AE=|Frederik Pohl|
+	AS=|NebL|
+	YR=|1984|
+	TG=|9220|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+A Traveler's Tale {
+	AE=|Lucius Shepard|
+	AS=|NebL|
+	YR=|1984|
+	TG=|10671|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Marrow Death {
+	AE=|Michael Swanwick|
+	AS=|NebL|
+	YR=|1984|
+	TG=|11763|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Sailing to Byzantium {
+	AE=|Robert Silverberg|
+	AS=|NebL|
+	YR=|1985|
+	TG=|10877|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Green Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|NebL|
+	YR=|1985|
+	TG=|18902|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Green Days in Brunei {
+	AE=|Bruce Sterling|
+	AS=|NebL|
+	YR=|1985|
+	TG=|11464|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Only Neat Thing to Do {
+	AE=|James Tiptree, Jr.|
+	AS=|NebL|
+	YR=|1985|
+	TG=|11980|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Gorgon Field {
+	AE=|Kate Wilhelm|
+	AS=|NebL|
+	YR=|1985|
+	TG=|13220|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+24 Views of Mt. Fuji, by Hokusai {
+	AE=|Roger Zelazny|
+	AS=|NebL|
+	YR=|1985|
+	TG=|13933|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+R & R {
+	AE=|Lucius Shepard|
+	AS=|NebL|
+	YR=|1986|
+	TG=|10649|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Newton Sleep {
+	AE=|Gregory Benford|
+	AS=|NebL|
+	YR=|1986|
+	TG=|1080|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Escape from Kathmandu {
+	AE=|Kim Stanley Robinson|
+	AS=|NebL|
+	YR=|1986|
+	TG=|9789|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Gilgamesh in the Outback {
+	AE=|Robert Silverberg|
+	AS=|NebL|
+	YR=|1986|
+	TG=|10821|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Dydeetown Girl {
+	AE=|F. Paul Wilson|
+	AS=|NebL|
+	YR=|1986|
+	TG=|13459|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Blind Geometer {
+	AE=|Kim Stanley Robinson|
+	AS=|NebL|
+	YR=|1987|
+	TG=|9781|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Fugue State {
+	AE=|John M. Ford|
+	AS=|NebL|
+	YR=|1987|
+	TG=|4573|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Tiger Sweater {
+	AE=|Keith Roberts|
+	AS=|NebL|
+	YR=|1987|
+	TG=|9745|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Unconquered Country {
+	AE=|Geoff Ryman|
+	AS=|NebL|
+	YR=|1987|
+	TG=|10146|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Secret Sharer {
+	AE=|Robert Silverberg|
+	AS=|NebL|
+	YR=|1987|
+	TG=|10884|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Witness {
+	AE=|Walter Jon Williams|
+	AS=|NebL|
+	YR=|1987|
+	TG=|13324|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Last of the Winnebagos {
+	AE=|Connie Willis|
+	AS=|NebL|
+	YR=|1988|
+	TG=|13414|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Calvin Coolidge Home for Dead Comedians {
+	AE=|Bradley Denton|
+	AS=|NebL|
+	YR=|1988|
+	TG=|3484|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Scalehunter's Beautiful Daughter {
+	AE=|Lucius Shepard|
+	AS=|NebL|
+	YR=|1988|
+	TG=|10658|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Journals of the Plague Years {
+	AE=|Norman Spinrad|
+	AS=|NebL|
+	YR=|1988|
+	TG=|11233|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Surfacing {
+	AE=|Walter Jon Williams|
+	AS=|NebL|
+	YR=|1988|
+	TG=|13315|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Devil's Arithmetic {
+	AE=|Jane Yolen|
+	AS=|NebL|
+	YR=|1988|
+	TG=|13794|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Mountains of Mourning {
+	AE=|Lois McMaster Bujold|
+	AS=|NebL|
+	YR=|1989|
+	TG=|1945|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Great Work of Time {
+	AE=|John Crowley|
+	AS=|NebL|
+	YR=|1989|
+	TG=|3089|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Marîd Changes His Mind {
+	AE=|George Alec Effinger|
+	AS=|NebL|
+	YR=|1989|
+	TG=|3970|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+A Touch of Lavender {
+	AE=|Megan Lindholm|
+	AS=|NebL|
+	YR=|1989|
+	TG=|7509|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Tiny Tango {
+	AE=|Judith Moffett|
+	AS=|NebL|
+	YR=|1989|
+	TG=|8439|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+A Dozen Tough Jobs {
+	AE=|Howard Waldrop|
+	AS=|NebL|
+	YR=|1989|
+	TG=|12827|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Hemingway Hoax {
+	AE=|Joe Haldeman|
+	AS=|NebL|
+	YR=|1990|
+	TG=|5518|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Weatherman {
+	AE=|Lois McMaster Bujold|
+	AS=|NebL|
+	YR=|1990|
+	TG=|1957|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Fool to Believe {
+	AE=|Pat Cadigan|
+	AS=|NebL|
+	YR=|1990|
+	TG=|2099|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Mr. Boy {
+	AE=|James Patrick Kelly|
+	AS=|NebL|
+	YR=|1990|
+	TG=|6398|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Bones {
+	AE=|Pat Murphy|
+	AS=|NebL|
+	YR=|1990|
+	TG=|8632|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Beggars in Spain {
+	AE=|Nancy Kress|
+	AS=|NebL|
+	YR=|1991|
+	TG=|6767|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Man Opening a Door {
+	AE=|Pauline Ashwell^Paul Ash|
+	AS=|NebL|
+	YR=|1991|
+	TG=|527|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Apartheid, Superstrings, and Mordecai Thubana {
+	AE=|Michael Bishop|
+	AS=|NebL|
+	YR=|1991|
+	TG=|1214|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Bully! {
+	AE=|Mike Resnick|
+	AS=|NebL|
+	YR=|1991|
+	TG=|9611|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Gallery of His Dreams {
+	AE=|Kristine Kathryn Rusch|
+	AS=|NebL|
+	YR=|1991|
+	TG=|10032|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Jack {
+	AE=|Connie Willis|
+	AS=|NebL|
+	YR=|1991|
+	TG=|13410|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+City of Truth {
+	AE=|James Morrow|
+	AS=|NebL|
+	YR=|1992|
+	TG=|8582|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Silver or Gold {
+	AE=|Emma Bull|
+	AS=|NebL|
+	YR=|1992|
+	TG=|1968|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Territory {
+	AE=|Bradley Denton|
+	AS=|NebL|
+	YR=|1992|
+	TG=|3489|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Protection {
+	AE=|Maureen F. McHugh|
+	AS=|NebL|
+	YR=|1992|
+	TG=|8212|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Contact {
+	AE=|Jerry Oltion+Lee Goodloe|
+	AS=|NebL|
+	YR=|1992|
+	TG=|8939|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Barnacle Bill the Spacer {
+	AE=|Lucius Shepard|
+	AS=|NebL|
+	YR=|1992|
+	TG=|10595|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Griffin's Egg {
+	AE=|Michael Swanwick|
+	AS=|NebL|
+	YR=|1992|
+	TG=|11753|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Night We Buried Road Dog {
+	AE=|Jack Cady|
+	AS=|NebL|
+	YR=|1993|
+	TG=|2145|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Beauty Addict {
+	AE=|Ray Aldridge|
+	AS=|NebL|
+	YR=|1993|
+	TG=|290|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Dancing on Air {
+	AE=|Nancy Kress|
+	AS=|NebL|
+	YR=|1993|
+	TG=|6781|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Into the Miranda Rift {
+	AE=|G. David Nordley|
+	AS=|NebL|
+	YR=|1993|
+	TG=|8847|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Naming the Flowers {
+	AE=|Kate Wilhelm|
+	AS=|NebL|
+	YR=|1993|
+	TG=|13236|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Wall, Stone, Craft {
+	AE=|Walter Jon Williams|
+	AS=|NebL|
+	YR=|1993|
+	TG=|13321|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebL|
+	YR=|1993|
+	TG=|97|
+	TA=|Novella|
+	TP=|x|
+	LV=|90|
+}
+The Young Person's Guide to the Organism {
+	AE=|James Alan Gardner|
+	AS=|NebL|
+	YR=|1993|
+	TG=|4842|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+The Immediate Family {
+	AE=|Spider Robinson|
+	AS=|NebL|
+	YR=|1993|
+	TG=|9868|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Synthesis {
+	AE=|Mary Rosenblum|
+	AS=|NebL|
+	YR=|1993|
+	TG=|9940|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Seven Views of Olduvai Gorge {
+	AE=|Mike Resnick|
+	AS=|NebL|
+	YR=|1994|
+	TG=|9665|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Mefisto in Onyx {
+	AE=|Harlan Ellison|
+	AS=|NebL|
+	YR=|1994|
+	TG=|4206|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Haunted Humans {
+	AE=|Nina Kiriki Hoffman|
+	AS=|NebL|
+	YR=|1994|
+	TG=|5969|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Forgiveness Day {
+	AE=|Ursula K. Le Guin|
+	AS=|NebL|
+	YR=|1994|
+	TG=|7152|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Fan {
+	AE=|Geoff Ryman|
+	AS=|NebL|
+	YR=|1994|
+	TG=|10136|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Cold Iron {
+	AE=|Michael Swanwick|
+	AS=|NebL|
+	YR=|1994|
+	TG=|11737|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebL|
+	YR=|1994|
+	TG=|98|
+	TA=|Novella|
+	TP=|x|
+	LV=|90|
+}
+Remains of Adam {
+	AE=|A. A. Attanasio|
+	AS=|NebL|
+	YR=|1994|
+	TG=|664|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Almost Forever {
+	AE=|William Barton|
+	AS=|NebL|
+	YR=|1994|
+	TG=|892|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+The Last Plague {
+	AE=|Gregory Bennett|
+	AS=|NebL|
+	YR=|1994|
+	TG=|1128|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Cri de Coeur {
+	AE=|Michael Bishop|
+	AS=|NebL|
+	YR=|1994|
+	TG=|1240|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Symphony for Skyfall {
+	AE=|Rick Cook+Peter L. Manly|
+	AS=|NebL|
+	YR=|1994|
+	TG=|2962|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Hard Target {
+	AE=|Charles D. Eckert|
+	AS=|NebL|
+	YR=|1994|
+	TG=|3894|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Melodies of the Heart {
+	AE=|Michael F. Flynn|
+	AS=|NebL|
+	YR=|1994|
+	TG=|4546|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Kamehameha's Bones {
+	AE=|Kathleen Ann Goonan|
+	AS=|NebL|
+	YR=|1994|
+	TG=|5221|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Les Fleurs du Mal {
+	AE=|Brian Stableford|
+	AS=|NebL|
+	YR=|1994|
+	TG=|11303|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Last Summer at Mars Hill {
+	AE=|Elizabeth Hand|
+	AS=|NebL|
+	YR=|1995|
+	TG=|5589|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Soon Comes Night {
+	AE=|Gregory Benford|
+	AS=|NebL|
+	YR=|1995|
+	TG=|1093|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Yaguara {
+	AE=|Nicola Griffith|
+	AS=|NebL|
+	YR=|1995|
+	TG=|5405|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Bibi {
+	AE=|Mike Resnick+Susan Shwartz|
+	AS=|NebL|
+	YR=|1995|
+	TG=|9682|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Mortimer Gray's "History of Death" {
+	AE=|Brian Stableford|
+	AS=|NebL|
+	YR=|1995|
+	TG=|11308|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|NebL|
+	YR=|1995|
+	TG=|68|
+	TA=|Novella|
+	TP=|x|
+	LV=|80|
+}
+The Perseids {
+	AE=|Robert Charles Wilson|
+	AS=|NebL|
+	YR=|1995|
+	TG=|13504|
+	TA=|Novella|
+	TP=|nt|
+	LV=|85|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebL|
+	YR=|1995|
+	TG=|99|
+	TA=|Novella|
+	TP=|x|
+	LV=|90|
+}
+Fish Tank {
+	AE=|Gregory Bennett|
+	AS=|NebL|
+	YR=|1995|
+	TG=|1124|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Up the Rainbow {
+	AE=|Susan Casper|
+	AS=|NebL|
+	YR=|1995|
+	TG=|2502|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Unto the Valley of Dayglo {
+	AE=|Nicholas A. DiChario|
+	AS=|NebL|
+	YR=|1995|
+	TG=|3534|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Tide of Stars {
+	AE=|Julia Ecklar|
+	AS=|NebL|
+	YR=|1995|
+	TG=|3898|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+In Forests Afloat Upon the Sea {
+	AE=|Daniel Hatch|
+	AS=|NebL|
+	YR=|1995|
+	TG=|5756|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Da Vinci Rising {
+	AE=|Jack Dann|
+	AS=|NebL|
+	YR=|1996|
+	TG=|3162|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+A Woman's Liberation {
+	AE=|Ursula K. Le Guin|
+	AS=|NebL|
+	YR=|1996|
+	TG=|7214|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Blood of the Dragon {
+	AE=|George R. R. Martin|
+	AS=|NebL|
+	YR=|1996|
+	TG=|7821|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Time Travelers Never Die {
+	AE=|Jack McDevitt|
+	AS=|NebL|
+	YR=|1996|
+	TG=|8127|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Cost to Be Wise {
+	AE=|Maureen F. McHugh|
+	AS=|NebL|
+	YR=|1996|
+	TG=|8193|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Death of Captain Future {
+	AE=|Allen Steele|
+	AS=|NebL|
+	YR=|1996|
+	TG=|11385|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebL|
+	YR=|1996|
+	TG=|100|
+	TA=|Novella|
+	TP=|x|
+	LV=|90|
+}
+Beauty and the Opéra or The Phantom Beast {
+	AE=|Suzy McKee Charnas|
+	AS=|NebL|
+	YR=|1996|
+	TG=|2594|
+	TA=|Novella|
+	TP=|nt|
+	LV=|92|
+}
+Fault Lines {
+	AE=|Nancy Kress|
+	AS=|NebL|
+	YR=|1996|
+	TG=|6787|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+A Man of the People {
+	AE=|Ursula K. Le Guin|
+	AS=|NebL|
+	YR=|1996|
+	TG=|7173|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+We Were Out of Our Minds with Joy {
+	AE=|David Marusek|
+	AS=|NebL|
+	YR=|1996|
+	TG=|7900|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+The Doryman {
+	AE=|Mary Rosenblum|
+	AS=|NebL|
+	YR=|1996|
+	TG=|9924|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Gas Fish {
+	AE=|Mary Rosenblum|
+	AS=|NebL|
+	YR=|1996|
+	TG=|9927|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Abandon in Place {
+	AE=|Jerry Oltion|
+	AS=|NebL|
+	YR=|1997|
+	TG=|17665|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Funeral March of the Marionettes {
+	AE=|Adam-Troy Castro|
+	AS=|NebL|
+	YR=|1997|
+	TG=|17626|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Loose Ends {
+	AE=|Paul Levinson|
+	AS=|NebL|
+	YR=|1997|
+	TG=|17654|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Chrysalis {
+	AE=|Robert Reed|
+	AS=|NebL|
+	YR=|1997|
+	TG=|17668|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Primrose and Thorn {
+	AE=|Bud Sparhawk|
+	AS=|NebL|
+	YR=|1997|
+	TG=|17670|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+"...Where Angels Fear to Tread" {
+	AE=|Allen Steele|
+	AS=|NebL|
+	YR=|1997|
+	TG=|17671|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebL|
+	YR=|1997|
+	TG=|17808|
+	TA=|Novella|
+	TP=|x|
+	LV=|90|
+}
+The Weighing of Ayre {
+	AE=|Gregory Feeley|
+	AS=|NebL|
+	YR=|1997|
+	TG=|17829|
+	TA=|Novella|
+	TP=|nt|
+	LV=|92|
+}
+Candle in a Bottle {
+	AE=|Carolyn Ives Gilman|
+	AS=|NebL|
+	YR=|1997|
+	TG=|17835|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Reading the Bones {
+	AE=|Sheila Finch|
+	AS=|NebL|
+	YR=|1998|
+	TG=|19391|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Aurora in Four Voices {
+	AE=|Catherine Asaro|
+	AS=|NebL|
+	YR=|1998|
+	TG=|19377|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Boss in the Wall {
+	AE=|Avram Davidson+Grania Davis|
+	AS=|NebL|
+	YR=|1998|
+	TG=|19388|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Izzy and the Father of Terror {
+	AE=|Eliot Fintushel|
+	AS=|NebL|
+	YR=|1998|
+	TG=|19392|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Jumping off the Planet {
+	AE=|David Gerrold|
+	AS=|NebL|
+	YR=|1998|
+	TG=|19396|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Ecopoiesis {
+	AE=|Geoffrey A. Landis|
+	AS=|NebL|
+	YR=|1998|
+	TG=|19408|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebL|
+	YR=|1998|
+	TG=|22696|
+	TA=|Novella|
+	TP=|x|
+	LV=|90|
+}
+Cold at Heart {
+	AE=|Brian A. Hopkins|
+	AS=|NebL|
+	YR=|1998|
+	TG=|19401|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+In the Furnace of the Night {
+	AE=|James Sarafin|
+	AS=|NebL|
+	YR=|1998|
+	TG=|19427|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Story of Your Life {
+	AE=|Ted Chiang|
+	AS=|NebL|
+	YR=|1999|
+	TG=|20884|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Reality Check {
+	AE=|Michael A. Burstein|
+	AS=|NebL|
+	YR=|1999|
+	TG=|20877|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Astronaut from Wyoming {
+	AE=|Adam-Troy Castro+Jerry Oltion|
+	AS=|NebL|
+	YR=|1999|
+	TG=|20883|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Living Trust {
+	AE=|L. Timmel Duchamp|
+	AS=|NebL|
+	YR=|1999|
+	TG=|20907|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Executioners' Guild {
+	AE=|Andy Duncan|
+	AS=|NebL|
+	YR=|1999|
+	TG=|20909|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Wedding Album {
+	AE=|David Marusek|
+	AS=|NebL|
+	YR=|1999|
+	TG=|21000|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebL|
+	YR=|1999|
+	TG=|22697|
+	TA=|Novella|
+	TP=|x|
+	LV=|90|
+}
+Son Observe the Time {
+	AE=|Kage Baker|
+	AS=|NebL|
+	YR=|1999|
+	TG=|20858|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+The Ice Dragon's Song {
+	AE=|Bud Sparhawk|
+	AS=|NebL|
+	YR=|1999|
+	TG=|21078|
+	TA=|Novella|
+	TP=|nv|
+	LV=|92|
+}
+Goddesses {
+	AE=|Linda Nagata|
+	AS=|NebL|
+	YR=|2000|
+	TG=|22461|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Fortitude {
+	AE=|Andy Duncan|
+	AS=|NebL|
+	YR=|2000|
+	TG=|22393|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Ninety Percent of Everything {
+	AE=|Jonathan Lethem+James Patrick Kelly+John Kessel|
+	AS=|NebL|
+	YR=|2000|
+	TG=|22442|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Hunting the Snark {
+	AE=|Mike Resnick|
+	AS=|NebL|
+	YR=|2000|
+	TG=|22486|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Crocodile Rock {
+	AE=|Lucius Shepard|
+	AS=|NebL|
+	YR=|2000|
+	TG=|22501|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Argonautica {
+	AE=|Walter Jon Williams|
+	AS=|NebL|
+	YR=|2000|
+	TG=|19506|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Doors of His Face, the Lamps of His Mouth {
+	AE=|Roger Zelazny|
+	AS=|NebT|
+	YR=|1965|
+	TG=|13882|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Shipwrecked Hotel {
+	AE=|James Blish+Norman L. Knight|
+	AS=|NebT|
+	YR=|1965|
+	TG=|1412|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Vanishing Point {
+	AE=|Jonathan Brand|
+	AS=|NebT|
+	YR=|1965|
+	TG=|1616|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+One Hundred and Two H-Bombs {
+	AE=|Thomas M. Disch|
+	AS=|NebT|
+	YR=|1965|
+	TG=|3661|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Half a Loaf {
+	AE=|R. C. Fitzpatrick|
+	AS=|NebT|
+	YR=|1965|
+	TG=|4519|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Decision Makers {
+	AE=|Joseph Green|
+	AS=|NebT|
+	YR=|1965|
+	TG=|5346|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+At the Institute {
+	AE=|Norman Kagan|
+	AS=|NebT|
+	YR=|1965|
+	TG=|6326|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Earth Merchants {
+	AE=|Norman Kagan|
+	AS=|NebT|
+	YR=|1965|
+	TG=|6327|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Laugh Along with Franz {
+	AE=|Norman Kagan|
+	AS=|NebT|
+	YR=|1965|
+	TG=|6328|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Life of Your Time {
+	AE=|Poul Anderson^Michael Karageorge|
+	AS=|NebT|
+	YR=|1965|
+	TG=|6335|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Four Ghosts in Hamlet {
+	AE=|Fritz Leiber|
+	AS=|NebT|
+	YR=|1965|
+	TG=|7355|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Small One {
+	AE=|E. Clayton McCarty|
+	AS=|NebT|
+	YR=|1965|
+	TG=|8085|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Adventure of the Extraterrestrial {
+	AE=|Mack Reynolds|
+	AS=|NebT|
+	YR=|1965|
+	TG=|9683|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Masque of the Red Shift {
+	AE=|Fred Saberhagen|
+	AS=|NebT|
+	YR=|1965|
+	TG=|10159|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Goblin Night {
+	AE=|James H. Schmitz|
+	AS=|NebT|
+	YR=|1965|
+	TG=|10387|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Planet of Forgetting {
+	AE=|James H. Schmitz|
+	AS=|NebT|
+	YR=|1965|
+	TG=|10389|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Maiden Voyage {
+	AE=|J. W. Schutz|
+	AS=|NebT|
+	YR=|1965|
+	TG=|10431|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Shall We Have a Little Talk? {
+	AE=|Robert Sheckley|
+	AS=|NebT|
+	YR=|1965|
+	TG=|10544|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Masculinist Revolt {
+	AE=|Philip Klass^William Tenn|
+	AS=|NebT|
+	YR=|1965|
+	TG=|11872|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Call Him Lord {
+	AE=|Gordon R. Dickson|
+	AS=|NebT|
+	YR=|1966|
+	TG=|3587|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Apology to Inky {
+	AE=|Robert M. Green, Jr.|
+	AS=|NebT|
+	YR=|1966|
+	TG=|5348|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+An Ornament to His Profession {
+	AE=|Charles L. Harness|
+	AS=|NebT|
+	YR=|1966|
+	TG=|5645|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Eskimo Invasion {
+	AE=|Hayden Howard|
+	AS=|NebT|
+	YR=|1966|
+	TG=|6048|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+This Moment of the Storm {
+	AE=|Roger Zelazny|
+	AS=|NebT|
+	YR=|1966|
+	TG=|13925|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Rank 91 = First ballot {
+	AE=|(********)|
+	AS=|NebT|
+	YR=|1966|
+	TG=|87|
+	TA=|Novelette|
+	TP=|x|
+	LV=|90|
+}
+A Sun Invisible {
+	AE=|Poul Anderson|
+	AS=|NebT|
+	YR=|1966|
+	TG=|413|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|91|
+}
+The Message {
+	AE=|Piers Anthony+Frances Hall|
+	AS=|NebT|
+	YR=|1966|
+	TG=|479|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|91|
+}
+The Wings of a Bat {
+	AE=|Pauline Ashwell^Paul Ash|
+	AS=|NebT|
+	YR=|1966|
+	TG=|528|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|91|
+}
+Deliver the Man {
+	AE=|Raymond E. Banks|
+	AS=|NebT|
+	YR=|1966|
+	TG=|789|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|91|
+}
+The Empty Man {
+	AE=|Gardner Dozois^Gardner Raymond. Dozois|
+	AS=|NebT|
+	YR=|1966|
+	TG=|3806|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|91|
+}
+The Primitives {
+	AE=|Frank Herbert|
+	AS=|NebT|
+	YR=|1966|
+	TG=|5869|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|91|
+}
+The Body Builders {
+	AE=|Keith Laumer|
+	AS=|NebT|
+	YR=|1966|
+	TG=|7069|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|91|
+}
+Brain Bank {
+	AE=|Ardrey Marshall|
+	AS=|NebT|
+	YR=|1966|
+	TG=|7810|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|91|
+}
+The Sons of Prometheus {
+	AE=|Alexei Panshin|
+	AS=|NebT|
+	YR=|1966|
+	TG=|9042|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|91|
+}
+Who Needs Insurance? {
+	AE=|Robin Scott|
+	AS=|NebT|
+	YR=|1966|
+	TG=|10464|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|91|
+}
+The Manse of Iucounu {
+	AE=|Jack Vance|
+	AS=|NebT|
+	YR=|1966|
+	TG=|12600|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|91|
+}
+For a Breath I Tarry {
+	AE=|Roger Zelazny|
+	AS=|NebT|
+	YR=|1966|
+	TG=|13890|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|91|
+}
+Gonna Roll the Bones {
+	AE=|Fritz Leiber|
+	AS=|NebT|
+	YR=|1967|
+	TG=|7360|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Pretty Maggie Moneyeyes {
+	AE=|Harlan Ellison|
+	AS=|NebT|
+	YR=|1967|
+	TG=|4215|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Flatlander {
+	AE=|Larry Niven|
+	AS=|NebT|
+	YR=|1967|
+	TG=|8746|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Keys to December {
+	AE=|Roger Zelazny|
+	AS=|NebT|
+	YR=|1967|
+	TG=|13903|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+This Mortal Mountain {
+	AE=|Roger Zelazny|
+	AS=|NebT|
+	YR=|1967|
+	TG=|13926|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Mother to the World {
+	AE=|Richard Wilson|
+	AS=|NebT|
+	YR=|1968|
+	TG=|13482|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Sharing of Flesh {
+	AE=|Poul Anderson|
+	AS=|NebT|
+	YR=|1968|
+	TG=|405|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Final War {
+	AE=|Barry N. Malzberg^K. M. O'Donnell|
+	AS=|NebT|
+	YR=|1968|
+	TG=|8910|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Once There Was a Giant {
+	AE=|Keith Laumer|
+	AS=|NebT|
+	YR=|1968|
+	TG=|7073|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|4|
+}
+The Listeners {
+	AE=|James E. Gunn|
+	AS=|NebT|
+	YR=|1968|
+	TG=|5453|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Total Environment {
+	AE=|Brian W. Aldiss|
+	AS=|NebT|
+	YR=|1968|
+	TG=|282|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|6|
+}
+The Guerilla Trees {
+	AE=|H. H. Hollis|
+	AS=|NebT|
+	YR=|1968|
+	TG=|6025|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|6|
+}
+Time Considered as a Helix of Semi-Precious Stones {
+	AE=|Samuel R. Delany|
+	AS=|NebT|
+	YR=|1969|
+	TG=|3464|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Nine Lives {
+	AE=|Ursula K. Le Guin|
+	AS=|NebT|
+	YR=|1969|
+	TG=|7184|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+The Big Flash {
+	AE=|Norman Spinrad|
+	AS=|NebT|
+	YR=|1969|
+	TG=|11222|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Deeper Than the Darkness {
+	AE=|Gregory Benford|
+	AS=|NebT|
+	YR=|1969|
+	TG=|1058|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Slow Sculpture {
+	AE=|Theodore Sturgeon|
+	AS=|NebT|
+	YR=|1970|
+	TG=|11654|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Continued on Next Rock {
+	AE=|R. A. Lafferty|
+	AS=|NebT|
+	YR=|1970|
+	TG=|6884|
+	TA=|Novelette|
+	TP=|ss|
+	LV=|2|
+}
+The Asian Shore {
+	AE=|Thomas M. Disch|
+	AS=|NebT|
+	YR=|1970|
+	TG=|3632|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Shaker Revival {
+	AE=|Gerald Jonas|
+	AS=|NebT|
+	YR=|1970|
+	TG=|6219|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|4|
+}
+The Second Inquisition {
+	AE=|Joanna Russ|
+	AS=|NebT|
+	YR=|1970|
+	TG=|10078|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Dear Aunt Annie {
+	AE=|Gordon Eklund|
+	AS=|NebT|
+	YR=|1970|
+	TG=|4105|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|6|
+}
+The Queen of Air and Darkness {
+	AE=|Poul Anderson|
+	AS=|NebT|
+	YR=|1971|
+	TG=|400|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Mount Charity {
+	AE=|Edgar Pangborn|
+	AS=|NebT|
+	YR=|1971|
+	TG=|9032|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Poor Man, Beggar Man {
+	AE=|Joanna Russ|
+	AS=|NebT|
+	YR=|1971|
+	TG=|10077|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+A Special Kind of Morning {
+	AE=|Gardner Dozois^Gardner R. Dozois|
+	AS=|NebT|
+	YR=|1971|
+	TG=|3822|
+	TA=|Novelette|
+	TP=|nv|
+	LV=|4|
+}
+The Encounter {
+	AE=|Kate Wilhelm|
+	AS=|NebT|
+	YR=|1971|
+	TG=|13211|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Goat Song {
+	AE=|Poul Anderson|
+	AS=|NebT|
+	YR=|1972|
+	TG=|370|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Patron of the Arts {
+	AE=|William Rotsler|
+	AS=|NebT|
+	YR=|1972|
+	TG=|9969|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+The Animal Fair {
+	AE=|Alfred Bester|
+	AS=|NebT|
+	YR=|1972|
+	TG=|1160|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+The Funeral {
+	AE=|Kate Wilhelm|
+	AS=|NebT|
+	YR=|1972|
+	TG=|13216|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Basilisk {
+	AE=|Harlan Ellison|
+	AS=|NebT|
+	YR=|1972|
+	TG=|4150|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|5|
+}
+A Kingdom by the Sea {
+	AE=|Gardner Dozois^Gardner R. Dozois|
+	AS=|NebT|
+	YR=|1972|
+	TG=|3811|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|6|
+}
+In the Deadlands {
+	AE=|David Gerrold|
+	AS=|NebT|
+	YR=|1972|
+	TG=|4942|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|7|
+}
+Of Mist, and Grass, and Sand {
+	AE=|Vonda N. McIntyre|
+	AS=|NebT|
+	YR=|1973|
+	TG=|8238|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Deathbird {
+	AE=|Harlan Ellison|
+	AS=|NebT|
+	YR=|1973|
+	TG=|4168|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Case and the Dreamer {
+	AE=|Theodore Sturgeon|
+	AS=|NebT|
+	YR=|1973|
+	TG=|11642|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Girl Who Was Plugged In {
+	AE=|James Tiptree, Jr.|
+	AS=|NebT|
+	YR=|1973|
+	TG=|11963|
+	TA=|Novelette|
+	TP=|nv|
+	LV=|9|
+}
+If the Stars Are Gods {
+	AE=|Gordon Eklund+Gregory Benford|
+	AS=|NebT|
+	YR=|1974|
+	TG=|4109|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Rest is Silence {
+	AE=|Charles L. Grant|
+	AS=|NebT|
+	YR=|1974|
+	TG=|5292|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Twilla {
+	AE=|Tom Reamy|
+	AS=|NebT|
+	YR=|1974|
+	TG=|9559|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+San Diego Lightfoot Sue {
+	AE=|Tom Reamy|
+	AS=|NebT|
+	YR=|1975|
+	TG=|9554|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Final Fighting of Fion Mac Cumhaill {
+	AE=|Randall Garrett|
+	AS=|NebT|
+	YR=|1975|
+	TG=|4859|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Retrograde Summer {
+	AE=|John Varley|
+	AS=|NebT|
+	YR=|1975|
+	TG=|12671|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+A Galaxy Called Rome {
+	AE=|Barry N. Malzberg|
+	AS=|NebT|
+	YR=|1975|
+	TG=|7780|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|4|
+}
+The Custodians {
+	AE=|Richard Cowper|
+	AS=|NebT|
+	YR=|1975|
+	TG=|3015|
+	TA=|Novelette|
+	TP=|nv|
+	LV=|5|
+}
+The Warlord of Saturn's Moons {
+	AE=|Eleanor Arnason|
+	AS=|NebT|
+	YR=|1975|
+	TG=|504|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Blooded on Arachne {
+	AE=|Michael Bishop|
+	AS=|NebT|
+	YR=|1975|
+	TG=|1218|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Dybbuk Dolls {
+	AE=|Jack Dann|
+	AS=|NebT|
+	YR=|1975|
+	TG=|3163|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Polly Charms, the Sleeping Woman {
+	AE=|Avram Davidson|
+	AS=|NebT|
+	YR=|1975|
+	TG=|3283|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The New Atlantis {
+	AE=|Ursula K. Le Guin|
+	AS=|NebT|
+	YR=|1975|
+	TG=|7183|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Bleeding Man {
+	AE=|Craig Strete|
+	AS=|NebT|
+	YR=|1975|
+	TG=|11624|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Bicentennial Man {
+	AE=|Isaac Asimov|
+	AS=|NebT|
+	YR=|1976|
+	TG=|553|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+In the Bowl {
+	AE=|John Varley|
+	AS=|NebT|
+	YR=|1976|
+	TG=|12643|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Custer's Last Jump {
+	AE=|Steven Utley+Howard Waldrop|
+	AS=|NebT|
+	YR=|1976|
+	TG=|12520|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+His Hour Upon the Stage {
+	AE=|Grant Carrington|
+	AS=|NebT|
+	YR=|1976|
+	TG=|2450|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Rank 81 = Withdrawn {
+	AE=|(********)|
+	AS=|NebT|
+	YR=|1976|
+	TG=|18898|
+	TA=|Novelette|
+	TP=|x|
+	LV=|80|
+}
+The Diary of the Rose {
+	AE=|Ursula K. Le Guin|
+	AS=|NebT|
+	YR=|1976|
+	TG=|7130|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|81|
+}
+The Screwfly Solution {
+	AE=|James Tiptree, Jr.^Raccoona Sheldon|
+	AS=|NebT|
+	YR=|1977|
+	TG=|11988|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+A Rite of Spring {
+	AE=|Fritz Leiber|
+	AS=|NebT|
+	YR=|1977|
+	TG=|7380|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Particle Theory {
+	AE=|Edward Bryant|
+	AS=|NebT|
+	YR=|1977|
+	TG=|1867|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+The Stone City {
+	AE=|George R. R. Martin|
+	AS=|NebT|
+	YR=|1977|
+	TG=|7868|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Ninth Symphony of Ludwig van Beethoven and Other Lost Songs {
+	AE=|Carter Scholz|
+	AS=|NebT|
+	YR=|1977|
+	TG=|10411|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+A Glow of Candles, a Unicorn's Eye {
+	AE=|Charles L. Grant|
+	AS=|NebT|
+	YR=|1978|
+	TG=|5279|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Mikal's Songbird {
+	AE=|Orson Scott Card|
+	AS=|NebT|
+	YR=|1978|
+	TG=|2327|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Devil You Don't Know {
+	AE=|Dean Ing|
+	AS=|NebT|
+	YR=|1978|
+	TG=|6104|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Sandkings {
+	AE=|George R. R. Martin|
+	AS=|NebT|
+	YR=|1979|
+	TG=|7859|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Options {
+	AE=|John Varley|
+	AS=|NebT|
+	YR=|1979|
+	TG=|12653|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+The Ways of Love {
+	AE=|Poul Anderson|
+	AS=|NebT|
+	YR=|1979|
+	TG=|421|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Camps {
+	AE=|Jack Dann|
+	AS=|NebT|
+	YR=|1979|
+	TG=|3160|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Pathways of Desire {
+	AE=|Ursula K. Le Guin|
+	AS=|NebT|
+	YR=|1979|
+	TG=|7189|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Angel of Death {
+	AE=|Michael Shea|
+	AS=|NebT|
+	YR=|1979|
+	TG=|10521|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Ugly Chickens {
+	AE=|Howard Waldrop|
+	AS=|NebT|
+	YR=|1980|
+	TG=|12865|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Strata {
+	AE=|Edward Bryant|
+	AS=|NebT|
+	YR=|1980|
+	TG=|1879|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Way Station {
+	AE=|Stephen King|
+	AS=|NebT|
+	YR=|1980|
+	TG=|6614|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Feast of Saint Janis {
+	AE=|Michael Swanwick|
+	AS=|NebT|
+	YR=|1980|
+	TG=|11745|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Ginungagap {
+	AE=|Michael Swanwick|
+	AS=|NebT|
+	YR=|1980|
+	TG=|11747|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Beatnik Bayou {
+	AE=|John Varley|
+	AS=|NebT|
+	YR=|1980|
+	TG=|12630|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Quickening {
+	AE=|Michael Bishop|
+	AS=|NebT|
+	YR=|1981|
+	TG=|1287|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Sea Changeling {
+	AE=|Mildred Downey Broxon|
+	AS=|NebT|
+	YR=|1981|
+	TG=|1811|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Thermals of August {
+	AE=|Edward Bryant|
+	AS=|NebT|
+	YR=|1981|
+	TG=|1882|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Fire When It Comes {
+	AE=|Parke Godwin|
+	AS=|NebT|
+	YR=|1981|
+	TG=|5139|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Mummer Kiss {
+	AE=|Michael Swanwick|
+	AS=|NebT|
+	YR=|1981|
+	TG=|11768|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Lirios: A Tale of the Quintana Roo {
+	AE=|James Tiptree, Jr.|
+	AS=|NebT|
+	YR=|1981|
+	TG=|11972|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Fire Watch {
+	AE=|Connie Willis|
+	AS=|NebT|
+	YR=|1982|
+	TG=|13397|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Myths of the Near Future {
+	AE=|J. G. Ballard|
+	AS=|NebT|
+	YR=|1982|
+	TG=|761|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Understanding Human Behavior {
+	AE=|Thomas M. Disch|
+	AS=|NebT|
+	YR=|1982|
+	TG=|3665|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Burning Chrome {
+	AE=|William Gibson|
+	AS=|NebT|
+	YR=|1982|
+	TG=|4970|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Mystery of the Young Gentleman {
+	AE=|Joanna Russ|
+	AS=|NebT|
+	YR=|1982|
+	TG=|10075|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Swarm {
+	AE=|Bruce Sterling|
+	AS=|NebT|
+	YR=|1982|
+	TG=|11493|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Blood Music {
+	AE=|Greg Bear|
+	AS=|NebT|
+	YR=|1983|
+	TG=|966|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Blind Shemmy {
+	AE=|Jack Dann|
+	AS=|NebT|
+	YR=|1983|
+	TG=|3157|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Monkey Treatment {
+	AE=|George R. R. Martin|
+	AS=|NebT|
+	YR=|1983|
+	TG=|7837|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Black Air {
+	AE=|Kim Stanley Robinson|
+	AS=|NebT|
+	YR=|1983|
+	TG=|9775|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Cicada Queen {
+	AE=|Bruce Sterling|
+	AS=|NebT|
+	YR=|1983|
+	TG=|11445|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Slow Birds {
+	AE=|Ian Watson|
+	AS=|NebT|
+	YR=|1983|
+	TG=|12957|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Sidon in the Mirror {
+	AE=|Connie Willis|
+	AS=|NebT|
+	YR=|1983|
+	TG=|13433|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Bloodchild {
+	AE=|Octavia E. Butler|
+	AS=|NebT|
+	YR=|1984|
+	TG=|2047|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Bad Medicine {
+	AE=|Jack Dann|
+	AS=|NebT|
+	YR=|1984|
+	TG=|3154|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Saint Theresa of the Aliens {
+	AE=|James Patrick Kelly|
+	AS=|NebT|
+	YR=|1984|
+	TG=|6405|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Lucky Strike {
+	AE=|Kim Stanley Robinson|
+	AS=|NebT|
+	YR=|1984|
+	TG=|9807|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Man Who Painted the Dragon Griaule {
+	AE=|Lucius Shepard|
+	AS=|NebT|
+	YR=|1984|
+	TG=|10640|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Trojan Horse {
+	AE=|Michael Swanwick|
+	AS=|NebT|
+	YR=|1984|
+	TG=|11780|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Portraits of His Children {
+	AE=|George R. R. Martin|
+	AS=|NebT|
+	YR=|1985|
+	TG=|7852|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+A Gift from the Graylanders {
+	AE=|Michael Bishop|
+	AS=|NebT|
+	YR=|1985|
+	TG=|1253|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Fringe {
+	AE=|Orson Scott Card|
+	AS=|NebT|
+	YR=|1985|
+	TG=|2307|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Paladin of the Lost Hour {
+	AE=|Harlan Ellison|
+	AS=|NebT|
+	YR=|1985|
+	TG=|4213|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Jaguar Hunter {
+	AE=|Lucius Shepard|
+	AS=|NebT|
+	YR=|1985|
+	TG=|10621|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Dogfight {
+	AE=|Michael Swanwick+William Gibson|
+	AS=|NebT|
+	YR=|1985|
+	TG=|11790|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Rockabye Baby {
+	AE=|S. C. Sykes|
+	AS=|NebT|
+	YR=|1985|
+	TG=|11799|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Girl Who Fell into the Sky {
+	AE=|Kate Wilhelm|
+	AS=|NebT|
+	YR=|1986|
+	TG=|13218|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Hatrack River {
+	AE=|Orson Scott Card|
+	AS=|NebT|
+	YR=|1986|
+	TG=|2314|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Listening to Brahms {
+	AE=|Suzy McKee Charnas|
+	AS=|NebT|
+	YR=|1986|
+	TG=|2605|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Winter Market {
+	AE=|William Gibson|
+	AS=|NebT|
+	YR=|1986|
+	TG=|5008|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Surviving {
+	AE=|Judith Moffett|
+	AS=|NebT|
+	YR=|1986|
+	TG=|8433|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Aymara {
+	AE=|Lucius Shepard|
+	AS=|NebT|
+	YR=|1986|
+	TG=|10590|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Permafrost {
+	AE=|Roger Zelazny|
+	AS=|NebT|
+	YR=|1986|
+	TG=|13919|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Rachel in Love {
+	AE=|Pat Murphy|
+	AS=|NebT|
+	YR=|1987|
+	TG=|8653|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Evening and the Morning and the Night {
+	AE=|Octavia E. Butler|
+	AS=|NebT|
+	YR=|1987|
+	TG=|2054|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Buffalo Gals, Won't You Come Out Tonight {
+	AE=|Ursula K. Le Guin|
+	AS=|NebT|
+	YR=|1987|
+	TG=|7116|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Dream Baby {
+	AE=|Bruce McAllister|
+	AS=|NebT|
+	YR=|1987|
+	TG=|7961|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Flowers of Edo {
+	AE=|Bruce Sterling|
+	AS=|NebT|
+	YR=|1987|
+	TG=|11461|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Schwarzschild Radius {
+	AE=|Connie Willis|
+	AS=|NebT|
+	YR=|1987|
+	TG=|13430|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Schrödinger's Kitten {
+	AE=|George Alec Effinger|
+	AS=|NebT|
+	YR=|1988|
+	TG=|3975|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Ginny Sweethips' Flying Circus {
+	AE=|Neal Barrett, Jr.|
+	AS=|NebT|
+	YR=|1988|
+	TG=|868|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Peaches for Mad Molly {
+	AE=|Steven Gould|
+	AS=|NebT|
+	YR=|1988|
+	TG=|5256|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Unfinished Portrait of the King of Pain by Van Gogh {
+	AE=|Ian McDonald|
+	AS=|NebT|
+	YR=|1988|
+	TG=|8169|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Hob {
+	AE=|Judith Moffett|
+	AS=|NebT|
+	YR=|1988|
+	TG=|8425|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Kirinyaga {
+	AE=|Mike Resnick|
+	AS=|NebT|
+	YR=|1988|
+	TG=|9627|
+	TA=|Novelette|
+	TP=|ss|
+	LV=|9|
+}
+Do Ya, Do Ya, Wanna Dance {
+	AE=|Howard Waldrop|
+	AS=|NebT|
+	YR=|1988|
+	TG=|12824|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+At the Rialto {
+	AE=|Connie Willis|
+	AS=|NebT|
+	YR=|1989|
+	TG=|13359|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Sisters {
+	AE=|Greg Bear|
+	AS=|NebT|
+	YR=|1989|
+	TG=|1003|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Silver Lady and the Fortyish Man {
+	AE=|Megan Lindholm|
+	AS=|NebT|
+	YR=|1989|
+	TG=|7504|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+For I Have Touched the Sky {
+	AE=|Mike Resnick|
+	AS=|NebT|
+	YR=|1989|
+	TG=|9618|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Fast Cars {
+	AE=|Kristine Kathryn Rusch|
+	AS=|NebT|
+	YR=|1989|
+	TG=|10027|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Enter a Soldier. Later: Enter Another {
+	AE=|Robert Silverberg|
+	AS=|NebT|
+	YR=|1989|
+	TG=|10814|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Tower of Babylon {
+	AE=|Ted Chiang|
+	AS=|NebT|
+	YR=|1990|
+	TG=|2725|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Coon Rolled Down and Ruptured His Larinks, A Squeezed Novel by Mr. Skunk {
+	AE=|Dafydd ab Hugh|
+	AS=|NebT|
+	YR=|1990|
+	TG=|188|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Shobies' Story {
+	AE=|Ursula K. Le Guin|
+	AS=|NebT|
+	YR=|1990|
+	TG=|7192|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+1/72nd Scale {
+	AE=|Ian R. MacLeod|
+	AS=|NebT|
+	YR=|1990|
+	TG=|7698|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Manamouki {
+	AE=|Mike Resnick|
+	AS=|NebT|
+	YR=|1990|
+	TG=|9641|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+A Time for Every Purpose {
+	AE=|Kristine Kathryn Rusch|
+	AS=|NebT|
+	YR=|1990|
+	TG=|10050|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Loose Cannon {
+	AE=|Susan Shwartz|
+	AS=|NebT|
+	YR=|1990|
+	TG=|10748|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Over the Long Haul {
+	AE=|Martha Soukup|
+	AS=|NebT|
+	YR=|1990|
+	TG=|11186|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Guide Dog {
+	AE=|Mike Connor|
+	AS=|NebT|
+	YR=|1991|
+	TG=|2944|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Gate of Faces {
+	AE=|Ray Aldridge|
+	AS=|NebT|
+	YR=|1991|
+	TG=|293|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Black Glass {
+	AE=|Karen Joy Fowler|
+	AS=|NebT|
+	YR=|1991|
+	TG=|4622|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Standing in Line with Mister Jimmy {
+	AE=|James Patrick Kelly|
+	AS=|NebT|
+	YR=|1991|
+	TG=|6408|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Happy Man {
+	AE=|Jonathan Lethem|
+	AS=|NebT|
+	YR=|1991|
+	TG=|7433|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The All-Consuming {
+	AE=|Lucius Shepard+Robert Frazier|
+	AS=|NebT|
+	YR=|1991|
+	TG=|10675|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Getting Real {
+	AE=|Susan Shwartz|
+	AS=|NebT|
+	YR=|1991|
+	TG=|10741|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Danny Goes to Mars {
+	AE=|Pamela Sargent|
+	AS=|NebT|
+	YR=|1992|
+	TG=|10218|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Matter's End {
+	AE=|Gregory Benford|
+	AS=|NebT|
+	YR=|1992|
+	TG=|1076|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The July Ward {
+	AE=|Sharon N. Farber^S. N. Dyer|
+	AS=|NebT|
+	YR=|1992|
+	TG=|3887|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Honeycrafters {
+	AE=|Carolyn Ives Gilman|
+	AS=|NebT|
+	YR=|1992|
+	TG=|5076|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Suppose They Gave a Peace... {
+	AE=|Susan Shwartz|
+	AS=|NebT|
+	YR=|1992|
+	TG=|10753|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Prayers on the Wind {
+	AE=|Walter Jon Williams|
+	AS=|NebT|
+	YR=|1992|
+	TG=|13310|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebT|
+	YR=|1992|
+	TG=|111|
+	TA=|Novelette|
+	TP=|x|
+	LV=|90|
+}
+The Other Short {
+	AE=|J. R. Dunn|
+	AS=|NebT|
+	YR=|1992|
+	TG=|3867|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Snow on Sugar Mountain {
+	AE=|Elizabeth Hand|
+	AS=|NebT|
+	YR=|1992|
+	TG=|5592|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Amerikano Hiaika {
+	AE=|Wil McCarthy|
+	AS=|NebT|
+	YR=|1992|
+	TG=|8082|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Madrelita {
+	AE=|Deborah Wheeler|
+	AS=|NebT|
+	YR=|1992|
+	TG=|13073|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Georgia on My Mind {
+	AE=|Charles Sheffield|
+	AS=|NebT|
+	YR=|1993|
+	TG=|10568|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+England Underway {
+	AE=|Terry Bisson|
+	AS=|NebT|
+	YR=|1993|
+	TG=|1331|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Nutcracker Coup {
+	AE=|Janet Kagan|
+	AS=|NebT|
+	YR=|1993|
+	TG=|6322|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Franchise {
+	AE=|John Kessel|
+	AS=|NebT|
+	YR=|1993|
+	TG=|6455|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Things Not Seen {
+	AE=|Martha Soukup|
+	AS=|NebT|
+	YR=|1993|
+	TG=|11191|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Death on the Nile {
+	AE=|Connie Willis|
+	AS=|NebT|
+	YR=|1993|
+	TG=|13378|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebT|
+	YR=|1993|
+	TG=|112|
+	TA=|Novelette|
+	TP=|x|
+	LV=|90|
+}
+Jumping the Road {
+	AE=|Jack Dann|
+	AS=|NebT|
+	YR=|1993|
+	TG=|3170|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Monsters {
+	AE=|James Patrick Kelly|
+	AS=|NebT|
+	YR=|1993|
+	TG=|6395|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Beneath the Stars of Winter {
+	AE=|Geoffrey A. Landis|
+	AS=|NebT|
+	YR=|1993|
+	TG=|6944|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Embracing the Alien {
+	AE=|Geoffrey A. Landis|
+	AS=|NebT|
+	YR=|1993|
+	TG=|6946|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Vanilla Dunk {
+	AE=|Jonathan Lethem|
+	AS=|NebT|
+	YR=|1993|
+	TG=|7440|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Beast of the Heartland {
+	AE=|Lucius Shepard|
+	AS=|NebT|
+	YR=|1993|
+	TG=|10597|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Suicidal Tendencies {
+	AE=|Dave Smeds|
+	AS=|NebT|
+	YR=|1993|
+	TG=|11071|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Deep Eddy {
+	AE=|Bruce Sterling|
+	AS=|NebT|
+	YR=|1993|
+	TG=|11451|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Ice Covers the Hole {
+	AE=|Rick Wilber|
+	AS=|NebT|
+	YR=|1993|
+	TG=|13188|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+The Martian Child {
+	AE=|David Gerrold|
+	AS=|NebT|
+	YR=|1994|
+	TG=|4951|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Necronauts {
+	AE=|Terry Bisson|
+	AS=|NebT|
+	YR=|1994|
+	TG=|1339|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Skeleton Key {
+	AE=|Nina Kiriki Hoffman|
+	AS=|NebT|
+	YR=|1994|
+	TG=|5978|
+	TA=|Novelette|
+	TP=|nv|
+	LV=|9|
+}
+The Singular Habits of Wasps {
+	AE=|Geoffrey A. Landis|
+	AS=|NebT|
+	YR=|1994|
+	TG=|6962|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Matter of Seggri {
+	AE=|Ursula K. Le Guin|
+	AS=|NebT|
+	YR=|1994|
+	TG=|7176|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Nekropolis {
+	AE=|Maureen F. McHugh|
+	AS=|NebT|
+	YR=|1994|
+	TG=|8206|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebT|
+	YR=|1994|
+	TG=|113|
+	TA=|Novelette|
+	TP=|x|
+	LV=|90|
+}
+Cush {
+	AE=|Neal Barrett, Jr.|
+	AS=|NebT|
+	YR=|1994|
+	TG=|862|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Yellow Matter {
+	AE=|William Barton|
+	AS=|NebT|
+	YR=|1994|
+	TG=|897|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+The Shining Dream Road Out {
+	AE=|M. Shayne Bell|
+	AS=|NebT|
+	YR=|1994|
+	TG=|1041|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Die, Lorelei {
+	AE=|Michael G. Coney^Michael Coney|
+	AS=|NebT|
+	YR=|1994|
+	TG=|2933|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Ah! Bright Wings {
+	AE=|Howard V. Hendrix|
+	AS=|NebT|
+	YR=|1994|
+	TG=|5844|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Fox Magic {
+	AE=|Kij Johnson|
+	AS=|NebT|
+	YR=|1994|
+	TG=|6207|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Chemistry {
+	AE=|James Patrick Kelly|
+	AS=|NebT|
+	YR=|1994|
+	TG=|6381|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Liberator {
+	AE=|Linda Nagata|
+	AS=|NebT|
+	YR=|1994|
+	TG=|8676|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Tin Angel {
+	AE=|G. David Nordley+H. G. Stratmann|
+	AS=|NebT|
+	YR=|1994|
+	TG=|8853|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+A Little Knowledge {
+	AE=|Mike Resnick|
+	AS=|NebT|
+	YR=|1994|
+	TG=|9633|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+The Other Magpie {
+	AE=|R. Garcia y Robertson|
+	AS=|NebT|
+	YR=|1994|
+	TG=|9757|
+	TA=|Novelette|
+	TP=|nv|
+	LV=|92|
+}
+Vox Domini {
+	AE=|Bruce Holland Rogers|
+	AS=|NebT|
+	YR=|1994|
+	TG=|9910|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+In the Distance, and Ahead in Time {
+	AE=|George Zebrowski|
+	AS=|NebT|
+	YR=|1994|
+	TG=|13845|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Solitude {
+	AE=|Ursula K. Le Guin|
+	AS=|NebT|
+	YR=|1995|
+	TG=|7195|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Resurrection Man's Legacy {
+	AE=|Dale Bailey|
+	AS=|NebT|
+	YR=|1995|
+	TG=|721|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Tea and Hamsters {
+	AE=|Michael G. Coney^Michael Coney|
+	AS=|NebT|
+	YR=|1995|
+	TG=|2937|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Jesus at the Bat {
+	AE=|Esther M. Friesner|
+	AS=|NebT|
+	YR=|1995|
+	TG=|4769|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Home for Christmas {
+	AE=|Nina Kiriki Hoffman|
+	AS=|NebT|
+	YR=|1995|
+	TG=|5971|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Think Like a Dinosaur {
+	AE=|James Patrick Kelly|
+	AS=|NebT|
+	YR=|1995|
+	TG=|6413|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+When the Old Gods Die {
+	AE=|Mike Resnick|
+	AS=|NebT|
+	YR=|1995|
+	TG=|9674|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebT|
+	YR=|1995|
+	TG=|114|
+	TA=|Novelette|
+	TP=|x|
+	LV=|90|
+}
+The Twilight of the Guards, or the Plowshare Conundrum {
+	AE=|Arlan Andrews|
+	AS=|NebT|
+	YR=|1995|
+	TG=|431|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+The Lovers {
+	AE=|Eleanor Arnason|
+	AS=|NebT|
+	YR=|1995|
+	TG=|500|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Another Story {
+	AE=|Ursula K. Le Guin|
+	AS=|NebT|
+	YR=|1995|
+	TG=|7109|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Fermat's Lost Theorem {
+	AE=|Jerry Oltion|
+	AS=|NebT|
+	YR=|1995|
+	TG=|8935|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Fearless {
+	AE=|Dave Smeds|
+	AS=|NebT|
+	YR=|1995|
+	TG=|11066|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Lifeboat on a Burning Sea {
+	AE=|Bruce Holland Rogers|
+	AS=|NebT|
+	YR=|1996|
+	TG=|9907|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Erase/Record/Play: A Drama for Print {
+	AE=|John M. Ford|
+	AS=|NebT|
+	YR=|1996|
+	TG=|4571|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Mirror of Lop Nor {
+	AE=|George Guthridge|
+	AS=|NebT|
+	YR=|1996|
+	TG=|5475|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Chronology Protection Case {
+	AE=|Paul Levinson|
+	AS=|NebT|
+	YR=|1996|
+	TG=|7448|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Must and Shall {
+	AE=|Harry Turtledove|
+	AS=|NebT|
+	YR=|1996|
+	TG=|12115|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Perseids {
+	AE=|Robert Charles Wilson|
+	AS=|NebT|
+	YR=|1996|
+	TG=|13505|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+After a Lean Winter {
+	AE=|Dave Wolverton|
+	AS=|NebT|
+	YR=|1996|
+	TG=|13701|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebT|
+	YR=|1996|
+	TG=|115|
+	TA=|Novelette|
+	TP=|x|
+	LV=|90|
+}
+Age of Aquarius {
+	AE=|William Barton|
+	AS=|NebT|
+	YR=|1996|
+	TG=|891|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+A Worm in the Well {
+	AE=|Gregory Benford|
+	AS=|NebT|
+	YR=|1996|
+	TG=|1111|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Simply Indispensable {
+	AE=|Michael Bishop|
+	AS=|NebT|
+	YR=|1996|
+	TG=|1296|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Bulldog Drummond and the Grim Reaper {
+	AE=|Michael G. Coney^Michael Coney|
+	AS=|NebT|
+	YR=|1996|
+	TG=|2926|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+El Hijo De Hernez {
+	AE=|Marcos Donnelly|
+	AS=|NebT|
+	YR=|1996|
+	TG=|3714|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+The First Law of Thermodynamics {
+	AE=|James Patrick Kelly|
+	AS=|NebT|
+	YR=|1996|
+	TG=|6389|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Across the Darkness {
+	AE=|Geoffrey A. Landis|
+	AS=|NebT|
+	YR=|1996|
+	TG=|6941|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Of Silence and Slow Time {
+	AE=|Karawynn Long|
+	AS=|NebT|
+	YR=|1996|
+	TG=|7561|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+The Land of Nod {
+	AE=|Mike Resnick|
+	AS=|NebT|
+	YR=|1996|
+	TG=|9629|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Survivor {
+	AE=|Dave Smeds|
+	AS=|NebT|
+	YR=|1996|
+	TG=|11072|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Javier, Dying in the Land of Flowers {
+	AE=|Deborah Wheeler|
+	AS=|NebT|
+	YR=|1996|
+	TG=|13072|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+The Flowers of Aulit Prison {
+	AE=|Nancy Kress|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17651|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Dog's Story {
+	AE=|Eleanor Arnason|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17617|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Three Hearings on the Existence of Snakes in the Human Bloodstream {
+	AE=|James Alan Gardner|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17638|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+We Will Drink a Fish Together... {
+	AE=|Bill Johnson|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17647|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Miracle of Ivar Avenue {
+	AE=|John Kessel|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17650|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Copyright Notice Case {
+	AE=|Paul Levinson|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17653|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Undiscovered {
+	AE=|William Sanders|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17669|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17809|
+	TA=|Novelette|
+	TP=|x|
+	LV=|90|
+}
+Changes {
+	AE=|William Barton|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17816|
+	TA=|Novelette|
+	TP=|ss|
+	LV=|92|
+}
+Broken Symmetry {
+	AE=|Michael A. Burstein|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17818|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Werewolves in Sheep's Clothing {
+	AE=|Michael G. Coney^Michael Coney|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17822|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Never Seen By Waking Eyes {
+	AE=|Stephen Dedman|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17823|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Liza and the Crazy Water Man {
+	AE=|Andy Duncan|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17827|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+The God at Midnight {
+	AE=|Thomas E. Fuller+Brad Strickland|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17832|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Scapegoat {
+	AE=|Susan J. Koupa|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17845|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Galley Slave {
+	AE=|Jean Lamb|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17846|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+The Mendelian Lamp Case {
+	AE=|Paul Levinson|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17849|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Amateurs {
+	AE=|Tom Ligon|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17850|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Words and Music {
+	AE=|William Sanders|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17864|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Saint Vitus Dances Eternity: A Sarajevo Ghost Story {
+	AE=|Stewart von Allman|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17874|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Try and Kill It {
+	AE=|Gene Wolfe|
+	AS=|NebT|
+	YR=|1997|
+	TG=|17839|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Lost Girls {
+	AE=|Jane Yolen|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19449|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Truest Chill {
+	AE=|Gregory Feeley|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19390|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Time Gypsy {
+	AE=|Ellen Klages|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19403|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Mercy Gate {
+	AE=|Mark J. McGarry|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19415|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Echea {
+	AE=|Kristine Kathryn Rusch|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19425|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Lethe {
+	AE=|Walter Jon Williams|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19446|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebT|
+	YR=|1998|
+	TG=|22698|
+	TA=|Novelette|
+	TP=|x|
+	LV=|90|
+}
+The Moon Girl {
+	AE=|M. Shayne Bell|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19380|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Tal's Tale {
+	AE=|Nancy Varian Berberick|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19382|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Content with the Mysterious {
+	AE=|Maya Kaathryn Bohnhoff|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19383|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Approaching Perimelasma {
+	AE=|Geoffrey A. Landis|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19407|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Little Differences {
+	AE=|Paul Levinson|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19412|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+The Orchard {
+	AE=|Paul Levinson|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19413|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Crossing Chao Meng Fu {
+	AE=|G. David Nordley|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19420|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Noodle You, Noodle Me {
+	AE=|B. J. Thrower|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19439|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Lustman {
+	AE=|Pat York|
+	AS=|NebT|
+	YR=|1998|
+	TG=|19450|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Mars is No Place for Children {
+	AE=|Mary A. Turzillo|
+	AS=|NebT|
+	YR=|1999|
+	TG=|21089|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Island in the Lake {
+	AE=|Phyllis Eisenstein|
+	AS=|NebT|
+	YR=|1999|
+	TG=|20911|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+How to Make Unicorn Pie {
+	AE=|Esther M. Friesner|
+	AS=|NebT|
+	YR=|1999|
+	TG=|20920|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Five Days in April {
+	AE=|Brian A. Hopkins|
+	AS=|NebT|
+	YR=|1999|
+	TG=|20942|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Good Intentions {
+	AE=|Jack McDevitt+Stanley Schmidt|
+	AS=|NebT|
+	YR=|1999|
+	TG=|21004|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Taklamakan {
+	AE=|Bruce Sterling|
+	AS=|NebT|
+	YR=|1999|
+	TG=|21080|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebT|
+	YR=|1999|
+	TG=|22699|
+	TA=|Novelette|
+	TP=|x|
+	LV=|90|
+}
+Eyes of Moonlight, Tears of Stone {
+	AE=|Robin Wayne Bailey|
+	AS=|NebT|
+	YR=|1999|
+	TG=|20857|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Down in the Dark {
+	AE=|William Barton|
+	AS=|NebT|
+	YR=|1999|
+	TG=|20860|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Absent Friends {
+	AE=|Michael A. Burstein|
+	AS=|NebT|
+	YR=|1999|
+	TG=|20875|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Animae Celestes {
+	AE=|Gregory Feeley|
+	AS=|NebT|
+	YR=|1999|
+	TG=|20917|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Auschwitz and the Rectification of History {
+	AE=|Eliot Fintushel|
+	AS=|NebT|
+	YR=|1999|
+	TG=|20918|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Lovestory {
+	AE=|James Patrick Kelly|
+	AS=|NebT|
+	YR=|1999|
+	TG=|20963|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+The Girl Detective {
+	AE=|Kelly Link|
+	AS=|NebT|
+	YR=|1999|
+	TG=|20992|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Getting to Know You {
+	AE=|David Marusek|
+	AS=|NebT|
+	YR=|1999|
+	TG=|20999|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Harbingers {
+	AE=|Severna Park|
+	AS=|NebT|
+	YR=|1999|
+	TG=|21029|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Drawn Words {
+	AE=|Brian Plante|
+	AS=|NebT|
+	YR=|1999|
+	TG=|21039|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Ninekiller and the Neterw {
+	AE=|William Sanders|
+	AS=|NebT|
+	YR=|1999|
+	TG=|21056|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Dragon's Teeth {
+	AE=|Lois Tilton|
+	AS=|NebT|
+	YR=|1999|
+	TG=|21088|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Sky Eyes {
+	AE=|Laurel Winter|
+	AS=|NebT|
+	YR=|1999|
+	TG=|21110|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Daddy's World {
+	AE=|Walter Jon Williams|
+	AS=|NebT|
+	YR=|2000|
+	TG=|22390|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Stellar Harvest {
+	AE=|Eleanor Arnason|
+	AS=|NebT|
+	YR=|2000|
+	TG=|22348|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+A Knight of Ghosts and Shadows {
+	AE=|Gardner Dozois|
+	AS=|NebT|
+	YR=|2000|
+	TG=|22392|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Jack Daw's Pack {
+	AE=|Greer Ilene Gilman^Greer Gilman|
+	AS=|NebT|
+	YR=|2000|
+	TG=|22410|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+A Day's Work on the Moon {
+	AE=|Mike Moscoe|
+	AS=|NebT|
+	YR=|2000|
+	TG=|22460|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+How the Highland People Came to Be {
+	AE=|Bruce Holland Rogers|
+	AS=|NebT|
+	YR=|2000|
+	TG=|22489|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Generation Gap {
+	AE=|Stanley Schmidt|
+	AS=|NebT|
+	YR=|2000|
+	TG=|22498|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebT|
+	YR=|2000|
+	TG=|22339|
+	TA=|Novelette|
+	TP=|x|
+	LV=|90|
+}
+The Window {
+	AE=|Judith Berman|
+	AS=|NebT|
+	YR=|2000|
+	TG=|22357|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+Chromosome Circus {
+	AE=|Amy Sterling Casil|
+	AS=|NebT|
+	YR=|2000|
+	TG=|22381|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+The Chop Girl {
+	AE=|Ian R. MacLeod|
+	AS=|NebT|
+	YR=|2000|
+	TG=|22448|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|92|
+}
+"Repent, Harlequin!" Said the Ticktockman {
+	AE=|Harlan Ellison|
+	AS=|NebS|
+	YR=|1965|
+	TG=|4139|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Eyes Do More Than See {
+	AE=|Isaac Asimov|
+	AS=|NebS|
+	YR=|1965|
+	TG=|567|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Founding Father {
+	AE=|Isaac Asimov|
+	AS=|NebS|
+	YR=|1965|
+	TG=|579|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Souvenir {
+	AE=|J. G. Ballard|
+	AS=|NebS|
+	YR=|1965|
+	TG=|763|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Game {
+	AE=|Donald Barthelme|
+	AS=|NebS|
+	YR=|1965|
+	TG=|890|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Lord Moon {
+	AE=|Jane Beauclerk|
+	AS=|NebS|
+	YR=|1965|
+	TG=|1011|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Uncollected Works {
+	AE=|Lin Carter|
+	AS=|NebS|
+	YR=|1965|
+	TG=|2495|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+A Few Kindred Spirits {
+	AE=|John Christopher|
+	AS=|NebS|
+	YR=|1965|
+	TG=|2760|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The House the Blakeneys Built {
+	AE=|Avram Davidson|
+	AS=|NebS|
+	YR=|1965|
+	TG=|3275|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Computers Don't Argue {
+	AE=|Gordon R. Dickson|
+	AS=|NebS|
+	YR=|1965|
+	TG=|3590|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Come to Venus Melancholy {
+	AE=|Thomas M. Disch|
+	AS=|NebS|
+	YR=|1965|
+	TG=|3642|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Of One Mind {
+	AE=|James Durham|
+	AS=|NebS|
+	YR=|1965|
+	TG=|3879|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Inside Man {
+	AE=|H. L. Gold|
+	AS=|NebS|
+	YR=|1965|
+	TG=|5155|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Calling Dr. Clockwork {
+	AE=|Ron Goulart|
+	AS=|NebS|
+	YR=|1965|
+	TG=|5248|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Better Than Ever {
+	AE=|Alex Kirs|
+	AS=|NebS|
+	YR=|1965|
+	TG=|6815|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+In Our Block {
+	AE=|R. A. Lafferty|
+	AS=|NebS|
+	YR=|1965|
+	TG=|6897|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Slow Tuesday Night {
+	AE=|R. A. Lafferty|
+	AS=|NebS|
+	YR=|1965|
+	TG=|6909|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Cyclops {
+	AE=|Fritz Leiber|
+	AS=|NebS|
+	YR=|1965|
+	TG=|7349|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Good New Days {
+	AE=|Fritz Leiber|
+	AS=|NebS|
+	YR=|1965|
+	TG=|7361|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Though a Sparrow Fall {
+	AE=|Scott Nichols|
+	AS=|NebS|
+	YR=|1965|
+	TG=|8715|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Becalmed in Hell {
+	AE=|Larry Niven|
+	AS=|NebS|
+	YR=|1965|
+	TG=|8738|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Wrong-Way Street {
+	AE=|Larry Niven|
+	AS=|NebS|
+	YR=|1965|
+	TG=|8790|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Mischief Maker {
+	AE=|Richard Olin|
+	AS=|NebS|
+	YR=|1965|
+	TG=|8930|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+A Better Mousehole {
+	AE=|Edgar Pangborn|
+	AS=|NebS|
+	YR=|1965|
+	TG=|9025|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+A Leader for Yesteryear {
+	AE=|Mack Reynolds|
+	AS=|NebS|
+	YR=|1965|
+	TG=|9684|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Keep Them Happy {
+	AE=|Robert Rohrer|
+	AS=|NebS|
+	YR=|1965|
+	TG=|9913|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Balanced Ecology {
+	AE=|James H. Schmitz|
+	AS=|NebS|
+	YR=|1965|
+	TG=|10385|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Over the River and Through the Woods {
+	AE=|Clifford D. Simak|
+	AS=|NebS|
+	YR=|1965|
+	TG=|10967|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Peacock King {
+	AE=|Ted White+Larry McCombs|
+	AS=|NebS|
+	YR=|1965|
+	TG=|13158|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Eight Billion {
+	AE=|Richard Wilson|
+	AS=|NebS|
+	YR=|1965|
+	TG=|13480|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Devil Car {
+	AE=|Roger Zelazny|
+	AS=|NebS|
+	YR=|1965|
+	TG=|13879|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Secret Place {
+	AE=|Richard McKenna|
+	AS=|NebS|
+	YR=|1966|
+	TG=|8263|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Man in His Time {
+	AE=|Brian W. Aldiss|
+	AS=|NebS|
+	YR=|1966|
+	TG=|271|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Light of Other Days {
+	AE=|Bob Shaw|
+	AS=|NebS|
+	YR=|1966|
+	TG=|10510|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Rank 91 = First ballot {
+	AE=|(********)|
+	AS=|NebS|
+	YR=|1966|
+	TG=|86|
+	TA=|Short Story|
+	TP=|x|
+	LV=|90|
+}
+The Plot is the Thing {
+	AE=|Robert Bloch|
+	AS=|NebS|
+	YR=|1966|
+	TG=|1426|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+The Little Blue Weeds of Spring {
+	AE=|Doris Pitkin Buck|
+	AS=|NebS|
+	YR=|1966|
+	TG=|1884|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+Light of Darkness {
+	AE=|Arthur C. Clarke|
+	AS=|NebS|
+	YR=|1966|
+	TG=|2809|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+We Can Remember It for You Wholesale {
+	AE=|Philip K. Dick|
+	AS=|NebS|
+	YR=|1966|
+	TG=|3577|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+When I Was Miss Dow {
+	AE=|Sonya Dorman|
+	AS=|NebS|
+	YR=|1966|
+	TG=|3717|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+Delusion for a Dragon Slayer {
+	AE=|Harlan Ellison|
+	AS=|NebS|
+	YR=|1966|
+	TG=|4170|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+The Night Flame {
+	AE=|Colin Kapp|
+	AS=|NebS|
+	YR=|1966|
+	TG=|6334|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+Among the Hairy Earthmen {
+	AE=|R. A. Lafferty|
+	AS=|NebS|
+	YR=|1966|
+	TG=|6877|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+Golden Trabant {
+	AE=|R. A. Lafferty|
+	AS=|NebS|
+	YR=|1966|
+	TG=|6895|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+Prototaph {
+	AE=|Keith Laumer|
+	AS=|NebS|
+	YR=|1966|
+	TG=|7075|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+Bordered in Black {
+	AE=|Larry Niven|
+	AS=|NebS|
+	YR=|1966|
+	TG=|8739|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+Neutron Star {
+	AE=|Larry Niven|
+	AS=|NebS|
+	YR=|1966|
+	TG=|8767|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+In the Imagicon {
+	AE=|George H. Smith|
+	AS=|NebS|
+	YR=|1966|
+	TG=|11109|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+The Eternal Machine {
+	AE=|W. Spencer|
+	AS=|NebS|
+	YR=|1966|
+	TG=|11198|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+Age of Invention {
+	AE=|Norman Spinrad|
+	AS=|NebS|
+	YR=|1966|
+	TG=|11220|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|91|
+}
+Aye, and Gomorrah {
+	AE=|Samuel R. Delany|
+	AS=|NebS|
+	YR=|1967|
+	TG=|3427|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Earthwoman {
+	AE=|Reginald Bretnor|
+	AS=|NebS|
+	YR=|1967|
+	TG=|1641|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Driftglass {
+	AE=|Samuel R. Delany|
+	AS=|NebS|
+	YR=|1967|
+	TG=|3440|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Answering Service {
+	AE=|Fritz Leiber|
+	AS=|NebS|
+	YR=|1967|
+	TG=|7333|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Doctor {
+	AE=|Theodore L. Thomas|
+	AS=|NebS|
+	YR=|1967|
+	TG=|11912|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Baby, You Were Great {
+	AE=|Kate Wilhelm|
+	AS=|NebS|
+	YR=|1967|
+	TG=|13199|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Planners {
+	AE=|Kate Wilhelm|
+	AS=|NebS|
+	YR=|1968|
+	TG=|13239|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Dance of the Changer and the Three {
+	AE=|Terry Carr|
+	AS=|NebS|
+	YR=|1968|
+	TG=|2418|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Masks {
+	AE=|Damon Knight|
+	AS=|NebS|
+	YR=|1968|
+	TG=|6681|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Sword Game {
+	AE=|H. H. Hollis|
+	AS=|NebS|
+	YR=|1968|
+	TG=|6026|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Kyrie {
+	AE=|Poul Anderson|
+	AS=|NebS|
+	YR=|1968|
+	TG=|383|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Idiot's Mate {
+	AE=|Robert Taylor|
+	AS=|NebS|
+	YR=|1968|
+	TG=|11852|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|6|
+}
+Passengers {
+	AE=|Robert Silverberg|
+	AS=|NebS|
+	YR=|1969|
+	TG=|10869|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Shattered Like a Glass Goblin {
+	AE=|Harlan Ellison|
+	AS=|NebS|
+	YR=|1969|
+	TG=|4225|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Not Long Before the End {
+	AE=|Larry Niven|
+	AS=|NebS|
+	YR=|1969|
+	TG=|8769|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+The Man Who Learned Loving {
+	AE=|Theodore Sturgeon|
+	AS=|NebS|
+	YR=|1969|
+	TG=|11647|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Last Flight of Dr. Ain {
+	AE=|James Tiptree, Jr.|
+	AS=|NebS|
+	YR=|1969|
+	TG=|11970|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+No Award {
+	AE=|(********)|
+	AS=|NebS|
+	YR=|1970|
+	TG=|20|
+	TA=|Short Story|
+	TP=|x|
+	LV=|1|
+}
+The Island of Doctor Death and Other Stories {
+	AE=|Gene Wolfe|
+	AS=|NebS|
+	YR=|1970|
+	TG=|13620|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Entire and Perfect Chrysolite {
+	AE=|R. A. Lafferty|
+	AS=|NebS|
+	YR=|1970|
+	TG=|6888|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+In the Queue {
+	AE=|Keith Laumer|
+	AS=|NebS|
+	YR=|1970|
+	TG=|7072|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|4|
+}
+By the Falls {
+	AE=|Harry Harrison|
+	AS=|NebS|
+	YR=|1970|
+	TG=|5665|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|5|
+}
+The Creation of Bennie Good {
+	AE=|James Sallis|
+	AS=|NebS|
+	YR=|1970|
+	TG=|10190|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|6|
+}
+A Dream at Noonday {
+	AE=|Gardner Dozois^Gardner R. Dozois|
+	AS=|NebS|
+	YR=|1970|
+	TG=|3805|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|7|
+}
+A Cold Night Dark with Snow {
+	AE=|Kate Wilhelm|
+	AS=|NebS|
+	YR=|1970|
+	TG=|13208|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Good News from the Vatican {
+	AE=|Robert Silverberg|
+	AS=|NebS|
+	YR=|1971|
+	TG=|10824|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Last Ghost {
+	AE=|Stephen Goldin|
+	AS=|NebS|
+	YR=|1971|
+	TG=|5159|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Horse of Air {
+	AE=|Gardner Dozois^Gardner R. Dozois|
+	AS=|NebS|
+	YR=|1971|
+	TG=|3808|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Heathen God {
+	AE=|George Zebrowski|
+	AS=|NebS|
+	YR=|1971|
+	TG=|13843|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|4|
+}
+When It Changed {
+	AE=|Joanna Russ|
+	AS=|NebS|
+	YR=|1972|
+	TG=|10087|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+And I Awoke and Found Me Here on the Cold Hill's Side {
+	AE=|James Tiptree, Jr.|
+	AS=|NebS|
+	YR=|1972|
+	TG=|11949|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Against the Lafayette Escadrille {
+	AE=|Gene Wolfe|
+	AS=|NebS|
+	YR=|1972|
+	TG=|13576|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Shaffery Among the Immortals {
+	AE=|Frederik Pohl|
+	AS=|NebS|
+	YR=|1972|
+	TG=|9252|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|4|
+}
+On the Downhill Side {
+	AE=|Harlan Ellison|
+	AS=|NebS|
+	YR=|1972|
+	TG=|4209|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|5|
+}
+When We Went to See the End of the World {
+	AE=|Robert Silverberg|
+	AS=|NebS|
+	YR=|1972|
+	TG=|18904|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|6|
+}
+Love Is the Plan the Plan Is Death {
+	AE=|James Tiptree, Jr.|
+	AS=|NebS|
+	YR=|1973|
+	TG=|11975|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Shark {
+	AE=|Edward Bryant|
+	AS=|NebS|
+	YR=|1973|
+	TG=|1873|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+With Morning Comes Mistfall {
+	AE=|George R. R. Martin|
+	AS=|NebS|
+	YR=|1973|
+	TG=|7883|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Wings {
+	AE=|Vonda N. McIntyre|
+	AS=|NebS|
+	YR=|1973|
+	TG=|8246|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+A Thing of Beauty {
+	AE=|Norman Spinrad|
+	AS=|NebS|
+	YR=|1973|
+	TG=|11252|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+How I Lost the Second World War and Helped Turn Back the German Invasion {
+	AE=|Gene Wolfe|
+	AS=|NebS|
+	YR=|1973|
+	TG=|13617|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Day Before the Revolution {
+	AE=|Ursula K. Le Guin|
+	AS=|NebS|
+	YR=|1974|
+	TG=|7127|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Engine at Heartspring's Center {
+	AE=|Roger Zelazny|
+	AS=|NebS|
+	YR=|1974|
+	TG=|13887|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+After King Kong Fell {
+	AE=|Philip José Farmer|
+	AS=|NebS|
+	YR=|1974|
+	TG=|4365|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Catch That Zeppelin! {
+	AE=|Fritz Leiber|
+	AS=|NebS|
+	YR=|1975|
+	TG=|7345|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Child of All Ages {
+	AE=|P. J. Plauger|
+	AS=|NebS|
+	YR=|1975|
+	TG=|9180|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Shatterday {
+	AE=|Harlan Ellison|
+	AS=|NebS|
+	YR=|1975|
+	TG=|4222|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Sail the Tide of Mourning {
+	AE=|Richard A. Lupoff|
+	AS=|NebS|
+	YR=|1975|
+	TG=|7623|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Time Deer {
+	AE=|Craig Strete|
+	AS=|NebS|
+	YR=|1975|
+	TG=|11628|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Utopia of a Tired Man {
+	AE=|Jorge Luis Borges|
+	AS=|NebS|
+	YR=|1975|
+	TG=|1469|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|6|
+}
+A Scraping of the Bones {
+	AE=|Algis Budrys|
+	AS=|NebS|
+	YR=|1975|
+	TG=|1905|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|7|
+}
+Doing Lennon {
+	AE=|Gregory Benford|
+	AS=|NebS|
+	YR=|1975|
+	TG=|1061|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|8|
+}
+White Creatures {
+	AE=|Gregory Benford|
+	AS=|NebS|
+	YR=|1975|
+	TG=|1108|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Attachment {
+	AE=|Phyllis Eisenstein|
+	AS=|NebS|
+	YR=|1975|
+	TG=|4092|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Find the Lady {
+	AE=|Nicholas Fisk|
+	AS=|NebS|
+	YR=|1975|
+	TG=|4517|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+White Wolf Calling {
+	AE=|Charles L. Grant|
+	AS=|NebS|
+	YR=|1975|
+	TG=|5319|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Growing Up in Edge City {
+	AE=|Frederik Pohl|
+	AS=|NebS|
+	YR=|1975|
+	TG=|9221|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+A Crowd of Shadows {
+	AE=|Charles L. Grant|
+	AS=|NebS|
+	YR=|1976|
+	TG=|5274|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Tricentennial {
+	AE=|Joe Haldeman|
+	AS=|NebS|
+	YR=|1976|
+	TG=|5542|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Stone Circle {
+	AE=|Lisa Tuttle|
+	AS=|NebS|
+	YR=|1976|
+	TG=|12149|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Breath's a Ware That Will Not Keep {
+	AE=|Thomas F. Monteleone|
+	AS=|NebS|
+	YR=|1976|
+	TG=|8453|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Mary Margaret Road-Grader {
+	AE=|Howard Waldrop|
+	AS=|NebS|
+	YR=|1976|
+	TG=|12851|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Back to the Stone Age {
+	AE=|Jake Saunders|
+	AS=|NebS|
+	YR=|1976|
+	TG=|10239|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|6|
+}
+Jeffty is Five {
+	AE=|Harlan Ellison|
+	AS=|NebS|
+	YR=|1977|
+	TG=|4198|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Air Raid {
+	AE=|John Varley^Herb Boehm|
+	AS=|NebS|
+	YR=|1977|
+	TG=|12622|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+The Hibakusha Gallery {
+	AE=|Edward Bryant|
+	AS=|NebS|
+	YR=|1977|
+	TG=|1864|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Tin Woodsman {
+	AE=|Dennis Bailey+David Bischoff|
+	AS=|NebS|
+	YR=|1977|
+	TG=|722|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Camera Obscura {
+	AE=|Thomas F. Monteleone|
+	AS=|NebS|
+	YR=|1977|
+	TG=|8455|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Stone {
+	AE=|Edward Bryant|
+	AS=|NebS|
+	YR=|1978|
+	TG=|1877|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Cassandra {
+	AE=|C. J. Cherryh|
+	AS=|NebS|
+	YR=|1978|
+	TG=|2654|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+A Quiet Revolution for Death {
+	AE=|Jack Dann|
+	AS=|NebS|
+	YR=|1978|
+	TG=|3180|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+giANTS {
+	AE=|Edward Bryant|
+	AS=|NebS|
+	YR=|1979|
+	TG=|1863|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Unaccompanied Sonata {
+	AE=|Orson Scott Card|
+	AS=|NebS|
+	YR=|1979|
+	TG=|2360|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+The Way of Cross and Dragon {
+	AE=|George R. R. Martin|
+	AS=|NebS|
+	YR=|1979|
+	TG=|7878|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Vernalfest Morning {
+	AE=|Michael Bishop|
+	AS=|NebS|
+	YR=|1979|
+	TG=|1303|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Red as Blood {
+	AE=|Tanith Lee|
+	AS=|NebS|
+	YR=|1979|
+	TG=|7284|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Extraordinary Voyages of Amélie Bertrand {
+	AE=|Joanna Russ|
+	AS=|NebS|
+	YR=|1979|
+	TG=|10069|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Grotto of the Dancing Deer {
+	AE=|Clifford D. Simak|
+	AS=|NebS|
+	YR=|1980|
+	TG=|10964|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Secrets of the Heart {
+	AE=|Charles L. Grant|
+	AS=|NebS|
+	YR=|1980|
+	TG=|5294|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Window {
+	AE=|Bob Leman|
+	AS=|NebS|
+	YR=|1980|
+	TG=|7414|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+War Beneath the Tree {
+	AE=|Gene Wolfe|
+	AS=|NebS|
+	YR=|1980|
+	TG=|13664|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Rank 84 = Withdrawn - Official Publication in a Previous Year {
+	AE=|(********)|
+	AS=|NebS|
+	YR=|1980|
+	TG=|18899|
+	TA=|Short Story|
+	TP=|x|
+	LV=|80|
+}
+A Sunday Visit with Great-Grandfather {
+	AE=|Craig Strete|
+	AS=|NebS|
+	YR=|1980|
+	TG=|11627|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|84|
+}
+The Bone Flute {
+	AE=|Lisa Tuttle|
+	AS=|NebS|
+	YR=|1981|
+	TG=|12134|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Going Under {
+	AE=|Jack Dann|
+	AS=|NebS|
+	YR=|1981|
+	TG=|3166|
+	TA=|Short Story|
+	TP=|nt|
+	LV=|9|
+}
+Disciples {
+	AE=|Gardner Dozois^Gardner R. Dozois|
+	AS=|NebS|
+	YR=|1981|
+	TG=|3804|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Quiet {
+	AE=|George Florance-Guthridge|
+	AS=|NebS|
+	YR=|1981|
+	TG=|4530|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Johnny Mnemonic {
+	AE=|William Gibson|
+	AS=|NebS|
+	YR=|1981|
+	TG=|4980|
+	TA=|Short Story|
+	TP=|nt|
+	LV=|9|
+}
+Venice Drowned {
+	AE=|Kim Stanley Robinson|
+	AS=|NebS|
+	YR=|1981|
+	TG=|9845|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Zeke {
+	AE=|Timothy Robert Sullivan|
+	AS=|NebS|
+	YR=|1981|
+	TG=|11686|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Pusher {
+	AE=|John Varley|
+	AS=|NebS|
+	YR=|1981|
+	TG=|12668|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+A Letter from the Clearys {
+	AE=|Connie Willis|
+	AS=|NebS|
+	YR=|1982|
+	TG=|13417|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Petra {
+	AE=|Greg Bear|
+	AS=|NebS|
+	YR=|1982|
+	TG=|995|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+High Steel {
+	AE=|Jack C. Haldeman II+Jack Dann|
+	AS=|NebS|
+	YR=|1982|
+	TG=|5486|
+	TA=|Short Story|
+	TP=|nt|
+	LV=|9|
+}
+Corridors {
+	AE=|Barry N. Malzberg|
+	AS=|NebS|
+	YR=|1982|
+	TG=|7775|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Pope of the Chimps {
+	AE=|Robert Silverberg|
+	AS=|NebS|
+	YR=|1982|
+	TG=|10871|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+God's Hooks {
+	AE=|Howard Waldrop|
+	AS=|NebS|
+	YR=|1982|
+	TG=|12838|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Peacemaker {
+	AE=|Gardner Dozois|
+	AS=|NebS|
+	YR=|1983|
+	TG=|3817|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Her Furry Face {
+	AE=|Leigh Kennedy|
+	AS=|NebS|
+	YR=|1983|
+	TG=|6428|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Cryptic {
+	AE=|Jack McDevitt|
+	AS=|NebS|
+	YR=|1983|
+	TG=|8109|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Ghost Town {
+	AE=|Chad Oliver|
+	AS=|NebS|
+	YR=|1983|
+	TG=|8931|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Geometry of Narrative {
+	AE=|Hilbert Schenck|
+	AS=|NebS|
+	YR=|1983|
+	TG=|10300|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Wong's Lost and Found Emporium {
+	AE=|William F. Wu|
+	AS=|NebS|
+	YR=|1983|
+	TG=|13746|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Morning Child {
+	AE=|Gardner Dozois^Gardner R. Dozois|
+	AS=|NebS|
+	YR=|1984|
+	TG=|3814|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Aliens Who Knew, I Mean, *Everything* {
+	AE=|George Alec Effinger|
+	AS=|NebS|
+	YR=|1984|
+	TG=|3957|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Salvador {
+	AE=|Lucius Shepard|
+	AS=|NebS|
+	YR=|1984|
+	TG=|10653|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Sunken Gardens {
+	AE=|Bruce Sterling|
+	AS=|NebS|
+	YR=|1984|
+	TG=|11490|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+A Cabin on the Coast {
+	AE=|Gene Wolfe|
+	AS=|NebS|
+	YR=|1984|
+	TG=|13579|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Eichmann Variations {
+	AE=|George Zebrowski|
+	AS=|NebS|
+	YR=|1984|
+	TG=|13842|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Out of All Them Bright Stars {
+	AE=|Nancy Kress|
+	AS=|NebS|
+	YR=|1985|
+	TG=|6802|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Paper Dragons {
+	AE=|James P. Blaylock|
+	AS=|NebS|
+	YR=|1985|
+	TG=|1386|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Snow {
+	AE=|John Crowley|
+	AS=|NebS|
+	YR=|1985|
+	TG=|3108|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Gods of Mars {
+	AE=|Gardner Dozois+Jack Dann+Michael Swanwick|
+	AS=|NebS|
+	YR=|1985|
+	TG=|3840|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+More Than the Sum of His Parts {
+	AE=|Joe Haldeman|
+	AS=|NebS|
+	YR=|1985|
+	TG=|5527|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Flying Saucer Rock & Roll {
+	AE=|Howard Waldrop|
+	AS=|NebS|
+	YR=|1985|
+	TG=|12836|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Heirs of the Perisphere {
+	AE=|Howard Waldrop|
+	AS=|NebS|
+	YR=|1985|
+	TG=|12841|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Hong's Bluff {
+	AE=|William F. Wu|
+	AS=|NebS|
+	YR=|1985|
+	TG=|13743|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Tangents {
+	AE=|Greg Bear|
+	AS=|NebS|
+	YR=|1986|
+	TG=|1007|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Robot Dreams {
+	AE=|Isaac Asimov|
+	AS=|NebS|
+	YR=|1986|
+	TG=|607|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Pretty Boy Crossover {
+	AE=|Pat Cadigan|
+	AS=|NebS|
+	YR=|1986|
+	TG=|2116|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Rat {
+	AE=|James Patrick Kelly|
+	AS=|NebS|
+	YR=|1986|
+	TG=|6404|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Boy Who Plaited Manes {
+	AE=|Nancy Springer|
+	AS=|NebS|
+	YR=|1986|
+	TG=|11264|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Lions Are Asleep This Night {
+	AE=|Howard Waldrop|
+	AS=|NebS|
+	YR=|1986|
+	TG=|12847|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Forever Yours, Anna {
+	AE=|Kate Wilhelm|
+	AS=|NebS|
+	YR=|1987|
+	TG=|13215|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Angel {
+	AE=|Pat Cadigan|
+	AS=|NebS|
+	YR=|1987|
+	TG=|2087|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Kid Charlemagne {
+	AE=|Paul Di Filippo|
+	AS=|NebS|
+	YR=|1987|
+	TG=|3523|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Faithful Companion at Forty {
+	AE=|Karen Joy Fowler|
+	AS=|NebS|
+	YR=|1987|
+	TG=|4628|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Cassandra's Photographs {
+	AE=|Lisa Goldstein|
+	AS=|NebS|
+	YR=|1987|
+	TG=|5187|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Temple to a Minor Goddess {
+	AE=|Susan Shwartz|
+	AS=|NebS|
+	YR=|1987|
+	TG=|10754|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Why I Left Harry's All-Night Hamburgers {
+	AE=|Lawrence Watt-Evans|
+	AS=|NebS|
+	YR=|1987|
+	TG=|12977|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Bible Stories for Adults, No. 17: The Deluge {
+	AE=|James Morrow|
+	AS=|NebS|
+	YR=|1988|
+	TG=|8578|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Voices of the Kill {
+	AE=|Thomas M. Disch|
+	AS=|NebS|
+	YR=|1988|
+	TG=|3668|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Mrs. Shummel Exits a Winner {
+	AE=|John Kessel|
+	AS=|NebS|
+	YR=|1988|
+	TG=|6462|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Fort Moxie Branch {
+	AE=|Jack McDevitt|
+	AS=|NebS|
+	YR=|1988|
+	TG=|8117|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Dead Men on TV {
+	AE=|Pat Murphy|
+	AS=|NebS|
+	YR=|1988|
+	TG=|8637|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Color Winter {
+	AE=|Steven Popkes|
+	AS=|NebS|
+	YR=|1988|
+	TG=|9289|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Ripples in the Dirac Sea {
+	AE=|Geoffrey A. Landis|
+	AS=|NebS|
+	YR=|1989|
+	TG=|6958|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Adinkra Cloth {
+	AE=|Mary C. Aldridge|
+	AS=|NebS|
+	YR=|1989|
+	TG=|287|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Ommatidium Miniatures {
+	AE=|Michael Bishop|
+	AS=|NebS|
+	YR=|1989|
+	TG=|1281|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Lost Boys {
+	AE=|Orson Scott Card|
+	AS=|NebS|
+	YR=|1989|
+	TG=|2321|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Boobs {
+	AE=|Suzy McKee Charnas|
+	AS=|NebS|
+	YR=|1989|
+	TG=|2599|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Dori Bangs {
+	AE=|Bruce Sterling|
+	AS=|NebS|
+	YR=|1989|
+	TG=|11456|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Bears Discover Fire {
+	AE=|Terry Bisson|
+	AS=|NebS|
+	YR=|1990|
+	TG=|1319|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Power and the Passion {
+	AE=|Pat Cadigan|
+	AS=|NebS|
+	YR=|1990|
+	TG=|2114|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Lieserl {
+	AE=|Karen Joy Fowler|
+	AS=|NebS|
+	YR=|1990|
+	TG=|4633|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Love and Sex Among the Invertebrates {
+	AE=|Pat Murphy|
+	AS=|NebS|
+	YR=|1990|
+	TG=|8643|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Before I Wake {
+	AE=|Kim Stanley Robinson|
+	AS=|NebS|
+	YR=|1990|
+	TG=|9772|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Story Child {
+	AE=|Kristine Kathryn Rusch|
+	AS=|NebS|
+	YR=|1990|
+	TG=|10049|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Ma Qui {
+	AE=|Alan Brennert|
+	AS=|NebS|
+	YR=|1991|
+	TG=|1636|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+They're Made Out of Meat {
+	AE=|Terry Bisson|
+	AS=|NebS|
+	YR=|1991|
+	TG=|1350|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Dark {
+	AE=|Karen Joy Fowler|
+	AS=|NebS|
+	YR=|1991|
+	TG=|4624|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Buffalo {
+	AE=|John Kessel|
+	AS=|NebS|
+	YR=|1991|
+	TG=|6450|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Dog's Life {
+	AE=|Martha Soukup|
+	AS=|NebS|
+	YR=|1991|
+	TG=|11182|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+the button, and what you know {
+	AE=|W. Gregory Stewart|
+	AS=|NebS|
+	YR=|1991|
+	TG=|11543|
+	TA=|Short Story|
+	TP=|po|
+	LV=|9|
+}
+Even the Queen {
+	AE=|Connie Willis|
+	AS=|NebS|
+	YR=|1992|
+	TG=|13393|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Life Regarded as a Jigsaw Puzzle of Highly Lustrous Cats {
+	AE=|Michael Bishop|
+	AS=|NebS|
+	YR=|1992|
+	TG=|1266|
+	TA=|Short Story|
+	TP=|nt|
+	LV=|9|
+}
+Lennon Spex {
+	AE=|Paul Di Filippo|
+	AS=|NebS|
+	YR=|1992|
+	TG=|3524|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Mountain to Mohammed {
+	AE=|Nancy Kress|
+	AS=|NebS|
+	YR=|1992|
+	TG=|6800|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Vinland the Dream {
+	AE=|Kim Stanley Robinson|
+	AS=|NebS|
+	YR=|1992|
+	TG=|9847|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Arbitrary Placement of Walls {
+	AE=|Martha Soukup|
+	AS=|NebS|
+	YR=|1992|
+	TG=|11176|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebS|
+	YR=|1992|
+	TG=|106|
+	TA=|Short Story|
+	TP=|x|
+	LV=|90|
+}
+The Fabularium {
+	AE=|Ray Aldridge|
+	AS=|NebS|
+	YR=|1992|
+	TG=|292|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Johnny Come Home {
+	AE=|Pat Cadigan|
+	AS=|NebS|
+	YR=|1992|
+	TG=|2105|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Nine-Tenths of the Law {
+	AE=|Susan Casper|
+	AS=|NebS|
+	YR=|1992|
+	TG=|2499|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Extraordinary Measures {
+	AE=|Michael Cassutt|
+	AS=|NebS|
+	YR=|1992|
+	TG=|2505|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Division by Zero {
+	AE=|Ted Chiang|
+	AS=|NebS|
+	YR=|1992|
+	TG=|2722|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Voices {
+	AE=|Jack Dann|
+	AS=|NebS|
+	YR=|1992|
+	TG=|3183|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Resurrection of Alonso Quijana {
+	AE=|Marcos Donnelly|
+	AS=|NebS|
+	YR=|1992|
+	TG=|3715|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Fellow Americans {
+	AE=|Eileen Gunn|
+	AS=|NebS|
+	YR=|1992|
+	TG=|5420|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Hole-in-the-Wall {
+	AE=|Bridget McKenna|
+	AS=|NebS|
+	YR=|1992|
+	TG=|8260|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Peter {
+	AE=|Pat Murphy|
+	AS=|NebS|
+	YR=|1992|
+	TG=|8645|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Lotus and the Spear {
+	AE=|Mike Resnick|
+	AS=|NebS|
+	YR=|1992|
+	TG=|9637|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Overlays {
+	AE=|Joel Richards|
+	AS=|NebS|
+	YR=|1992|
+	TG=|9707|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Graves {
+	AE=|Joe Haldeman|
+	AS=|NebS|
+	YR=|1993|
+	TG=|5513|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Man Who Rowed Christopher Columbus Ashore {
+	AE=|Harlan Ellison|
+	AS=|NebS|
+	YR=|1993|
+	TG=|4201|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+All Vows {
+	AE=|Esther M. Friesner|
+	AS=|NebS|
+	YR=|1993|
+	TG=|4760|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Alfred {
+	AE=|Lisa Goldstein|
+	AS=|NebS|
+	YR=|1993|
+	TG=|5183|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Good Pup {
+	AE=|Bridget McKenna|
+	AS=|NebS|
+	YR=|1993|
+	TG=|8258|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Beggar in the Living Room {
+	AE=|William John Watkins|
+	AS=|NebS|
+	YR=|1993|
+	TG=|12921|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebS|
+	YR=|1993|
+	TG=|107|
+	TA=|Short Story|
+	TP=|x|
+	LV=|90|
+}
+The Winterberry {
+	AE=|Nicholas A. DiChario|
+	AS=|NebS|
+	YR=|1993|
+	TG=|3537|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Mwalimu in the Squared Circle {
+	AE=|Mike Resnick|
+	AS=|NebS|
+	YR=|1993|
+	TG=|9649|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Pale Thin God {
+	AE=|Mike Resnick|
+	AS=|NebS|
+	YR=|1993|
+	TG=|9658|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+A Little Night Music {
+	AE=|Lucius Shepard|
+	AS=|NebS|
+	YR=|1993|
+	TG=|10636|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Story So Far {
+	AE=|Martha Soukup|
+	AS=|NebS|
+	YR=|1993|
+	TG=|11189|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Googleplex Comes and Goes {
+	AE=|Del Stone, Jr.|
+	AS=|NebS|
+	YR=|1993|
+	TG=|11572|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Change of Life {
+	AE=|L. A. Taylor|
+	AS=|NebS|
+	YR=|1993|
+	TG=|11840|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Useful Phrases {
+	AE=|Gene Wolfe|
+	AS=|NebS|
+	YR=|1993|
+	TG=|13661|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+A Defense of the Social Contracts {
+	AE=|Martha Soukup|
+	AS=|NebS|
+	YR=|1994|
+	TG=|11179|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Inspiration {
+	AE=|Ben Bova|
+	AS=|NebS|
+	YR=|1994|
+	TG=|1513|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+None So Blind {
+	AE=|Joe Haldeman|
+	AS=|NebS|
+	YR=|1994|
+	TG=|5533|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Understanding Entropy {
+	AE=|Barry N. Malzberg|
+	AS=|NebS|
+	YR=|1994|
+	TG=|7795|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Virtual Love {
+	AE=|Maureen F. McHugh|
+	AS=|NebS|
+	YR=|1994|
+	TG=|8217|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+I Know What You're Thinking {
+	AE=|Kate Wilhelm|
+	AS=|NebS|
+	YR=|1994|
+	TG=|13225|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebS|
+	YR=|1994|
+	TG=|108|
+	TA=|Short Story|
+	TP=|x|
+	LV=|90|
+}
+Mrs. Lincoln's China {
+	AE=|M. Shayne Bell|
+	AS=|NebS|
+	YR=|1994|
+	TG=|1039|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Thirteen Ways of Looking at a Dinosaur {
+	AE=|Gregory Feeley|
+	AS=|NebS|
+	YR=|1994|
+	TG=|4394|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+In the Hole with the Boys with the Toys {
+	AE=|Geoffrey A. Landis|
+	AS=|NebS|
+	YR=|1994|
+	TG=|6950|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Hugh Merrow {
+	AE=|Jonathan Lethem|
+	AS=|NebS|
+	YR=|1994|
+	TG=|7435|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Barnaby in Exile {
+	AE=|Mike Resnick|
+	AS=|NebS|
+	YR=|1994|
+	TG=|9605|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Light at the End of the Day {
+	AE=|Carrie Richerson|
+	AS=|NebS|
+	YR=|1994|
+	TG=|9715|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Jukebox Gifts {
+	AE=|Dean Wesley Smith|
+	AS=|NebS|
+	YR=|1994|
+	TG=|11098|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Roadkill {
+	AE=|Sage Walker|
+	AS=|NebS|
+	YR=|1994|
+	TG=|12873|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Bridging {
+	AE=|Rick Wilber|
+	AS=|NebS|
+	YR=|1994|
+	TG=|13186|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Death and the Librarian {
+	AE=|Esther M. Friesner|
+	AS=|NebS|
+	YR=|1995|
+	TG=|4767|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Alien Jane {
+	AE=|Kelley Eskridge|
+	AS=|NebS|
+	YR=|1995|
+	TG=|4273|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Grass Dancer {
+	AE=|Owl Goingback|
+	AS=|NebS|
+	YR=|1995|
+	TG=|5154|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Narcissus Plague {
+	AE=|Lisa Goldstein|
+	AS=|NebS|
+	YR=|1995|
+	TG=|5197|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Kingdom of Cats and Birds {
+	AE=|Geoffrey A. Landis|
+	AS=|NebS|
+	YR=|1995|
+	TG=|6951|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Lincoln Train {
+	AE=|Maureen F. McHugh|
+	AS=|NebS|
+	YR=|1995|
+	TG=|8200|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Short Timer {
+	AE=|Dave Smeds|
+	AS=|NebS|
+	YR=|1995|
+	TG=|11067|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebS|
+	YR=|1995|
+	TG=|109|
+	TA=|Short Story|
+	TP=|x|
+	LV=|90|
+}
+Curse of the Cyberhead's Wife {
+	AE=|Bruce Boston|
+	AS=|NebS|
+	YR=|1995|
+	TG=|1473|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Transcendentalists {
+	AE=|David Ira Cleary|
+	AS=|NebS|
+	YR=|1995|
+	TG=|2837|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+A Cat Horror Story {
+	AE=|Gardner Dozois|
+	AS=|NebS|
+	YR=|1995|
+	TG=|3798|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Wells of Wisdom {
+	AE=|Brad Linaweaver|
+	AS=|NebS|
+	YR=|1995|
+	TG=|7492|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Dilating the Paradox {
+	AE=|Paula May|
+	AS=|NebS|
+	YR=|1995|
+	TG=|7941|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Moriarty By Modem {
+	AE=|Jack Nimersheim|
+	AS=|NebS|
+	YR=|1995|
+	TG=|8726|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Swift Thoughts {
+	AE=|George Zebrowski|
+	AS=|NebS|
+	YR=|1995|
+	TG=|13850|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+A Birthday {
+	AE=|Esther M. Friesner|
+	AS=|NebS|
+	YR=|1996|
+	TG=|4763|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+In the Pound, Near Breaktime {
+	AE=|Kent Brewster|
+	AS=|NebS|
+	YR=|1996|
+	TG=|1647|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The String {
+	AE=|Kathleen Ann Goonan|
+	AS=|NebS|
+	YR=|1996|
+	TG=|5225|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Five Fucks {
+	AE=|Jonathan Lethem|
+	AS=|NebS|
+	YR=|1996|
+	TG=|7424|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+These Shoes Strangers Have Died of {
+	AE=|Bruce Holland Rogers|
+	AS=|NebS|
+	YR=|1996|
+	TG=|9908|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+In the Shade of the Slowboat Man {
+	AE=|Dean Wesley Smith|
+	AS=|NebS|
+	YR=|1996|
+	TG=|11095|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebS|
+	YR=|1996|
+	TG=|110|
+	TA=|Short Story|
+	TP=|x|
+	LV=|90|
+}
+Life on the Moon {
+	AE=|Tony Daniel|
+	AS=|NebS|
+	YR=|1996|
+	TG=|3143|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Ebb Tide {
+	AE=|Mary Soon Lee|
+	AS=|NebS|
+	YR=|1996|
+	TG=|7233|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Dream of Houses {
+	AE=|Wil McCarthy|
+	AS=|NebS|
+	YR=|1996|
+	TG=|8084|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Rhapsody {
+	AE=|Lyn Nichols|
+	AS=|NebS|
+	YR=|1996|
+	TG=|8714|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Stop-It-Now {
+	AE=|Jonathan V. Post|
+	AS=|NebS|
+	YR=|1996|
+	TG=|9335|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Count on Me {
+	AE=|Ray Vukcevich|
+	AS=|NebS|
+	YR=|1996|
+	TG=|12771|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Cool Zone {
+	AE=|Pat York|
+	AS=|NebS|
+	YR=|1996|
+	TG=|13816|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Sister Emily's Lightship {
+	AE=|Jane Yolen|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17686|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Crab Lice {
+	AE=|Gregory Feeley|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17634|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Elizabeth Complex {
+	AE=|Karen Joy Fowler|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17635|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Itsy Bitsy Spider {
+	AE=|James Patrick Kelly|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17649|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Dead {
+	AE=|Michael Swanwick|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17676|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Burning Bright {
+	AE=|K. D. Wentworth|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17678|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17810|
+	TA=|Short Story|
+	TP=|x|
+	LV=|90|
+}
+In the House of the Man in the Moon {
+	AE=|Richard Bowes|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17817|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Teddy {
+	AE=|Rob Chilson|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17820|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Beluthahatchie {
+	AE=|Andy Duncan|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17826|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Shaper of Things to Come {
+	AE=|Marianne Dyson|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17828|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Snowball {
+	AE=|Jeffery D. Kooistra|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17844|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Universal Grammar {
+	AE=|Mary Soon Lee|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17847|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+No Blood on My Hands {
+	AE=|Pete D. Manison|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17851|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+United Powers {
+	AE=|Kathleen M. Massie-Ferch|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17852|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Water Snakes {
+	AE=|Holly Wade Matter|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17853|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Spectral Stardrive {
+	AE=|Jerry Oltion|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17858|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+That Cruel Pauli Exclusion {
+	AE=|Kent Patterson|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17859|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The 43 Antarean Dynasties {
+	AE=|Mike Resnick|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17860|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Hammerpond Park Burglary {
+	AE=|Ted Reynolds|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17862|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Orphans of Eden {
+	AE=|Spider Robinson|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17863|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Peking Man {
+	AE=|Robert J. Sawyer|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17865|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Sound of Angels {
+	AE=|Lisa S. Sliverthorne|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17869|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Waking Beauty {
+	AE=|Martha Soukup|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17870|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Beside the Well {
+	AE=|Leslie What|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17876|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Where Garagiola Waits {
+	AE=|Rick Wilber|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17877|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Nairich {
+	AE=|William F. Wu|
+	AS=|NebS|
+	YR=|1997|
+	TG=|17875|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Thirteen Ways to Water {
+	AE=|Bruce Holland Rogers|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19424|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+When the Bough Breaks {
+	AE=|Steven Brust|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19384|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Standing Room Only {
+	AE=|Karen Joy Fowler|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19393|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Fortune and Misfortune {
+	AE=|Lisa Goldstein|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19398|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Winter Fire {
+	AE=|Geoffrey A. Landis|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19409|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Tall One {
+	AE=|K. D. Wentworth|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19445|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebS|
+	YR=|1998|
+	TG=|22700|
+	TA=|Short Story|
+	TP=|x|
+	LV=|90|
+}
+Cosmic Corkscrew {
+	AE=|Michael A. Burstein|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19386|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Kaleidoscope {
+	AE=|Kate Daniel|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19387|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Children of Tears {
+	AE=|Adrienne Gormley|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19399|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Walter's Christmas-Night Musik {
+	AE=|Susan J. Kroupa|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19406|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Monstrosity {
+	AE=|Mary Soon Lee|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19410|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Advantage, Bellarmine {
+	AE=|Paul Levinson|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19411|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Tiger, Tiger {
+	AE=|Severna Park|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19422|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Hand You're Dealt {
+	AE=|Robert J. Sawyer|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19429|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Waiting for Victor {
+	AE=|Del Stone, Jr.|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19434|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Silver Apples {
+	AE=|Beverly Suarez-Beard|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19437|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Big One {
+	AE=|James Van Pelt|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19441|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Ballad of Kansas Mcgriff {
+	AE=|Bud Webster|
+	AS=|NebS|
+	YR=|1998|
+	TG=|19443|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Cost of Doing Business {
+	AE=|Leslie What|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21101|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Flower Kiss {
+	AE=|Constance Ash|
+	AS=|NebS|
+	YR=|1999|
+	TG=|20855|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Dead Boy at Your Window {
+	AE=|Bruce Holland Rogers|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21048|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Basil the Dog {
+	AE=|Frances Sherwood|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21065|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Ancient Engines {
+	AE=|Michael Swanwick|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21084|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Radiant Doors {
+	AE=|Michael Swanwick|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21085|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebS|
+	YR=|1999|
+	TG=|22701|
+	TA=|Short Story|
+	TP=|x|
+	LV=|90|
+}
+Nor Through Inaction {
+	AE=|Charles Ardai+Michael A. Burstein|
+	AS=|NebS|
+	YR=|1999|
+	TG=|20853|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Lock Down {
+	AE=|M. Shayne Bell|
+	AS=|NebS|
+	YR=|1999|
+	TG=|20863|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Dog-Faced Boy and the Amazing Winged Man {
+	AE=|Tippi N. Blevins|
+	AS=|NebS|
+	YR=|1999|
+	TG=|20866|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+A Huntsman Passing by {
+	AE=|Richard Bowes|
+	AS=|NebS|
+	YR=|1999|
+	TG=|20869|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+In Space, No One Can Hear {
+	AE=|Michael A. Burstein|
+	AS=|NebS|
+	YR=|1999|
+	TG=|20876|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Disappearance of Josie Andrew {
+	AE=|Ron Collins|
+	AS=|NebS|
+	YR=|1999|
+	TG=|20890|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Sarajevo {
+	AE=|Nicholas A. DiChario^Nick DiChario|
+	AS=|NebS|
+	YR=|1999|
+	TG=|20901|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Nostalginauts {
+	AE=|Sharon N. Farber^S. N. Dyer|
+	AS=|NebS|
+	YR=|1999|
+	TG=|20910|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Talk to Me {
+	AE=|Valerie J. Freireich|
+	AS=|NebS|
+	YR=|1999|
+	TG=|20919|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Yurek Rutz, Yurek Rutz, Yurek Rutz {
+	AE=|David Marusek|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21001|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Breadfruit Empire {
+	AE=|Severna Park|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21028|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Stones from Which Meadows Grow {
+	AE=|Wolf Read|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21042|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Zothique Mi Amor {
+	AE=|Mark Rich|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21043|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Love of the True God {
+	AE=|Uncle River|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21045|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Billy Mitchell's Overt Act {
+	AE=|William Sanders|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21054|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Jennifer, Just Before Midnight {
+	AE=|William Sanders|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21055|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Practical Ramification of Interstellar Packet Loss {
+	AE=|William Shunn|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21067|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Dreams and Nightmares {
+	AE=|Bradley Sinor|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21071|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+A Wife of Acorn, Leaf, and Rain {
+	AE=|Dave Smeds|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21074|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+And Now Abideth These Three {
+	AE=|Sherwood Smith|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21077|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Maneki Neko {
+	AE=|Bruce Sterling|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21079|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Nor a Lender Be {
+	AE=|James Van Pelt|
+	AS=|NebS|
+	YR=|1999|
+	TG=|21093|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+macs {
+	AE=|Terry Bisson|
+	AS=|NebS|
+	YR=|2000|
+	TG=|22359|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Fantasy Writer's Assistant {
+	AE=|Jeffrey Ford|
+	AS=|NebS|
+	YR=|2000|
+	TG=|22401|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Flying over Water {
+	AE=|Ellen Klages|
+	AS=|NebS|
+	YR=|2000|
+	TG=|22434|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Golem {
+	AE=|Severna Park|
+	AS=|NebS|
+	YR=|2000|
+	TG=|22471|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Scherzo with Tyrannosaur {
+	AE=|Michael Swanwick|
+	AS=|NebS|
+	YR=|2000|
+	TG=|22522|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+You Wandered off Like a Foolish Child to Break Your Heart and Mine {
+	AE=|Pat York|
+	AS=|NebS|
+	YR=|2000|
+	TG=|22449|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebS|
+	YR=|2000|
+	TG=|22340|
+	TA=|Short Story|
+	TP=|x|
+	LV=|90|
+}
+Stealing the Sun {
+	AE=|Ron Collins|
+	AS=|NebS|
+	YR=|2000|
+	TG=|22384|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Hooking Up {
+	AE=|Michael Kandel|
+	AS=|NebS|
+	YR=|2000|
+	TG=|22432|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Painted Houses {
+	AE=|Melisa C. Michaels|
+	AS=|NebS|
+	YR=|2000|
+	TG=|22458|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Rossia Moya {
+	AE=|Vera Nazarian|
+	AS=|NebS|
+	YR=|2000|
+	TG=|22462|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Hothouse Flowers {
+	AE=|Mike Resnick|
+	AS=|NebS|
+	YR=|2000|
+	TG=|22485|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Dirty Little Cowards {
+	AE=|William Sanders|
+	AS=|NebS|
+	YR=|2000|
+	TG=|22494|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+The Shoulders of Giants {
+	AE=|Robert J. Sawyer|
+	AS=|NebS|
+	YR=|2000|
+	TG=|22496|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Imagine Jimmy {
+	AE=|Rick Wilber|
+	AS=|NebS|
+	YR=|2000|
+	TG=|18844|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|92|
+}
+Soylent Green {
+	AE=|Stanley R. Greenberg+Harry Harrison|
+	MV=|Soylent Green (1973)|
+	AS=|NebD|
+	YR=|1973|
+	TG=|14006|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Westworld {
+	AE=|Michael Crichton|
+	MV=|Westworld (1973)|
+	AS=|NebD|
+	YR=|1973|
+	TG=|14002|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Steambath {
+	AE=|Bruce Jay Friedman|
+	AS=|NebD|
+	YR=|1973|
+	TG=|14005|
+	TA=|Dramatic Presentation|
+	TP=|sc|
+	LV=|9|
+}
+Catholics {
+	AE=|Brian Moore|
+	MV=|Catholics (1973) (TV)|
+	AS=|NebD|
+	YR=|1973|
+	TG=|14011|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Sleeper {
+	AE=|Woody Allen|
+	MV=|Sleeper (1973)|
+	AS=|NebD|
+	YR=|1974|
+	TG=|13999|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+The Fantastic Planet {
+	AE=|Steve Hayes+René Laloux+Roland Topor+Stefan Wul|
+	MV=|Planète sauvage, La (1973)|
+	AS=|NebD|
+	YR=|1974|
+	TG=|14015|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|2|
+}
+Frankenstein: The True Story {
+	AE=|Don Bachardy+Christopher Isherwood|
+	MV=|Frankenstein: The True Story (1973) (TV)|
+	AS=|NebD|
+	YR=|1974|
+	TG=|14018|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|3|
+}
+Young Frankenstein {
+	AE=|Mel Brooks+Mary Shelley+Gene Wilder|
+	MV=|Young Frankenstein (1974)|
+	AS=|NebD|
+	YR=|1975|
+	TG=|14000|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+A Boy and His Dog {
+	AE=|Harlan Ellison+L. Q. Jones|
+	MV=|Boy and His Dog, A (1975)|
+	AS=|NebD|
+	YR=|1975|
+	TG=|14003|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|2|
+}
+Dark Star {
+	AE=|John Carpenter+Dan O'Bannon|
+	MV=|Dark Star (1973)|
+	AS=|NebD|
+	YR=|1975|
+	TG=|14001|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|3|
+}
+Rollerball {
+	AE=|William Harrison+Norman Jewison+Martin Julien|
+	MV=|Rollerball (1975)|
+	AS=|NebD|
+	YR=|1975|
+	TG=|14007|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+No Award {
+	AE=|(********)|
+	AS=|NebD|
+	YR=|1976|
+	TG=|13997|
+	TA=|Dramatic Presentation|
+	TP=|x|
+	LV=|1|
+}
+Harlan! Harlan Ellison Reads Harlan Ellison {
+	AE=|Harlan Ellison|
+	AS=|NebD|
+	YR=|1976|
+	TG=|14004|
+	TA=|Dramatic Presentation|
+	TP=|dr|
+	LV=|2|
+}
+The Man Who Fell to Earth {
+	AE=|Paul Mayersberg+Walter Tevis|
+	MV=|Man Who Fell to Earth, The (1976)|
+	AS=|NebD|
+	YR=|1976|
+	TG=|14017|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|3|
+}
+Logan's Run {
+	AE=|David Zelag Goodman+George Clayton Johnson+William F. Nolan|
+	MV=|Logan's Run (1976)|
+	AS=|NebD|
+	YR=|1976|
+	TG=|14016|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|4|
+}
+Terminator 2: Judgment Day {
+	AE=|James Cameron+William Wisher|
+	MV=|Terminator 2: Judgment Day (1991)|
+	AS=|NebD|
+	YR=|1991|
+	TG=|14020|
+	TA=|Bradbury Award (President's Award for Dramatic Presentation)|
+	TP=|f|
+	LV=|1|
+}
+Cast a Deadly Spell {
+	AE=|Joseph Daugherty|
+	MV=|Cast a Deadly Spell (1991) (TV)|
+	AS=|NebD|
+	YR=|1991|
+	TG=|14021|
+	TA=|Bradbury Award (President's Award for Dramatic Presentation)|
+	TP=|tve|
+	LV=|9|
+}
+Dead Again {
+	AE=|Scott Frank|
+	MV=|Dead Again (1991)|
+	AS=|NebD|
+	YR=|1991|
+	TG=|14022|
+	TA=|Bradbury Award (President's Award for Dramatic Presentation)|
+	TP=|f|
+	LV=|9|
+}
+untitled {
+	AE=|J. Michael Straczynski|
+	AS=|NebD|
+	YR=|1998|
+	TG=|19435|
+	TA=|Ray Bradbury Award for Dramatic Screenwriting|
+	TP=|au|
+	LV=|1|
+}
+The Sixth Sense {
+	AE=|M. Night Shyamalan|
+	MV=|Sixth Sense, The (1999)|
+	AS=|NebD|
+	YR=|1999|
+	TG=|21068|
+	TA=|Best Script|
+	TP=|sc|
+	LV=|1|
+}
+The Devil's Arithmetic {
+	AE=|Robert J. Avrech|
+	AS=|NebD|
+	YR=|1999|
+	TG=|20856|
+	TA=|Best Script|
+	TP=|tp|
+	LV=|9|
+}
+The Iron Giant {
+	AE=|Brad Bird+Tim McCanlies|
+	MV=|Iron Giant, The (1999)|
+	AS=|NebD|
+	YR=|1999|
+	TG=|20865|
+	TA=|Best Script|
+	TP=|sc|
+	LV=|9|
+}
+The Uranus Experiment: Part 2 {
+	AE=|John Millerman|
+	MV=|Uranus Experiment: Part 2, The (1999) (V)|
+	AS=|NebD|
+	YR=|1999|
+	TG=|21007|
+	TA=|Best Script|
+	TP=|tp|
+	LV=|9|
+}
+The Matrix {
+	AE=|Andy Wachowski+Larry Wachowski|
+	MV=|Matrix, The (1999)|
+	AS=|NebD|
+	YR=|1999|
+	TG=|21096|
+	TA=|Best Script|
+	TP=|sc|
+	LV=|9|
+}
+2000X {
+	AE=|Harlan Ellison+Yuri Rasovsky+Warren Dewey|
+	AS=|NebD|
+	YR=|2000|
+	TG=|22395|
+	TA=|Bradbury Award (President's Award for Dramatic Presentation)|
+	TP=|dr|
+	LV=|1|
+}
+Galaxy Quest {
+	AE=|Robert Gordon+David Howard|
+	MV=|Galaxy Quest (1999)|
+	AS=|NebD|
+	YR=|2000|
+	TG=|22414|
+	TA=|Dramatic Presentation|
+	TP=|sc|
+	LV=|1|
+}
+The Green Mile {
+	AE=|Frank Darabont+Stephen King|
+	MV=|Green Mile, The (1999)|
+	AS=|NebD|
+	YR=|2000|
+	TG=|22387|
+	TA=|Dramatic Presentation|
+	TP=|sc|
+	LV=|9|
+}
+Being John Malkovich {
+	AE=|Charlie Kaufman|
+	MV=|Being John Malkovich (1999)|
+	AS=|NebD|
+	YR=|2000|
+	TG=|22433|
+	TA=|Dramatic Presentation|
+	TP=|sc|
+	LV=|9|
+}
+Princess Mononoke {
+	AE=|Hayao Miyazaki+Neil Gaiman|
+	MV=|Mononoke Hime (1997)|
+	AS=|NebD|
+	YR=|2000|
+	TG=|22459|
+	TA=|Dramatic Presentation|
+	TP=|sc|
+	LV=|9|
+}
+Unbreakable {
+	AE=|M. Night Shyamalan|
+	MV=|Unbreakable (2000)|
+	AS=|NebD|
+	YR=|2000|
+	TG=|22502|
+	TA=|Dramatic Presentation|
+	TP=|sc|
+	LV=|9|
+}
+Dogma {
+	AE=|Kevin Smith|
+	MV=|Dogma (1999)|
+	AS=|NebD|
+	YR=|2000|
+	TG=|22506|
+	TA=|Dramatic Presentation|
+	TP=|sc|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|NebD|
+	YR=|2000|
+	TG=|22702|
+	TA=|Dramatic Presentation|
+	TP=|x|
+	LV=|90|
+}
+South Park: Bigger, Longer and Uncut {
+	AE=|Trey Parker+Matt Stone+Pam Brady|
+	MV=|South Park: Bigger, Longer and Uncut (1999)|
+	AS=|NebD|
+	YR=|2000|
+	TG=|22472|
+	TA=|Dramatic Presentation|
+	TP=|sc|
+	LV=|92|
+}
+untitled {
+	AE=|Robert A. Heinlein|
+	AS=|NebG|
+	YR=|1974|
+	TG=|5793|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Jack Williamson|
+	AS=|NebG|
+	YR=|1975|
+	TG=|13343|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Clifford D. Simak|
+	AS=|NebG|
+	YR=|1976|
+	TG=|10948|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|L. Sprague de Camp|
+	AS=|NebG|
+	YR=|1978|
+	TG=|3307|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Fritz Leiber|
+	AS=|NebG|
+	YR=|1980|
+	TG=|7330|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Andre Norton|
+	AS=|NebG|
+	YR=|1983|
+	TG=|8870|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Arthur C. Clarke|
+	AS=|NebG|
+	YR=|1985|
+	TG=|2785|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Isaac Asimov|
+	AS=|NebG|
+	YR=|1986|
+	TG=|543|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Alfred Bester|
+	AS=|NebG|
+	YR=|1987|
+	TG=|1159|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Ray Bradbury|
+	AS=|NebG|
+	YR=|1988|
+	TG=|1562|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Lester del Rey|
+	AS=|NebG|
+	YR=|1990|
+	TG=|3400|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Frederik Pohl|
+	AS=|NebG|
+	YR=|1992|
+	TG=|9191|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Damon Knight|
+	AS=|NebG|
+	YR=|1994|
+	TG=|6670|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|A. E. van Vogt|
+	AS=|NebG|
+	YR=|1995|
+	TG=|12553|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Jack Vance|
+	AS=|NebG|
+	YR=|1996|
+	TG=|12565|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Poul Anderson|
+	AS=|NebG|
+	YR=|1997|
+	TG=|18059|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+Clement,Hal {
+	AE=|Harry Clement Stubbs|
+	AS=|NebG|
+	YR=|1998|
+	TG=|19436|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Brian W. Aldiss|
+	AS=|NebG|
+	YR=|1999|
+	TG=|19906|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Philip José Farmer|
+	AS=|NebG|
+	YR=|2000|
+	TG=|22398|
+	TA=|Grand Master|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Wilson Tucker|
+	AS=|NebA|
+	YR=|1995|
+	TG=|12059|
+	TA=|Special Author Emeritus|
+	TP=|au|
+	LV=|1|
+}
+William Tenn {
+	AE=|Philip Klass|
+	AS=|NebA|
+	YR=|1998|
+	TG=|19404|
+	TA=|Special Author Emeritus|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Daniel Keyes|
+	AS=|NebA|
+	YR=|1999|
+	TG=|20966|
+	TA=|Special Author Emeritus|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Robert Sheckley|
+	AS=|NebA|
+	YR=|2000|
+	TG=|22499|
+	TA=|Special Author Emeritus|
+	TP=|au|
+	LV=|1|
+}
+Star Wars {
+	AE=|George Lucas|
+	MV=|Star Wars (1977)|
+	AS=|NebX|
+	YR=|1977|
+	TG=|14010|
+	TA=|Special Award (Not a Nebula)|
+	TP=|f|
+	LV=|1|
+}
+untitled {
+	AE=|Chuq Von Rospach|
+	AS=|NebX|
+	YR=|1995|
+	TG=|12744|
+	TA=|Special Service|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Pamela Sargent|
+	AS=|NebX|
+	YR=|1999|
+	TG=|21058|
+	TA=|Special Service|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|George Zebrowski|
+	AS=|NebX|
+	YR=|1999|
+	TG=|21112|
+	TA=|Special Service|
+	TP=|hu|
+	LV=|1|
+}

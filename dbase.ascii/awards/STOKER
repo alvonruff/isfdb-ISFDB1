@@ -1,0 +1,9906 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)STOKER	1.12	12/29/98 ISFDB";
+##
+Misery {
+	AE=|Stephen King|
+	AS=|StokN|
+	YR=|1987|
+	TG=|6581|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|1|
+}
+Swan Song {
+	AE=|Robert R. McCammon|
+	AS=|StokN|
+	YR=|1987|
+	TG=|8063|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|1|
+}
+Live Girls {
+	AE=|Ray Garton|
+	AS=|StokN|
+	YR=|1987|
+	TG=|4865|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Unassigned Territory {
+	AE=|Ken Nunn|
+	AS=|StokN|
+	YR=|1987|
+	TG=|8892|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Ash Wednesday {
+	AE=|Chet Williamson|
+	AS=|StokN|
+	YR=|1987|
+	TG=|13325|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+The Silence of the Lambs {
+	AE=|Thomas Harris|
+	AS=|StokN|
+	YR=|1988|
+	TG=|5662|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|1|
+}
+The Drive-In {
+	AE=|Joe R. Lansdale|
+	AS=|StokN|
+	YR=|1988|
+	TG=|7032|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Flesh {
+	AE=|Richard Laymon|
+	AS=|StokN|
+	YR=|1988|
+	TG=|7084|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Stinger {
+	AE=|Robert R. McCammon|
+	AS=|StokN|
+	YR=|1988|
+	TG=|8061|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+The Queen of the Damned {
+	AE=|Anne Rice|
+	AS=|StokN|
+	YR=|1988|
+	TG=|9698|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Black Wind {
+	AE=|F. Paul Wilson|
+	AS=|StokN|
+	YR=|1988|
+	TG=|13456|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Carrion Comfort {
+	AE=|Dan Simmons|
+	AS=|StokN|
+	YR=|1989|
+	TG=|10978|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|1|
+}
+Geek Love {
+	AE=|Katherine Dunn|
+	AS=|StokN|
+	YR=|1989|
+	TG=|3872|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+In a Dark Dream {
+	AE=|Charles L. Grant|
+	AS=|StokN|
+	YR=|1989|
+	TG=|5282|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Midnight {
+	AE=|Dean R. Koontz|
+	AS=|StokN|
+	YR=|1989|
+	TG=|6728|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+The Wolf's Hour {
+	AE=|Robert R. McCammon|
+	AS=|StokN|
+	YR=|1989|
+	TG=|8066|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Mine {
+	AE=|Robert R. McCammon|
+	AS=|StokN|
+	YR=|1990|
+	TG=|8058|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|1|
+}
+Savage Season {
+	AE=|Joe R. Lansdale|
+	AS=|StokN|
+	YR=|1990|
+	TG=|7042|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Funland {
+	AE=|Richard Laymon|
+	AS=|StokN|
+	YR=|1990|
+	TG=|7085|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Reign {
+	AE=|Chet Williamson|
+	AS=|StokN|
+	YR=|1990|
+	TG=|13329|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Boy's Life {
+	AE=|Robert R. McCammon|
+	AS=|StokN|
+	YR=|1991|
+	TG=|8054|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|1|
+}
+The M.D. {
+	AE=|Thomas M. Disch|
+	AS=|StokN|
+	YR=|1991|
+	TG=|3650|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dark Tower III: The Waste Lands {
+	AE=|Stephen King|
+	AS=|StokN|
+	YR=|1991|
+	TG=|6554|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Needful Things {
+	AE=|Stephen King|
+	AS=|StokN|
+	YR=|1991|
+	TG=|6586|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Summer of Night {
+	AE=|Dan Simmons|
+	AS=|StokN|
+	YR=|1991|
+	TG=|11019|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Blood of the Lamb {
+	AE=|Thomas F. Monteleone|
+	AS=|StokN|
+	YR=|1992|
+	TG=|8449|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|1|
+}
+Homecoming {
+	AE=|Matthew J. Costello|
+	AS=|StokN|
+	YR=|1992|
+	TG=|2985|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Deathgrip {
+	AE=|Brian Hodge|
+	AS=|StokN|
+	YR=|1992|
+	TG=|5947|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Hideaway {
+	AE=|Dean R. Koontz|
+	AS=|StokN|
+	YR=|1992|
+	TG=|6726|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Children of the Night {
+	AE=|Dan Simmons|
+	AS=|StokN|
+	YR=|1992|
+	TG=|10981|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+The Throat {
+	AE=|Peter Straub|
+	AS=|StokN|
+	YR=|1993|
+	TG=|11622|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|1|
+}
+Drawing Blood {
+	AE=|Poppy Z. Brite|
+	AS=|StokN|
+	YR=|1993|
+	TG=|1703|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Blackburn {
+	AE=|Bradley Denton|
+	AS=|StokN|
+	YR=|1993|
+	TG=|3477|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+The Summoning {
+	AE=|Bentley Little|
+	AS=|StokN|
+	YR=|1993|
+	TG=|7536|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Anno Dracula {
+	AE=|Kim Newman|
+	AS=|StokN|
+	YR=|1993|
+	TG=|8697|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Dead in the Water {
+	AE=|Nancy Holder|
+	AS=|StokN|
+	YR=|1994|
+	TG=|5999|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|1|
+}
+The Alienist {
+	AE=|Caleb Carr|
+	AS=|StokN|
+	YR=|1994|
+	TG=|2378|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+From the Teeth of Angels {
+	AE=|Jonathan Carroll|
+	AS=|StokN|
+	YR=|1994|
+	TG=|2461|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Insomnia {
+	AE=|Stephen King|
+	AS=|StokN|
+	YR=|1994|
+	TG=|6572|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+The Butcher Boy {
+	AE=|Patrick McCabe|
+	AS=|StokN|
+	YR=|1994|
+	TG=|7988|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokN|
+	YR=|1994|
+	TG=|123|
+	TA=|Superior Achievement in a Novel|
+	TP=|x|
+	LV=|90|
+}
+The Judas Cross {
+	AE=|David Bischoff+Charles Sheffield|
+	AS=|StokN|
+	YR=|1994|
+	TG=|1205|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Deus-X {
+	AE=|Joseph A. Citro|
+	AS=|StokN|
+	YR=|1994|
+	TG=|2761|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+See How She Runs {
+	AE=|Matthew J. Costello|
+	AS=|StokN|
+	YR=|1994|
+	TG=|2986|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Succumb {
+	AE=|Ron Dee|
+	AS=|StokN|
+	YR=|1994|
+	TG=|3386|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Nevermore {
+	AE=|William Hjortsberg|
+	AS=|StokN|
+	YR=|1994|
+	TG=|5922|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Strange Angels {
+	AE=|Kathe Koja|
+	AS=|StokN|
+	YR=|1994|
+	TG=|6716|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Creekers {
+	AE=|Edward Lee|
+	AS=|StokN|
+	YR=|1994|
+	TG=|7227|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Sins of the Blood {
+	AE=|Kristine Kathryn Rusch|
+	AS=|StokN|
+	YR=|1994|
+	TG=|10048|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Bitter Blood {
+	AE=|Karen E. Taylor|
+	AS=|StokN|
+	YR=|1994|
+	TG=|11829|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Revenant {
+	AE=|Melanie Tem|
+	AS=|StokN|
+	YR=|1994|
+	TG=|11861|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Necessary Evil {
+	AE=|David A. Van Meter|
+	AS=|StokN|
+	YR=|1994|
+	TG=|12547|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+A Logical Magician^A Modern Magician {
+	AE=|Robert Weinberg|
+	AS=|StokN|
+	YR=|1994|
+	TG=|13015|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Bloodlines {
+	AE=|J. N. Williamson|
+	AS=|StokN|
+	YR=|1994|
+	TG=|13333|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Zombie {
+	AE=|Joyce Carol Oates|
+	AS=|StokN|
+	YR=|1995|
+	TG=|8920|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|1|
+}
+Widow {
+	AE=|Billie Sue Mosiman|
+	AS=|StokN|
+	YR=|1995|
+	TG=|8601|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+deadrush {
+	AE=|Yvonne Navarro|
+	AS=|StokN|
+	YR=|1995|
+	TG=|8685|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Bone Music {
+	AE=|Alan Rodgers|
+	AS=|StokN|
+	YR=|1995|
+	TG=|9897|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokN|
+	YR=|1995|
+	TG=|124|
+	TA=|Superior Achievement in a Novel|
+	TP=|x|
+	LV=|90|
+}
+Ancestral Hungers {
+	AE=|Scott Baker|
+	AS=|StokN|
+	YR=|1995|
+	TG=|728|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Sick {
+	AE=|Jay R. Bonansinga|
+	AS=|StokN|
+	YR=|1995|
+	TG=|1459|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Children's Hour {
+	AE=|Douglas Clegg|
+	AS=|StokN|
+	YR=|1995|
+	TG=|2838|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Blood Countess {
+	AE=|Andrei Codrescu|
+	AS=|StokN|
+	YR=|1995|
+	TG=|2873|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Madeleine's Ghost {
+	AE=|Robert Giardi|
+	AS=|StokN|
+	YR=|1995|
+	TG=|4966|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Waking the Moon {
+	AE=|Elizabeth Hand|
+	AS=|StokN|
+	YR=|1995|
+	TG=|5595|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Children of the Vampire: The Diaries of the Family Dracul {
+	AE=|Jeanne Kalogridis|
+	AS=|StokN|
+	YR=|1995|
+	TG=|6329|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Joyride {
+	AE=|Jack Ketchum|
+	AS=|StokN|
+	YR=|1995|
+	TG=|6468|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Stranglehold {
+	AE=|Jack Ketchum|
+	AS=|StokN|
+	YR=|1995|
+	TG=|6470|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Rose Madder {
+	AE=|Stephen King|
+	AS=|StokN|
+	YR=|1995|
+	TG=|6598|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Sacrifice {
+	AE=|Richard Kinnion|
+	AS=|StokN|
+	YR=|1995|
+	TG=|6628|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+University {
+	AE=|Bentley Little|
+	AS=|StokN|
+	YR=|1995|
+	TG=|7537|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Resurrectionist {
+	AE=|Thomas F. Monteleone|
+	AS=|StokN|
+	YR=|1995|
+	TG=|8459|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Memnoch the Devil {
+	AE=|Anne Rice|
+	AS=|StokN|
+	YR=|1995|
+	TG=|9696|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Memoirs of Elizabeth Frankenstein {
+	AE=|Theodore Roszak|
+	AS=|StokN|
+	YR=|1995|
+	TG=|9944|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Terminal Experiment^Hobson's Choice {
+	AE=|Robert J. Sawyer|
+	AS=|StokN|
+	YR=|1995|
+	TG=|10276|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Résumé with Monsters {
+	AE=|William Browning Spencer|
+	AS=|StokN|
+	YR=|1995|
+	TG=|11202|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Zod Wallop {
+	AE=|William Browning Spencer|
+	AS=|StokN|
+	YR=|1995|
+	TG=|11204|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Resurrection Man {
+	AE=|Sean Stewart|
+	AS=|StokN|
+	YR=|1995|
+	TG=|11541|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Blood Ties {
+	AE=|Karen E. Taylor|
+	AS=|StokN|
+	YR=|1995|
+	TG=|11830|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Desmodus {
+	AE=|Melanie Tem|
+	AS=|StokN|
+	YR=|1995|
+	TG=|11857|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Virus {
+	AE=|Graham Watkins|
+	AS=|StokN|
+	YR=|1995|
+	TG=|12920|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Bloodwar {
+	AE=|Robert Weinberg|
+	AS=|StokN|
+	YR=|1995|
+	TG=|13012|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Unholy Allies {
+	AE=|Robert Weinberg|
+	AS=|StokN|
+	YR=|1995|
+	TG=|13017|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Green Mile {
+	AE=|Stephen King|
+	AS=|StokN|
+	YR=|1996|
+	TG=|6570|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|1|
+}
+Exquisite Corpse {
+	AE=|Poppy Z. Brite|
+	AS=|StokN|
+	YR=|1996|
+	TG=|1705|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Crota {
+	AE=|Owl Goingback|
+	AS=|StokN|
+	YR=|1996|
+	TG=|5153|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+The Hellfire Club {
+	AE=|Peter Straub|
+	AS=|StokN|
+	YR=|1996|
+	TG=|11609|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokN|
+	YR=|1996|
+	TG=|125|
+	TA=|Superior Achievement in a Novel|
+	TP=|x|
+	LV=|90|
+}
+Demons Five, Exorcists Nothing {
+	AE=|William Peter Blatty|
+	AS=|StokN|
+	YR=|1996|
+	TG=|1371|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Lunatics {
+	AE=|Bradley Denton|
+	AS=|StokN|
+	YR=|1996|
+	TG=|3485|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Walking Wounded {
+	AE=|Robert Devereaux|
+	AS=|StokN|
+	YR=|1996|
+	TG=|3499|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Lizard Wine {
+	AE=|Elizabeth Engstrom|
+	AS=|StokN|
+	YR=|1996|
+	TG=|4265|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Prototype {
+	AE=|Brian Hodge|
+	AS=|StokN|
+	YR=|1996|
+	TG=|5950|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Requiem {
+	AE=|Graham Joyce|
+	AS=|StokN|
+	YR=|1996|
+	TG=|6306|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Child of the Night {
+	AE=|Nancy Kilpatrick|
+	AS=|StokN|
+	YR=|1996|
+	TG=|6505|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Desperation {
+	AE=|Stephen King|
+	AS=|StokN|
+	YR=|1996|
+	TG=|6559|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Madelaine: After the Fall of Usher {
+	AE=|Marie Kiraly|
+	AS=|StokN|
+	YR=|1996|
+	TG=|6629|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Kink {
+	AE=|Kathe Koja|
+	AS=|StokN|
+	YR=|1996|
+	TG=|6708|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The 37th Mandala {
+	AE=|Marc Laidlaw|
+	AS=|StokN|
+	YR=|1996|
+	TG=|6910|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Bite {
+	AE=|Richard Laymon|
+	AS=|StokN|
+	YR=|1996|
+	TG=|7083|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Dominion {
+	AE=|Bentley Little|
+	AS=|StokN|
+	YR=|1996|
+	TG=|7534|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Virgin {
+	AE=|Mary Elizabeth Murphy|
+	AS=|StokN|
+	YR=|1996|
+	TG=|8625|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Shards {
+	AE=|Tom Piccirilli|
+	AS=|StokN|
+	YR=|1996|
+	TG=|9145|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Prestige {
+	AE=|Christopher Priest|
+	AS=|StokN|
+	YR=|1996|
+	TG=|9450|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Dead Heat {
+	AE=|Del Stone, Jr.|
+	AS=|StokN|
+	YR=|1996|
+	TG=|11571|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Pillow Friend {
+	AE=|Lisa Tuttle|
+	AS=|StokN|
+	YR=|1996|
+	TG=|12145|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Children of the Dusk {
+	AE=|Janet Berliner+George Guthridge|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17784|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|1|
+}
+The Church of the Dead Girls {
+	AE=|Stephen Dobyns|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17789|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+My Soul to Keep {
+	AE=|Tananarive Due|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17790|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Earthquake Weather {
+	AE=|Tim Powers|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17805|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17882|
+	TA=|Superior Achievement in a Novel|
+	TP=|x|
+	LV=|90|
+}
+Antibodies {
+	AE=|Kevin J. Anderson|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17782|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Cimarron Rose {
+	AE=|James Lee Burke|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17785|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The House on Nazareth Hill^Nazareth Hill {
+	AE=|Ramsey Campbell|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17786|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Neverwhere {
+	AE=|Neil Gaiman|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17791|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Shackled {
+	AE=|Ray Garton|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17792|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Symphony {
+	AE=|Charles L. Grant|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17793|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Signs of Life {
+	AE=|M. John Harrison|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17794|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Shade of Pale {
+	AE=|Greg Kihn|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17796|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Bighead {
+	AE=|Edward Lee|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17797|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Ignored {
+	AE=|Bentley Little|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17798|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Chosen Child {
+	AE=|Graham Masterton|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17799|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Asylum {
+	AE=|Patrick McGrath|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17801|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Night of Broken Souls {
+	AE=|Thomas F. Monteleone|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17803|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Club Dumas {
+	AE=|Arturo Pérez-Reverte|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17804|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Spares {
+	AE=|Michael Marshall Smith|
+	AS=|StokN|
+	YR=|1997|
+	TG=|17806|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Night Watch {
+	AE=|Sean Stewart|
+	AS=|StokN|
+	YR=|1997|
+	TG=|14378|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Fog Heart {
+	AE=|Thomas Tessier|
+	AS=|StokN|
+	YR=|1997|
+	TG=|14373|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Bag of Bones {
+	AE=|Stephen King|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19601|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|1|
+}
+Fear Nothing {
+	AE=|Dean R. Koontz|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19751|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Darker Angels {
+	AE=|S. P. Somtow|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19812|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Fog Heart {
+	AE=|Thomas Tessier|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19831|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19628|
+	TA=|Superior Achievement in a Novel|
+	TP=|x|
+	LV=|90|
+}
+Head Case {
+	AE=|Jay R. Bonansinga|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19651|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Halloween Man {
+	AE=|Douglas Clegg|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19678|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Santa Steps Out {
+	AE=|Robert Devereaux|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19689|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Tooth Fairy {
+	AE=|Graham Joyce|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19737|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Ladies' Night {
+	AE=|Jack Ketchum|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19744|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Big Rock Beat {
+	AE=|Greg Kihn|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19746|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Reborn {
+	AE=|Nancy Kilpatrick|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19747|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Chasm {
+	AE=|Stephen Laws|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19755|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+After Midnight {
+	AE=|Richard Laymon|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19756|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Midnight Tour {
+	AE=|Richard Laymon|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19757|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Portrait of the Psychopath As a Young Woman {
+	AE=|Edward Lee+Elizabeth Steffen|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19759|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Store {
+	AE=|Bentley Little|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19763|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Dawn Song {
+	AE=|Michael Marano|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19770|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Red Shadows {
+	AE=|Yvonne Navarro|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19779|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Judgment of Tears: Anno Dracula 1959 {
+	AE=|Kim Newman|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19780|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Revenant {
+	AE=|Phoebe Reeves|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19795|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Burning Bright {
+	AE=|Jay Russell^J. S. Russell|
+	AS=|StokN|
+	YR=|1998|
+	TG=|19803|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Mr. X {
+	AE=|Peter Straub|
+	AS=|StokN|
+	YR=|1999|
+	TG=|21082|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|1|
+}
+Darker Than Night {
+	AE=|Owl Goingback|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20928|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Hannibal {
+	AE=|Thomas Harris|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20938|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Low Men in Yellow Coats {
+	AE=|Stephen King|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20971|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Hexes {
+	AE=|Tom Piccirilli|
+	AS=|StokN|
+	YR=|1999|
+	TG=|21036|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20843|
+	TA=|Superior Achievement in a Novel|
+	TP=|x|
+	LV=|90|
+}
+The Marriage of Sticks {
+	AE=|Jonathan Carroll|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20881|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Naomi {
+	AE=|Douglas Clegg|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20888|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Strangewood {
+	AE=|Christopher Golden|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20929|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Poker Club {
+	AE=|Ed Gorman|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20932|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Black Light {
+	AE=|Elizabeth Hand|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20937|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Wild Horses {
+	AE=|Brian Hodge|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20941|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Road to Hell {
+	AE=|Gerard Daniel Houarner|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20947|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Mojo Hand {
+	AE=|Greg Kihn|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20967|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Girl Who Loved Tom Gordon {
+	AE=|Stephen King|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20968|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Freezer Burn {
+	AE=|Joe R. Lansdale|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20977|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Come Out Tonight {
+	AE=|Richard Laymon|
+	AS=|StokN|
+	YR=|1999|
+	TG=|20985|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Welcome Back to the Night {
+	AE=|Elizabeth Massie|
+	AS=|StokN|
+	YR=|1999|
+	TG=|21002|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+King Rat {
+	AE=|China Miéville|
+	AS=|StokN|
+	YR=|1999|
+	TG=|21009|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+A Prayer for the Dying {
+	AE=|Stewart O'Nan|
+	AS=|StokN|
+	YR=|1999|
+	TG=|21024|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+This is My Blood {
+	AE=|David Niall Wilson|
+	AS=|StokN|
+	YR=|1999|
+	TG=|21105|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Conspiracies {
+	AE=|F. Paul Wilson|
+	AS=|StokN|
+	YR=|1999|
+	TG=|21108|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Indifference of Heaven {
+	AE=|Gary A. Braunbeck|
+	AS=|StokN|
+	YR=|2000|
+	TG=|22577|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Silent Children {
+	AE=|Ramsey Campbell|
+	AS=|StokN|
+	YR=|2000|
+	TG=|22583|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+The Licking Valley Coon Hunters Club {
+	AE=|Brian A. Hopkins|
+	AS=|StokN|
+	YR=|2000|
+	TG=|18955|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+The Traveling Vampire Show {
+	AE=|Richard Laymon|
+	AS=|StokN|
+	YR=|2000|
+	TG=|18986|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+The Deceased {
+	AE=|Tom Piccirilli|
+	AS=|StokN|
+	YR=|2000|
+	TG=|19015|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokN|
+	YR=|2000|
+	TG=|22553|
+	TA=|Superior Achievement in a Novel|
+	TP=|x|
+	LV=|90|
+}
+Canyons {
+	AE=|P. D. Cacek|
+	AS=|StokN|
+	YR=|2000|
+	TG=|22581|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Mischief {
+	AE=|Douglas Clegg|
+	AS=|StokN|
+	YR=|2000|
+	TG=|22590|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Nightmare House {
+	AE=|Douglas Clegg|
+	AS=|StokN|
+	YR=|2000|
+	TG=|22591|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+You Come When I Call You {
+	AE=|Douglas Clegg|
+	AS=|StokN|
+	YR=|2000|
+	TG=|22593|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+House of Leaves {
+	AE=|Mark Z. Danielewski|
+	AS=|StokN|
+	YR=|2000|
+	TG=|22598|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Immortal: A Linking of Souls {
+	AE=|D. E. Davidson|
+	AS=|StokN|
+	YR=|2000|
+	TG=|22601|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Obsidian Butterfly {
+	AE=|Laurell K. Hamilton|
+	AS=|StokN|
+	YR=|2000|
+	TG=|18946|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Born Bad {
+	AE=|Barry Hoffman|
+	AS=|StokN|
+	YR=|2000|
+	TG=|18951|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Bottoms {
+	AE=|Joe R. Lansdale|
+	AS=|StokN|
+	YR=|2000|
+	TG=|18982|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Walking {
+	AE=|Bentley Little|
+	AS=|StokN|
+	YR=|2000|
+	TG=|18989|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Gothique {
+	AE=|Kyle Marffin|
+	AS=|StokN|
+	YR=|2000|
+	TG=|18994|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Perdido Street Station {
+	AE=|China Miéville|
+	AS=|StokN|
+	YR=|2000|
+	TG=|18996|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Under the Overtree {
+	AE=|James A. Moore|
+	AS=|StokN|
+	YR=|2000|
+	TG=|18998|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Dead Times {
+	AE=|Yvonne Navarro|
+	AS=|StokN|
+	YR=|2000|
+	TG=|19004|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Declare {
+	AE=|Tim Powers|
+	AS=|StokN|
+	YR=|2000|
+	TG=|19017|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+A Face Without a Heart {
+	AE=|Rick R. Reed|
+	AS=|StokN|
+	YR=|2000|
+	TG=|19024|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+Blood of My Blood {
+	AE=|Karen E. Taylor|
+	AS=|StokN|
+	YR=|2000|
+	TG=|19048|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+All the Rage {
+	AE=|F. Paul Wilson|
+	AS=|StokN|
+	YR=|2000|
+	TG=|19069|
+	TA=|Superior Achievement in a Novel|
+	TP=|n|
+	LV=|92|
+}
+The Manse {
+	AE=|Lisa Cantrell|
+	AS=|Stok1|
+	YR=|1987|
+	TG=|2244|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|1|
+}
+The Damnation Game {
+	AE=|Clive Barker|
+	AS=|Stok1|
+	YR=|1987|
+	TG=|805|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Slob {
+	AE=|Rex Miller|
+	AS=|Stok1|
+	YR=|1987|
+	TG=|8407|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+The Harvest Bride {
+	AE=|Tony Richards|
+	AS=|Stok1|
+	YR=|1987|
+	TG=|9710|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Excavation {
+	AE=|Steve Rasnic Tem|
+	AS=|Stok1|
+	YR=|1987|
+	TG=|11867|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+The Suiting {
+	AE=|Kelley Wilde|
+	AS=|Stok1|
+	YR=|1988|
+	TG=|13190|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|1|
+}
+Resurrection, Inc. {
+	AE=|Kevin J. Anderson|
+	AS=|Stok1|
+	YR=|1988|
+	TG=|338|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Fear Book {
+	AE=|John L. Byrne|
+	AS=|Stok1|
+	YR=|1988|
+	TG=|2076|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Deliver Us from Evil {
+	AE=|Alan Lee Harris|
+	AS=|Stok1|
+	YR=|1988|
+	TG=|5653|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Cities of the Dead {
+	AE=|Michael Paine|
+	AS=|Stok1|
+	YR=|1988|
+	TG=|9003|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Demon Night {
+	AE=|J. Michael Straczynski|
+	AS=|Stok1|
+	YR=|1988|
+	TG=|11599|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Sunglasses After Dark {
+	AE=|Nancy A. Collins|
+	AS=|Stok1|
+	YR=|1989|
+	TG=|2898|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|1|
+}
+Goat Dance {
+	AE=|Douglas Clegg|
+	AS=|Stok1|
+	YR=|1989|
+	TG=|2839|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dwelling {
+	AE=|Tom Elliot|
+	AS=|Stok1|
+	YR=|1989|
+	TG=|4125|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+The Lilith Factor {
+	AE=|Jean Paiva|
+	AS=|Stok1|
+	YR=|1989|
+	TG=|9005|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Laying the Music to Rest {
+	AE=|Dean Wesley Smith|
+	AS=|Stok1|
+	YR=|1989|
+	TG=|11100|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+The Revelation {
+	AE=|Bentley Little|
+	AS=|Stok1|
+	YR=|1990|
+	TG=|7535|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|1|
+}
+Nightblood {
+	AE=|T. Chris Martindale|
+	AS=|Stok1|
+	YR=|1990|
+	TG=|7896|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Dark Father {
+	AE=|Tom Piccirilli|
+	AS=|Stok1|
+	YR=|1990|
+	TG=|9141|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Blood of the Children {
+	AE=|Alan Rodgers|
+	AS=|Stok1|
+	YR=|1990|
+	TG=|9896|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+The Cipher {
+	AE=|Kathe Koja|
+	AS=|Stok1|
+	YR=|1991|
+	TG=|6705|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|1|
+}
+Prodigal {
+	AE=|Melanie Tem|
+	AS=|Stok1|
+	YR=|1991|
+	TG=|11859|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|1|
+}
+Winter Scream {
+	AE=|Chris Curry+L. Dean James|
+	AS=|Stok1|
+	YR=|1991|
+	TG=|3116|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Wilderness {
+	AE=|Dennis Danvers|
+	AS=|Stok1|
+	YR=|1991|
+	TG=|3190|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Unearthed {
+	AE=|Ashley McConnell|
+	AS=|Stok1|
+	YR=|1991|
+	TG=|8101|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Sineater {
+	AE=|Elizabeth Massie|
+	AS=|Stok1|
+	YR=|1992|
+	TG=|7910|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|1|
+}
+Lost Souls {
+	AE=|Poppy Z. Brite|
+	AS=|Stok1|
+	YR=|1992|
+	TG=|1709|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Beauty {
+	AE=|Brian D'Amato|
+	AS=|Stok1|
+	YR=|1992|
+	TG=|3120|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Less Than Human {
+	AE=|Gary Raisor|
+	AS=|Stok1|
+	YR=|1992|
+	TG=|9509|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+The Holy Terror {
+	AE=|Wayne Allen Sallee|
+	AS=|Stok1|
+	YR=|1992|
+	TG=|10185|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+The Thread That Binds the Bones {
+	AE=|Nina Kiriki Hoffman|
+	AS=|Stok1|
+	YR=|1993|
+	TG=|5982|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|1|
+}
+Suckers {
+	AE=|Anne Billson|
+	AS=|Stok1|
+	YR=|1993|
+	TG=|1193|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Created By {
+	AE=|Richard Christian Matheson|
+	AS=|Stok1|
+	YR=|1993|
+	TG=|7926|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Afterage {
+	AE=|Yvonne Navarro|
+	AS=|Stok1|
+	YR=|1993|
+	TG=|8683|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Wet Work {
+	AE=|Philip Nutman|
+	AS=|Stok1|
+	YR=|1993|
+	TG=|8894|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Grave Markings {
+	AE=|Michael A. Arnzen|
+	AS=|Stok1|
+	YR=|1994|
+	TG=|511|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|1|
+}
+The Black Mariah {
+	AE=|Jay R. Bonansinga|
+	AS=|Stok1|
+	YR=|1994|
+	TG=|1458|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Deadweight {
+	AE=|Robert Devereaux|
+	AS=|Stok1|
+	YR=|1994|
+	TG=|3495|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Near Death {
+	AE=|Nancy Kilpatrick|
+	AS=|Stok1|
+	YR=|1994|
+	TG=|6509|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Throat Sprockets {
+	AE=|Tim Lucas|
+	AS=|Stok1|
+	YR=|1994|
+	TG=|7600|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|Stok1|
+	YR=|1994|
+	TG=|118|
+	TA=|Superior Achievement in a First Novel|
+	TP=|x|
+	LV=|90|
+}
+Of Saints and Shadows {
+	AE=|Christopher Golden|
+	AS=|Stok1|
+	YR=|1994|
+	TG=|5157|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Slippin' into Darkness {
+	AE=|Norman Partridge|
+	AS=|Stok1|
+	YR=|1994|
+	TG=|9068|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+The Safety of Unknown Cities {
+	AE=|Lucy Taylor|
+	AS=|Stok1|
+	YR=|1995|
+	TG=|11848|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|1|
+}
+Diary of a Vampire {
+	AE=|Gary Bowen|
+	AS=|Stok1|
+	YR=|1995|
+	TG=|1531|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+The Between {
+	AE=|Tananarive Due|
+	AS=|Stok1|
+	YR=|1995|
+	TG=|3859|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Madeleine's Ghost {
+	AE=|Robert Giardi|
+	AS=|Stok1|
+	YR=|1995|
+	TG=|4965|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Wyrm Wolf {
+	AE=|Edo van Belkom|
+	AS=|Stok1|
+	YR=|1995|
+	TG=|12542|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Crota {
+	AE=|Owl Goingback|
+	AS=|Stok1|
+	YR=|1996|
+	TG=|5152|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|1|
+}
+Flute Song {
+	AE=|Donald Burleson|
+	AS=|Stok1|
+	YR=|1996|
+	TG=|1980|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Horror Show {
+	AE=|Greg Kihn|
+	AS=|Stok1|
+	YR=|1996|
+	TG=|6494|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Dead Heat {
+	AE=|Del Stone, Jr.|
+	AS=|Stok1|
+	YR=|1996|
+	TG=|11570|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|Stok1|
+	YR=|1996|
+	TG=|119|
+	TA=|Superior Achievement in a First Novel|
+	TP=|x|
+	LV=|90|
+}
+Acts of Revision {
+	AE=|Martyn Bedford|
+	AS=|Stok1|
+	YR=|1996|
+	TG=|1022|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Celestial Dogs {
+	AE=|Jay Russell|
+	AS=|Stok1|
+	YR=|1996|
+	TG=|10094|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Lives of the Monster Dogs {
+	AE=|Kirsten Bakis|
+	AS=|Stok1|
+	YR=|1997|
+	TG=|17783|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|1|
+}
+The Art of Arrow-Cutting {
+	AE=|Stephen Dedman|
+	AS=|Stok1|
+	YR=|1997|
+	TG=|17788|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Hungry Eyes {
+	AE=|Barry Hoffman|
+	AS=|Stok1|
+	YR=|1997|
+	TG=|17795|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Drawn to the Grave {
+	AE=|Mary Ann Mitchell|
+	AS=|Stok1|
+	YR=|1997|
+	TG=|17802|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+The Inquisitor {
+	AE=|Mary Murrey|
+	AS=|Stok1|
+	YR=|1997|
+	TG=|18015|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|Stok1|
+	YR=|1997|
+	TG=|17880|
+	TA=|Superior Achievement in a First Novel|
+	TP=|x|
+	LV=|90|
+}
+The Troika {
+	AE=|Stepan Chapman|
+	AS=|Stok1|
+	YR=|1997|
+	TG=|17787|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+An Exchange of Hostages {
+	AE=|Susan R. Matthews|
+	AS=|Stok1|
+	YR=|1997|
+	TG=|17800|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Dawn Song {
+	AE=|Michael Marano|
+	AS=|Stok1|
+	YR=|1998|
+	TG=|19606|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|1|
+}
+Night Prayers {
+	AE=|P. D. Cacek|
+	AS=|Stok1|
+	YR=|1998|
+	TG=|19664|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+The Symbiotic Fascination {
+	AE=|Charlee Jacob|
+	AS=|Stok1|
+	YR=|1998|
+	TG=|19733|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Silk {
+	AE=|Caitlín R. Kiernan|
+	AS=|Stok1|
+	YR=|1998|
+	TG=|19745|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|Stok1|
+	YR=|1998|
+	TG=|19629|
+	TA=|Superior Achievement in a First Novel|
+	TP=|x|
+	LV=|90|
+}
+The Queen of Darkness {
+	AE=|Miguel Conner|
+	AS=|Stok1|
+	YR=|1998|
+	TG=|19679|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Carmilla: The Return {
+	AE=|Kyle Marffin|
+	AS=|Stok1|
+	YR=|1998|
+	TG=|19771|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Angelique's Descent {
+	AE=|Lara Parker|
+	AS=|Stok1|
+	YR=|1998|
+	TG=|19785|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Storytellers {
+	AE=|Julie Anne Parks|
+	AS=|Stok1|
+	YR=|1998|
+	TG=|19786|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Wither {
+	AE=|(John Passarella+Joe Gangemi)^J. G. Passarella|
+	AS=|Stok1|
+	YR=|1999|
+	TG=|21031|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|1|
+}
+Widow's Walk {
+	AE=|Steve Beai|
+	AS=|Stok1|
+	YR=|1999|
+	TG=|20861|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Every Dead Thing {
+	AE=|John Connolly|
+	AS=|Stok1|
+	YR=|1999|
+	TG=|20891|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+King Rat {
+	AE=|China Miéville|
+	AS=|Stok1|
+	YR=|1999|
+	TG=|21010|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|Stok1|
+	YR=|1999|
+	TG=|20844|
+	TA=|Superior Achievement in a First Novel|
+	TP=|x|
+	LV=|90|
+}
+The Divinity Student {
+	AE=|Michael Cisco|
+	AS=|Stok1|
+	YR=|1999|
+	TG=|20886|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Fountain Society {
+	AE=|Wes Craven|
+	AS=|Stok1|
+	YR=|1999|
+	TG=|20893|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+World of Darkness: Lasombra {
+	AE=|Richard E. Dansky|
+	AS=|Stok1|
+	YR=|1999|
+	TG=|20897|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Collectors {
+	AE=|Paul Griner|
+	AS=|Stok1|
+	YR=|1999|
+	TG=|20935|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+The Gumshoe, the Witch, and the Virtual Corpse {
+	AE=|Keith Hartman|
+	AS=|Stok1|
+	YR=|1999|
+	TG=|20939|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Madonna of the Dark {
+	AE=|Elaine Moore|
+	AS=|Stok1|
+	YR=|1999|
+	TG=|21011|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+The Guardian {
+	AE=|Beecher Smith|
+	AS=|Stok1|
+	YR=|1999|
+	TG=|21075|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Nailed by the Heart {
+	AE=|Simon Clark|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|22589|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+House of Leaves {
+	AE=|Mark Z. Danielewski|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|22599|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+The Licking Valley Coon Hunters Club {
+	AE=|Brian A. Hopkins|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|18956|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Run {
+	AE=|Douglas E. Winter|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|19073|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|22554|
+	TA=|Superior Achievement in a First Novel|
+	TP=|x|
+	LV=|90|
+}
+Daughters of the Moon {
+	AE=|Joseph Curtin|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|22597|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Immortal: A Linking of Souls {
+	AE=|D. E. Davidson|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|22602|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Darkers {
+	AE=|Lisa Dumond|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|22605|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Eternal Sunset {
+	AE=|Sephera Giron|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|22617|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Clickers {
+	AE=|J. F. Gonzalez+Mark Williams|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|21506|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+A Darkness Inbred {
+	AE=|Victor Heck|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|18947|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+The Fox Woman {
+	AE=|Kij Johnson|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|18967|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+The Doorway {
+	AE=|S. M. Korslund|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|18980|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+The Big Punch {
+	AE=|Louis Maistros|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|18993|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Out of the Light {
+	AE=|Holly H. Newstein+Ralph W. Bieber II|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|19006|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+The Secret Life of Colors {
+	AE=|Steve Savile|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|19035|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Raveling {
+	AE=|Peter Moore Smith|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|19045|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Duet for the Devil {
+	AE=|T. Winter-Damon+Randy Chandler|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|19074|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+Cuckoo {
+	AE=|Richard Wright|
+	AS=|Stok1|
+	YR=|2000|
+	TG=|19075|
+	TA=|Superior Achievement in a First Novel|
+	TP=|n|
+	LV=|92|
+}
+The Night We Buried Road Dog {
+	AE=|Jack Cady|
+	AS=|StokL|
+	YR=|1993|
+	TG=|2147|
+	TA=|Superior Achievement in a Novella|
+	TP=|nv|
+	LV=|1|
+}
+Mefisto in Onyx {
+	AE=|Harlan Ellison|
+	AS=|StokL|
+	YR=|1993|
+	TG=|4207|
+	TA=|Superior Achievement in a Novella|
+	TP=|nv|
+	LV=|1|
+}
+Caroline and Caleb {
+	AE=|Richard Gilliam|
+	AS=|StokL|
+	YR=|1993|
+	TG=|5056|
+	TA=|Superior Achievement in a Novella|
+	TP=|sf|
+	LV=|9|
+}
+Flashback {
+	AE=|Dan Simmons|
+	AS=|StokL|
+	YR=|1993|
+	TG=|10995|
+	TA=|Superior Achievement in a Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Pear-Shaped Man {
+	AE=|George R. R. Martin|
+	AS=|StokT|
+	YR=|1987|
+	TG=|7847|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|1|
+}
+The Boy Who Came Back from the Dead {
+	AE=|Alan Rodgers|
+	AS=|StokT|
+	YR=|1987|
+	TG=|9898|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Pamela's Get {
+	AE=|David J. Schow|
+	AS=|StokT|
+	YR=|1987|
+	TG=|10422|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Resurrec Tech {
+	AE=|S. P. Somtow|
+	AS=|StokT|
+	YR=|1987|
+	TG=|11164|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Orange is for Anguish, Blue for Insanity {
+	AE=|David Morrell|
+	AS=|StokT|
+	YR=|1988|
+	TG=|8532|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Function of Dream Sleep {
+	AE=|Harlan Ellison|
+	AS=|StokT|
+	YR=|1988|
+	TG=|4184|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Horrorshow {
+	AE=|John Farris|
+	AS=|StokT|
+	YR=|1988|
+	TG=|4388|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Night Flier {
+	AE=|Stephen King|
+	AS=|StokT|
+	YR=|1988|
+	TG=|6587|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Skin Trade {
+	AE=|George R. R. Martin|
+	AS=|StokT|
+	YR=|1988|
+	TG=|7862|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+The Juniper Tree {
+	AE=|Peter Straub|
+	AS=|StokT|
+	YR=|1988|
+	TG=|11613|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+On the Far Side of the Cadillac Desert with Dead Folks {
+	AE=|Joe R. Lansdale|
+	AS=|StokT|
+	YR=|1989|
+	TG=|7040|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Phantom {
+	AE=|Kristine Kathryn Rusch|
+	AS=|StokT|
+	YR=|1989|
+	TG=|10038|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+At First Just Ghostly {
+	AE=|Karl Edward Wagner|
+	AS=|StokT|
+	YR=|1989|
+	TG=|12776|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Confessions of St. James {
+	AE=|Chet Williamson|
+	AS=|StokT|
+	YR=|1989|
+	TG=|13326|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Stephen {
+	AE=|Elizabeth Massie|
+	AS=|StokT|
+	YR=|1990|
+	TG=|7912|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|1|
+}
+Bestseller {
+	AE=|Michael Blumlein|
+	AS=|StokT|
+	YR=|1990|
+	TG=|1433|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Langoliers {
+	AE=|Stephen King|
+	AS=|StokT|
+	YR=|1990|
+	TG=|6577|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Entropy's Bed at Midnight {
+	AE=|Dan Simmons|
+	AS=|StokT|
+	YR=|1990|
+	TG=|10986|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Pelts {
+	AE=|F. Paul Wilson|
+	AS=|StokT|
+	YR=|1990|
+	TG=|13466|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Beautiful Uncut Hair of Graves {
+	AE=|David Morrell|
+	AS=|StokT|
+	YR=|1991|
+	TG=|8528|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Fetish {
+	AE=|Edward Bryant|
+	AS=|StokT|
+	YR=|1991|
+	TG=|1858|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+Advocates {
+	AE=|Suzy McKee Charnas+Chelsea Quinn Yarbro|
+	AS=|StokT|
+	YR=|1991|
+	TG=|2616|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Death Leaves an Echo {
+	AE=|Charles de Lint|
+	AS=|StokT|
+	YR=|1991|
+	TG=|3337|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Magpie {
+	AE=|Stephen Gallagher|
+	AS=|StokT|
+	YR=|1991|
+	TG=|4815|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Aliens: Tribes {
+	AE=|Stephen R. Bissette|
+	AS=|StokT|
+	YR=|1992|
+	TG=|1314|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Events Concerning a Nude Fold-Out Found in a Harlequin Romance {
+	AE=|Joe R. Lansdale|
+	AS=|StokT|
+	YR=|1992|
+	TG=|7034|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Nothing Will Hurt You {
+	AE=|David Morrell|
+	AS=|StokT|
+	YR=|1992|
+	TG=|8531|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Shrine {
+	AE=|David Morrell|
+	AS=|StokT|
+	YR=|1992|
+	TG=|8533|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+For You, the Living {
+	AE=|Wayne Allen Sallee|
+	AS=|StokT|
+	YR=|1992|
+	TG=|10184|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Death in Bangkok^Dying in Bangkok {
+	AE=|Dan Simmons|
+	AS=|StokT|
+	YR=|1993|
+	TG=|10983|
+	TA=|Superior Achievement in a Novelet|
+	TP=|nt|
+	LV=|1|
+}
+Colour {
+	AE=|Michael Moorcock|
+	AS=|StokT|
+	YR=|1993|
+	TG=|8480|
+	TA=|Superior Achievement in a Novelet|
+	TP=|sf|
+	LV=|9|
+}
+Darker Angels {
+	AE=|S. P. Somtow|
+	AS=|StokT|
+	YR=|1993|
+	TG=|11159|
+	TA=|Superior Achievement in a Novelet|
+	TP=|nt|
+	LV=|9|
+}
+Death on the Nile {
+	AE=|Connie Willis|
+	AS=|StokT|
+	YR=|1993|
+	TG=|13380|
+	TA=|Superior Achievement in a Novelet|
+	TP=|nt|
+	LV=|9|
+}
+The Scent of Vinegar {
+	AE=|Robert Bloch|
+	AS=|StokT|
+	YR=|1994|
+	TG=|1428|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Sometimes, in the Rain {
+	AE=|Charles L. Grant|
+	AS=|StokT|
+	YR=|1994|
+	TG=|5313|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Alchemy of the Throat {
+	AE=|Brian Hodge|
+	AS=|StokT|
+	YR=|1994|
+	TG=|5945|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Buba Ho-Tep {
+	AE=|Joe R. Lansdale|
+	AS=|StokT|
+	YR=|1994|
+	TG=|7027|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Siren of Swan Quarter {
+	AE=|William R. Trotter|
+	AS=|StokT|
+	YR=|1994|
+	TG=|12039|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokT|
+	YR=|1994|
+	TG=|131|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|x|
+	LV=|90|
+}
+Union Dues {
+	AE=|Gary A. Braunbeck|
+	AS=|StokT|
+	YR=|1994|
+	TG=|1623|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Messenger {
+	AE=|Adam-Troy Castro|
+	AS=|StokT|
+	YR=|1994|
+	TG=|2514|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+White Chapel {
+	AE=|Douglas Clegg|
+	AS=|StokT|
+	YR=|1994|
+	TG=|2840|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+A Slow Red Whisper of Sand {
+	AE=|Robert Devereaux|
+	AS=|StokT|
+	YR=|1994|
+	TG=|3497|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Dead Leaves {
+	AE=|James C. Dobbs|
+	AS=|StokT|
+	YR=|1994|
+	TG=|3673|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Suffer Kate {
+	AE=|Graham Masterton|
+	AS=|StokT|
+	YR=|1994|
+	TG=|7916|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Triptych Di Amore {
+	AE=|Thomas F. Monteleone|
+	AS=|StokT|
+	YR=|1994|
+	TG=|8460|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Fee {
+	AE=|Peter Straub|
+	AS=|StokT|
+	YR=|1994|
+	TG=|11603|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Lunch at the Gotham Café {
+	AE=|Stephen King|
+	AS=|StokT|
+	YR=|1995|
+	TG=|6579|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|1|
+}
+Baby Girl Diamond {
+	AE=|Adam-Troy Castro|
+	AS=|StokT|
+	YR=|1995|
+	TG=|2509|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Looking for Mr. Flip {
+	AE=|Thomas F. Monteleone|
+	AS=|StokT|
+	YR=|1995|
+	TG=|8457|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Lover Doll {
+	AE=|Wayne Allen Sallee|
+	AS=|StokT|
+	YR=|1995|
+	TG=|10186|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokT|
+	YR=|1995|
+	TG=|132|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|x|
+	LV=|90|
+}
+Some Touch of Pity {
+	AE=|Gary A. Braunbeck|
+	AS=|StokT|
+	YR=|1995|
+	TG=|1622|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Buckeye Jim in Egypt {
+	AE=|Mort Castle|
+	AS=|StokT|
+	YR=|1995|
+	TG=|2507|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Bindlestiff {
+	AE=|Peter Crowther|
+	AS=|StokT|
+	YR=|1995|
+	TG=|3109|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Kings of Tarshish Shall Bring Gifts {
+	AE=|Stephen R. Donaldson|
+	AS=|StokT|
+	YR=|1995|
+	TG=|3696|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Scaring the Train {
+	AE=|Terry Dowling|
+	AS=|StokT|
+	YR=|1995|
+	TG=|3754|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+S.T.O.P.N.O.S. {
+	AE=|Tina L. Jens|
+	AS=|StokT|
+	YR=|1995|
+	TG=|6175|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Headers {
+	AE=|Edward Lee|
+	AS=|StokT|
+	YR=|1995|
+	TG=|7228|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Punchline {
+	AE=|Marc Levinthal+John Skipp|
+	AS=|StokT|
+	YR=|1995|
+	TG=|7450|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Jajouka Penis-Beetle {
+	AE=|Graham Masterton|
+	AS=|StokT|
+	YR=|1995|
+	TG=|7914|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Lord Glyphtard's Tale {
+	AE=|Brian McNaughton|
+	AS=|StokT|
+	YR=|1995|
+	TG=|8323|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Blackpool Rock {
+	AE=|Philip Nutman|
+	AS=|StokT|
+	YR=|1995|
+	TG=|8893|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Pack {
+	AE=|Norman Partridge|
+	AS=|StokT|
+	YR=|1995|
+	TG=|9067|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Eye-Biting and Other Displays of Affection {
+	AE=|Tom Piccirilli|
+	AS=|StokT|
+	YR=|1995|
+	TG=|9142|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Daddy's Girl {
+	AE=|Kimberly Rufer-Bach|
+	AS=|StokT|
+	YR=|1995|
+	TG=|9997|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Wedding Party {
+	AE=|Paul M. Sammon|
+	AS=|StokT|
+	YR=|1995|
+	TG=|10200|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Vampire Diary: The Embrace {
+	AE=|Robert Weinberg+Mark Rein-Hagen|
+	AS=|StokT|
+	YR=|1995|
+	TG=|13018|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Mother Pact {
+	AE=|J. N. Williamson|
+	AS=|StokT|
+	YR=|1995|
+	TG=|13340|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Red Tower {
+	AE=|Thomas Ligotti|
+	AS=|StokT|
+	YR=|1996|
+	TG=|7484|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Kilroy Was Here {
+	AE=|Jack Cady|
+	AS=|StokT|
+	YR=|1996|
+	TG=|2141|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+The Thing from Lover's Lane {
+	AE=|Nancy A. Collins|
+	AS=|StokT|
+	YR=|1996|
+	TG=|2900|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Brimstone and Salt {
+	AE=|S. P. Somtow|
+	AS=|StokT|
+	YR=|1996|
+	TG=|11157|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokT|
+	YR=|1996|
+	TG=|133|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|x|
+	LV=|90|
+}
+But Somewhere I Will Wake {
+	AE=|Gary A. Braunbeck|
+	AS=|StokT|
+	YR=|1996|
+	TG=|1621|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Good, The Bad, and the Danged {
+	AE=|Adam-Troy Castro|
+	AS=|StokT|
+	YR=|1996|
+	TG=|2510|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Locusts {
+	AE=|Adam-Troy Castro|
+	AS=|StokT|
+	YR=|1996|
+	TG=|2513|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|92|
+}
+Never Seen By Waking Eyes {
+	AE=|Stephen Dedman|
+	AS=|StokT|
+	YR=|1996|
+	TG=|3385|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|92|
+}
+Chain Home, Low {
+	AE=|John M. Ford|
+	AS=|StokT|
+	YR=|1996|
+	TG=|4567|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Sixth Finger {
+	AE=|John M. Ford|
+	AS=|StokT|
+	YR=|1996|
+	TG=|4579|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+If These Walls Could Talk {
+	AE=|Howard V. Hendrix|
+	AS=|StokT|
+	YR=|1996|
+	TG=|5847|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+To This Water (Johnstown, Pennsylvania 1889) {
+	AE=|Caitlín R. Kiernan|
+	AS=|StokT|
+	YR=|1996|
+	TG=|6492|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Goon {
+	AE=|Edward Lee+John Pelan|
+	AS=|StokT|
+	YR=|1996|
+	TG=|7230|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Teatro Grottesco {
+	AE=|Thomas Ligotti|
+	AS=|StokT|
+	YR=|1996|
+	TG=|7485|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|92|
+}
+The Presence {
+	AE=|Karen E. Taylor|
+	AS=|StokT|
+	YR=|1996|
+	TG=|11831|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Dradin, in Love {
+	AE=|Jeff VanderMeer|
+	AS=|StokT|
+	YR=|1996|
+	TG=|12611|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Saint Vitus Dances Eternity: A Sarajevo Ghost Story {
+	AE=|Stewart von Allman|
+	AS=|StokT|
+	YR=|1996|
+	TG=|12741|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|92|
+}
+Echoes of War {
+	AE=|William Walker, Jr.|
+	AS=|StokT|
+	YR=|1996|
+	TG=|12870|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Elevator Girls {
+	AE=|Robert Weinberg|
+	AS=|StokT|
+	YR=|1996|
+	TG=|13014|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+La Belle Dame Sans Merci {
+	AE=|David Niall Wilson+Brian A. Hopkins|
+	AS=|StokT|
+	YR=|1996|
+	TG=|13453|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Wringer {
+	AE=|F. Paul Wilson|
+	AS=|StokT|
+	YR=|1996|
+	TG=|13472|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Try and Kill It {
+	AE=|Gene Wolfe|
+	AS=|StokT|
+	YR=|1996|
+	TG=|13655|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|92|
+}
+Puppy Love Land {
+	AE=|Howard Wornom|
+	AS=|StokT|
+	YR=|1996|
+	TG=|13727|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Big Blow {
+	AE=|Joe R. Lansdale|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17926|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|1|
+}
+The Word {
+	AE=|Ramsey Campbell|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17902|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Everything's Eventual {
+	AE=|Stephen King|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17924|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+Coppola's Dracula {
+	AE=|Kim Newman|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17939|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+The Zombies of Madison County {
+	AE=|Douglas E. Winter|
+	AS=|StokT|
+	YR=|1997|
+	TG=|18036|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nv|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17885|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|x|
+	LV=|90|
+}
+In Hollow Houses {
+	AE=|Gary A. Braunbeck|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17894|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Searching for Surviviors {
+	AE=|Gary A. Braunbeck|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17895|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Triads {
+	AE=|Poppy Z. Brite+Christa Faust|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17897|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Riding the Black {
+	AE=|Charles L. Grant^Charles Grant|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17912|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|92|
+}
+Cold at Heart {
+	AE=|Brian A. Hopkins|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17917|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nv|
+	LV=|92|
+}
+In His Daughter's Darkling Womb {
+	AE=|Tina L. Jens|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17919|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Fiends {
+	AE=|Richard Laymon|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17928|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Fixtures of Matchstick Men and Joo {
+	AE=|Elizabeth Massie|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17931|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Ringard and Dendra {
+	AE=|Brian McNaughton|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17934|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+If I Should Die Before I Wake {
+	AE=|David Morrell|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17938|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+A Lower Deep {
+	AE=|Tom Piccirilli|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17943|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Dusting the Flowers {
+	AE=|David J. Schow|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17950|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Aryans and Absinthe {
+	AE=|F. Paul Wilson|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17936|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Inner Inner City {
+	AE=|Robert Charles Wilson|
+	AS=|StokT|
+	YR=|1997|
+	TG=|17937|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Mr. Clubb and Mr. Cuff {
+	AE=|Peter Straub|
+	AS=|StokT|
+	YR=|1998|
+	TG=|19614|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nv|
+	LV=|1|
+}
+Leavings {
+	AE=|P. D. Cacek|
+	AS=|StokT|
+	YR=|1998|
+	TG=|19663|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+As Above, So Below {
+	AE=|Brian Hodge|
+	AS=|StokT|
+	YR=|1998|
+	TG=|19729|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+What Would You Do for Love {
+	AE=|John Shirley|
+	AS=|StokT|
+	YR=|1998|
+	TG=|19811|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokT|
+	YR=|1998|
+	TG=|19630|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|x|
+	LV=|90|
+}
+Adhumbia {
+	AE=|Gary A. Braunbeck|
+	AS=|StokT|
+	YR=|1998|
+	TG=|19654|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Safe {
+	AE=|Gary A. Braunbeck|
+	AS=|StokT|
+	YR=|1998|
+	TG=|19655|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|92|
+}
+The Space Between the Lines {
+	AE=|Peter Crowther|
+	AS=|StokT|
+	YR=|1998|
+	TG=|19681|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Boss in the Wall {
+	AE=|Avram Davidson+Grania Davis|
+	AS=|StokT|
+	YR=|1998|
+	TG=|19685|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nv|
+	LV=|92|
+}
+Blackburn Bakes Cookies {
+	AE=|Bradley Denton|
+	AS=|StokT|
+	YR=|1998|
+	TG=|19687|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Feral {
+	AE=|Joyce Carol Oates|
+	AS=|StokT|
+	YR=|1998|
+	TG=|19784|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Van Brunt and Visitation {
+	AE=|Alan Rodgers|
+	AS=|StokT|
+	YR=|1998|
+	TG=|19798|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Bleeding of Hauptmann Gehlen {
+	AE=|William R. Trotter|
+	AS=|StokT|
+	YR=|1998|
+	TG=|19834|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Bible in Blood {
+	AE=|Ian Watson|
+	AS=|StokT|
+	YR=|1998|
+	TG=|19841|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Five Days in April {
+	AE=|Brian A. Hopkins|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20943|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|1|
+}
+Mad Dog Summer {
+	AE=|Joe R. Lansdale|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20981|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Dread in the Beast {
+	AE=|Charlee Jacob|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20953|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Right to Life {
+	AE=|Jack Ketchum|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20965|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20845|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|x|
+	LV=|90|
+}
+Butcher Cover {
+	AE=|Jay R. Bonansinga+Ben Adams|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20868|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+I'll Play the Blues for You {
+	AE=|Gary A. Braunbeck|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20871|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Small Song {
+	AE=|Gary A. Braunbeck|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20872|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|92|
+}
+It Ain't Much to Brag About, but It's All Mine {
+	AE=|Bill Breedlove|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20873|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Flicker Man {
+	AE=|Edward Bryant+Trey R. Barker|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20874|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Hand That Feeds {
+	AE=|Peter Crowther+James Lovegrove|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20896|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Executioners' Guild {
+	AE=|Andy Duncan|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20908|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nv|
+	LV=|92|
+}
+Low Men in Yellow Coats {
+	AE=|Stephen King|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20970|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|n|
+	LV=|92|
+}
+Why We're in Vietnam {
+	AE=|Stephen King|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20973|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+White {
+	AE=|Tim Lebbon|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20986|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nv|
+	LV=|92|
+}
+Operator "B" {
+	AE=|Edward Lee|
+	AS=|StokT|
+	YR=|1999|
+	TG=|20987|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Rio Grande Gothic {
+	AE=|David Morrell|
+	AS=|StokT|
+	YR=|1999|
+	TG=|21014|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Andy Warhol's Dracula {
+	AE=|Kim Newman|
+	AS=|StokT|
+	YR=|1999|
+	TG=|21021|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nv|
+	LV=|92|
+}
+The Ruins of Contracoeur {
+	AE=|Joyce Carol Oates|
+	AS=|StokT|
+	YR=|1999|
+	TG=|21025|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+An Antique Vintage {
+	AE=|John Pelan|
+	AS=|StokT|
+	YR=|1999|
+	TG=|21033|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Mount of the Oath {
+	AE=|Tom Piccirilli|
+	AS=|StokT|
+	YR=|1999|
+	TG=|21037|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Blue of Her Hair, Gold of Her Eyes {
+	AE=|John Rosenman|
+	AS=|StokT|
+	YR=|1999|
+	TG=|21049|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Women of Whale Rock {
+	AE=|Kristine Kathryn Rusch|
+	AS=|StokT|
+	YR=|1999|
+	TG=|21052|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nt|
+	LV=|92|
+}
+Sea Oak {
+	AE=|George Saunders|
+	AS=|StokT|
+	YR=|1999|
+	TG=|21061|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Crocodile Rock {
+	AE=|Lucius Shepard|
+	AS=|StokT|
+	YR=|1999|
+	TG=|21064|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nv|
+	LV=|92|
+}
+Hair and Blood Machine {
+	AE=|Terry M. West|
+	AS=|StokT|
+	YR=|1999|
+	TG=|21100|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Riding the Bullet {
+	AE=|Stephen King|
+	AS=|StokT|
+	YR=|2000|
+	TG=|18977|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+In Shock {
+	AE=|Joyce Carol Oates|
+	AS=|StokT|
+	YR=|2000|
+	TG=|19012|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+God Screamed and Screamed, then I Ate Him {
+	AE=|Lawrence P. Santoro|
+	AS=|StokT|
+	YR=|2000|
+	TG=|19032|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Man on the Ceiling {
+	AE=|Melanie Tem+Steve Rasnic Tem|
+	AS=|StokT|
+	YR=|2000|
+	TG=|19051|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokT|
+	YR=|2000|
+	TG=|22555|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|x|
+	LV=|90|
+}
+Blood Mangoes {
+	AE=|Ashok Banker|
+	AS=|StokT|
+	YR=|2000|
+	TG=|22570|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Mr. Hands {
+	AE=|Gary A. Braunbeck|
+	AS=|StokT|
+	YR=|2000|
+	TG=|22578|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Plastic Jesus {
+	AE=|Poppy Z. Brite|
+	AS=|StokT|
+	YR=|2000|
+	TG=|22579|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+A Rag, a Bone, and a Hank of Hair {
+	AE=|P. D. Cacek|
+	AS=|StokT|
+	YR=|2000|
+	TG=|22582|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Heidelberg Cylinder {
+	AE=|Jonathan Carroll|
+	AS=|StokT|
+	YR=|2000|
+	TG=|22584|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Pelican Cay {
+	AE=|David Case|
+	AS=|StokT|
+	YR=|2000|
+	TG=|22585|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Purity {
+	AE=|Douglas Clegg|
+	AS=|StokT|
+	YR=|2000|
+	TG=|22592|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Kiowa Wells {
+	AE=|R. A. Cox|
+	AS=|StokT|
+	YR=|2000|
+	TG=|22595|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Mr. Dark's Carnival {
+	AE=|Glen Hirshberg|
+	AS=|StokT|
+	YR=|2000|
+	TG=|18949|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Forbidden Fruits That Rot upon the Vine {
+	AE=|Brian Hodge|
+	AS=|StokT|
+	YR=|2000|
+	TG=|18950|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Damned Fool Man {
+	AE=|Tina L. Jens|
+	AS=|StokT|
+	YR=|2000|
+	TG=|18964|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Zenith Rising (Book One of the Plant) {
+	AE=|Stephen King|
+	AS=|StokT|
+	YR=|2000|
+	TG=|18978|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Naming of Parts {
+	AE=|Tim Lebbon|
+	AS=|StokT|
+	YR=|2000|
+	TG=|18987|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Origin of Truth {
+	AE=|Tim Lebbon|
+	AS=|StokT|
+	YR=|2000|
+	TG=|18988|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Filthy Death, the Leering Clown {
+	AE=|Joseph Moore+Brett A. Savory|
+	AS=|StokT|
+	YR=|2000|
+	TG=|18999|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Goddesses {
+	AE=|Linda Nagata|
+	AS=|StokT|
+	YR=|2000|
+	TG=|19003|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|nv|
+	LV=|92|
+}
+Heart's Blood {
+	AE=|William F. Nolan|
+	AS=|StokT|
+	YR=|2000|
+	TG=|19008|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Demons {
+	AE=|John Shirley|
+	AS=|StokT|
+	YR=|2000|
+	TG=|19039|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Down Here in the Garden {
+	AE=|Tia V. Travis|
+	AS=|StokT|
+	YR=|2000|
+	TG=|19056|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Deep Blue {
+	AE=|David Niall Wilson|
+	AS=|StokT|
+	YR=|2000|
+	TG=|19066|
+	TA=|Superior Achievement in Long Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Deep End {
+	AE=|Robert R. McCammon|
+	AS=|StokS|
+	YR=|1987|
+	TG=|8056|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+Friend's Best Man {
+	AE=|Jonathan Carroll|
+	AS=|StokS|
+	YR=|1987|
+	TG=|2458|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+This Old Man {
+	AE=|Charles L. Grant|
+	AS=|StokS|
+	YR=|1987|
+	TG=|5316|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Day-Tay-Vao {
+	AE=|F. Paul Wilson|
+	AS=|StokS|
+	YR=|1987|
+	TG=|13457|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Traps {
+	AE=|F. Paul Wilson|
+	AS=|StokS|
+	YR=|1987|
+	TG=|13469|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Night They Missed the Horror Show {
+	AE=|Joe R. Lansdale|
+	AS=|StokS|
+	YR=|1988|
+	TG=|7037|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+The Thing at the Top of the Stairs {
+	AE=|Ray Bradbury|
+	AS=|StokS|
+	YR=|1988|
+	TG=|1576|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+She's a Young Thing and Cannot Leave Her Mother {
+	AE=|Harlan Ellison|
+	AS=|StokS|
+	YR=|1988|
+	TG=|4226|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Nobody Lives There Now {
+	AE=|Carol Orlock|
+	AS=|StokS|
+	YR=|1988|
+	TG=|8956|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Jack's Decline {
+	AE=|Lucius Shepard|
+	AS=|StokS|
+	YR=|1988|
+	TG=|10619|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Music of the Dark Time {
+	AE=|Chet Williamson|
+	AS=|StokS|
+	YR=|1988|
+	TG=|13328|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Eat Me {
+	AE=|Robert R. McCammon|
+	AS=|StokS|
+	YR=|1989|
+	TG=|8057|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+A Sad Last Love at the Diner of the Damned {
+	AE=|Edward Bryant|
+	AS=|StokS|
+	YR=|1989|
+	TG=|1871|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Each Night, Each Year {
+	AE=|Kathryn Ptacek|
+	AS=|StokS|
+	YR=|1989|
+	TG=|9495|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Bodies and Heads {
+	AE=|Steve Rasnic Tem|
+	AS=|StokS|
+	YR=|1989|
+	TG=|11866|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+"Yore Skin's Jes's Soft 'n Purty..." He Said. (Page 243) {
+	AE=|Chet Williamson|
+	AS=|StokS|
+	YR=|1989|
+	TG=|13331|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Calling {
+	AE=|David B. Silva|
+	AS=|StokS|
+	YR=|1990|
+	TG=|10756|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+The Loneliest Number {
+	AE=|Edward Bryant|
+	AS=|StokS|
+	YR=|1990|
+	TG=|1865|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Back Windows {
+	AE=|Steve Rasnic Tem|
+	AS=|StokS|
+	YR=|1990|
+	TG=|11865|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+But You'll Never Follow Me {
+	AE=|Karl Edward Wagner|
+	AS=|StokS|
+	YR=|1990|
+	TG=|12779|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+From the Papers of Helmut Hecher {
+	AE=|Chet Williamson|
+	AS=|StokS|
+	YR=|1990|
+	TG=|13327|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Lady Madonna {
+	AE=|Nancy Holder|
+	AS=|StokS|
+	YR=|1991|
+	TG=|6001|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+The Ash of Memory, the Dust of Desire {
+	AE=|Poppy Z. Brite|
+	AS=|StokS|
+	YR=|1991|
+	TG=|1699|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Love Doll: A Fable {
+	AE=|Joe R. Lansdale|
+	AS=|StokS|
+	YR=|1991|
+	TG=|7036|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Braille Encyclopaedia {
+	AE=|Grant Morrison|
+	AS=|StokS|
+	YR=|1991|
+	TG=|8564|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Wolf Winter {
+	AE=|Maxine O'Callaghan|
+	AS=|StokS|
+	YR=|1991|
+	TG=|8906|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Richard's Head {
+	AE=|Al Sarrantonio|
+	AS=|StokS|
+	YR=|1991|
+	TG=|10235|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+This Year's Class Picture {
+	AE=|Dan Simmons|
+	AS=|StokS|
+	YR=|1992|
+	TG=|11020|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+Farm Wife {
+	AE=|Nancy Kilpatrick|
+	AS=|StokS|
+	YR=|1992|
+	TG=|6507|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Did They Get You To Trade? {
+	AE=|Karl Edward Wagner|
+	AS=|StokS|
+	YR=|1992|
+	TG=|12781|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Come One, Come All {
+	AE=|Gahan Wilson|
+	AS=|StokS|
+	YR=|1992|
+	TG=|13478|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Bright Lights, Big Zombie {
+	AE=|Douglas E. Winter|
+	AS=|StokS|
+	YR=|1992|
+	TG=|13544|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+I Hear the Mermaids Singing {
+	AE=|Nancy Holder|
+	AS=|StokS|
+	YR=|1993|
+	TG=|6000|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|nt|
+	LV=|1|
+}
+Distances {
+	AE=|Sherman Alexie|
+	AS=|StokS|
+	YR=|1993|
+	TG=|301|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Death Fiend Guerrillas {
+	AE=|William S. Burroughs|
+	AS=|StokS|
+	YR=|1993|
+	TG=|2025|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Dog Park {
+	AE=|Dennis Etchison|
+	AS=|StokS|
+	YR=|1993|
+	TG=|4288|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Pain Grin {
+	AE=|Wayne Allen Sallee|
+	AS=|StokS|
+	YR=|1993|
+	TG=|10188|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Cafe Endless: Spring Rain {
+	AE=|Nancy Holder|
+	AS=|StokS|
+	YR=|1994|
+	TG=|5997|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+The Box {
+	AE=|Jack Ketchum|
+	AS=|StokS|
+	YR=|1994|
+	TG=|6467|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+Silent Pace {
+	AE=|Jerry Ahern+Sharon Ahern|
+	AS=|StokS|
+	YR=|1994|
+	TG=|218|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Mr. Torso {
+	AE=|Edward Lee|
+	AS=|StokS|
+	YR=|1994|
+	TG=|7229|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Things of Which We Do Not Speak {
+	AE=|Lucy Taylor|
+	AS=|StokS|
+	YR=|1994|
+	TG=|11849|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokS|
+	YR=|1994|
+	TG=|128|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|x|
+	LV=|90|
+}
+Salt {
+	AE=|P. D. Cacek|
+	AS=|StokS|
+	YR=|1994|
+	TG=|2080|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Call {
+	AE=|Mort Castle|
+	AS=|StokS|
+	YR=|1994|
+	TG=|2508|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Sponge Monkeys {
+	AE=|Wayne Edwards|
+	AS=|StokS|
+	YR=|1994|
+	TG=|3953|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+A Wind from the South {
+	AE=|Dennis Etchison|
+	AS=|StokS|
+	YR=|1994|
+	TG=|4295|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Rose {
+	AE=|Jack Ketchum|
+	AS=|StokS|
+	YR=|1994|
+	TG=|6469|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+A Complete Woman {
+	AE=|Roberta Lannes|
+	AS=|StokS|
+	YR=|1994|
+	TG=|7026|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Little Black Bags {
+	AE=|Clark Perry|
+	AS=|StokS|
+	YR=|1994|
+	TG=|9124|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Ocean and All Its Devices {
+	AE=|William Browning Spencer|
+	AS=|StokS|
+	YR=|1994|
+	TG=|11200|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Dial Your Dreams {
+	AE=|Robert Weinberg|
+	AS=|StokS|
+	YR=|1994|
+	TG=|13013|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Chatting with Anubis {
+	AE=|Harlan Ellison|
+	AS=|StokS|
+	YR=|1995|
+	TG=|4156|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Becky Lives {
+	AE=|Harry Crews|
+	AS=|StokS|
+	YR=|1995|
+	TG=|3067|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Bungalow House {
+	AE=|Thomas Ligotti|
+	AS=|StokS|
+	YR=|1995|
+	TG=|7477|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Death of the Novel {
+	AE=|William Browning Spencer|
+	AS=|StokS|
+	YR=|1995|
+	TG=|11199|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokS|
+	YR=|1995|
+	TG=|129|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|x|
+	LV=|90|
+}
+The Frieze of Life {
+	AE=|Ben Adams|
+	AS=|StokS|
+	YR=|1995|
+	TG=|201|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Icing Up {
+	AE=|Ben Adams|
+	AS=|StokS|
+	YR=|1995|
+	TG=|202|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Reality {
+	AE=|Steve Antczak|
+	AS=|StokS|
+	YR=|1995|
+	TG=|439|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Devil with a Blue Dress {
+	AE=|P. D. Cacek|
+	AS=|StokS|
+	YR=|1995|
+	TG=|2077|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Mime Games {
+	AE=|P. D. Cacek|
+	AS=|StokS|
+	YR=|1995|
+	TG=|2079|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Yrena {
+	AE=|P. D. Cacek|
+	AS=|StokS|
+	YR=|1995|
+	TG=|2081|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Under Control {
+	AE=|Danielle D'Attilio|
+	AS=|StokS|
+	YR=|1995|
+	TG=|3127|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Mollusk Dreams {
+	AE=|Nancy Etchemendy|
+	AS=|StokS|
+	YR=|1995|
+	TG=|4276|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Crone Woman Gandy {
+	AE=|Richard Gilliam|
+	AS=|StokS|
+	YR=|1995|
+	TG=|5057|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Psychomildew Love {
+	AE=|Lois H. Gresh|
+	AS=|StokS|
+	YR=|1995|
+	TG=|5384|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Snip My Suckers {
+	AE=|Lois H. Gresh|
+	AS=|StokS|
+	YR=|1995|
+	TG=|5385|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Extinctions in Paradise {
+	AE=|Brian Hodge|
+	AS=|StokS|
+	YR=|1995|
+	TG=|5948|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Godflesh {
+	AE=|Brian Hodge|
+	AS=|StokS|
+	YR=|1995|
+	TG=|5949|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Age of Maturity {
+	AE=|Pamela D. Hodgson|
+	AS=|StokS|
+	YR=|1995|
+	TG=|5956|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+A 12 Step Program (for the Corporeally Challenged) {
+	AE=|Tina L. Jens|
+	AS=|StokS|
+	YR=|1995|
+	TG=|6173|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Persephone {
+	AE=|Caitlín R. Kiernan|
+	AS=|StokS|
+	YR=|1995|
+	TG=|6490|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Hideyhole {
+	AE=|Billie Sue Mosiman|
+	AS=|StokS|
+	YR=|1995|
+	TG=|8600|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Best Years of My Life {
+	AE=|Yvonne Navarro|
+	AS=|StokS|
+	YR=|1995|
+	TG=|8684|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+These Shoes Strangers Have Died of {
+	AE=|Bruce Holland Rogers|
+	AS=|StokS|
+	YR=|1995|
+	TG=|9909|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Lullabye & Goodnight {
+	AE=|Wayne Allen Sallee|
+	AS=|StokS|
+	YR=|1995|
+	TG=|10187|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+I Feel My Body Grow {
+	AE=|Del Stone, Jr.|
+	AS=|StokS|
+	YR=|1995|
+	TG=|11573|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Parasitorium {
+	AE=|Del Stone, Jr.|
+	AS=|StokS|
+	YR=|1995|
+	TG=|11574|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Sorry Child's Christmas {
+	AE=|Sue Storm|
+	AS=|StokS|
+	YR=|1995|
+	TG=|11578|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+VampWare {
+	AE=|Karen E. Taylor|
+	AS=|StokS|
+	YR=|1995|
+	TG=|11832|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Hungry Skin {
+	AE=|Lucy Taylor|
+	AS=|StokS|
+	YR=|1995|
+	TG=|11844|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Ro Erg {
+	AE=|Robert Weinberg|
+	AS=|StokS|
+	YR=|1995|
+	TG=|13016|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Hope as an Element of Cold Dark Matter {
+	AE=|Rick Wilber|
+	AS=|StokS|
+	YR=|1995|
+	TG=|13187|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Mounting the Monkeys {
+	AE=|Rick Wilber|
+	AS=|StokS|
+	YR=|1995|
+	TG=|13189|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+In His Heart Live Dragons {
+	AE=|David Niall Wilson|
+	AS=|StokS|
+	YR=|1995|
+	TG=|13452|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Metalica {
+	AE=|P. D. Cacek|
+	AS=|StokS|
+	YR=|1996|
+	TG=|2078|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+The Slobbering Tongue That Ate the Frightfully Huge Woman {
+	AE=|Robert Devereaux|
+	AS=|StokS|
+	YR=|1996|
+	TG=|3496|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Secret Shih Tan {
+	AE=|Graham Masterton|
+	AS=|StokS|
+	YR=|1996|
+	TG=|7915|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+The House of Mourning {
+	AE=|Brian Stableford|
+	AS=|StokS|
+	YR=|1996|
+	TG=|11292|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Plan 10 from Inner Space {
+	AE=|Karl Edward Wagner|
+	AS=|StokS|
+	YR=|1996|
+	TG=|12788|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokS|
+	YR=|1996|
+	TG=|130|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|x|
+	LV=|90|
+}
+Neither Rain Nor Sleet {
+	AE=|Adam-Troy Castro|
+	AS=|StokS|
+	YR=|1996|
+	TG=|2515|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+October Gethsemane {
+	AE=|Sean Doolittle|
+	AS=|StokS|
+	YR=|1996|
+	TG=|3716|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Sole Man {
+	AE=|Lois H. Gresh|
+	AS=|StokS|
+	YR=|1996|
+	TG=|5386|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Chin Oil {
+	AE=|George Guthridge|
+	AS=|StokS|
+	YR=|1996|
+	TG=|5474|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Preacherman Gets the Blues {
+	AE=|Tina L. Jens|
+	AS=|StokS|
+	YR=|1996|
+	TG=|6174|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Love Letters from the Rain Forest {
+	AE=|Jack Ketchum+Edward Lee|
+	AS=|StokS|
+	YR=|1996|
+	TG=|6471|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Tears Seven Times Salt {
+	AE=|Caitlín R. Kiernan|
+	AS=|StokS|
+	YR=|1996|
+	TG=|6491|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Taibhse {
+	AE=|Terry McGarry|
+	AS=|StokS|
+	YR=|1996|
+	TG=|8179|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Sothis Radiant {
+	AE=|Will Murray|
+	AS=|StokS|
+	YR=|1996|
+	TG=|8657|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Underground Atlanta {
+	AE=|Gregory Nicoll|
+	AS=|StokS|
+	YR=|1996|
+	TG=|8718|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Call It {
+	AE=|Tom Piccirilli|
+	AS=|StokS|
+	YR=|1996|
+	TG=|9140|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Silhouette {
+	AE=|Stephen Mark Rainey|
+	AS=|StokS|
+	YR=|1996|
+	TG=|9508|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Harrowing {
+	AE=|Carrie Richerson|
+	AS=|StokS|
+	YR=|1996|
+	TG=|9714|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Having Eyes, See Ye Not? {
+	AE=|Sue Storm|
+	AS=|StokS|
+	YR=|1996|
+	TG=|11577|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Five-Percent People {
+	AE=|Lucy Taylor|
+	AS=|StokS|
+	YR=|1996|
+	TG=|11842|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Cherry Meadow Massacre {
+	AE=|Sidney Williams|
+	AS=|StokS|
+	YR=|1996|
+	TG=|13282|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Rat Food {
+	AE=|Edo van Belkom+David Nickle|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17959|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+I Am Infinite; I Contain Multitudes {
+	AE=|Douglas Clegg|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17904|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+A Plague on Both Your Houses {
+	AE=|Scott Edelman|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17909|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Madame Babylon {
+	AE=|Brian Hodge|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17916|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17884|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|x|
+	LV=|90|
+}
+A Simple Understanding {
+	AE=|Ken Abner|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17886|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Dance in Crimson {
+	AE=|Trey R. Barker|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17888|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Here There Be Hangin's {
+	AE=|Trey R. Barker|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17889|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The I of the Eye of the Worm {
+	AE=|Janet Berliner+George Guthridge|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17891|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Close Encounters of Madison County {
+	AE=|Gary Bradner|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17892|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Spider in the Hairdo {
+	AE=|Michael A. Burstein|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17900|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Dust Motes {
+	AE=|P. D. Cacek|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17901|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Beluthahatchie {
+	AE=|Andy Duncan|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17907|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Saints and Martyrs {
+	AE=|Nancy Etchemendy|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17910|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Great White Light {
+	AE=|Greg Kihn|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17922|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Children of Gael {
+	AE=|Nancy Kilpatrick+Benoit Bisson|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17923|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Starr Bright Will Be with You Soon {
+	AE=|Joyce Carol Oates|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17940|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Quick and the Dead {
+	AE=|Carrie Richerson|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17945|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Fisher's Daughter {
+	AE=|Thomas S. Roche|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17946|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Razorblade Valentines {
+	AE=|Thomas S. Roche|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17947|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Trophies {
+	AE=|John Rosenman|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17948|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Ugliest Duckling {
+	AE=|S. P. Somtow|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17952|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Waiting for Victor {
+	AE=|Del Stone, Jr.|
+	AS=|StokS|
+	YR=|1997|
+	TG=|17955|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Dead Boy at Your Window {
+	AE=|Bruce Holland Rogers|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19799|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+Blues-Born {
+	AE=|Tina L. Jens|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19734|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Autopsy Room Four {
+	AE=|Stephen King|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19749|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Rug {
+	AE=|Edo van Belkom|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19837|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19631|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|x|
+	LV=|90|
+}
+Point of Intersection {
+	AE=|Dominick Cancilla|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19667|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Night Call {
+	AE=|Richard Chizmar|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19676|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Icewall {
+	AE=|William Gagliani|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19713|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Echoes {
+	AE=|Cindie Geddes|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19715|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Scanning {
+	AE=|Richard Gilliam|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19717|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Haunted {
+	AE=|Charles L. Grant|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19720|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Mr. Pigman {
+	AE=|George Guthridge|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19723|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+So You Want to Be a Hitman {
+	AE=|Gary Jonas|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19735|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Every Angel is Terrifying {
+	AE=|John Kessel|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19742|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Please Help Me {
+	AE=|Richard Christian Matheson|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19772|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Doctor, Lawyer, Kansas City Chief {
+	AE=|Brent Monahan|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19776|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Lifeline {
+	AE=|Yvonne Navarro|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19778|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Blackbirds {
+	AE=|Norman Partridge|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19787|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Twins {
+	AE=|John Pelton|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19789|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Gills {
+	AE=|David J. Schow|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19808|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Solbourne Vampire {
+	AE=|Charles Sheffield|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19809|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Lighting the Corpses {
+	AE=|Del Stone, Jr.|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19823|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Game {
+	AE=|Melanie Tem|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19830|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Grandpa's Head {
+	AE=|Lawrence Watt-Evans|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19842|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Blameless {
+	AE=|David Niall Wilson|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19847|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+A Southern Night {
+	AE=|Jane Yolen|
+	AS=|StokS|
+	YR=|1998|
+	TG=|19853|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+After Shock {
+	AE=|F. Paul Wilson|
+	AS=|StokS|
+	YR=|1999|
+	TG=|21107|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|1|
+}
+The Grave {
+	AE=|P. D. Cacek|
+	AS=|StokS|
+	YR=|1999|
+	TG=|20879|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+The Entertainment {
+	AE=|Ramsey Campbell|
+	AS=|StokS|
+	YR=|1999|
+	TG=|20880|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Halloween Street {
+	AE=|Steve Rasnic Tem|
+	AS=|StokS|
+	YR=|1999|
+	TG=|21087|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokS|
+	YR=|1999|
+	TG=|20846|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|x|
+	LV=|90|
+}
+Joleraymi's Rose {
+	AE=|Geoff Cooper|
+	AS=|StokS|
+	YR=|1999|
+	TG=|20892|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Keepsakes and Treasures: A Love Story {
+	AE=|Neil Gaiman|
+	AS=|StokS|
+	YR=|1999|
+	TG=|20921|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Release {
+	AE=|Sephera Giron|
+	AS=|StokS|
+	YR=|1999|
+	TG=|20927|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Gramps Goes Fishing {
+	AE=|Brian A. Hopkins|
+	AS=|StokS|
+	YR=|1999|
+	TG=|20945|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Woodshed {
+	AE=|Brian A. Hopkins|
+	AS=|StokS|
+	YR=|1999|
+	TG=|20946|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+To Wake the Dead in Nypholos {
+	AE=|Gerard Daniel Houarner|
+	AS=|StokS|
+	YR=|1999|
+	TG=|20948|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Bum Barrel {
+	AE=|Brian Keene|
+	AS=|StokS|
+	YR=|1999|
+	TG=|20961|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Ushers {
+	AE=|Edward Lee|
+	AS=|StokS|
+	YR=|1999|
+	TG=|20989|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Burden {
+	AE=|Michael Marano|
+	AS=|StokS|
+	YR=|1999|
+	TG=|20996|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Family Man {
+	AE=|Weston Ochse|
+	AS=|StokS|
+	YR=|1999|
+	TG=|21027|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+By Invitation Only {
+	AE=|Julie Anne Parks|
+	AS=|StokS|
+	YR=|1999|
+	TG=|21030|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Of Darkness I Ackowledge Mine {
+	AE=|Tom Piccirilli|
+	AS=|StokS|
+	YR=|1999|
+	TG=|21038|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+The Cannibal's Daughter {
+	AE=|Eve Rings|
+	AS=|StokS|
+	YR=|1999|
+	TG=|21044|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Standing Betwixt Worlds in Delightful Agony {
+	AE=|David Whitman|
+	AS=|StokS|
+	YR=|1999|
+	TG=|21104|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+That's Some Pig {
+	AE=|David Niall Wilson+Brett Savory|
+	AS=|StokS|
+	YR=|1999|
+	TG=|21106|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Strays {
+	AE=|Mehitobel Wilson|
+	AS=|StokS|
+	YR=|1999|
+	TG=|21109|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|ss|
+	LV=|92|
+}
+Dead Cat Bounce {
+	AE=|Gerard Daniel Houarner|
+	AS=|StokS|
+	YR=|2000|
+	TG=|18958|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Gone {
+	AE=|Jack Ketchum|
+	AS=|StokS|
+	YR=|2000|
+	TG=|18973|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Fallen Angel {
+	AE=|Robert J. Sawyer|
+	AS=|StokS|
+	YR=|2000|
+	TG=|19036|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Mexican Moon {
+	AE=|Karen E. Taylor|
+	AS=|StokS|
+	YR=|2000|
+	TG=|19049|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokS|
+	YR=|2000|
+	TG=|22556|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|x|
+	LV=|90|
+}
+The Idea Man {
+	AE=|Steve Beai|
+	AS=|StokS|
+	YR=|2000|
+	TG=|22571|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Bird's Dead {
+	AE=|Mort Castle|
+	AS=|StokS|
+	YR=|2000|
+	TG=|22586|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Dream Catcher {
+	AE=|Sandy Deluca|
+	AS=|StokS|
+	YR=|2000|
+	TG=|22604|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Angel Eyes {
+	AE=|Steve Eller|
+	AS=|StokS|
+	YR=|2000|
+	TG=|22606|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Bloodroses {
+	AE=|John Everson|
+	AS=|StokS|
+	YR=|2000|
+	TG=|22612|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Crocodile Gods {
+	AE=|Brian A. Hopkins|
+	AS=|StokS|
+	YR=|2000|
+	TG=|18952|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Dark Hearts of Stones {
+	AE=|Brian A. Hopkins|
+	AS=|StokS|
+	YR=|2000|
+	TG=|18953|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Dead Stay Dead {
+	AE=|Nick Kaufmann|
+	AS=|StokS|
+	YR=|2000|
+	TG=|18970|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Comes a Cool Rain {
+	AE=|Michael Kelly|
+	AS=|StokS|
+	YR=|2000|
+	TG=|18972|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Shatter Pains {
+	AE=|Patricia Lee Macomber|
+	AS=|StokS|
+	YR=|2000|
+	TG=|18991|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Dirty Black Summer {
+	AE=|James Newman|
+	AS=|StokS|
+	YR=|2000|
+	TG=|19005|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+A Dichotomy of Belief {
+	AE=|Michael Oliveri|
+	AS=|StokS|
+	YR=|2000|
+	TG=|19013|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Still Crazy After All These Years {
+	AE=|Judi Rohrig|
+	AS=|StokS|
+	YR=|2000|
+	TG=|19027|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Painting Blue Murders {
+	AE=|Steve Savile|
+	AS=|StokS|
+	YR=|2000|
+	TG=|19034|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Defining Moments {
+	AE=|David Niall Wilson|
+	AS=|StokS|
+	YR=|2000|
+	TG=|19067|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+A Poem of Adrian, Grey {
+	AE=|David Niall Wilson+Brian A. Hopkins|
+	AS=|StokS|
+	YR=|2000|
+	TG=|19068|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+Madeline in Effigy {
+	AE=|Mehitobel Wilson|
+	AS=|StokS|
+	YR=|2000|
+	TG=|19072|
+	TA=|Superior Achievement in Short Fiction|
+	TP=|sf|
+	LV=|92|
+}
+The Essential Ellison: A 35-Year Retrospective {
+	AE=|Harlan Ellison+Terry Dowling+Richard Delap+Gil Lamont|
+	AS=|StokC|
+	YR=|1987|
+	TG=|4177|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|1|
+}
+Midnight Pleasures {
+	AE=|Robert Bloch|
+	AS=|StokC|
+	YR=|1987|
+	TG=|1421|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Scared Stiff: Tales of Sex and Death {
+	AE=|Ramsey Campbell|
+	AS=|StokC|
+	YR=|1987|
+	TG=|2224|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Why Not You and I? {
+	AE=|Karl Edward Wagner|
+	AS=|StokC|
+	YR=|1987|
+	TG=|12797|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+All About Strange Monsters of the Recent Past {
+	AE=|Howard Waldrop|
+	AS=|StokC|
+	YR=|1987|
+	TG=|12818|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Charles Beaumont: Selected Stories {
+	AE=|Charles Beaumont+Roger Anker|
+	AS=|StokC|
+	YR=|1988|
+	TG=|1015|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|1|
+}
+The Toynbee Convector {
+	AE=|Ray Bradbury|
+	AS=|StokC|
+	YR=|1988|
+	TG=|1578|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Angry Candy {
+	AE=|Harlan Ellison|
+	AS=|StokC|
+	YR=|1988|
+	TG=|4146|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+The Blood Kiss {
+	AE=|Dennis Etchison|
+	AS=|StokC|
+	YR=|1988|
+	TG=|4279|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Scare Tactics {
+	AE=|John Farris|
+	AS=|StokC|
+	YR=|1988|
+	TG=|4389|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Blood and Water and Other Tales {
+	AE=|Patrick McGrath|
+	AS=|StokC|
+	YR=|1988|
+	TG=|8184|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Richard Matheson: Collected Stories {
+	AE=|Richard Matheson|
+	AS=|StokC|
+	YR=|1989|
+	TG=|7923|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|1|
+}
+Patterns {
+	AE=|Pat Cadigan|
+	AS=|StokC|
+	YR=|1989|
+	TG=|2112|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+By Bizarre Hands {
+	AE=|Joe R. Lansdale|
+	AS=|StokC|
+	YR=|1989|
+	TG=|7029|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Blue World and Other Stories {
+	AE=|Robert R. McCammon|
+	AS=|StokC|
+	YR=|1989|
+	TG=|8051|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Soft and Others {
+	AE=|F. Paul Wilson|
+	AS=|StokC|
+	YR=|1989|
+	TG=|13468|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Four Past Midnight {
+	AE=|Stephen King|
+	AS=|StokC|
+	YR=|1990|
+	TG=|6569|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|1|
+}
+The Brains of Rats {
+	AE=|Michael Blumlein|
+	AS=|StokC|
+	YR=|1990|
+	TG=|1436|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Prayers to Broken Stones {
+	AE=|Dan Simmons|
+	AS=|StokC|
+	YR=|1990|
+	TG=|11010|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Houses Without Doors {
+	AE=|Peter Straub|
+	AS=|StokC|
+	YR=|1990|
+	TG=|11611|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Prayers to Broken Stones {
+	AE=|Dan Simmons|
+	AS=|StokC|
+	YR=|1991|
+	TG=|11011|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|1|
+}
+Waking Nightmares {
+	AE=|Ramsey Campbell|
+	AS=|StokC|
+	YR=|1991|
+	TG=|2228|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Sex Punks & Savage Sagas {
+	AE=|Richard Sutphin|
+	AS=|StokC|
+	YR=|1991|
+	TG=|11705|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Naked Flesh of Feeling {
+	AE=|J. N. Williamson|
+	AS=|StokC|
+	YR=|1991|
+	TG=|13341|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Mr. Fox and Other Feral Tales {
+	AE=|Norman Partridge|
+	AS=|StokC|
+	YR=|1992|
+	TG=|9065|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|1|
+}
+Nightmare Flower {
+	AE=|Elizabeth Engstrom|
+	AS=|StokC|
+	YR=|1992|
+	TG=|4266|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Fantastic Tales {
+	AE=|I. U. Tarchetti|
+	AS=|StokC|
+	YR=|1992|
+	TG=|11811|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Alone with the Horrors {
+	AE=|Ramsey Campbell|
+	AS=|StokC|
+	YR=|1993|
+	TG=|2199|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|1|
+}
+Nightmares & Dreamscapes {
+	AE=|Stephen King|
+	AS=|StokC|
+	YR=|1993|
+	TG=|6593|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+A Good and Secret Place {
+	AE=|Richard Laymon|
+	AS=|StokC|
+	YR=|1993|
+	TG=|7086|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Lovedeath {
+	AE=|Dan Simmons|
+	AS=|StokC|
+	YR=|1993|
+	TG=|11006|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Close to the Bone {
+	AE=|Lucy Taylor|
+	AS=|StokC|
+	YR=|1993|
+	TG=|11841|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+The Early Fears {
+	AE=|Robert Bloch|
+	AS=|StokC|
+	YR=|1994|
+	TG=|1418|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|1|
+}
+Writers of the Purple Rage {
+	AE=|Joe R. Lansdale|
+	AS=|StokC|
+	YR=|1994|
+	TG=|7045|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+The Flesh Artist {
+	AE=|Lucy Taylor|
+	AS=|StokC|
+	YR=|1994|
+	TG=|11843|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Born Bad {
+	AE=|Andrew Vachss|
+	AS=|StokC|
+	YR=|1994|
+	TG=|12521|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokC|
+	YR=|1994|
+	TG=|120|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|x|
+	LV=|90|
+}
+Nameless Sins {
+	AE=|Nancy A. Collins|
+	AS=|StokC|
+	YR=|1994|
+	TG=|2893|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Panic Hand {
+	AE=|Jonathan Carroll|
+	AS=|StokC|
+	YR=|1995|
+	TG=|2468|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|1|
+}
+Cages {
+	AE=|Ed Gorman|
+	AS=|StokC|
+	YR=|1995|
+	TG=|5236|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+The Black Carousel {
+	AE=|Charles L. Grant|
+	AS=|StokC|
+	YR=|1995|
+	TG=|5268|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Strange Highways {
+	AE=|Dean R. Koontz|
+	AS=|StokC|
+	YR=|1995|
+	TG=|6732|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokC|
+	YR=|1995|
+	TG=|121|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|x|
+	LV=|90|
+}
+The Language of Fear {
+	AE=|Del James|
+	AS=|StokC|
+	YR=|1995|
+	TG=|6157|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Second Wish & Other Exhalations {
+	AE=|Brian Lumley|
+	AS=|StokC|
+	YR=|1995|
+	TG=|7610|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Pentacle {
+	AE=|Tom Piccirilli|
+	AS=|StokC|
+	YR=|1995|
+	TG=|9144|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Nightmare Factory {
+	AE=|Thomas Ligotti|
+	AS=|StokC|
+	YR=|1996|
+	TG=|7482|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|a|
+	LV=|1|
+}
+The Convulsion Factory {
+	AE=|Brian Hodge|
+	AS=|StokC|
+	YR=|1996|
+	TG=|5946|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Shadow Dreams {
+	AE=|Elizabeth Massie|
+	AS=|StokC|
+	YR=|1996|
+	TG=|7909|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+With Wounds Still Wet {
+	AE=|Wayne Allen Sallee|
+	AS=|StokC|
+	YR=|1996|
+	TG=|10189|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+The Pavilion of Frozen Women {
+	AE=|S. P. Somtow|
+	AS=|StokC|
+	YR=|1996|
+	TG=|11163|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokC|
+	YR=|1996|
+	TG=|122|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|x|
+	LV=|90|
+}
+Midnight Promises {
+	AE=|Richard Chizmar|
+	AS=|StokC|
+	YR=|1996|
+	TG=|2743|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Painfreak {
+	AE=|Gerard Daniel Houarner|
+	AS=|StokC|
+	YR=|1996|
+	TG=|6046|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Bad Intentions {
+	AE=|Norman Partridge|
+	AS=|StokC|
+	YR=|1996|
+	TG=|9062|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Exorcisms and Ecstasies {
+	AE=|Karl Edward Wagner|
+	AS=|StokC|
+	YR=|1997|
+	TG=|17960|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|1|
+}
+Things Left Behind {
+	AE=|Gary A. Braunbeck|
+	AS=|StokC|
+	YR=|1997|
+	TG=|17896|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+The Throne of Bones {
+	AE=|Brian McNaughton|
+	AS=|StokC|
+	YR=|1997|
+	TG=|17935|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Painted in Blood {
+	AE=|Lucy Taylor|
+	AS=|StokC|
+	YR=|1997|
+	TG=|17958|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokC|
+	YR=|1997|
+	TG=|17881|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|x|
+	LV=|90|
+}
+Distorture {
+	AE=|Rob Hardin|
+	AS=|StokC|
+	YR=|1997|
+	TG=|17914|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Publish and Perish: Three Tales of Tenure and Terror {
+	AE=|James Hynes|
+	AS=|StokC|
+	YR=|1997|
+	TG=|17918|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Horror of Night {
+	AE=|Roberta Lannes|
+	AS=|StokC|
+	YR=|1997|
+	TG=|17925|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Fiends {
+	AE=|Richard Laymon|
+	AS=|StokC|
+	YR=|1997|
+	TG=|17927|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Foggy Mountain Breakdown and Other Stories {
+	AE=|Sharyn McCrumb|
+	AS=|StokC|
+	YR=|1997|
+	TG=|17933|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Horizon Lines {
+	AE=|Jeffrey Osier|
+	AS=|StokC|
+	YR=|1997|
+	TG=|17941|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Dog Syndrome & Other Sick Puppies {
+	AE=|Tom Piccirilli|
+	AS=|StokC|
+	YR=|1997|
+	TG=|17942|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Final Trick of Funnyman and Other Stories {
+	AE=|Bruce Taylor|
+	AS=|StokC|
+	YR=|1997|
+	TG=|17957|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Black Butterflies: A Flock on the Dark Side {
+	AE=|John Shirley|
+	AS=|StokC|
+	YR=|1998|
+	TG=|19621|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|1|
+}
+Leavings {
+	AE=|P. D. Cacek|
+	AS=|StokC|
+	YR=|1998|
+	TG=|19662|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Smoke and Mirrors {
+	AE=|Neil Gaiman|
+	AS=|StokC|
+	YR=|1998|
+	TG=|19714|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+The Cleft and Other Odd Tales {
+	AE=|Gahan Wilson|
+	AS=|StokC|
+	YR=|1998|
+	TG=|19849|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokC|
+	YR=|1998|
+	TG=|19632|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|x|
+	LV=|90|
+}
+Flowers from the Moon and Other Lunacies {
+	AE=|Robert Bloch|
+	AS=|StokC|
+	YR=|1998|
+	TG=|19648|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Night We Buried Road Dog {
+	AE=|Jack Cady|
+	AS=|StokC|
+	YR=|1998|
+	TG=|19665|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+One Day Closer to Death {
+	AE=|Bradley Denton|
+	AS=|StokC|
+	YR=|1998|
+	TG=|19688|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Last Summer at Mars Hill {
+	AE=|Elizabeth Hand|
+	AS=|StokC|
+	YR=|1998|
+	TG=|19724|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Falling Idols {
+	AE=|Brian Hodge|
+	AS=|StokC|
+	YR=|1998|
+	TG=|19730|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Exit at Toledo Blade Boulevard {
+	AE=|Jack Ketchum|
+	AS=|StokC|
+	YR=|1998|
+	TG=|19743|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Collector of Hearts: New Tales of the Grotesque {
+	AE=|Joyce Carol Oates|
+	AS=|StokC|
+	YR=|1998|
+	TG=|19783|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Crypt Orchids {
+	AE=|David J. Schow|
+	AS=|StokC|
+	YR=|1998|
+	TG=|19807|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Death Drives a Semi {
+	AE=|Edo van Belkom|
+	AS=|StokC|
+	YR=|1998|
+	TG=|19836|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Nightmare Chronicles {
+	AE=|Douglas Clegg|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20889|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|1|
+}
+Hearts in Atlantis {
+	AE=|Stephen King|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20969|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Deep into the Darkness Peering {
+	AE=|Tom Piccirilli|
+	AS=|StokC|
+	YR=|1999|
+	TG=|21035|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Death Drives a Semi {
+	AE=|Edo van Belkom|
+	AS=|StokC|
+	YR=|1999|
+	TG=|21091|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20847|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|x|
+	LV=|90|
+}
+The Lost Bloch, Volume 1: The Devil with You! {
+	AE=|Robert Bloch|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20867|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Brotherly Love and Other Tales of Faith and Knowledge {
+	AE=|David Case|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20882|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Salt Snake and Other Bloody Cuts {
+	AE=|Simon Clark|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20887|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Longest Single Note and Other Strange Compositions {
+	AE=|Peter Crowther|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20895|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Alchemy of Love {
+	AE=|Elizabeth Engstrom+Alan M. Clark|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20913|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Down to Sleep {
+	AE=|Greg F. Gifune|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20925|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Flesh Wounds {
+	AE=|Brian A. Hopkins|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20944|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Dread in the Beast {
+	AE=|Charlee Jacob|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20952|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+All of Us Are Dying {
+	AE=|George Clayton Johnson|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20956|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Broken on the Wheel of Sex {
+	AE=|Jack Ketchum|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20964|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Demons, Freaks and Other Abnormalities {
+	AE=|Michael Laimo|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20975|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Ushers {
+	AE=|Edward Lee|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20988|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Night Tales {
+	AE=|John MacLay|
+	AS=|StokC|
+	YR=|1999|
+	TG=|20994|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Black Evening {
+	AE=|David Morrell|
+	AS=|StokC|
+	YR=|1999|
+	TG=|21013|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Crawling Abattoir {
+	AE=|Martin Mundt|
+	AS=|StokC|
+	YR=|1999|
+	TG=|21017|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The House Spider and Other Strange Visitors {
+	AE=|Kurt Newton|
+	AS=|StokC|
+	YR=|1999|
+	TG=|21022|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Sound of His Horn and the King of the Lake {
+	AE=|Sarban|
+	AS=|StokC|
+	YR=|1999|
+	TG=|21057|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Really, Really, Really, Really, Weird Stories {
+	AE=|John Shirley|
+	AS=|StokC|
+	YR=|1999|
+	TG=|21066|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+What You Make It {
+	AE=|Michael Marshall Smith|
+	AS=|StokC|
+	YR=|1999|
+	TG=|21076|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Everybody Pays {
+	AE=|Andrew Vachss|
+	AS=|StokC|
+	YR=|1999|
+	TG=|21090|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Up, Out of Cities That Blow Hot and Cold {
+	AE=|Charlee Jacob|
+	AS=|StokC|
+	YR=|2000|
+	TG=|18962|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Wind over Heaven and Other Dark Tales {
+	AE=|Bruce Holland Rogers|
+	AS=|StokC|
+	YR=|2000|
+	TG=|19026|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Magic Terror: Seven Tales {
+	AE=|Peter Straub|
+	AS=|StokC|
+	YR=|2000|
+	TG=|19047|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+City Fishing {
+	AE=|Steve Rasnic Tem|
+	AS=|StokC|
+	YR=|2000|
+	TG=|19052|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokC|
+	YR=|2000|
+	TG=|22557|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|x|
+	LV=|90|
+}
+Moon on the Water {
+	AE=|Mort Castle|
+	AS=|StokC|
+	YR=|2000|
+	TG=|22587|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Death Artist {
+	AE=|Dennis Etchison|
+	AS=|StokC|
+	YR=|2000|
+	TG=|22611|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Cage of Bones and Other Deadly Obsessions {
+	AE=|John Everson|
+	AS=|StokC|
+	YR=|2000|
+	TG=|22613|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+I Love You and There's Nothing You Can Do About It {
+	AE=|Gerard Daniel Houarner|
+	AS=|StokC|
+	YR=|2000|
+	TG=|18959|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Tales of Pain and Wonder {
+	AE=|Caitlín R. Kiernan|
+	AS=|StokC|
+	YR=|2000|
+	TG=|18974|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+The Vampire Stories of Nancy Kilpatrick {
+	AE=|Nancy Kilpatrick|
+	AS=|StokC|
+	YR=|2000|
+	TG=|18975|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Dystopia {
+	AE=|Richard Christian Matheson|
+	AS=|StokC|
+	YR=|2000|
+	TG=|18995|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Black Evening {
+	AE=|David Morrell|
+	AS=|StokC|
+	YR=|2000|
+	TG=|19002|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Thank You for the Flowers {
+	AE=|Scott Nicholson|
+	AS=|StokC|
+	YR=|2000|
+	TG=|19007|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Ghosts, Spirits, Computers and World Machines {
+	AE=|Gene O'Neill|
+	AS=|StokC|
+	YR=|2000|
+	TG=|19011|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Night Freight {
+	AE=|Bill Pronzini|
+	AS=|StokC|
+	YR=|2000|
+	TG=|19018|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Toybox {
+	AE=|Al Sarrantonio|
+	AS=|StokC|
+	YR=|2000|
+	TG=|19033|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Ghost Music and Other Tales {
+	AE=|Thomas Tessier|
+	AS=|StokC|
+	YR=|2000|
+	TG=|19053|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Punktown {
+	AE=|Jeffrey Thomas|
+	AS=|StokC|
+	YR=|2000|
+	TG=|19054|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Terror Incognita {
+	AE=|Jeffrey Thomas|
+	AS=|StokC|
+	YR=|2000|
+	TG=|19055|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Scary Rednecks and Other Inbred Horrors {
+	AE=|David Whitman+Weston Ochse|
+	AS=|StokC|
+	YR=|2000|
+	TG=|19064|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Frights of Fancy {
+	AE=|J. N. Williamson|
+	AS=|StokC|
+	YR=|2000|
+	TG=|19065|
+	TA=|Superior Achievement in a Fiction Collection|
+	TP=|c|
+	LV=|92|
+}
+Horrors! 365 Scary Stories {
+	AE=|Stefan R. Dziemianowicz+Martin H. Greenberg+Robert Weinberg|
+	AS=|StokA|
+	YR=|1998|
+	TG=|19591|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|1|
+}
+Robert Bloch's Psychos {
+	AE=|Robert Bloch|
+	AS=|StokA|
+	YR=|1998|
+	TG=|19649|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Best of Cemetery Dance {
+	AE=|Richard Chizmar|
+	AS=|StokA|
+	YR=|1998|
+	TG=|19675|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Year's Best Fantasy and Horror: Eleventh Annual Collection {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|StokA|
+	YR=|1998|
+	TG=|19684|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Darkest Thirst {
+	AE=|Anonymous|
+	AS=|StokA|
+	YR=|1998|
+	TG=|19640|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Imagination Fully Dilated {
+	AE=|Alan M. Clark+Elizabeth Engstrom|
+	AS=|StokA|
+	YR=|1998|
+	TG=|19677|
+	TA=|Superior Achievement in an Anthology|
+	TP=|ac|
+	LV=|92|
+}
+Dark Terrors 4 {
+	AE=|Stephen Jones+David Sutton|
+	AS=|StokA|
+	YR=|1998|
+	TG=|19736|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+In the Shadow of the Gargoyle {
+	AE=|Nancy Kilpatrick+Thomas S. Roche|
+	AS=|StokA|
+	YR=|1998|
+	TG=|19748|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+The Crow: Shattered Lives and Broken Dreams {
+	AE=|James O'Barr+Ed Kramer|
+	AS=|StokA|
+	YR=|1998|
+	TG=|19782|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Darkside {
+	AE=|John Pelan|
+	AS=|StokA|
+	YR=|1998|
+	TG=|19788|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+999: New Tales of Horror and Suspense {
+	AE=|Al Sarrantonio|
+	AS=|StokA|
+	YR=|1999|
+	TG=|21060|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|1|
+}
+The Year's Best Fantasy and Horror: Twelfth Annual Collection {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|StokA|
+	YR=|1999|
+	TG=|20899|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Mammoth Book of Best New Horror, vol. 10 {
+	AE=|Stephen Jones|
+	AS=|StokA|
+	YR=|1999|
+	TG=|20959|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Last Continent: New Tales of Zothique {
+	AE=|John Pelan|
+	AS=|StokA|
+	YR=|1999|
+	TG=|21034|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokA|
+	YR=|1999|
+	TG=|20848|
+	TA=|Superior Achievement in an Anthology|
+	TP=|x|
+	LV=|90|
+}
+Subterranean Gallery {
+	AE=|Richard Chizmar+William Schafer|
+	AS=|StokA|
+	YR=|1999|
+	TG=|20885|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Houses at the Borderland {
+	AE=|Andy Fairclough|
+	AS=|StokA|
+	YR=|1999|
+	TG=|20915|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+New Mythos Legends {
+	AE=|Bruce Gehweiler|
+	AS=|StokA|
+	YR=|1999|
+	TG=|20924|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Cemetery Sonata {
+	AE=|June Hubbard|
+	AS=|StokA|
+	YR=|1999|
+	TG=|20949|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Northern Frights 5 {
+	AE=|Don Hutchison|
+	AS=|StokA|
+	YR=|1999|
+	TG=|20951|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Book of Dead Things {
+	AE=|Tina L. Jens|
+	AS=|StokA|
+	YR=|1999|
+	TG=|20954|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Dark Detectives: Adventures of the Supernatural Sleuths {
+	AE=|Stephen Jones|
+	AS=|StokA|
+	YR=|1999|
+	TG=|20957|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+White of the Moon: New Tales of Madness and Dread {
+	AE=|Stephen Jones|
+	AS=|StokA|
+	YR=|1999|
+	TG=|20960|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+'Til Death Do Us Part {
+	AE=|Jill M. Morgan+Martin H. Greenberg|
+	AS=|StokA|
+	YR=|1999|
+	TG=|21012|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+California Sorcery {
+	AE=|William F. Nolan+William Schafer|
+	AS=|StokA|
+	YR=|1999|
+	TG=|21023|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+The Age of Reason: Stories for a New Millennium {
+	AE=|Kurt Roth|
+	AS=|StokA|
+	YR=|1999|
+	TG=|21050|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Whitley Strieber's Aliens {
+	AE=|Whitley Strieber|
+	AS=|StokA|
+	YR=|1999|
+	TG=|21083|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+The Year's Best Fantasy and Horror: Thirteenth Annual Collection {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|StokA|
+	YR=|2000|
+	TG=|22600|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|9|
+}
+Brainbox: The Real Horror {
+	AE=|Steve Eller|
+	AS=|StokA|
+	YR=|2000|
+	TG=|22607|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|9|
+}
+Extremes: Fantasy and Horror from the Ends of the Earth {
+	AE=|Brian A. Hopkins|
+	AS=|StokA|
+	YR=|2000|
+	TG=|18954|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|9|
+}
+Bad News {
+	AE=|Richard Laymon|
+	AS=|StokA|
+	YR=|2000|
+	TG=|18985|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokA|
+	YR=|2000|
+	TG=|22558|
+	TA=|Superior Achievement in an Anthology|
+	TP=|x|
+	LV=|90|
+}
+Skull Full of Spurs: A Roundup of Weird Westerns {
+	AE=|Jason Bovberg+Kirby Whitham|
+	AS=|StokA|
+	YR=|2000|
+	TG=|22575|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Bell, Book & Beyond {
+	AE=|P. D. Cacek|
+	AS=|StokA|
+	YR=|2000|
+	TG=|22580|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+October Dreams: A Celebration of Halloween {
+	AE=|Richard Chizmar+Robert Morrish|
+	AS=|StokA|
+	YR=|2000|
+	TG=|22588|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Taps and Sighs {
+	AE=|Peter Crowther|
+	AS=|StokA|
+	YR=|2000|
+	TG=|22596|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Imagination Fully Dilated, Volume II {
+	AE=|Elizabeth Engstrom|
+	AS=|StokA|
+	YR=|2000|
+	TG=|22609|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Embraces: Dark Erotica {
+	AE=|Paula Guran|
+	AS=|StokA|
+	YR=|2000|
+	TG=|22015|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+The Red, Red Robin Project {
+	AE=|Brian A. Hopkins|
+	AS=|StokA|
+	YR=|2000|
+	TG=|18957|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Cemetery Sonata II {
+	AE=|June Hubbard|
+	AS=|StokA|
+	YR=|2000|
+	TG=|18960|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Cthulhu & the Coeds or Kids & Squids {
+	AE=|Tina L. Jens|
+	AS=|StokA|
+	YR=|2000|
+	TG=|18963|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Daughter of Dangerous Dames {
+	AE=|Tina L. Jens|
+	AS=|StokA|
+	YR=|2000|
+	TG=|18965|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Mammoth Book of Best New Horror 11 {
+	AE=|Stephen Jones|
+	AS=|StokA|
+	YR=|2000|
+	TG=|18968|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Strange Attraction {
+	AE=|Edward Kramer|
+	AS=|StokA|
+	YR=|2000|
+	TG=|18981|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Shadows and Silence {
+	AE=|Christopher Roden|
+	AS=|StokA|
+	YR=|2000|
+	TG=|19025|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Unnatural Selection {
+	AE=|Gord Rollo|
+	AS=|StokA|
+	YR=|2000|
+	TG=|19028|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Queer Fear {
+	AE=|Michael Rowe|
+	AS=|StokA|
+	YR=|2000|
+	TG=|19030|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Northern Horror {
+	AE=|Edo van Belkom|
+	AS=|StokA|
+	YR=|2000|
+	TG=|19058|
+	TA=|Superior Achievement in an Anthology|
+	TP=|a|
+	LV=|92|
+}
+Mary Shelley {
+	AE=|Muriel Spark|
+	AS=|StokR|
+	YR=|1987|
+	TG=|11193|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+Joe Bob Goes To the Drive-In {
+	AE=|Joe Bob Briggs|
+	AS=|StokR|
+	YR=|1987|
+	TG=|1652|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+The Zombies That Ate Pittsburgh {
+	AE=|Paul A. Gagne|
+	AS=|StokR|
+	YR=|1987|
+	TG=|4804|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Harlan Ellison's Watching {
+	AE=|Harlan Ellison|
+	AS=|StokR|
+	YR=|1989|
+	TG=|4188|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+Horror: The 100 Best Books {
+	AE=|Stephen Jones+Kim Newman|
+	AS=|StokR|
+	YR=|1989|
+	TG=|6276|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+H. P. Lovecraft {
+	AE=|Peter Cannon|
+	AS=|StokR|
+	YR=|1989|
+	TG=|2239|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+American Vampires: by Fans, Victims, Practitioners {
+	AE=|Norine Dresser|
+	AS=|StokR|
+	YR=|1989|
+	TG=|3845|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Horror: A Connoisseur's Guide To Literature and Film {
+	AE=|Leonard Wolf|
+	AS=|StokR|
+	YR=|1989|
+	TG=|13568|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Dark Dreamers {
+	AE=|Stanley Wiater|
+	AS=|StokR|
+	YR=|1990|
+	TG=|13178|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+Horror Literature: A Reader's Guide {
+	AE=|Neil Barron|
+	AS=|StokR|
+	YR=|1990|
+	TG=|888|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|bib|
+	LV=|9|
+}
+Joe Bob Goes Back To the Drive-In {
+	AE=|Joe Bob Briggs|
+	AS=|StokR|
+	YR=|1990|
+	TG=|1651|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+The Weird Tale {
+	AE=|S. T. Joshi|
+	AS=|StokR|
+	YR=|1990|
+	TG=|6301|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Hollywood Gothic {
+	AE=|David J. Skal|
+	AS=|StokR|
+	YR=|1990|
+	TG=|11035|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Clive Barker's Shadows in Eden {
+	AE=|Stephen Jones|
+	AS=|StokR|
+	YR=|1991|
+	TG=|6263|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+Vampires Among Us {
+	AE=|Rosemary Ellen Guilley|
+	AS=|StokR|
+	YR=|1991|
+	TG=|5416|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Prism of the Night: A Biography of Anne Rice {
+	AE=|Katherine Ramsland|
+	AS=|StokR|
+	YR=|1991|
+	TG=|9513|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+The Shape Under the Sheet: The Complete Stephen King Encyclopedia {
+	AE=|Stephen J. Spignesi|
+	AS=|StokR|
+	YR=|1991|
+	TG=|11219|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Cut! Horror Writers On Horror Film {
+	AE=|Christopher Golden|
+	AS=|StokR|
+	YR=|1992|
+	TG=|5156|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+Men, Women and Chainsaws {
+	AE=|Carol J. Clover|
+	AS=|StokR|
+	YR=|1992|
+	TG=|2856|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Young Adult Horror Fiction {
+	AE=|Cosette Kies|
+	AS=|StokR|
+	YR=|1992|
+	TG=|6493|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Scare Tactics {
+	AE=|John Russo|
+	AS=|StokR|
+	YR=|1992|
+	TG=|10101|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Dark Visions {
+	AE=|Stanley Wiater|
+	AS=|StokR|
+	YR=|1992|
+	TG=|13179|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Once Around the Bloch: An Unauthorized Autobiography {
+	AE=|Robert Bloch|
+	AS=|StokR|
+	YR=|1993|
+	TG=|1425|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+The Diary of Jack the Ripper {
+	AE=|Michael Barrett+Shirley Harrison|
+	AS=|StokR|
+	YR=|1993|
+	TG=|878|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+The Monster Show: A Cultural History of Horror {
+	AE=|David J. Skal|
+	AS=|StokR|
+	YR=|1993|
+	TG=|11038|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|StokR|
+	YR=|1994|
+	TG=|42|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|x|
+	LV=|73|
+}
+The Supernatural Index {
+	AE=|Michael Ashley+William Contento|
+	AS=|StokR|
+	YR=|1995|
+	TG=|530|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|bib|
+	LV=|1|
+}
+Psycho: Behind the Scenes of the Classic Thriller {
+	AE=|Janet Leigh+Christopher Nickens|
+	AS=|StokR|
+	YR=|1995|
+	TG=|7395|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+An Encyclopedia of Claims, Frauds, and Hoaxes of the Occult and Supernatural {
+	AE=|James Randi|
+	AS=|StokR|
+	YR=|1995|
+	TG=|9527|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Immoral Tales: European Sex and Horror Movies 1956-1984 {
+	AE=|Cathal Tohill+Pete Tombs|
+	AS=|StokR|
+	YR=|1995|
+	TG=|12003|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokR|
+	YR=|1995|
+	TG=|126|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|x|
+	LV=|90|
+}
+Unholy Alliance: A History of Nazi Involvement in the Occult {
+	AE=|Peter Levenda|
+	AS=|StokR|
+	YR=|1995|
+	TG=|7446|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+H. P. Lovecraft: A Life {
+	AE=|S. T. Joshi|
+	AS=|StokR|
+	YR=|1996|
+	TG=|6297|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+Bram Stoker: A Biography of the Author of Dracula {
+	AE=|Barbara Belford|
+	AS=|StokR|
+	YR=|1996|
+	TG=|1028|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+The Great Pulp Heroes {
+	AE=|Don Hutchison|
+	AS=|StokR|
+	YR=|1996|
+	TG=|6079|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+The Illustrated Werewolf Movie Guide {
+	AE=|Stephen Jones|
+	AS=|StokR|
+	YR=|1996|
+	TG=|6265|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+V is for Vampire {
+	AE=|David J. Skal|
+	AS=|StokR|
+	YR=|1996|
+	TG=|11041|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokR|
+	YR=|1996|
+	TG=|127|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|x|
+	LV=|90|
+}
+Video Watchdog {
+	AE=|Tim Lucas|
+	AS=|StokR|
+	YR=|1996|
+	TG=|12261|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|mz|
+	LV=|92|
+}
+Dark Thoughts: On Writing {
+	AE=|Stanley Wiater|
+	AS=|StokR|
+	YR=|1997|
+	TG=|17911|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+The Encyclopedia of Fantasy {
+	AE=|John Clute+John Grant|
+	AS=|StokR|
+	YR=|1997|
+	TG=|17905|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|en|
+	LV=|9|
+}
+The Hammer Story {
+	AE=|Marcus Hearn+Alan Barnes|
+	AS=|StokR|
+	YR=|1997|
+	TG=|18000|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Clive Barker's A-Z of Horror {
+	AE=|Stephen Jones|
+	AS=|StokR|
+	YR=|1997|
+	TG=|17921|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Video Watchdog {
+	AE=|Tim Lucas|
+	AS=|StokR|
+	YR=|1997|
+	TG=|17929|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|mz|
+	LV=|9|
+}
+Dean Koontz: A Writers' Biography {
+	AE=|Katherine Ramsland|
+	AS=|StokR|
+	YR=|1997|
+	TG=|17944|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokR|
+	YR=|1997|
+	TG=|17883|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|x|
+	LV=|90|
+}
+The Night Stalker Companion: A 25th Anniversary Tribute {
+	AE=|Mark Dowidziak|
+	AS=|StokR|
+	YR=|1997|
+	TG=|17906|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+Bright Darkness: The Lost Art of the Supernatural Horror Film {
+	AE=|Jeremy Dyson|
+	AS=|StokR|
+	YR=|1997|
+	TG=|17908|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+Creature Features: SF, Fantasy, and Horror Movie Guide {
+	AE=|John Stanley|
+	AS=|StokR|
+	YR=|1997|
+	TG=|17953|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+Dracula: The Connoisseur's Guide {
+	AE=|Leonard Wolf|
+	AS=|StokR|
+	YR=|1997|
+	TG=|17951|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+DarkEcho Newsletter, Vol. 5 #1-50 {
+	AE=|Paula Guran|
+	AS=|StokR|
+	YR=|1998|
+	TG=|19722|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|sz|
+	LV=|1|
+}
+Gothic Horror: A Reader's Guide from Poe to King and Beyond {
+	AE=|Clive Bloom|
+	AS=|StokR|
+	YR=|1998|
+	TG=|19650|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+The Science of the X-Files {
+	AE=|Jeanne Cavelos|
+	AS=|StokR|
+	YR=|1998|
+	TG=|19670|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+A Writer's Tale {
+	AE=|Richard Laymon|
+	AS=|StokR|
+	YR=|1998|
+	TG=|19758|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokR|
+	YR=|1998|
+	TG=|19633|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|x|
+	LV=|90|
+}
+Necrofiles: The View of Horror Fiction {
+	AE=|Stefan R. Dziemianowicz+S. T. Joshi+Michael A. Morrison|
+	AS=|StokR|
+	YR=|1998|
+	TG=|19697|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+Video Watchdog, #s 43-48 {
+	AE=|Tim Lucas|
+	AS=|StokR|
+	YR=|1998|
+	TG=|19765|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|mz|
+	LV=|92|
+}
+The Vampire Gallery {
+	AE=|J. Gregory Melton|
+	AS=|StokR|
+	YR=|1998|
+	TG=|19775|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+St. James Guide to Horror, Ghost & Gothic Writers {
+	AE=|David Pringle|
+	AS=|StokR|
+	YR=|1998|
+	TG=|19792|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+Mondo Macabro: Weird and Wonderful Cinema Around the World {
+	AE=|Pete Tombs|
+	AS=|StokR|
+	YR=|1998|
+	TG=|19833|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+DarkEcho Newsletter (all 1999 issues) {
+	AE=|Paula Guran|
+	AS=|StokR|
+	YR=|1999|
+	TG=|20936|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|sz|
+	LV=|1|
+}
+The Essential Monster Movie Guide {
+	AE=|Stephen Jones|
+	AS=|StokR|
+	YR=|1999|
+	TG=|20958|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Vincent Price: A Daughter's Biography {
+	AE=|Victoria Price|
+	AS=|StokR|
+	YR=|1999|
+	TG=|21040|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Hellnotes (all 1999 issues) {
+	AE=|David B. Silva+Paul F. Olson|
+	AS=|StokR|
+	YR=|1999|
+	TG=|21070|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|sz|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokR|
+	YR=|1999|
+	TG=|20849|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|x|
+	LV=|90|
+}
+Fantasy and Horror: A Critical and Historical Guide to Literature, Illustration, Film, TV, Radio, and the Internet {
+	AE=|Neil Barron|
+	AS=|StokR|
+	YR=|1999|
+	TG=|20859|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+Gothic: Four Hundred Years of Excess, Horror, Evil and Ruin {
+	AE=|Richard Davenport-Hines|
+	AS=|StokR|
+	YR=|1999|
+	TG=|20900|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+Nightmares of Mine {
+	AE=|Kenneth Hite|
+	AS=|StokR|
+	YR=|1999|
+	TG=|20940|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+Jobs in Hell {
+	AE=|Brian Keene|
+	AS=|StokR|
+	YR=|1999|
+	TG=|20962|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+Video Watchdog {
+	AE=|Tim Lucas|
+	AS=|StokR|
+	YR=|1999|
+	TG=|20993|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|mz|
+	LV=|92|
+}
+No Go the Bogeyman: Scaring, Lulling, and Making Mock {
+	AE=|Marina Warner|
+	AS=|StokR|
+	YR=|1999|
+	TG=|21099|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+On Writing {
+	AE=|Stephen King|
+	AS=|StokR|
+	YR=|2000|
+	TG=|18976|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+At the Foot of the Story Tree: An Inquiry into the Fiction of Peter Straub {
+	AE=|Bill Sheehan|
+	AS=|StokR|
+	YR=|2000|
+	TG=|19038|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Hellnotes {
+	AE=|David B. Silva+Paul F. Olson|
+	AS=|StokR|
+	YR=|2000|
+	TG=|19042|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|sz|
+	LV=|9|
+}
+Horror of the 20th Century {
+	AE=|Robert Weinberg|
+	AS=|StokR|
+	YR=|2000|
+	TG=|19062|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokR|
+	YR=|2000|
+	TG=|22559|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|x|
+	LV=|90|
+}
+This Craft of Verse {
+	AE=|Jorge Luis Borges|
+	AS=|StokR|
+	YR=|2000|
+	TG=|22573|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+Jobs in Hell {
+	AE=|Brian Keene|
+	AS=|StokR|
+	YR=|2000|
+	TG=|18971|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+Lord of a Visible World: An Autobiography in Letters {
+	AE=|H. P. Lovecraft+S. T. Joshi+David E. Schultz|
+	AS=|StokR|
+	YR=|2000|
+	TG=|18990|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+Weird N. J. {
+	AE=|Mark Moran+Mark Sceurman|
+	AS=|StokR|
+	YR=|2000|
+	TG=|19000|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+The Circus Fire {
+	AE=|Stewart O'Nan|
+	AS=|StokR|
+	YR=|2000|
+	TG=|19010|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+Apocalypse Culture 2 {
+	AE=|Adam Parfrey|
+	AS=|StokR|
+	YR=|2000|
+	TG=|19014|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+The Gila Queen's Guide to Markets {
+	AE=|Kathryn Ptacek|
+	AS=|StokR|
+	YR=|2000|
+	TG=|19020|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+Writing Horror {
+	AE=|Edo van Belkom|
+	AS=|StokR|
+	YR=|2000|
+	TG=|19059|
+	TA=|Superior Achievement in Non-Fiction|
+	TP=|nf|
+	LV=|92|
+}
+No Award {
+	AE=|(********)|
+	AS=|StokK|
+	YR=|1998|
+	TG=|19574|
+	TA=|Superior Achievement in a Comic Book, Graphic Novel or Other Illustrated Narrative|
+	TP=|x|
+	LV=|1|
+}
+Sergio Aragones' Dia De Las Muertos {
+	AE=|Sergio Aragones+Mark Evanier|
+	AS=|StokK|
+	YR=|1998|
+	TG=|19641|
+	TA=|Superior Achievement in a Comic Book, Graphic Novel or Other Illustrated Narrative|
+	TP=|co|
+	LV=|9|
+}
+Preacher {
+	AE=|Garth Ennis|
+	AS=|StokK|
+	YR=|1998|
+	TG=|19703|
+	TA=|Superior Achievement in a Comic Book, Graphic Novel or Other Illustrated Narrative|
+	TP=|co|
+	LV=|9|
+}
+The Son of Man {
+	AE=|Garth Ennis|
+	AS=|StokK|
+	YR=|1998|
+	TG=|19704|
+	TA=|Superior Achievement in a Comic Book, Graphic Novel or Other Illustrated Narrative|
+	TP=|co|
+	LV=|9|
+}
+The Dreaming: Trial and Error {
+	AE=|Len Wein|
+	AS=|StokK|
+	YR=|1998|
+	TG=|19843|
+	TA=|Superior Achievement in a Comic Book, Graphic Novel or Other Illustrated Narrative|
+	TP=|co|
+	LV=|9|
+}
+The Sandman: The Dream Hunters {
+	AE=|Neil Gaiman+Yoshitaka Amano|
+	AS=|StokK|
+	YR=|1999|
+	TG=|20922|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|1|
+}
+Jonah Hex: Shadows West #1 {
+	AE=|Joe R. Lansdale|
+	AS=|StokK|
+	YR=|1999|
+	TG=|20978|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|9|
+}
+Hellboy: Box Full of Evil {
+	AE=|Mike Mignola|
+	AS=|StokK|
+	YR=|1999|
+	TG=|21006|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|9|
+}
+Faust: Book of M {
+	AE=|David Quinn|
+	AS=|StokK|
+	YR=|1999|
+	TG=|21041|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokK|
+	YR=|1999|
+	TG=|20850|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|x|
+	LV=|90|
+}
+Lenore #5 - 6 {
+	AE=|Roman Dirge|
+	AS=|StokK|
+	YR=|1999|
+	TG=|20902|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+The Monsters in My Tummy {
+	AE=|Roman Dirge|
+	AS=|StokK|
+	YR=|1999|
+	TG=|20904|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+The Betrothed (From Flinch #5) {
+	AE=|Joe R. Lansdale|
+	AS=|StokK|
+	YR=|1999|
+	TG=|20976|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+Jonah Hex: Shadows West #2 {
+	AE=|Joe R. Lansdale|
+	AS=|StokK|
+	YR=|1999|
+	TG=|20979|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+Jonah Hex: Shadows West #3 {
+	AE=|Joe R. Lansdale|
+	AS=|StokK|
+	YR=|1999|
+	TG=|20980|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+Red Range {
+	AE=|Joe R. Lansdale|
+	AS=|StokK|
+	YR=|1999|
+	TG=|20982|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+The Human Within Me (From Wolff & Byrd, Councelors of the Macabre #22) {
+	AE=|Batton Lash|
+	AS=|StokK|
+	YR=|1999|
+	TG=|20984|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+Desperadoes: Epidemic! {
+	AE=|Jeff Mariotte|
+	AS=|StokK|
+	YR=|1999|
+	TG=|20997|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+Maggie and Her Microscope (From Flinch #2) {
+	AE=|Dean Motter|
+	AS=|StokK|
+	YR=|1999|
+	TG=|21016|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+The Blair Witch Project {
+	AE=|Jen Van Meter|
+	AS=|StokK|
+	YR=|1999|
+	TG=|21092|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+Red Romance (Flinch 11) {
+	AE=|Joe R. Lansdale|
+	AS=|StokK|
+	YR=|2000|
+	TG=|18983|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|9|
+}
+The League of Extraordinary Gentlemen (Miniseries) {
+	AE=|Alan Moore|
+	AS=|StokK|
+	YR=|2000|
+	TG=|18997|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|9|
+}
+Cable 79-84 {
+	AE=|Robert Weinberg|
+	AS=|StokK|
+	YR=|2000|
+	TG=|19061|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|9|
+}
+Spuds (Night Terrors #1) {
+	AE=|Bernie Wrightson|
+	AS=|StokK|
+	YR=|2000|
+	TG=|19076|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokK|
+	YR=|2000|
+	TG=|22560|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|x|
+	LV=|90|
+}
+Hard Time (Hellblazer 146-150) {
+	AE=|Brian Azzarello|
+	AS=|StokK|
+	YR=|2000|
+	TG=|22569|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+The Day the Earth Turned Slower (Planetary 8) {
+	AE=|Warren Ellis|
+	AS=|StokK|
+	YR=|2000|
+	TG=|22608|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+I Married a Monster (Kelly 1) {
+	AE=|Michael T. Gilbert+Janet Gilbert|
+	AS=|StokK|
+	YR=|2000|
+	TG=|22614|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+Black Market Souls! (Supernatural Law 26) {
+	AE=|Batton Lash|
+	AS=|StokK|
+	YR=|2000|
+	TG=|18984|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+Singha's Talons (Miniseries) {
+	AE=|David Quinn|
+	AS=|StokK|
+	YR=|2000|
+	TG=|19021|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+Blair Witch Chronicles 3 {
+	AE=|Jen Van Meter|
+	AS=|StokK|
+	YR=|2000|
+	TG=|19060|
+	TA=|Superior Achievement in an Illustrated Narrative|
+	TP=|co|
+	LV=|92|
+}
+Gods and Monsters {
+	AE=|Bill Condon+Christopher Bram|
+	MV=|Gods and Monsters (1998)|
+	AS=|StokF|
+	YR=|1998|
+	TG=|19589|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|1|
+}
+Dark City {
+	AE=|Alex Proyas+Lem Dobbs+David S. Goyer|
+	MV=|Dark City (1998)|
+	AS=|StokF|
+	YR=|1998|
+	TG=|19611|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|1|
+}
+Fallen {
+	AE=|Nicholas Kazan|
+	MV=|Fallen (1998)|
+	AS=|StokF|
+	YR=|1998|
+	TG=|19740|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|f|
+	LV=|9|
+}
+Millennium - Somehow Satan Got Behind Me {
+	AE=|Darin Morgan|
+	AS=|StokF|
+	YR=|1998|
+	TG=|19777|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|9|
+}
+The Sixth Sense {
+	AE=|M. Night Shyamalan|
+	MV=|Sixth Sense, The (1999)|
+	AS=|StokF|
+	YR=|1999|
+	TG=|21069|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|1|
+}
+The Green Mile {
+	AE=|Frank Darabont+Stephen King|
+	MV=|Green Mile, The (1999)|
+	AS=|StokF|
+	YR=|1999|
+	TG=|20898|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|9|
+}
+The Blair Witch Project {
+	AE=|Daniel Myrick+Eduardo Sanchez|
+	MV=|Blair Witch Project, The (1999)|
+	AS=|StokF|
+	YR=|1999|
+	TG=|21018|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|9|
+}
+Buffy the Vampire Slayer - Hush {
+	AE=|Joss Whedon|
+	MV=|"Buffy the Vampire Slayer" (1997)|
+	AS=|StokF|
+	YR=|1999|
+	TG=|21102|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokF|
+	YR=|1999|
+	TG=|20851|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|x|
+	LV=|90|
+}
+The Stendahl Syndrome {
+	AE=|Dario Argento+Franco Ferrini|
+	AS=|StokF|
+	YR=|1999|
+	TG=|20854|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|92|
+}
+The X-Files - The Rain King {
+	AE=|Jeffrey Bell|
+	AS=|StokF|
+	YR=|1999|
+	TG=|20862|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|92|
+}
+eXistenZ {
+	AE=|David Cronenberg|
+	MV=|eXistenZ (1999)|
+	AS=|StokF|
+	YR=|1999|
+	TG=|20894|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|92|
+}
+Buffy the Vampire Slayer - Earshot {
+	AE=|Jane Espenson|
+	MV=|"Buffy the Vampire Slayer" (1997)|
+	AS=|StokF|
+	YR=|1999|
+	TG=|20914|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|92|
+}
+The X-Files - Millennium {
+	AE=|Vince Gilligan+Frank Spotnitz|
+	AS=|StokF|
+	YR=|1999|
+	TG=|20926|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|92|
+}
+Idle Hands {
+	AE=|Terri Hughes+Ron Milbauer|
+	AS=|StokF|
+	YR=|1999|
+	TG=|20950|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|92|
+}
+The Storm of the Century {
+	AE=|Stephen King+Craig E. Baxley|
+	AS=|StokF|
+	YR=|1999|
+	TG=|20972|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|92|
+}
+Stir of Echoes {
+	AE=|David Koepp+Richard Matheson|
+	MV=|Stir of Echoes (1999)|
+	AS=|StokF|
+	YR=|1999|
+	TG=|20974|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|92|
+}
+The Talented Mr. Ripley {
+	AE=|Anthony Minghella+Patricia Highsmith|
+	MV=|Talented Mr. Ripley, The (1999)|
+	AS=|StokF|
+	YR=|1999|
+	TG=|21008|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|92|
+}
+The Curse of the Blair Witch {
+	AE=|Daniel Myrick+Eduardo Sanchez+Ben Rock|
+	AS=|StokF|
+	YR=|1999|
+	TG=|21019|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|92|
+}
+Titus {
+	AE=|Julie Taymore|
+	AS=|StokF|
+	YR=|1999|
+	TG=|21086|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|92|
+}
+Buffy the Vampire Slayer - The Zeppo {
+	AE=|Dan Vebber|
+	MV=|"Buffy the Vampire Slayer" (1997)|
+	AS=|StokF|
+	YR=|1999|
+	TG=|21094|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|92|
+}
+8mm {
+	AE=|Andrew Kevin Walker|
+	AS=|StokF|
+	YR=|1999|
+	TG=|21097|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|92|
+}
+Sleepy Hollow {
+	AE=|Andrew Kevin Walker+Kevin Yagher|
+	MV=|Sleepy Hollow (1999)|
+	AS=|StokF|
+	YR=|1999|
+	TG=|21098|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|f|
+	LV=|92|
+}
+House on Haunted Hill {
+	AE=|Robb White+Dick Beebe|
+	AS=|StokF|
+	YR=|1999|
+	TG=|21103|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|92|
+}
+Shadow of the Vampire {
+	AE=|Steven Katz|
+	MV=|Shadow of the Vampire (2000)|
+	AS=|StokF|
+	YR=|2000|
+	TG=|18969|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|9|
+}
+The Cell {
+	AE=|Mark Protosevich|
+	MV=|Cell, The (2000)|
+	AS=|StokF|
+	YR=|2000|
+	TG=|19019|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|9|
+}
+Requiem for a Dream {
+	AE=|Hubert Selby, Jr.+Darren Aronofsky|
+	MV=|Requiem for a Dream (2000)|
+	AS=|StokF|
+	YR=|2000|
+	TG=|19037|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|9|
+}
+Unbreakable {
+	AE=|M. Night Shyamalan|
+	MV=|Unbreakable (2000)|
+	AS=|StokF|
+	YR=|2000|
+	TG=|19040|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|9|
+}
+Pitch Black {
+	AE=|Ken Wheat+Jim Wheat+David Twohy|
+	MV=|Pitch Black (2000)|
+	AS=|StokF|
+	YR=|2000|
+	TG=|19063|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokF|
+	YR=|2000|
+	TG=|22561|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|x|
+	LV=|90|
+}
+Ultraviolet {
+	AE=|Joe Ahearn|
+	MV=|"Ultraviolet" (1998) (mini)|
+	AS=|StokF|
+	YR=|2000|
+	TG=|22565|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|92|
+}
+The X-Files - Redrum {
+	AE=|Daniel Arkin+Steven Maeda|
+	MV=|"X Files, The" (1993)|
+	AS=|StokF|
+	YR=|2000|
+	TG=|22567|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|92|
+}
+The Others: Pilot {
+	AE=|John Brancato+Michael Ferris|
+	AS=|StokF|
+	YR=|2000|
+	TG=|22576|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|92|
+}
+The X-Files - X-Cops {
+	AE=|Vince Gilligan|
+	MV=|"X Files, The" (1993)|
+	AS=|StokF|
+	YR=|2000|
+	TG=|22615|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|92|
+}
+The X-Files - The Amazing Maleeni {
+	AE=|Vince Gilligan+John Shiban+Frank Spotnitz|
+	MV=|"X Files, The" (1993)|
+	AS=|StokF|
+	YR=|2000|
+	TG=|22616|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|92|
+}
+What Lies Beneath {
+	AE=|Clark Gregg|
+	MV=|What Lies Beneath (2000)|
+	AS=|StokF|
+	YR=|2000|
+	TG=|21512|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|92|
+}
+American Psycho {
+	AE=|Mary Herron+Guinevere Turner|
+	MV=|American Psycho (2000)|
+	AS=|StokF|
+	YR=|2000|
+	TG=|18948|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|92|
+}
+The Others: Eyes {
+	AE=|Glen Morgan+James Wong|
+	AS=|StokF|
+	YR=|2000|
+	TG=|19001|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|92|
+}
+Buffy the Vampire Slayer - Buffy Vs. Dracula {
+	AE=|Marti Noxon|
+	AS=|StokF|
+	YR=|2000|
+	TG=|19009|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|tp|
+	LV=|92|
+}
+Final Destination {
+	AE=|Jeffrey Reddick+Glen Morgan+James Wong|
+	MV=|Final Destination (2000)|
+	AS=|StokF|
+	YR=|2000|
+	TG=|19023|
+	TA=|Superior Achievement in a Screenplay|
+	TP=|sc|
+	LV=|92|
+}
+Bigger Than Death {
+	AE=|Nancy Etchemendy|
+	AS=|StokY|
+	YR=|1998|
+	TG=|19594|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|n|
+	LV=|1|
+}
+Eerie Indiana: The Dollhouse That Time Forgot {
+	AE=|Mike Ford|
+	AS=|StokY|
+	YR=|1998|
+	TG=|19709|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|n|
+	LV=|9|
+}
+Buffy the Vampire Slayer: The Angel Chronicles {
+	AE=|Nancy Holder|
+	AS=|StokY|
+	YR=|1998|
+	TG=|19731|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|n|
+	LV=|9|
+}
+The X-Files - Hungry Ghosts {
+	AE=|Ellen Steiber|
+	AS=|StokY|
+	YR=|1998|
+	TG=|19816|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|n|
+	LV=|9|
+}
+Harry Potter and the Prisoner of Azkaban {
+	AE=|J. K. Rowling|
+	AS=|StokY|
+	YR=|1999|
+	TG=|21051|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|n|
+	LV=|1|
+}
+Something Lumber This Way Comes {
+	AE=|Joe R. Lansdale|
+	AS=|StokY|
+	YR=|1999|
+	TG=|20983|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|n|
+	LV=|9|
+}
+Creepy Susie & 13 Other Tragic Tales for Troubled Children {
+	AE=|Angus Oblong|
+	AS=|StokY|
+	YR=|1999|
+	TG=|21026|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|n|
+	LV=|9|
+}
+Nobilis (Role Playing Game) {
+	AE=|R. Sean Bergstrom|
+	AS=|StokY|
+	YR=|1999|
+	TG=|20864|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|mn|
+	LV=|92|
+}
+The Blair Witch Project (Improvisational Acting) {
+	AE=|Heather Donahue+Michael C. Williams+Joshua Leonard|
+	AS=|StokY|
+	YR=|1999|
+	TG=|20905|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|ev|
+	LV=|92|
+}
+Sunnydale High Yearbook {
+	AE=|Christopher Golden+Nancy Holder|
+	AS=|StokY|
+	YR=|1999|
+	TG=|20930|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|nf|
+	LV=|92|
+}
+Fresh Dread: Four Exercises in Fear {
+	AE=|Lisa Morton|
+	AS=|StokY|
+	YR=|1999|
+	TG=|21015|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|dp|
+	LV=|92|
+}
+Clive Barker's the History of the Devil {
+	AE=|Seeing Ear Theater|
+	AS=|StokY|
+	YR=|1999|
+	TG=|21063|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|dr|
+	LV=|92|
+}
+Classic Monsters (DVD) {
+	AE=|David J. Skal|
+	AS=|StokY|
+	YR=|1999|
+	TG=|21072|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|in|
+	LV=|92|
+}
+Dracula (DVD Commentary) {
+	AE=|David J. Skal|
+	AS=|StokY|
+	YR=|1999|
+	TG=|21073|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|dr|
+	LV=|92|
+}
+The Power of Un {
+	AE=|Nancy Etchemendy|
+	AS=|StokY|
+	YR=|2000|
+	TG=|22610|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|n|
+	LV=|9|
+}
+Harry Potter and the Goblet of Fire {
+	AE=|J. K. Rowling|
+	AS=|StokY|
+	YR=|2000|
+	TG=|19031|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|n|
+	LV=|9|
+}
+Be Afraid! {
+	AE=|Edo van Belkom|
+	AS=|StokY|
+	YR=|2000|
+	TG=|19057|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|a|
+	LV=|9|
+}
+The Christmas Thingy {
+	AE=|F. Paul Wilson|
+	AS=|StokY|
+	YR=|2000|
+	TG=|19070|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokY|
+	YR=|2000|
+	TG=|22562|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|x|
+	LV=|90|
+}
+Stories That Won't Make Your Parents Hurl {
+	AE=|Selina Rosen|
+	AS=|StokY|
+	YR=|2000|
+	TG=|19029|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|a|
+	LV=|92|
+}
+Cinderella Skeleton {
+	AE=|Robert D. San Souci|
+	AS=|StokY|
+	YR=|2000|
+	TG=|19046|
+	TA=|Superior Achievement in a Work for Young Readers|
+	TP=|n|
+	LV=|92|
+}
+Paratabloids {
+	AE=|Michael A. Arnzen|
+	AS=|StokP|
+	YR=|2000|
+	TG=|22568|
+	TA=|Superior Achievement in a Poetry Collection|
+	TP=|po|
+	LV=|9|
+}
+The Complete Accursed Wives {
+	AE=|Bruce Boston|
+	AS=|StokP|
+	YR=|2000|
+	TG=|22574|
+	TA=|Superior Achievement in a Poetry Collection|
+	TP=|po|
+	LV=|9|
+}
+Burial Plot in Sagittarius {
+	AE=|Sandy Deluca|
+	AS=|StokP|
+	YR=|2000|
+	TG=|22603|
+	TA=|Superior Achievement in a Poetry Collection|
+	TP=|po|
+	LV=|9|
+}
+A Student of Hell {
+	AE=|Tom Piccirilli|
+	AS=|StokP|
+	YR=|2000|
+	TG=|19016|
+	TA=|Superior Achievement in a Poetry Collection|
+	TP=|po|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokP|
+	YR=|2000|
+	TG=|22563|
+	TA=|Superior Achievement in a Poetry Collection|
+	TP=|x|
+	LV=|90|
+}
+Defacing the Moon {
+	AE=|Mike Allen|
+	AS=|StokP|
+	YR=|2000|
+	TG=|22566|
+	TA=|Superior Achievement in a Poetry Collection|
+	TP=|po|
+	LV=|92|
+}
+Flowers from a Dark Star {
+	AE=|Charlee Jacob|
+	AS=|StokP|
+	YR=|2000|
+	TG=|18961|
+	TA=|Superior Achievement in a Poetry Collection|
+	TP=|po|
+	LV=|92|
+}
+Results of a Preliminary Investigation of Electrochemical Properties of Some Organic Matrices {
+	AE=|David Kopaska-Merkel|
+	AS=|StokP|
+	YR=|2000|
+	TG=|18979|
+	TA=|Superior Achievement in a Poetry Collection|
+	TP=|po|
+	LV=|92|
+}
+Autumn Phantoms {
+	AE=|Wendy Rathbone|
+	AS=|StokP|
+	YR=|2000|
+	TG=|19022|
+	TA=|Superior Achievement in a Poetry Collection|
+	TP=|po|
+	LV=|92|
+}
+Jonah Hex: Two Gun Mojo {
+	AE=|Joe R. Lansdale|
+	AS=|StokO|
+	YR=|1993|
+	TG=|7035|
+	TA=|Superior Achievement in Other Media|
+	TP=|co|
+	LV=|1|
+}
+The Seventh Guest {
+	AE=|Matthew J. Costello|
+	AS=|StokO|
+	YR=|1993|
+	TG=|2987|
+	TA=|Superior Achievement in Other Media|
+	TP=|om|
+	LV=|9|
+}
+Jurassic Park {
+	AE=|Michael Crichton+David Koepp|
+	MV=|Jurassic Park (1993)|
+	AS=|StokO|
+	YR=|1993|
+	TG=|3069|
+	TA=|Superior Achievement in Other Media|
+	TP=|sc|
+	LV=|9|
+}
+Hellblazer {
+	AE=|Garth Ennis|
+	AS=|StokO|
+	YR=|1993|
+	TG=|4267|
+	TA=|Superior Achievement in Other Media|
+	TP=|om|
+	LV=|9|
+}
+The Sandman {
+	AE=|Neil Gaiman|
+	AS=|StokO|
+	YR=|1993|
+	TG=|4807|
+	TA=|Superior Achievement in Other Media|
+	TP=|co|
+	LV=|9|
+}
+No Award {
+	AE=|(********)|
+	AS=|StokO|
+	YR=|1998|
+	TG=|19575|
+	TA=|Superior Achievement in Other Media|
+	TP=|x|
+	LV=|1|
+}
+Universal Horror {
+	AE=|Kevin Brownlow|
+	AS=|StokO|
+	YR=|1998|
+	TG=|19658|
+	TA=|Superior Achievement in Other Media|
+	TP=|tve|
+	LV=|9|
+}
+The Misfits: American Psycho {
+	AE=|John Cafiero|
+	AS=|StokO|
+	YR=|1998|
+	TG=|19666|
+	TA=|Superior Achievement in Other Media|
+	TP=|mr|
+	LV=|9|
+}
+John Carpenter's Vampires {
+	AE=|John Carpenter|
+	AS=|StokO|
+	YR=|1998|
+	TG=|19668|
+	TA=|Superior Achievement in Other Media|
+	TP=|mr|
+	LV=|9|
+}
+Gothic at Midnight: A Tribute to the Masters of the Macabre {
+	AE=|Joshua Kane|
+	AS=|StokO|
+	YR=|1998|
+	TG=|19739|
+	TA=|Superior Achievement in Other Media|
+	TP=|dr|
+	LV=|9|
+}
+I Have No Mouth, and I Must Scream {
+	AE=|Harlan Ellison|
+	AS=|StokO|
+	YR=|1999|
+	TG=|20912|
+	TA=|Superior Achievement in Other Media|
+	TP=|dr|
+	LV=|1|
+}
+Masters of Terror {
+	AE=|Andy Fairclough|
+	AS=|StokO|
+	YR=|1999|
+	TG=|20916|
+	TA=|Superior Achievement in Other Media|
+	TP=|web|
+	LV=|9|
+}
+Gothic.Net {
+	AE=|Seth Lindberg|
+	AS=|StokO|
+	YR=|1999|
+	TG=|20990|
+	TA=|Superior Achievement in Other Media|
+	TP=|web|
+	LV=|9|
+}
+Conspiracies [story by F. Paul Wilson] {
+	AE=|Wyrd Sisters Productions|
+	AS=|StokO|
+	YR=|1999|
+	TG=|21111|
+	TA=|Superior Achievement in Other Media|
+	TP=|dr|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokO|
+	YR=|1999|
+	TG=|20852|
+	TA=|Superior Achievement in Other Media|
+	TP=|x|
+	LV=|90|
+}
+Twilight Tales Reading Series (http://www.twilighttales.com) {
+	AE=|Tina L. Jens+Andrea Dubnick|
+	AS=|StokO|
+	YR=|2000|
+	TG=|18966|
+	TA=|Superior Achievement in Other Media|
+	TP=|web|
+	LV=|9|
+}
+Chiaroscuro (http://gothic.net/chiaroscuro/chizine) {
+	AE=|Patricia Lee Macomber+Steve Eller+Sandra Kasturi|
+	AS=|StokO|
+	YR=|2000|
+	TG=|18992|
+	TA=|Superior Achievement in Other Media|
+	TP=|web|
+	LV=|9|
+}
+Back to the Black Lagoon (On the Creature from the Black Lagoon Dvd) {
+	AE=|David J. Skal|
+	AS=|StokO|
+	YR=|2000|
+	TG=|19043|
+	TA=|Superior Achievement in Other Media|
+	TP=|tve|
+	LV=|9|
+}
+Gothic.Net (http://www.gothic.net) {
+	AE=|Mehitobel Wilson|
+	AS=|StokO|
+	YR=|2000|
+	TG=|19071|
+	TA=|Superior Achievement in Other Media|
+	TP=|web|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|StokO|
+	YR=|2000|
+	TG=|22564|
+	TA=|Superior Achievement in Other Media|
+	TP=|x|
+	LV=|90|
+}
+Diablo II (Video Game) {
+	AE=|Kurt Beane|
+	AS=|StokO|
+	YR=|2000|
+	TG=|22572|
+	TA=|Superior Achievement in Other Media|
+	TP=|in|
+	LV=|92|
+}
+Twilight Showcase (http://www.twilightshowcase.com) {
+	AE=|Gary Conner+G. Durant Haire+David Whitman|
+	AS=|StokO|
+	YR=|2000|
+	TG=|22594|
+	TA=|Superior Achievement in Other Media|
+	TP=|web|
+	LV=|92|
+}
+Sudden in a Shaft of Shadow, Volume 1 {
+	AE=|David B. Silva|
+	AS=|StokO|
+	YR=|2000|
+	TG=|19041|
+	TA=|Superior Achievement in Other Media|
+	TP=|dr|
+	LV=|92|
+}
+Invisible Man Revealed (On the Invisible Man Dvd) {
+	AE=|David J. Skal|
+	AS=|StokO|
+	YR=|2000|
+	TG=|19044|
+	TA=|Superior Achievement in Other Media|
+	TP=|tve|
+	LV=|92|
+}
+Stealing Souls {
+	AE=|Lucy Taylor|
+	AS=|StokO|
+	YR=|2000|
+	TG=|19050|
+	TA=|Superior Achievement in Other Media|
+	TP=|dr|
+	LV=|92|
+}
+untitled {
+	AE=|Jaffery Sheldon|
+	AS=|StokH|
+	YR=|1997|
+	TG=|19171|
+	TA=|Hammer Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Fritz Leiber|
+	AS=|StokU|
+	YR=|1987|
+	TG=|7331|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Frank Belknap Long|
+	AS=|StokU|
+	YR=|1987|
+	TG=|7554|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Clifford D. Simak|
+	AS=|StokU|
+	YR=|1987|
+	TG=|10949|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Ray Bradbury|
+	AS=|StokU|
+	YR=|1988|
+	TG=|1563|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Ronald Chetwynd-Hayes|
+	AS=|StokU|
+	YR=|1988|
+	TG=|2719|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Robert Bloch|
+	AS=|StokU|
+	YR=|1989|
+	TG=|17964|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Hugh B. Cave|
+	AS=|StokU|
+	YR=|1990|
+	TG=|2524|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Richard Matheson|
+	AS=|StokU|
+	YR=|1990|
+	TG=|7918|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Gahan Wilson|
+	AS=|StokU|
+	YR=|1991|
+	TG=|13473|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Ray Russell|
+	AS=|StokU|
+	YR=|1992|
+	TG=|10096|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Joyce Carol Oates|
+	AS=|StokU|
+	YR=|1993|
+	TG=|8917|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Vincent Price|
+	AS=|StokU|
+	YR=|1993|
+	TG=|9425|
+	TA=|Special Trustees Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Christopher Lee|
+	AS=|StokU|
+	YR=|1994|
+	TG=|7226|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Harlan Ellison|
+	AS=|StokU|
+	YR=|1995|
+	TG=|4136|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Forrest J Ackerman|
+	AS=|StokU|
+	YR=|1996|
+	TG=|15440|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Ira Levin|
+	AS=|StokU|
+	YR=|1996|
+	TG=|15466|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|William Peter Blatty|
+	AS=|StokU|
+	YR=|1997|
+	TG=|18094|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Jack Williamson|
+	AS=|StokU|
+	YR=|1997|
+	TG=|18095|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Ramsey Campbell|
+	AS=|StokU|
+	YR=|1998|
+	TG=|19616|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Roger Corman|
+	AS=|StokU|
+	YR=|1998|
+	TG=|19596|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Edward Gorey|
+	AS=|StokU|
+	YR=|1998|
+	TG=|19925|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Charles L. Grant|
+	AS=|StokU|
+	YR=|1998|
+	TG=|19926|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Edward Gorey|
+	AS=|StokU|
+	YR=|1999|
+	TG=|20931|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Charles L. Grant|
+	AS=|StokU|
+	YR=|1999|
+	TG=|20933|
+	TA=|Life Achievement|
+	TP=|hu|
+	LV=|1|
+}
+Cemetery Dance {
+	AE=|Richard Chizmar|
+	AS=|StokX|
+	YR=|1997|
+	TG=|18240|
+	TA=|Special Small Press Award|
+	TP=|mz|
+	LV=|1|
+}
+Gauntlet {
+	AE=|Barry Hoffman|
+	AS=|StokX|
+	YR=|1998|
+	TG=|20199|
+	TA=|Special Small Press Award|
+	TP=|fz|
+	LV=|1|
+}
+Ash-Tree Press {
+	AE=|Barbara Roden+Christopher Roden|
+	AS=|StokX|
+	YR=|1999|
+	TG=|21047|
+	TA=|Special Small Press Award|
+	TP=|pc|
+	LV=|1|
+}

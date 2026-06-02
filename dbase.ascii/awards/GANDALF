@@ -1,0 +1,466 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)GANDALF	1.5	06/18/98 ISFDB";
+##
+The Silmarillion {
+	AE=|J. R. R. Tolkien+Christopher Tolkien|
+	AS=|GandalfB|
+	YR=|1978|
+	TG=|12024|
+	TA=|Book-Length Fantasy|
+	TP=|n|
+	LV=|1|
+}
+Our Lady of Darkness {
+	AE=|Fritz Leiber|
+	AS=|GandalfB|
+	YR=|1978|
+	TG=|7376|
+	TA=|Book-Length Fantasy|
+	TP=|n|
+	LV=|2|
+}
+Lord Foul's Bane {
+	AE=|Stephen R. Donaldson|
+	AS=|GandalfB|
+	YR=|1978|
+	TG=|3698|
+	TA=|Book-Length Fantasy|
+	TP=|n|
+	LV=|3|
+}
+A Spell for Chameleon {
+	AE=|Piers Anthony|
+	AS=|GandalfB|
+	YR=|1978|
+	TG=|472|
+	TA=|Book-Length Fantasy|
+	TP=|n|
+	LV=|9|
+}
+The Shining {
+	AE=|Stephen King|
+	AS=|GandalfB|
+	YR=|1978|
+	TG=|6599|
+	TA=|Book-Length Fantasy|
+	TP=|n|
+	LV=|9|
+}
+The White Dragon {
+	AE=|Anne McCaffrey|
+	AS=|GandalfB|
+	YR=|1979|
+	TG=|8043|
+	TA=|Book-Length Fantasy|
+	TP=|n|
+	LV=|1|
+}
+The Courts of Chaos {
+	AE=|Roger Zelazny|
+	AS=|GandalfB|
+	YR=|1979|
+	TG=|13876|
+	TA=|Book-Length Fantasy|
+	TP=|n|
+	LV=|2|
+}
+Saint Camber {
+	AE=|Katherine Kurtz|
+	AS=|GandalfB|
+	YR=|1979|
+	TG=|6849|
+	TA=|Book-Length Fantasy|
+	TP=|n|
+	LV=|3|
+}
+The Stand {
+	AE=|Stephen King|
+	AS=|GandalfB|
+	YR=|1979|
+	TG=|6606|
+	TA=|Book-Length Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Rank 82 = Withdrawn - Nomination Declined {
+	AE=|(********)|
+	AS=|GandalfB|
+	YR=|1979|
+	TG=|59|
+	TA=|Book-Length Fantasy|
+	TP=|x|
+	LV=|80|
+}
+Gloriana {
+	AE=|Michael Moorcock|
+	AS=|GandalfB|
+	YR=|1979|
+	TG=|8488|
+	TA=|Book-Length Fantasy|
+	TP=|n|
+	LV=|82|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|GandalfB|
+	YR=|1979|
+	TG=|76|
+	TA=|Book-Length Fantasy|
+	TP=|x|
+	LV=|84|
+}
+The Magic Goes Away {
+	AE=|Larry Niven+Esteban Maroto|
+	AS=|GandalfB|
+	YR=|1979|
+	TG=|8759|
+	TA=|Book-Length Fantasy|
+	TP=|nv|
+	LV=|85|
+}
+untitled {
+	AE=|J. R. R. Tolkien|
+	AS=|GandalfG|
+	YR=|1974|
+	TG=|12008|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Poul Anderson|
+	AS=|GandalfG|
+	YR=|1974|
+	TG=|344|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|L. Sprague de Camp|
+	AS=|GandalfG|
+	YR=|1974|
+	TG=|3303|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Fritz Leiber|
+	AS=|GandalfG|
+	YR=|1974|
+	TG=|7323|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Fritz Leiber|
+	AS=|GandalfG|
+	YR=|1975|
+	TG=|7324|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Poul Anderson|
+	AS=|GandalfG|
+	YR=|1975|
+	TG=|345|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|L. Sprague de Camp|
+	AS=|GandalfG|
+	YR=|1975|
+	TG=|3304|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Ursula K. Le Guin|
+	AS=|GandalfG|
+	YR=|1975|
+	TG=|7092|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|C. S. Lewis|
+	AS=|GandalfG|
+	YR=|1975|
+	TG=|7452|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|L. Sprague de Camp|
+	AS=|GandalfG|
+	YR=|1976|
+	TG=|3305|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Andre Norton|
+	AS=|GandalfG|
+	YR=|1976|
+	TG=|8864|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Poul Anderson|
+	AS=|GandalfG|
+	YR=|1976|
+	TG=|346|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|C. S. Lewis|
+	AS=|GandalfG|
+	YR=|1976|
+	TG=|7453|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Ursula K. Le Guin|
+	AS=|GandalfG|
+	YR=|1976|
+	TG=|7093|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|Andre Norton|
+	AS=|GandalfG|
+	YR=|1977|
+	TG=|8865|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Poul Anderson|
+	AS=|GandalfG|
+	YR=|1977|
+	TG=|347|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Ursula K. Le Guin|
+	AS=|GandalfG|
+	YR=|1977|
+	TG=|7094|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|C. S. Lewis|
+	AS=|GandalfG|
+	YR=|1977|
+	TG=|7454|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Poul Anderson|
+	AS=|GandalfG|
+	YR=|1978|
+	TG=|348|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Ursula K. Le Guin|
+	AS=|GandalfG|
+	YR=|1978|
+	TG=|7095|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Ray Bradbury|
+	AS=|GandalfG|
+	YR=|1978|
+	TG=|1553|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Roger Zelazny|
+	AS=|GandalfG|
+	YR=|1978|
+	TG=|13858|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|9|
+}
+Rank 82 = Withdrawn - Nomination Declined {
+	AE=|(********)|
+	AS=|GandalfG|
+	YR=|1978|
+	TG=|60|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|Michael Moorcock|
+	AS=|GandalfG|
+	YR=|1978|
+	TG=|8468|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|82|
+}
+untitled {
+	AE=|Ursula K. Le Guin|
+	AS=|GandalfG|
+	YR=|1979|
+	TG=|7096|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Roger Zelazny|
+	AS=|GandalfG|
+	YR=|1979|
+	TG=|13859|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Ray Bradbury|
+	AS=|GandalfG|
+	YR=|1979|
+	TG=|1554|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Jack Vance|
+	AS=|GandalfG|
+	YR=|1979|
+	TG=|12558|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|9|
+}
+Rank 82 = Withdrawn - Nomination Declined {
+	AE=|(********)|
+	AS=|GandalfG|
+	YR=|1979|
+	TG=|61|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|Michael Moorcock|
+	AS=|GandalfG|
+	YR=|1979|
+	TG=|8469|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|82|
+}
+untitled {
+	AE=|Ray Bradbury|
+	AS=|GandalfG|
+	YR=|1980|
+	TG=|1555|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Roger Zelazny|
+	AS=|GandalfG|
+	YR=|1980|
+	TG=|13860|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Anne McCaffrey|
+	AS=|GandalfG|
+	YR=|1980|
+	TG=|7990|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Jack Vance|
+	AS=|GandalfG|
+	YR=|1980|
+	TG=|12559|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Marion Zimmer Bradley|
+	AS=|GandalfG|
+	YR=|1980|
+	TG=|1582|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|Patricia A. McKillip|
+	AS=|GandalfG|
+	YR=|1980|
+	TG=|8266|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|6|
+}
+not on ballot -- consider it a special committee award {
+	AE=|C. L. Moore|
+	AS=|GandalfG|
+	YR=|1981|
+	TG=|8511|
+	TA=|Grandmaster of Fantasy (Gandalf)|
+	TP=|au|
+	LV=|1|
+}

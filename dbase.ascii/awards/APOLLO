@@ -1,0 +1,187 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)APOLLO	1.2	11/10/97 ISFDB";
+##
+l'Île des morts^Isle of the Dead {
+	AE=|Roger Zelazny|
+	AS=|APO|
+	YR=|1972|
+	TG=|13996|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+Tous à Zanzibar^Stand on Zanzibar {
+	AE=|John Brunner|
+	AS=|APO|
+	YR=|1973|
+	TG=|13981|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+Rêve de fer^The Iron Dream {
+	AE=|Norman Spinrad|
+	AS=|APO|
+	YR=|1974|
+	TG=|13991|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+l'Enchâssement^The Embedding {
+	AE=|Ian Watson|
+	AS=|APO|
+	YR=|1975|
+	TG=|13993|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+les Ailes de la nuit^Nightwings {
+	AE=|Robert Silverberg|
+	AS=|APO|
+	YR=|1976|
+	TG=|13990|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+Cette chère humanité^Brave Old World (trans: Steve Cox) {
+	AE=|Philippe Tronche^Philippe Curval|
+	AS=|APO|
+	YR=|1977|
+	TG=|13984|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+la Ruche d'Hellstrom^Hellstrom's Hive {
+	AE=|Frank Herbert|
+	AS=|APO|
+	YR=|1978|
+	TG=|13985|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+la Grande porte^Gateway {
+	AE=|Frederik Pohl|
+	AS=|APO|
+	YR=|1979|
+	TG=|13988|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+Persistance de la vision^The Persistence of Vision {
+	AE=|John Varley|
+	AS=|APO|
+	YR=|1980|
+	TG=|13992|
+	TA=|Prix Apollo|
+	TP=|c|
+	LV=|1|
+}
+le Temps des genévriers^Juniper Time {
+	AE=|Kate Wilhelm|
+	AS=|APO|
+	YR=|1981|
+	TG=|13994|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+l'Idiot-roi^Symbiote's Crown^The Idiot King {
+	AE=|Scott Baker|
+	AS=|APO|
+	YR=|1982|
+	TG=|13979|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+l'Orbe et la Roue {
+	AE=|Michel Jeury|
+	AS=|APO|
+	YR=|1983|
+	TG=|13987|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+les Semeurs d'abîmes {
+	AE=|Serge Brussolo|
+	AS=|APO|
+	YR=|1984|
+	TG=|13982|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+la Citadelle de l'autarque^The Citadel of the Autarch {
+	AE=|Gene Wolfe|
+	AS=|APO|
+	YR=|1985|
+	TG=|13995|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+la Musique du sang^Blood Music {
+	AE=|Greg Bear|
+	AS=|APO|
+	YR=|1986|
+	TG=|13980|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+les Voies d'Anubis^The Anubis Gates {
+	AE=|Tim Powers|
+	AS=|APO|
+	YR=|1987|
+	TG=|13989|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+La Compagnie des glaces^Ice Corporation {
+	AE=|G. J. Arnaud|
+	AS=|APO|
+	YR=|1988|
+	TG=|13978|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+le Pays du fou rire^The Land of Laughs {
+	AE=|Jonathan Carroll|
+	AS=|APO|
+	YR=|1989|
+	TG=|13983|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}
+Argentine {
+	AE=|Joël Houssin|
+	AS=|APO|
+	YR=|1990|
+	TG=|13986|
+	TA=|Prix Apollo|
+	TP=|n|
+	LV=|1|
+}

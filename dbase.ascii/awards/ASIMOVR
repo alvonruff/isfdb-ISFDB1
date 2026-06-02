@@ -1,0 +1,8008 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)ASIMOVR	1.10	12/29/98 ISFDB";
+##
+Spice Pogrom {
+	AE=|Connie Willis|
+	AS=|AsimovRL|
+	YR=|1987|
+	TG=|13434|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+R & R {
+	AE=|Lucius Shepard|
+	AS=|AsimovRL|
+	YR=|1987|
+	TG=|10646|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+Voice in the Dark {
+	AE=|Jack McDevitt|
+	AS=|AsimovRL|
+	YR=|1987|
+	TG=|8130|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+Escape from Kathmandu {
+	AE=|Kim Stanley Robinson|
+	AS=|AsimovRL|
+	YR=|1987|
+	TG=|9786|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+Gilgamesh in the Outback {
+	AE=|Robert Silverberg|
+	AS=|AsimovRL|
+	YR=|1987|
+	TG=|10818|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+Mother Goddess of the World {
+	AE=|Kim Stanley Robinson|
+	AS=|AsimovRL|
+	YR=|1988|
+	TG=|9814|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+Eye for Eye {
+	AE=|Orson Scott Card|
+	AS=|AsimovRL|
+	YR=|1988|
+	TG=|2302|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+The Secret Sharer {
+	AE=|Robert Silverberg|
+	AS=|AsimovRL|
+	YR=|1988|
+	TG=|10881|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+The Blind Geometer {
+	AE=|Kim Stanley Robinson|
+	AS=|AsimovRL|
+	YR=|1988|
+	TG=|9778|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+Carthage City {
+	AE=|Orson Scott Card|
+	AS=|AsimovRL|
+	YR=|1988|
+	TG=|2285|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+The Last of the Winnebagos {
+	AE=|Connie Willis|
+	AS=|AsimovRL|
+	YR=|1989|
+	TG=|13411|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Scalehunter's Beautiful Daughter {
+	AE=|Lucius Shepard|
+	AS=|AsimovRL|
+	YR=|1989|
+	TG=|10655|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+Surfacing {
+	AE=|Walter Jon Williams|
+	AS=|AsimovRL|
+	YR=|1989|
+	TG=|13312|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+The Limit of Vision {
+	AE=|John Barnes|
+	AS=|AsimovRL|
+	YR=|1989|
+	TG=|831|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+At Winter's End {
+	AE=|Robert Silverberg|
+	AS=|AsimovRL|
+	YR=|1989|
+	TG=|10782|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+Trapping Run {
+	AE=|Harry Turtledove|
+	AS=|AsimovRL|
+	YR=|1989|
+	TG=|12120|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|6|
+}
+Waiting for the Olympians {
+	AE=|Frederik Pohl|
+	AS=|AsimovRL|
+	YR=|1989|
+	TG=|9264|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|7|
+}
+The Madonna of the Wolves {
+	AE=|S. P. Somtow^Somtow Sucharitkul|
+	AS=|AsimovRL|
+	YR=|1989|
+	TG=|11672|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|8|
+}
+Gilgamesh in Uruk {
+	AE=|Robert Silverberg|
+	AS=|AsimovRL|
+	YR=|1989|
+	TG=|10822|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|9|
+}
+We Are for the Dark {
+	AE=|Robert Silverberg|
+	AS=|AsimovRL|
+	YR=|1989|
+	TG=|10931|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|10|
+}
+A Touch of Lavender {
+	AE=|Megan Lindholm|
+	AS=|AsimovRL|
+	YR=|1990|
+	TG=|7506|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+Pageant Wagon {
+	AE=|Orson Scott Card|
+	AS=|AsimovRL|
+	YR=|1990|
+	TG=|2329|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+Tiny Tango {
+	AE=|Judith Moffett|
+	AS=|AsimovRL|
+	YR=|1990|
+	TG=|8436|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+The True Nature of Shangri-La {
+	AE=|Kim Stanley Robinson|
+	AS=|AsimovRL|
+	YR=|1990|
+	TG=|9842|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+The Father of Stones {
+	AE=|Lucius Shepard|
+	AS=|AsimovRL|
+	YR=|1990|
+	TG=|10605|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+Red Planet Blues {
+	AE=|Allen Steele^Allen M. Steele|
+	AS=|AsimovRL|
+	YR=|1990|
+	TG=|11404|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|6|
+}
+The Egg {
+	AE=|Steven Popkes|
+	AS=|AsimovRL|
+	YR=|1990|
+	TG=|9291|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|7|
+}
+Time Out {
+	AE=|Connie Willis|
+	AS=|AsimovRL|
+	YR=|1990|
+	TG=|13437|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|8|
+}
+In Another Country {
+	AE=|Robert Silverberg|
+	AS=|AsimovRL|
+	YR=|1990|
+	TG=|10834|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|9|
+}
+Destroyer of Worlds {
+	AE=|Charles Sheffield|
+	AS=|AsimovRL|
+	YR=|1990|
+	TG=|10559|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|10|
+}
+Mr. Boy {
+	AE=|James Patrick Kelly|
+	AS=|AsimovRL|
+	YR=|1991|
+	TG=|6396|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+Bwana {
+	AE=|Mike Resnick|
+	AS=|AsimovRL|
+	YR=|1991|
+	TG=|9613|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+Not Fade Away {
+	AE=|R. Garcia y Robertson|
+	AS=|AsimovRL|
+	YR=|1991|
+	TG=|9756|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+Skull City {
+	AE=|Lucius Shepard|
+	AS=|AsimovRL|
+	YR=|1991|
+	TG=|10662|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+The Hemingway Hoax {
+	AE=|Joe Haldeman|
+	AS=|AsimovRL|
+	YR=|1991|
+	TG=|5515|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+Trembling Earth {
+	AE=|Allen Steele|
+	AS=|AsimovRL|
+	YR=|1991|
+	TG=|11399|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+The Ragged Rock {
+	AE=|Judith Moffett|
+	AS=|AsimovRL|
+	YR=|1991|
+	TG=|8429|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|6|
+}
+A Short, Sharp Shock {
+	AE=|Kim Stanley Robinson|
+	AS=|AsimovRL|
+	YR=|1991|
+	TG=|9836|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|7|
+}
+Bones {
+	AE=|Pat Murphy|
+	AS=|AsimovRL|
+	YR=|1991|
+	TG=|8629|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|8|
+}
+Lion Time in Timbuctoo {
+	AE=|Robert Silverberg|
+	AS=|AsimovRL|
+	YR=|1991|
+	TG=|10839|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|9|
+}
+Elegy for Angels and Dogs {
+	AE=|Walter Jon Williams|
+	AS=|AsimovRL|
+	YR=|1991|
+	TG=|13298|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|10|
+}
+Beggars in Spain {
+	AE=|Nancy Kress|
+	AS=|AsimovRL|
+	YR=|1992|
+	TG=|6764|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+Forward the Foundation {
+	AE=|Isaac Asimov|
+	AS=|AsimovRL|
+	YR=|1992|
+	TG=|569|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+Frankenswine {
+	AE=|Janet Kagan|
+	AS=|AsimovRL|
+	YR=|1992|
+	TG=|6313|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+Raising Cane {
+	AE=|Janet Kagan|
+	AS=|AsimovRL|
+	YR=|1992|
+	TG=|6324|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+Jack {
+	AE=|Connie Willis|
+	AS=|AsimovRL|
+	YR=|1992|
+	TG=|13407|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+And Wild for to Hold {
+	AE=|Nancy Kress|
+	AS=|AsimovRL|
+	YR=|1992|
+	TG=|6755|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+The Gallery of His Dreams {
+	AE=|Kristine Kathryn Rusch|
+	AS=|AsimovRL|
+	YR=|1992|
+	TG=|10028|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|6|
+}
+By the Time We Got to Gaugamela {
+	AE=|R. Garcia y Robertson|
+	AS=|AsimovRL|
+	YR=|1992|
+	TG=|9752|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|7|
+}
+Bully! {
+	AE=|Mike Resnick|
+	AS=|AsimovRL|
+	YR=|1992|
+	TG=|9607|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|8|
+}
+The Fourth Intercometary {
+	AE=|Phillip C. Jennings|
+	AS=|AsimovRL|
+	YR=|1992|
+	TG=|6170|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|9|
+}
+Candle {
+	AE=|Tony Daniel|
+	AS=|AsimovRL|
+	YR=|1992|
+	TG=|3135|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|10|
+}
+Cleon the Emperor {
+	AE=|Isaac Asimov|
+	AS=|AsimovRL|
+	YR=|1993|
+	TG=|559|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+Barnacle Bill the Spacer {
+	AE=|Lucius Shepard|
+	AS=|AsimovRL|
+	YR=|1993|
+	TG=|10592|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+Synthesis {
+	AE=|Mary Rosenblum|
+	AS=|AsimovRL|
+	YR=|1993|
+	TG=|9937|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+Outnumbering the Dead {
+	AE=|Frederik Pohl|
+	AS=|AsimovRL|
+	YR=|1993|
+	TG=|9247|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+Grownups {
+	AE=|Ian R. MacLeod|
+	AS=|AsimovRL|
+	YR=|1993|
+	TG=|7699|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+Griffin's Egg {
+	AE=|Michael Swanwick|
+	AS=|AsimovRL|
+	YR=|1993|
+	TG=|11749|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+Her Girl Friday {
+	AE=|John Varley|
+	AS=|AsimovRL|
+	YR=|1993|
+	TG=|12641|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|6|
+}
+Crux Gammata {
+	AE=|J. R. Dunn|
+	AS=|AsimovRL|
+	YR=|1993|
+	TG=|3865|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|7|
+}
+Protection {
+	AE=|Maureen F. McHugh|
+	AS=|AsimovRL|
+	YR=|1993|
+	TG=|8208|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|8|
+}
+Gypsy Trade {
+	AE=|R. Garcia y Robertson|
+	AS=|AsimovRL|
+	YR=|1993|
+	TG=|9755|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Virgin and the Dinosaur {
+	AE=|R. Garcia y Robertson|
+	AS=|AsimovRL|
+	YR=|1993|
+	TG=|9761|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|10|
+}
+Dancing on Air {
+	AE=|Nancy Kress|
+	AS=|AsimovRL|
+	YR=|1994|
+	TG=|6777|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+Cold Iron {
+	AE=|Michael Swanwick|
+	AS=|AsimovRL|
+	YR=|1994|
+	TG=|11735|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+The Consort {
+	AE=|Isaac Asimov|
+	AS=|AsimovRL|
+	YR=|1994|
+	TG=|564|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+Down the River {
+	AE=|R. Garcia y Robertson|
+	AS=|AsimovRL|
+	YR=|1994|
+	TG=|9753|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+Kamehameha's Bones {
+	AE=|Kathleen Ann Goonan|
+	AS=|AsimovRL|
+	YR=|1994|
+	TG=|5220|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+Sister Alice {
+	AE=|Robert Reed|
+	AS=|AsimovRL|
+	YR=|1994|
+	TG=|9572|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|6|
+}
+An American Childhood {
+	AE=|Pat Murphy|
+	AS=|AsimovRL|
+	YR=|1994|
+	TG=|8626|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|7|
+}
+Ice Atlantis {
+	AE=|Valerie J. Freireich|
+	AS=|AsimovRL|
+	YR=|1994|
+	TG=|4748|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|8|
+}
+Stairway {
+	AE=|Mary Rosenblum|
+	AS=|AsimovRL|
+	YR=|1994|
+	TG=|9934|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Last Castle of Christmas {
+	AE=|Alexander Jablokov|
+	AS=|AsimovRL|
+	YR=|1994|
+	TG=|6131|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|10|
+}
+Forgiveness Day {
+	AE=|Ursula K. Le Guin|
+	AS=|AsimovRL|
+	YR=|1995|
+	TG=|7149|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+Les Fleurs du Mal {
+	AE=|Brian Stableford|
+	AS=|AsimovRL|
+	YR=|1995|
+	TG=|11298|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+Remains of Adam {
+	AE=|A. A. Attanasio|
+	AS=|AsimovRL|
+	YR=|1995|
+	TG=|661|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+Werewolves of Luna {
+	AE=|R. Garcia y Robertson|
+	AS=|AsimovRL|
+	YR=|1995|
+	TG=|9765|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+Cri de Coeur {
+	AE=|Michael Bishop|
+	AS=|AsimovRL|
+	YR=|1995|
+	TG=|1237|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+Up the Rainbow {
+	AE=|Susan Casper|
+	AS=|AsimovRL|
+	YR=|1995|
+	TG=|2500|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|6|
+}
+A Martian Childhood {
+	AE=|Kim Stanley Robinson|
+	AS=|AsimovRL|
+	YR=|1995|
+	TG=|9810|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|7|
+}
+The Mermaid's Comb {
+	AE=|Mary Rosenblum|
+	AS=|AsimovRL|
+	YR=|1995|
+	TG=|9928|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|7|
+}
+Soon Comes Night {
+	AE=|Gregory Benford|
+	AS=|AsimovRL|
+	YR=|1995|
+	TG=|1090|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|8|
+}
+Via Roma {
+	AE=|Robert Silverberg|
+	AS=|AsimovRL|
+	YR=|1995|
+	TG=|10927|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|9|
+}
+Syrtis {
+	AE=|Alexander Jablokov|
+	AS=|AsimovRL|
+	YR=|1995|
+	TG=|6137|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|10|
+}
+A Woman's Liberation {
+	AE=|Ursula K. Le Guin|
+	AS=|AsimovRL|
+	YR=|1996|
+	TG=|7211|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+Mortimer Gray's "History of Death" {
+	AE=|Brian Stableford|
+	AS=|AsimovRL|
+	YR=|1996|
+	TG=|11305|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+We Were Out of Our Minds with Joy {
+	AE=|David Marusek|
+	AS=|AsimovRL|
+	YR=|1996|
+	TG=|7897|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+A Man of the People {
+	AE=|Ursula K. Le Guin|
+	AS=|AsimovRL|
+	YR=|1996|
+	TG=|7170|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+Da Vinci Rising {
+	AE=|Jack Dann|
+	AS=|AsimovRL|
+	YR=|1996|
+	TG=|3161|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+The Doryman {
+	AE=|Mary Rosenblum|
+	AS=|AsimovRL|
+	YR=|1996|
+	TG=|9923|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+Fault Lines {
+	AE=|Nancy Kress|
+	AS=|AsimovRL|
+	YR=|1996|
+	TG=|6784|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|6|
+}
+The Death of Captain Future {
+	AE=|Allen Steele|
+	AS=|AsimovRL|
+	YR=|1996|
+	TG=|11382|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|7|
+}
+Yaguara {
+	AE=|Nicola Griffith|
+	AS=|AsimovRL|
+	YR=|1996|
+	TG=|5404|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|8|
+}
+Bibi {
+	AE=|Mike Resnick+Susan Shwartz|
+	AS=|AsimovRL|
+	YR=|1996|
+	TG=|9678|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|9|
+}
+Hypocaust & Bathysphere {
+	AE=|Rebecca Ore|
+	AS=|AsimovRL|
+	YR=|1996|
+	TG=|8951|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|10|
+}
+Gas Fish {
+	AE=|Mary Rosenblum|
+	AS=|AsimovRL|
+	YR=|1997|
+	TG=|15363|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+Time Travelers Never Die {
+	AE=|Jack McDevitt|
+	AS=|AsimovRL|
+	YR=|1997|
+	TG=|15356|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+Blood of the Dragon {
+	AE=|George R. R. Martin|
+	AS=|AsimovRL|
+	YR=|1997|
+	TG=|15355|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+Chrysalis {
+	AE=|Robert Reed|
+	AS=|AsimovRL|
+	YR=|1997|
+	TG=|15360|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+The Robot's Twilight Companion {
+	AE=|Tony Daniel|
+	AS=|AsimovRL|
+	YR=|1997|
+	TG=|15326|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+The City of God {
+	AE=|Gardner Dozois+Michael Swanwick|
+	AS=|AsimovRL|
+	YR=|1997|
+	TG=|15330|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|6|
+}
+Human History {
+	AE=|Lucius Shepard|
+	AS=|AsimovRL|
+	YR=|1997|
+	TG=|15367|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|7|
+}
+Swimmers Beneath the Skin {
+	AE=|Ian R. MacLeod|
+	AS=|AsimovRL|
+	YR=|1997|
+	TG=|15354|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|8|
+}
+The Road to Reality {
+	AE=|Phillip C. Jennings|
+	AS=|AsimovRL|
+	YR=|1997|
+	TG=|15341|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|9|
+}
+"...Where Angels Fear to Tread" {
+	AE=|Allen Steele|
+	AS=|AsimovRL|
+	YR=|1998|
+	TG=|18219|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+Messengers of Chaos {
+	AE=|G. David Nordley|
+	AS=|AsimovRL|
+	YR=|1998|
+	TG=|19218|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+In the Furnace of the Night {
+	AE=|James Sarafin|
+	AS=|AsimovRL|
+	YR=|1998|
+	TG=|19222|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+Quinn's Deal {
+	AE=|L. Timmel Duchamp|
+	AS=|AsimovRL|
+	YR=|1998|
+	TG=|19190|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+The Golden Keeper {
+	AE=|Ian R. MacLeod|
+	AS=|AsimovRL|
+	YR=|1998|
+	TG=|19213|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+Izzy and the Father of Terror {
+	AE=|Eliot Fintushel|
+	AS=|AsimovRL|
+	YR=|1998|
+	TG=|19195|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|6|
+}
+Oceanic {
+	AE=|Greg Egan|
+	AS=|AsimovRL|
+	YR=|1999|
+	TG=|19913|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Summer Isles {
+	AE=|Ian R. MacLeod|
+	AS=|AsimovRL|
+	YR=|1999|
+	TG=|21587|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+Sea Change, with Monsters {
+	AE=|Paul J. McAuley|
+	AS=|AsimovRL|
+	YR=|1999|
+	TG=|21593|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+Ancestral Voices {
+	AE=|Gardner Dozois+Michael Swanwick|
+	AS=|AsimovRL|
+	YR=|1999|
+	TG=|21549|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+A Question of Grammar {
+	AE=|L. Timmel Duchamp|
+	AS=|AsimovRL|
+	YR=|1999|
+	TG=|21550|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+The Days of Solomon Gursky {
+	AE=|Ian McDonald|
+	AS=|AsimovRL|
+	YR=|1999|
+	TG=|21594|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+Grist {
+	AE=|Tony Daniel|
+	AS=|AsimovRL|
+	YR=|1999|
+	TG=|21545|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|6|
+}
+Get Me to the Church on Time {
+	AE=|Terry Bisson|
+	AS=|AsimovRL|
+	YR=|1999|
+	TG=|21526|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|7|
+}
+Mother Death {
+	AE=|Robert Reed|
+	AS=|AsimovRL|
+	YR=|1999|
+	TG=|21604|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|8|
+}
+Hunting the Snark {
+	AE=|Mike Resnick|
+	AS=|AsimovRL|
+	YR=|2000|
+	TG=|21606|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Executioners' Guild {
+	AE=|Andy Duncan|
+	AS=|AsimovRL|
+	YR=|2000|
+	TG=|21551|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+Forty, Counting Down {
+	AE=|Harry Turtledove|
+	AS=|AsimovRL|
+	YR=|2000|
+	TG=|21629|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+Argonautica {
+	AE=|Walter Jon Williams|
+	AS=|AsimovRL|
+	YR=|2000|
+	TG=|21636|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+The Winds of Marble Arch {
+	AE=|Connie Willis|
+	AS=|AsimovRL|
+	YR=|2000|
+	TG=|21637|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+The Wedding Album {
+	AE=|David Marusek|
+	AS=|AsimovRL|
+	YR=|2000|
+	TG=|21590|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|6|
+}
+Son Observe the Time {
+	AE=|Kage Baker|
+	AS=|AsimovRL|
+	YR=|2000|
+	TG=|21521|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|7|
+}
+The Exile of Evening Star {
+	AE=|Allen Steele|
+	AS=|AsimovRL|
+	YR=|2000|
+	TG=|21618|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|8|
+}
+Dapple: A Hwarhath Historical Romance {
+	AE=|Eleanor Arnason|
+	AS=|AsimovRL|
+	YR=|2000|
+	TG=|21519|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|9|
+}
+Baby's Fire {
+	AE=|Robert Reed|
+	AS=|AsimovRL|
+	YR=|2000|
+	TG=|21601|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|10|
+}
+Oracle {
+	AE=|Greg Egan|
+	AS=|AsimovRL|
+	YR=|2001|
+	TG=|22640|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|1|
+}
+Radiant Green Star {
+	AE=|Lucius Shepard|
+	AS=|AsimovRL|
+	YR=|2001|
+	TG=|22678|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|2|
+}
+Fly-By-Night {
+	AE=|Larry Niven|
+	AS=|AsimovRL|
+	YR=|2001|
+	TG=|22667|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|3|
+}
+Path of the Dragon {
+	AE=|George R. R. Martin|
+	AS=|AsimovRL|
+	YR=|2001|
+	TG=|22664|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|4|
+}
+Savior {
+	AE=|Nancy Kress|
+	AS=|AsimovRL|
+	YR=|2001|
+	TG=|22659|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+One-Eyed Jacks and Suicide Kings {
+	AE=|R. Garcia y Robertson|
+	AS=|AsimovRL|
+	YR=|2001|
+	TG=|22676|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|5|
+}
+The Forest Between the Worlds {
+	AE=|G. David Nordley|
+	AS=|AsimovRL|
+	YR=|2001|
+	TG=|22668|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|6|
+}
+Tauromaquia {
+	AE=|Daniel Abraham+Michaela Roessner+Sage Walker+Walter Jon Williams|
+	AS=|AsimovRL|
+	YR=|2001|
+	TG=|22618|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|7|
+}
+Green Fire {
+	AE=|Andy Duncan+Eileen Gunn+Pat Murphy+Michael Swanwick|
+	AS=|AsimovRL|
+	YR=|2001|
+	TG=|22638|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|8|
+}
+Father to the Man {
+	AE=|Robert Reed|
+	AS=|AsimovRL|
+	YR=|2001|
+	TG=|22672|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|9|
+}
+Heart of Glass {
+	AE=|William Barton|
+	AS=|AsimovRL|
+	YR=|2001|
+	TG=|22623|
+	TA=|Asimov's Reader's Poll -- Novella|
+	TP=|nv|
+	LV=|10|
+}
+The Prisoner of Chillon {
+	AE=|James Patrick Kelly|
+	AS=|AsimovRT|
+	YR=|1987|
+	TG=|6400|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Windows {
+	AE=|Ian Watson|
+	AS=|AsimovRT|
+	YR=|1987|
+	TG=|12964|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Hatrack River {
+	AE=|Orson Scott Card|
+	AS=|AsimovRT|
+	YR=|1987|
+	TG=|2311|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+The Glass Flower {
+	AE=|George R. R. Martin|
+	AS=|AsimovRT|
+	YR=|1987|
+	TG=|7828|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+A Place to Stay for a Little While {
+	AE=|Jim Aikin|
+	AS=|AsimovRT|
+	YR=|1987|
+	TG=|226|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Rachel in Love {
+	AE=|Pat Murphy|
+	AS=|AsimovRT|
+	YR=|1988|
+	TG=|8650|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Yanqui Doodle {
+	AE=|James Tiptree, Jr.|
+	AS=|AsimovRT|
+	YR=|1988|
+	TG=|12001|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+On the Border {
+	AE=|Lucius Shepard|
+	AS=|AsimovRT|
+	YR=|1988|
+	TG=|10644|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+The Moon and Michelangelo {
+	AE=|Ian Watson|
+	AS=|AsimovRT|
+	YR=|1988|
+	TG=|12948|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Winter's Tale {
+	AE=|Connie Willis|
+	AS=|AsimovRT|
+	YR=|1988|
+	TG=|13442|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Dinosaurs {
+	AE=|Walter Jon Williams|
+	AS=|AsimovRT|
+	YR=|1988|
+	TG=|13294|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Dowser {
+	AE=|Orson Scott Card|
+	AS=|AsimovRT|
+	YR=|1989|
+	TG=|2289|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Hob {
+	AE=|Judith Moffett|
+	AS=|AsimovRT|
+	YR=|1989|
+	TG=|8423|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Under the Covenant Stars {
+	AE=|John Barnes|
+	AS=|AsimovRT|
+	YR=|1989|
+	TG=|847|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+The Function of Dream Sleep {
+	AE=|Harlan Ellison|
+	AS=|AsimovRT|
+	YR=|1989|
+	TG=|4181|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Nicoji {
+	AE=|M. Shayne Bell|
+	AS=|AsimovRT|
+	YR=|1989|
+	TG=|1040|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Glacier {
+	AE=|Kim Stanley Robinson|
+	AS=|AsimovRT|
+	YR=|1989|
+	TG=|9791|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+Ginny Sweethips' Flying Circus {
+	AE=|Neal Barrett, Jr.|
+	AS=|AsimovRT|
+	YR=|1989|
+	TG=|865|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|7|
+}
+The Earth Doth Like a Snake Renew {
+	AE=|James Tiptree, Jr.|
+	AS=|AsimovRT|
+	YR=|1989|
+	TG=|11959|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+Do Ya, Do Ya, Wanna Dance {
+	AE=|Howard Waldrop|
+	AS=|AsimovRT|
+	YR=|1989|
+	TG=|12821|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Lunatics {
+	AE=|Kim Stanley Robinson|
+	AS=|AsimovRT|
+	YR=|1989|
+	TG=|9808|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|10|
+}
+The Loch Moose Monster {
+	AE=|Janet Kagan|
+	AS=|AsimovRT|
+	YR=|1990|
+	TG=|6316|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Return of the Kangaroo Rex {
+	AE=|Janet Kagan|
+	AS=|AsimovRT|
+	YR=|1990|
+	TG=|6325|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Enter a Soldier. Later: Enter Another {
+	AE=|Robert Silverberg|
+	AS=|AsimovRT|
+	YR=|1990|
+	TG=|10811|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Dogwalker {
+	AE=|Orson Scott Card|
+	AS=|AsimovRT|
+	YR=|1990|
+	TG=|2286|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+The Price of Oranges {
+	AE=|Nancy Kress|
+	AS=|AsimovRT|
+	YR=|1990|
+	TG=|6805|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Silver Lady and the Fortyish Man {
+	AE=|Megan Lindholm|
+	AS=|AsimovRT|
+	YR=|1990|
+	TG=|7502|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+Surrender {
+	AE=|Lucius Shepard|
+	AS=|AsimovRT|
+	YR=|1990|
+	TG=|10668|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|7|
+}
+Not Without Honor {
+	AE=|Judith Moffett|
+	AS=|AsimovRT|
+	YR=|1990|
+	TG=|8426|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+Fast Cars {
+	AE=|Kristine Kathryn Rusch|
+	AS=|AsimovRT|
+	YR=|1990|
+	TG=|10025|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Ride to Live, Live to Ride {
+	AE=|Allen Steele^Allen M. Steele|
+	AS=|AsimovRT|
+	YR=|1990|
+	TG=|11406|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|10|
+}
+Getting the Bugs Out {
+	AE=|Janet Kagan|
+	AS=|AsimovRT|
+	YR=|1991|
+	TG=|6314|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Manamouki {
+	AE=|Mike Resnick|
+	AS=|AsimovRT|
+	YR=|1991|
+	TG=|9638|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+The Flowering Inferno {
+	AE=|Janet Kagan|
+	AS=|AsimovRT|
+	YR=|1991|
+	TG=|6312|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+The Safe-Deposit Box {
+	AE=|Greg Egan|
+	AS=|AsimovRT|
+	YR=|1991|
+	TG=|4036|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+The Coon Rolled Down and Ruptured His Larinks, A Squeezed Novel by Mr. Skunk {
+	AE=|Dafydd ab Hugh|
+	AS=|AsimovRT|
+	YR=|1991|
+	TG=|185|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Toward Kilimanjaro {
+	AE=|Ian McDonald|
+	AS=|AsimovRT|
+	YR=|1991|
+	TG=|8165|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+The Caress {
+	AE=|Greg Egan|
+	AS=|AsimovRT|
+	YR=|1991|
+	TG=|3995|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|7|
+}
+A Braver Thing {
+	AE=|Charles Sheffield|
+	AS=|AsimovRT|
+	YR=|1991|
+	TG=|10552|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+Health Care System {
+	AE=|Charles Sheffield|
+	AS=|AsimovRT|
+	YR=|1991|
+	TG=|10574|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Betrothal {
+	AE=|Phillip C. Jennings|
+	AS=|AsimovRT|
+	YR=|1991|
+	TG=|6169|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|10|
+}
+Understand {
+	AE=|Ted Chiang|
+	AS=|AsimovRT|
+	YR=|1992|
+	TG=|2726|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The July Ward {
+	AE=|Sharon N. Farber^S. N. Dyer|
+	AS=|AsimovRT|
+	YR=|1992|
+	TG=|3886|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Miracle {
+	AE=|Connie Willis|
+	AS=|AsimovRT|
+	YR=|1992|
+	TG=|13422|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Living Will {
+	AE=|Alexander Jablokov|
+	AS=|AsimovRT|
+	YR=|1992|
+	TG=|6133|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+The Happy Man {
+	AE=|Jonathan Lethem|
+	AS=|AsimovRT|
+	YR=|1992|
+	TG=|7431|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Water Bringer {
+	AE=|Mary Rosenblum|
+	AS=|AsimovRT|
+	YR=|1992|
+	TG=|9941|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+The Bee Man {
+	AE=|Mary Rosenblum|
+	AS=|AsimovRT|
+	YR=|1992|
+	TG=|9921|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|7|
+}
+Second Cousin Twice Removed {
+	AE=|Cynthia Felice|
+	AS=|AsimovRT|
+	YR=|1992|
+	TG=|4409|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+Fin de Cyclé {
+	AE=|Howard Waldrop|
+	AS=|AsimovRT|
+	YR=|1992|
+	TG=|12831|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Return of Weird Frank {
+	AE=|Allen Steele|
+	AS=|AsimovRT|
+	YR=|1992|
+	TG=|11395|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|10|
+}
+The Nutcracker Coup {
+	AE=|Janet Kagan|
+	AS=|AsimovRT|
+	YR=|1993|
+	TG=|6320|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Into Darkness {
+	AE=|Greg Egan|
+	AS=|AsimovRT|
+	YR=|1993|
+	TG=|4013|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Breakfast Cereal Killers {
+	AE=|R. Garcia y Robertson|
+	AS=|AsimovRT|
+	YR=|1993|
+	TG=|9749|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Danny Goes to Mars {
+	AE=|Pamela Sargent|
+	AS=|AsimovRT|
+	YR=|1993|
+	TG=|10214|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+In the Presence of Mine Enemies {
+	AE=|Harry Turtledove|
+	AS=|AsimovRT|
+	YR=|1993|
+	TG=|12111|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Vanilla Dunk {
+	AE=|Jonathan Lethem|
+	AS=|AsimovRT|
+	YR=|1993|
+	TG=|7437|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Dust {
+	AE=|Greg Egan|
+	AS=|AsimovRT|
+	YR=|1993|
+	TG=|4008|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+Render unto Caesar {
+	AE=|Maureen F. McHugh|
+	AS=|AsimovRT|
+	YR=|1993|
+	TG=|8213|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|7|
+}
+Impact Parameter {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRT|
+	YR=|1993|
+	TG=|6948|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+Song of a Dry River {
+	AE=|Mike Resnick|
+	AS=|AsimovRT|
+	YR=|1993|
+	TG=|9667|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Deep Safari {
+	AE=|Charles Sheffield|
+	AS=|AsimovRT|
+	YR=|1993|
+	TG=|10558|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Sugar's Blues {
+	AE=|Allen Steele|
+	AS=|AsimovRT|
+	YR=|1993|
+	TG=|11398|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|10|
+}
+Inn {
+	AE=|Connie Willis|
+	AS=|AsimovRT|
+	YR=|1994|
+	TG=|13405|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Beneath the Stars of Winter {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRT|
+	YR=|1994|
+	TG=|6942|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Death on the Nile {
+	AE=|Connie Willis|
+	AS=|AsimovRT|
+	YR=|1994|
+	TG=|13374|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Deep Eddy {
+	AE=|Bruce Sterling|
+	AS=|AsimovRT|
+	YR=|1994|
+	TG=|11447|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Winter Flowers {
+	AE=|Tanith Lee|
+	AS=|AsimovRT|
+	YR=|1994|
+	TG=|7296|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Cush {
+	AE=|Neal Barrett, Jr.|
+	AS=|AsimovRT|
+	YR=|1994|
+	TG=|859|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+Papa {
+	AE=|Ian R. MacLeod|
+	AS=|AsimovRT|
+	YR=|1994|
+	TG=|7703|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|7|
+}
+The Undifferentiated Object of Desire {
+	AE=|Ian McDonald|
+	AS=|AsimovRT|
+	YR=|1994|
+	TG=|8167|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|7|
+}
+One Morning in the Looney Bin {
+	AE=|Maggie Flinn|
+	AS=|AsimovRT|
+	YR=|1994|
+	TG=|4524|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+The Shadow Knows {
+	AE=|Terry Bisson|
+	AS=|AsimovRT|
+	YR=|1994|
+	TG=|1344|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Franchise {
+	AE=|John Kessel|
+	AS=|AsimovRT|
+	YR=|1994|
+	TG=|6452|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|10|
+}
+Microde City {
+	AE=|Jim Young|
+	AS=|AsimovRT|
+	YR=|1994|
+	TG=|13818|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|10|
+}
+Cocoon {
+	AE=|Greg Egan|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|4000|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Lovers {
+	AE=|Eleanor Arnason|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|497|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+The Hole in the Hole {
+	AE=|Terry Bisson|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|1334|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Adaptation {
+	AE=|Connie Willis|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|13352|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Cretaceous Park {
+	AE=|Kandis Elliot|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|4123|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Good with Rice {
+	AE=|John Brunner|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|1826|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+Dedication {
+	AE=|Eric Choi|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|2745|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+Rat {
+	AE=|Mary Rosenblum|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|9930|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+Selkies {
+	AE=|Mary Rosenblum|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|9933|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+Big Jelly {
+	AE=|Rudy Rucker+Bruce Sterling|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|9992|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|7|
+}
+Apocalypse's Children {
+	AE=|R. V. Branham|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|1618|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+Things of the Flesh {
+	AE=|L. Timmel Duchamp|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|3857|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+Cilia-of-Gold {
+	AE=|Stephen Baxter|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|928|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Bee's Kiss {
+	AE=|Charles Sheffield|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|10550|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Nekropolis {
+	AE=|Maureen F. McHugh|
+	AS=|AsimovRT|
+	YR=|1995|
+	TG=|8202|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|10|
+}
+Think Like a Dinosaur {
+	AE=|James Patrick Kelly|
+	AS=|AsimovRT|
+	YR=|1996|
+	TG=|6409|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Dawn Venus {
+	AE=|G. David Nordley|
+	AS=|AsimovRT|
+	YR=|1996|
+	TG=|8842|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Road Kills {
+	AE=|Kandis Elliot|
+	AS=|AsimovRT|
+	YR=|1996|
+	TG=|4124|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Farthest Man From Earth {
+	AE=|John C. Wright|
+	AS=|AsimovRT|
+	YR=|1996|
+	TG=|13734|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Ether OR {
+	AE=|Ursula K. Le Guin|
+	AS=|AsimovRT|
+	YR=|1996|
+	TG=|7139|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Waging Good {
+	AE=|Robert Reed|
+	AS=|AsimovRT|
+	YR=|1996|
+	TG=|9580|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+Fragments of a Painted Eggshell {
+	AE=|Alexander Jablokov|
+	AS=|AsimovRT|
+	YR=|1996|
+	TG=|6130|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|7|
+}
+TAP {
+	AE=|Greg Egan|
+	AS=|AsimovRT|
+	YR=|1996|
+	TG=|4040|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+When the Old Gods Die {
+	AE=|Mike Resnick|
+	AS=|AsimovRT|
+	YR=|1996|
+	TG=|9670|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+Drifting Off the Coast of New Mexico {
+	AE=|Steven R. Boyett|
+	AS=|AsimovRT|
+	YR=|1996|
+	TG=|1548|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Across the Darkness {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRT|
+	YR=|1996|
+	TG=|6939|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|10|
+}
+The Flowers of Aulit Prison {
+	AE=|Nancy Kress|
+	AS=|AsimovRT|
+	YR=|1997|
+	TG=|15347|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Age of Aquarius {
+	AE=|William Barton|
+	AS=|AsimovRT|
+	YR=|1997|
+	TG=|15315|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+A Dry, Quiet War {
+	AE=|Tony Daniel|
+	AS=|AsimovRT|
+	YR=|1997|
+	TG=|15324|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Beauty and the Opéra or The Phantom Beast {
+	AE=|Suzy McKee Charnas|
+	AS=|AsimovRT|
+	YR=|1997|
+	TG=|15320|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+The Land of Nod {
+	AE=|Mike Resnick|
+	AS=|AsimovRT|
+	YR=|1997|
+	TG=|15362|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Mountain Ways {
+	AE=|Ursula K. Le Guin|
+	AS=|AsimovRT|
+	YR=|1997|
+	TG=|15349|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+The Edge of the Universe {
+	AE=|Terry Bisson|
+	AS=|AsimovRT|
+	YR=|1997|
+	TG=|15316|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|7|
+}
+Pyros {
+	AE=|George M. Ewing|
+	AS=|AsimovRT|
+	YR=|1997|
+	TG=|15335|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+Cloud Cuckoo {
+	AE=|Charles Sheffield|
+	AS=|AsimovRT|
+	YR=|1997|
+	TG=|15365|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+The Peacock Throne {
+	AE=|Charles Sheffield|
+	AS=|AsimovRT|
+	YR=|1997|
+	TG=|15366|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Miracle of Ivar Avenue {
+	AE=|John Kessel|
+	AS=|AsimovRT|
+	YR=|1997|
+	TG=|15343|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|10|
+}
+We Will Drink a Fish Together... {
+	AE=|Bill Johnson|
+	AS=|AsimovRT|
+	YR=|1998|
+	TG=|18180|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Three Hearings on the Existence of Snakes in the Human Bloodstream {
+	AE=|James Alan Gardner|
+	AS=|AsimovRT|
+	YR=|1998|
+	TG=|19198|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+The Undiscovered {
+	AE=|William Sanders|
+	AS=|AsimovRT|
+	YR=|1998|
+	TG=|19221|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Lethe {
+	AE=|Walter Jon Williams|
+	AS=|AsimovRT|
+	YR=|1998|
+	TG=|19229|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+The Flag on Gorbachev Crater {
+	AE=|Charles L. Harness|
+	AS=|AsimovRT|
+	YR=|1998|
+	TG=|19200|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+One Good Juror {
+	AE=|Mary Rosenblum+James Sarafin|
+	AS=|AsimovRT|
+	YR=|1998|
+	TG=|19223|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Newsletter {
+	AE=|Connie Willis|
+	AS=|AsimovRT|
+	YR=|1998|
+	TG=|19230|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+Guest Law {
+	AE=|John C. Wright|
+	AS=|AsimovRT|
+	YR=|1998|
+	TG=|19231|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|7|
+}
+On the Ice Islands {
+	AE=|Gregory Feeley|
+	AS=|AsimovRT|
+	YR=|1998|
+	TG=|19194|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+House of Dreams {
+	AE=|Michael F. Flynn|
+	AS=|AsimovRT|
+	YR=|1998|
+	TG=|19197|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+Blood and Judgment {
+	AE=|John Brunner|
+	AS=|AsimovRT|
+	YR=|1998|
+	TG=|19186|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Death Do Us Part {
+	AE=|Robert Silverberg|
+	AS=|AsimovRT|
+	YR=|1998|
+	TG=|19225|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|10|
+}
+Echea {
+	AE=|Kristine Kathryn Rusch|
+	AS=|AsimovRT|
+	YR=|1999|
+	TG=|19918|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Taklamakan {
+	AE=|Bruce Sterling|
+	AS=|AsimovRT|
+	YR=|1999|
+	TG=|21619|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Starfall {
+	AE=|R. Garcia y Robertson|
+	AS=|AsimovRT|
+	YR=|1999|
+	TG=|21609|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Steamship Soldier on the Information Front {
+	AE=|Nancy Kress|
+	AS=|AsimovRT|
+	YR=|1999|
+	TG=|21579|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Approaching Perimelasma {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRT|
+	YR=|1999|
+	TG=|21580|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Lovestory {
+	AE=|James Patrick Kelly|
+	AS=|AsimovRT|
+	YR=|1999|
+	TG=|21576|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+Waiting for the End {
+	AE=|Robert Silverberg|
+	AS=|AsimovRT|
+	YR=|1999|
+	TG=|21616|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|7|
+}
+Down in the Dark {
+	AE=|William Barton|
+	AS=|AsimovRT|
+	YR=|1999|
+	TG=|21522|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+The Eye of God {
+	AE=|Mary Rosenblum|
+	AS=|AsimovRT|
+	YR=|1999|
+	TG=|21612|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Crucifixion Variations {
+	AE=|Lawrence Person|
+	AS=|AsimovRT|
+	YR=|1999|
+	TG=|21597|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|10|
+}
+The Chop Girl {
+	AE=|Ian R. MacLeod|
+	AS=|AsimovRT|
+	YR=|2000|
+	TG=|21586|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+A Knight of Ghosts and Shadows {
+	AE=|Gardner Dozois|
+	AS=|AsimovRT|
+	YR=|2000|
+	TG=|21548|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Diana by Starlight {
+	AE=|R. Garcia y Robertson|
+	AS=|AsimovRT|
+	YR=|2000|
+	TG=|21608|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+10 to 16 to 1 {
+	AE=|James Patrick Kelly|
+	AS=|AsimovRT|
+	YR=|2000|
+	TG=|21574|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+The Alien {
+	AE=|Rick Shelley^Richard Shelley|
+	AS=|AsimovRT|
+	YR=|2000|
+	TG=|21615|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Dragon's Teeth {
+	AE=|Lois Tilton|
+	AS=|AsimovRT|
+	YR=|2000|
+	TG=|21628|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+A Martian Romance {
+	AE=|Kim Stanley Robinson|
+	AS=|AsimovRT|
+	YR=|2000|
+	TG=|21611|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+Stellar Harvest {
+	AE=|Eleanor Arnason|
+	AS=|AsimovRT|
+	YR=|2000|
+	TG=|21520|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|7|
+}
+Cabbages and Kales, Or, How We Downsized North America {
+	AE=|David Marusek|
+	AS=|AsimovRT|
+	YR=|2000|
+	TG=|21589|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+The Window {
+	AE=|Judith Berman|
+	AS=|AsimovRT|
+	YR=|2000|
+	TG=|21525|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Angels of Ashes {
+	AE=|Alastair Reynolds|
+	AS=|AsimovRT|
+	YR=|2000|
+	TG=|21607|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|10|
+}
+On the Orion Line {
+	AE=|Stephen Baxter|
+	AS=|AsimovRT|
+	YR=|2001|
+	TG=|22625|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Cloud Man {
+	AE=|Eleanor Arnason|
+	AS=|AsimovRT|
+	YR=|2001|
+	TG=|22619|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|2|
+}
+At Lightspeed, Slowing {
+	AE=|Cory Doctorow|
+	AS=|AsimovRT|
+	YR=|2001|
+	TG=|22636|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Redchapel {
+	AE=|Mike Resnick|
+	AS=|AsimovRT|
+	YR=|2001|
+	TG=|22675|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Feel the Zaz {
+	AE=|James Patrick Kelly|
+	AS=|AsimovRT|
+	YR=|2001|
+	TG=|22658|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Millennium Babies {
+	AE=|Kristine Kathryn Rusch|
+	AS=|AsimovRT|
+	YR=|2001|
+	TG=|22677|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|5|
+}
+The Young Master {
+	AE=|Kage Baker|
+	AS=|AsimovRT|
+	YR=|2001|
+	TG=|22622|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|6|
+}
+I Love Paree {
+	AE=|Cory Doctorow+Michael Skeet|
+	AS=|AsimovRT|
+	YR=|2001|
+	TG=|22637|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|7|
+}
+Chitty Bang Bang {
+	AE=|Ian R. MacLeod|
+	AS=|AsimovRT|
+	YR=|2001|
+	TG=|22663|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|8|
+}
+Vasquez Orbital Salvage and Satellite Repair {
+	AE=|Matthew Jarpe|
+	AS=|AsimovRT|
+	YR=|2001|
+	TG=|22657|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The True Story of Professor Trabuc and His Remarkable Voyages Aboard the Sonde-Ballon De La Mentalite {
+	AE=|Jim Cowan|
+	AS=|AsimovRT|
+	YR=|2001|
+	TG=|22633|
+	TA=|Asimov's Reader's Poll -- Novelette|
+	TP=|nt|
+	LV=|10|
+}
+Robot Dreams {
+	AE=|Isaac Asimov|
+	AS=|AsimovRS|
+	YR=|1987|
+	TG=|604|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Laugh Track {
+	AE=|Harlan Ellison|
+	AS=|AsimovRS|
+	YR=|1987|
+	TG=|4200|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Down and Out in the Year 2000 {
+	AE=|Kim Stanley Robinson|
+	AS=|AsimovRS|
+	YR=|1987|
+	TG=|9784|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Jeff Beck {
+	AE=|Lewis Shiner|
+	AS=|AsimovRS|
+	YR=|1987|
+	TG=|10716|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Close Encounter with the Deity {
+	AE=|Michael Bishop|
+	AS=|AsimovRS|
+	YR=|1987|
+	TG=|1232|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Stop-Motion {
+	AE=|Timothy Robert Sullivan^Tim Sullivan|
+	AS=|AsimovRS|
+	YR=|1987|
+	TG=|11683|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Why I Left Harry's All-Night Hamburgers {
+	AE=|Lawrence Watt-Evans|
+	AS=|AsimovRS|
+	YR=|1988|
+	TG=|12974|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+To Hell with the Stars {
+	AE=|Jack McDevitt|
+	AS=|AsimovRS|
+	YR=|1988|
+	TG=|8128|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+The Little Magic Shop {
+	AE=|Bruce Sterling|
+	AS=|AsimovRS|
+	YR=|1988|
+	TG=|11476|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Angel {
+	AE=|Pat Cadigan|
+	AS=|AsimovRS|
+	YR=|1988|
+	TG=|2084|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Silent Night {
+	AE=|Ben Bova|
+	AS=|AsimovRS|
+	YR=|1988|
+	TG=|1526|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+A Midwinter's Tale {
+	AE=|Michael Swanwick|
+	AS=|AsimovRS|
+	YR=|1989|
+	TG=|11765|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Ripples in the Dirac Sea {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRS|
+	YR=|1989|
+	TG=|6955|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Christmas Without Rodney {
+	AE=|Isaac Asimov|
+	AS=|AsimovRS|
+	YR=|1989|
+	TG=|558|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Joan's World {
+	AE=|Ian Watson|
+	AS=|AsimovRS|
+	YR=|1989|
+	TG=|12945|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Ado {
+	AE=|Connie Willis|
+	AS=|AsimovRS|
+	YR=|1989|
+	TG=|13355|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Live From the Mars Hotel {
+	AE=|Allen Steele^Allen M. Steele|
+	AS=|AsimovRS|
+	YR=|1989|
+	TG=|11403|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|6|
+}
+Dying in Hull {
+	AE=|David Alexander Smith|
+	AS=|AsimovRS|
+	YR=|1989|
+	TG=|11091|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|7|
+}
+Stairs {
+	AE=|Neal Barrett, Jr.|
+	AS=|AsimovRS|
+	YR=|1989|
+	TG=|875|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Home Front {
+	AE=|James Patrick Kelly|
+	AS=|AsimovRS|
+	YR=|1989|
+	TG=|6393|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Vacuum States {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRS|
+	YR=|1989|
+	TG=|6964|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+Windwagon Smith and the Martians {
+	AE=|Lawrence Watt-Evans|
+	AS=|AsimovRS|
+	YR=|1990|
+	TG=|12978|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Dilemma {
+	AE=|Connie Willis|
+	AS=|AsimovRS|
+	YR=|1990|
+	TG=|13381|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Zelle's Thursday {
+	AE=|Tanith Lee|
+	AS=|AsimovRS|
+	YR=|1990|
+	TG=|7299|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Boobs {
+	AE=|Suzy McKee Charnas|
+	AS=|AsimovRS|
+	YR=|1990|
+	TG=|2596|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Computer Friendly {
+	AE=|Eileen Gunn|
+	AS=|AsimovRS|
+	YR=|1990|
+	TG=|5417|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+The Color of Grass, the Color of Blood {
+	AE=|R. V. Branham|
+	AS=|AsimovRS|
+	YR=|1990|
+	TG=|1619|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|6|
+}
+The Dragon Line {
+	AE=|Michael Swanwick|
+	AS=|AsimovRS|
+	YR=|1990|
+	TG=|11738|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|nt|
+	LV=|7|
+}
+The Few, the Proud {
+	AE=|Harlan Ellison|
+	AS=|AsimovRS|
+	YR=|1990|
+	TG=|4179|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+The Goat Man {
+	AE=|Peni R. Griffin|
+	AS=|AsimovRS|
+	YR=|1990|
+	TG=|5388|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Iridescence {
+	AE=|Dean Whitlock|
+	AS=|AsimovRS|
+	YR=|1990|
+	TG=|13172|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+Bears Discover Fire {
+	AE=|Terry Bisson|
+	AS=|AsimovRS|
+	YR=|1991|
+	TG=|1315|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Touchdown {
+	AE=|Nancy Kress|
+	AS=|AsimovRS|
+	YR=|1991|
+	TG=|6810|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+3 RMS, Good View {
+	AE=|Karen Haber|
+	AS=|AsimovRS|
+	YR=|1991|
+	TG=|5480|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Cibola {
+	AE=|Connie Willis|
+	AS=|AsimovRS|
+	YR=|1991|
+	TG=|13364|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+For No Reason {
+	AE=|Patricia Anthony|
+	AS=|AsimovRS|
+	YR=|1991|
+	TG=|446|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Space Aliens Saved My Marriage {
+	AE=|Sharon N. Farber|
+	AS=|AsimovRS|
+	YR=|1991|
+	TG=|4352|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|6|
+}
+Kid Brother {
+	AE=|Isaac Asimov|
+	AS=|AsimovRS|
+	YR=|1991|
+	TG=|594|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|7|
+}
+Projects {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRS|
+	YR=|1991|
+	TG=|6953|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Bedside Conversations {
+	AE=|Brian Stableford|
+	AS=|AsimovRS|
+	YR=|1991|
+	TG=|11287|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+My Advice to the Civilized {
+	AE=|John Barnes|
+	AS=|AsimovRS|
+	YR=|1991|
+	TG=|842|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+A Walk in the Sun {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRS|
+	YR=|1992|
+	TG=|6965|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Press Ann {
+	AE=|Terry Bisson|
+	AS=|AsimovRS|
+	YR=|1992|
+	TG=|1341|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Robot Visions {
+	AE=|Isaac Asimov|
+	AS=|AsimovRS|
+	YR=|1992|
+	TG=|608|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+A Flying Saucer with Minnesota Plates {
+	AE=|Lawrence Watt-Evans|
+	AS=|AsimovRS|
+	YR=|1992|
+	TG=|12969|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Books {
+	AE=|Peni R. Griffin|
+	AS=|AsimovRS|
+	YR=|1992|
+	TG=|5387|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Bright Light, Big City {
+	AE=|Greg Costikyan|
+	AS=|AsimovRS|
+	YR=|1992|
+	TG=|2988|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|6|
+}
+The Odor of Cocktail Cigarettes {
+	AE=|Ian Watson|
+	AS=|AsimovRS|
+	YR=|1992|
+	TG=|12951|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|7|
+}
+One Perfect Morning, with Jackals {
+	AE=|Mike Resnick|
+	AS=|AsimovRS|
+	YR=|1992|
+	TG=|9650|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Details {
+	AE=|Lawrence Person|
+	AS=|AsimovRS|
+	YR=|1992|
+	TG=|9128|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Hole in Edgar's Hillside {
+	AE=|Gregory Frost|
+	AS=|AsimovRS|
+	YR=|1992|
+	TG=|4773|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+In the Late Cretaceous {
+	AE=|Connie Willis|
+	AS=|AsimovRS|
+	YR=|1992|
+	TG=|13401|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+Even the Queen {
+	AE=|Connie Willis|
+	AS=|AsimovRS|
+	YR=|1993|
+	TG=|13390|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+All Vows {
+	AE=|Esther M. Friesner|
+	AS=|AsimovRS|
+	YR=|1993|
+	TG=|4757|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+The Mountain to Mohammed {
+	AE=|Nancy Kress|
+	AS=|AsimovRS|
+	YR=|1993|
+	TG=|6797|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Storm Trooper {
+	AE=|Lawrence Watt-Evans|
+	AS=|AsimovRS|
+	YR=|1993|
+	TG=|12971|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Just Drive, She Said {
+	AE=|Richard Paul Russo|
+	AS=|AsimovRS|
+	YR=|1993|
+	TG=|10106|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Alfred {
+	AE=|Lisa Goldstein|
+	AS=|AsimovRS|
+	YR=|1993|
+	TG=|5180|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|6|
+}
+The Critic on the Hearth {
+	AE=|Isaac Asimov|
+	AS=|AsimovRS|
+	YR=|1993|
+	TG=|565|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|7|
+}
+Auld Lang Boom {
+	AE=|Jack McDevitt|
+	AS=|AsimovRS|
+	YR=|1993|
+	TG=|8106|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|7|
+}
+Memories of the Flying Ball Bike Shop {
+	AE=|Garry Kilworth|
+	AS=|AsimovRS|
+	YR=|1993|
+	TG=|6514|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Persephone {
+	AE=|Kathe Koja|
+	AS=|AsimovRS|
+	YR=|1993|
+	TG=|6709|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+The Heaven Tree {
+	AE=|Jamil Nasir|
+	AS=|AsimovRS|
+	YR=|1993|
+	TG=|8679|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Arbitrary Placement of Walls {
+	AE=|Martha Soukup|
+	AS=|AsimovRS|
+	YR=|1993|
+	TG=|11173|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Walk {
+	AE=|Greg Egan|
+	AS=|AsimovRS|
+	YR=|1993|
+	TG=|4044|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+Martin on a Wednesday {
+	AE=|Nancy Kress|
+	AS=|AsimovRS|
+	YR=|1994|
+	TG=|6794|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+More Things in Heaven and Earth {
+	AE=|Isaac Asimov|
+	AS=|AsimovRS|
+	YR=|1994|
+	TG=|596|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+"White!" Said Fred {
+	AE=|Esther M. Friesner|
+	AS=|AsimovRS|
+	YR=|1994|
+	TG=|4755|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+River Man {
+	AE=|Michael H. Payne|
+	AS=|AsimovRS|
+	YR=|1994|
+	TG=|9086|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+The Country Doctor {
+	AE=|Steven Utley|
+	AS=|AsimovRS|
+	YR=|1994|
+	TG=|12518|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Tagging the Moon {
+	AE=|S. P. Somtow|
+	AS=|AsimovRS|
+	YR=|1994|
+	TG=|11166|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+In the Hole with the Boys with the Toys {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRS|
+	YR=|1994|
+	TG=|6949|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|6|
+}
+Close Encounter {
+	AE=|Connie Willis|
+	AS=|AsimovRS|
+	YR=|1994|
+	TG=|13368|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|7|
+}
+Being Human {
+	AE=|Mark Bourne|
+	AS=|AsimovRS|
+	YR=|1994|
+	TG=|1494|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Some Old Lover's Ghost {
+	AE=|Ian McDowell|
+	AS=|AsimovRS|
+	YR=|1994|
+	TG=|8172|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Mwalimu in the Squared Circle {
+	AE=|Mike Resnick|
+	AS=|AsimovRS|
+	YR=|1994|
+	TG=|9645|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Snow Scene with Frozen Rabbit {
+	AE=|William John Watkins|
+	AS=|AsimovRS|
+	YR=|1994|
+	TG=|12929|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Roadkill {
+	AE=|Sage Walker|
+	AS=|AsimovRS|
+	YR=|1994|
+	TG=|12872|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Murderer {
+	AE=|Lawrence Watt-Evans|
+	AS=|AsimovRS|
+	YR=|1994|
+	TG=|12970|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+Digital Music {
+	AE=|Alan Gordon|
+	AS=|AsimovRS|
+	YR=|1995|
+	TG=|5227|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Death and the Librarian {
+	AE=|Esther M. Friesner|
+	AS=|AsimovRS|
+	YR=|1995|
+	TG=|4765|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Barnaby in Exile {
+	AE=|Mike Resnick|
+	AS=|AsimovRS|
+	YR=|1995|
+	TG=|9601|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Why the World Didn't End Last Tuesday {
+	AE=|Connie Willis|
+	AS=|AsimovRS|
+	YR=|1995|
+	TG=|13440|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+I Know What You're Thinking {
+	AE=|Kate Wilhelm|
+	AS=|AsimovRS|
+	YR=|1995|
+	TG=|13222|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Dead Man's Curve {
+	AE=|Terry Bisson|
+	AS=|AsimovRS|
+	YR=|1995|
+	TG=|1324|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Mrs. Lincoln's China {
+	AE=|M. Shayne Bell|
+	AS=|AsimovRS|
+	YR=|1995|
+	TG=|1036|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|6|
+}
+Whinin' Boy Blues {
+	AE=|Allen Steele|
+	AS=|AsimovRS|
+	YR=|1995|
+	TG=|11402|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|7|
+}
+The Changeling's Tale {
+	AE=|Michael Swanwick|
+	AS=|AsimovRS|
+	YR=|1995|
+	TG=|11731|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+The Madonna of Port Lligat {
+	AE=|Steven R. Boyett|
+	AS=|AsimovRS|
+	YR=|1995|
+	TG=|1549|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+None So Blind {
+	AE=|Joe Haldeman|
+	AS=|AsimovRS|
+	YR=|1995|
+	TG=|5529|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+Life on the Moon {
+	AE=|Tony Daniel|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|3140|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The War Memorial {
+	AE=|Allen Steele|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|11401|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+No Love in All of Dwingeloo {
+	AE=|Tony Daniel|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|3144|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Paradise Lost {
+	AE=|Don Webb|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|12987|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+The Death of Beatrix Potter {
+	AE=|Candyce Bryne|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|1883|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Jigoku No Mokushiroku^The Symbolic Revelation of the Apocalypse {
+	AE=|John G. McDaid|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|8103|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Alice's Asteroid {
+	AE=|G. David Nordley|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|8840|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Walking Out {
+	AE=|Michael Swanwick|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|11784|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|6|
+}
+Take Me To the Pilot {
+	AE=|Paul Di Filippo|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|3531|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|7|
+}
+Long Term Project: Report to the Great Council of Cockroaches {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|6952|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+A Place of Honor {
+	AE=|Pat Murphy|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|8646|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Sitcom {
+	AE=|Lewis Shiner|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|10719|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Teaching Machines {
+	AE=|Lawrence Watt-Evans|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|12972|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Passage to Galena {
+	AE=|Phillip C. Jennings|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|6171|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+Tongues {
+	AE=|Robert Reed|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|9577|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+The Skin Trade {
+	AE=|Brian Stableford|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|11312|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+The Bone-Carver's Tale {
+	AE=|Jeff VanderMeer|
+	AS=|AsimovRS|
+	YR=|1996|
+	TG=|12610|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+Decency {
+	AE=|Robert Reed|
+	AS=|AsimovRS|
+	YR=|1997|
+	TG=|15361|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+On Sequoia Time {
+	AE=|Daniel Keys Moran|
+	AS=|AsimovRS|
+	YR=|1997|
+	TG=|15357|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+The Soul Selects Her Own Society: Invasion and Repulsion: A Chronological Reinterpretation of Two of Emily Dickinson's Poems: A Wellsian Perspective {
+	AE=|Connie Willis|
+	AS=|AsimovRS|
+	YR=|1997|
+	TG=|15380|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+The Joys of the Sidereal Long Distance Runner {
+	AE=|Tony Daniel|
+	AS=|AsimovRS|
+	YR=|1997|
+	TG=|15325|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+The Last Sunset {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRS|
+	YR=|1997|
+	TG=|15348|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Gifts {
+	AE=|Sharon N. Farber^S. N. Dyer|
+	AS=|AsimovRS|
+	YR=|1997|
+	TG=|15331|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|6|
+}
+Cider {
+	AE=|Tom Purdom|
+	AS=|AsimovRS|
+	YR=|1997|
+	TG=|15358|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|7|
+}
+In Coppelius's Toyshop {
+	AE=|Connie Willis|
+	AS=|AsimovRS|
+	YR=|1997|
+	TG=|15379|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Community {
+	AE=|Gardner Dozois|
+	AS=|AsimovRS|
+	YR=|1997|
+	TG=|15329|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Mortal Clay {
+	AE=|Sharon N. Farber^S. N. Dyer|
+	AS=|AsimovRS|
+	YR=|1997|
+	TG=|15332|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Breakaway, Backdown {
+	AE=|James Patrick Kelly|
+	AS=|AsimovRS|
+	YR=|1997|
+	TG=|15342|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+The 43 Antarean Dynasties {
+	AE=|Mike Resnick|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|18209|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Payback {
+	AE=|Sonia Orin Lyris|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|19212|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Always True to Thee, in My Fashion {
+	AE=|Nancy Kress|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|19206|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+The Nostalginauts {
+	AE=|Sharon N. Farber^S. N. Dyer|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|19193|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+The Holy Stomper vs. the Alien Barrel of Death {
+	AE=|R. Neube|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|19217|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Itsy Bitsy Spider {
+	AE=|James Patrick Kelly|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|19201|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+After I Killed Her {
+	AE=|Tanith Lee|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|19209|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|6|
+}
+The Language of Ghosts {
+	AE=|Michael H. Payne|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|19219|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|6|
+}
+Zemlya {
+	AE=|Stephen Baxter|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|19184|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|7|
+}
+Black Canoes {
+	AE=|Tony Daniel|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|19189|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Beluthahatchie {
+	AE=|Andy Duncan|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|19191|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Never Despair {
+	AE=|Jack McDevitt|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|19216|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Winter Fire {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|19208|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Killed in the Ratings {
+	AE=|Daniel Marcus|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|19215|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Ouroboros {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRS|
+	YR=|1998|
+	TG=|19207|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+Radiant Doors {
+	AE=|Michael Swanwick|
+	AS=|AsimovRS|
+	YR=|1999|
+	TG=|19922|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Stubbornest Broad on Earth {
+	AE=|Janet Kagan|
+	AS=|AsimovRS|
+	YR=|1999|
+	TG=|21573|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+The Very Pulse of the Machine {
+	AE=|Michael Swanwick|
+	AS=|AsimovRS|
+	YR=|1999|
+	TG=|21626|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Archaic Planets: Nine Excerpts from the Encyclopedia Glactica {
+	AE=|Michael Swanwick+Sean Swanwick|
+	AS=|AsimovRS|
+	YR=|1999|
+	TG=|21627|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Through the Wall to the Eggshell Lake {
+	AE=|Danith McPherson|
+	AS=|AsimovRS|
+	YR=|1999|
+	TG=|21595|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Radio Praha {
+	AE=|Tony Daniel|
+	AS=|AsimovRS|
+	YR=|1999|
+	TG=|21546|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Building the Building of the World {
+	AE=|Robert Reed|
+	AS=|AsimovRS|
+	YR=|1999|
+	TG=|21602|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|6|
+}
+Fruitcake Theory {
+	AE=|James Patrick Kelly|
+	AS=|AsimovRS|
+	YR=|1999|
+	TG=|21575|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|7|
+}
+Dante Dreams {
+	AE=|Stephen Baxter|
+	AS=|AsimovRS|
+	YR=|1999|
+	TG=|21523|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+17 {
+	AE=|Paul J. McAuley|
+	AS=|AsimovRS|
+	YR=|1999|
+	TG=|21592|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Game This Year {
+	AE=|Lisa Goldstein|
+	AS=|AsimovRS|
+	YR=|1999|
+	TG=|21568|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+Scientifiction {
+	AE=|Howard Waldrop|
+	AS=|AsimovRS|
+	YR=|1999|
+	TG=|21631|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+Ancient Engines {
+	AE=|Michael Swanwick|
+	AS=|AsimovRS|
+	YR=|2000|
+	TG=|21623|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Evolution Never Sleeps {
+	AE=|Elisabeth Malartre|
+	AS=|AsimovRS|
+	YR=|2000|
+	TG=|21588|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Arthur Sternbach Brings the Curveball to Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|AsimovRS|
+	YR=|2000|
+	TG=|21610|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Scherzo with Tyrannosaur {
+	AE=|Michael Swanwick|
+	AS=|AsimovRS|
+	YR=|2000|
+	TG=|21625|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Hothouse Flowers {
+	AE=|Mike Resnick|
+	AS=|AsimovRS|
+	YR=|2000|
+	TG=|21605|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Yurek Rutz, Yurek Rutz, Yurek Rutz {
+	AE=|David Marusek|
+	AS=|AsimovRS|
+	YR=|2000|
+	TG=|21591|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|6|
+}
+Riding the Giganotosaur {
+	AE=|Michael Swanwick|
+	AS=|AsimovRS|
+	YR=|2000|
+	TG=|21624|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|7|
+}
+Into the Blue Abyss {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRS|
+	YR=|2000|
+	TG=|21582|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+Dirty Little Cowards {
+	AE=|William Sanders|
+	AS=|AsimovRS|
+	YR=|2000|
+	TG=|21613|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Human Bay {
+	AE=|Robert Reed|
+	AS=|AsimovRS|
+	YR=|2000|
+	TG=|21603|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+The Elephants on Neptune {
+	AE=|Mike Resnick|
+	AS=|AsimovRS|
+	YR=|2001|
+	TG=|22674|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Silver Ghost {
+	AE=|Stephen Baxter|
+	AS=|AsimovRS|
+	YR=|2001|
+	TG=|22626|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Merry Christmas from Navarro Lodge, 1928 {
+	AE=|Kage Baker|
+	AS=|AsimovRS|
+	YR=|2001|
+	TG=|22621|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|3|
+}
+The Royals of Hegn {
+	AE=|Ursula K. Le Guin|
+	AS=|AsimovRS|
+	YR=|2001|
+	TG=|22661|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|4|
+}
+The Gravity Mine {
+	AE=|Stephen Baxter|
+	AS=|AsimovRS|
+	YR=|2001|
+	TG=|22624|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Moon Dogs {
+	AE=|Michael Swanwick|
+	AS=|AsimovRS|
+	YR=|2001|
+	TG=|22679|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|6|
+}
+To Cuddle Amy {
+	AE=|Nancy Kress|
+	AS=|AsimovRS|
+	YR=|2001|
+	TG=|22660|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|7|
+}
+Interstitial {
+	AE=|Paul J. McAuley|
+	AS=|AsimovRS|
+	YR=|2001|
+	TG=|22665|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|8|
+}
+When It Ends {
+	AE=|Robert Reed|
+	AS=|AsimovRS|
+	YR=|2001|
+	TG=|22673|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Shunned Trailer {
+	AE=|Esther M. Friesner|
+	AS=|AsimovRS|
+	YR=|2001|
+	TG=|22647|
+	TA=|Asimov's Reader's Poll -- Short Story|
+	TP=|ss|
+	LV=|10|
+}
+The Famous Hospitality of Dao'I {
+	AE=|J. J. Hunt|
+	AS=|AsimovRP|
+	YR=|1988|
+	TG=|6073|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|1|
+}
+The Gift {
+	AE=|Joe Haldeman|
+	AS=|AsimovRP|
+	YR=|1988|
+	TG=|5511|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+Nazca Lines {
+	AE=|Roger Dutcher+Robert Frazier|
+	AS=|AsimovRP|
+	YR=|1988|
+	TG=|3884|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+Science Fiction {
+	AE=|Jane Yolen|
+	AS=|AsimovRP|
+	YR=|1988|
+	TG=|13804|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+Curse of the Demon's Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1988|
+	TG=|1475|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+Old Robots Are the Worst {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1990|
+	TG=|1484|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|1|
+}
+When I See Rigel's Light Sleeting Through the Side of Heinlein Station {
+	AE=|Lawrence Watt-Evans|
+	AS=|AsimovRP|
+	YR=|1990|
+	TG=|12973|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+The Curse of the Sasquatch's Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1990|
+	TG=|1477|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+Three Evocations of the Mutant Rain Forest {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1990|
+	TG=|1485|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+Toads {
+	AE=|Jane Yolen|
+	AS=|AsimovRP|
+	YR=|1990|
+	TG=|13809|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+First Contact {
+	AE=|Roger Dutcher|
+	AS=|AsimovRP|
+	YR=|1990|
+	TG=|3882|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+Afterlife {
+	AE=|James Patrick Kelly|
+	AS=|AsimovRP|
+	YR=|1990|
+	TG=|6377|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+The Curse of the Ghost's Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1990|
+	TG=|1476|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+Balances Scales {
+	AE=|Jack C. Haldeman II|
+	AS=|AsimovRP|
+	YR=|1990|
+	TG=|5484|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+Galileo's Blindness {
+	AE=|Mary A. Turzillo|
+	AS=|AsimovRP|
+	YR=|1990|
+	TG=|12128|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|8|
+}
+Life as Candyland {
+	AE=|Scott Edelman|
+	AS=|AsimovRP|
+	YR=|1990|
+	TG=|3919|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|9|
+}
+Turning into Animals {
+	AE=|James Patrick Kelly|
+	AS=|AsimovRP|
+	YR=|1990|
+	TG=|6414|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+A Dragon's Yuletide Shopping List {
+	AE=|James Patrick Kelly+Robert Frazier|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|6419|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|1|
+}
+The Dragon in the Garden {
+	AE=|Sandra J. Lindow|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|7512|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+Cosmotology: A User's Manual {
+	AE=|John M. Ford|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|4568|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+Tintagel Morning: Song {
+	AE=|Jane Yolen|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|13808|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+A Missionary of the Mutant Rain Forest {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|1483|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+For the Killed Astronauts {
+	AE=|Tony Daniel|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|3139|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+Astrology Column {
+	AE=|Joe Haldeman|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|5492|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+Curse of the Alien's Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|1470|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+The Star: From and for Arthur C. Clarke {
+	AE=|Joe Haldeman|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|5538|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+Reading Lesson {
+	AE=|John Kessel|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|6465|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+Night {
+	AE=|Roger Dutcher|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|3883|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+Suddenly {
+	AE=|Vivian Vande Velde|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|12683|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|8|
+}
+Jekyll Reflects {
+	AE=|Jessica Amanda Salmonson|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|10197|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|9|
+}
+The Cepheid Variable {
+	AE=|Joe Haldeman|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|5497|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+Eighteen Years Old, October Eleventh {
+	AE=|Joe Haldeman|
+	AS=|AsimovRP|
+	YR=|1991|
+	TG=|5500|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+Angels Fly Because They Take Themselves Lightly {
+	AE=|Jane Yolen|
+	AS=|AsimovRP|
+	YR=|1992|
+	TG=|13785|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|1|
+}
+Extinction {
+	AE=|Michael Bishop|
+	AS=|AsimovRP|
+	YR=|1992|
+	TG=|1246|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+The SF Editor's Lament {
+	AE=|Joe Haldeman|
+	AS=|AsimovRP|
+	YR=|1992|
+	TG=|5536|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+A Child's Garden of Grammar: Nouns, Adjectives, Pronouns, If/Then, Maybe {
+	AE=|Thomas M. Disch|
+	AS=|AsimovRP|
+	YR=|1992|
+	TG=|3641|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+Christmas Father {
+	AE=|Robert Frazier+James Patrick Kelly|
+	AS=|AsimovRP|
+	YR=|1992|
+	TG=|4697|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+Entropy Ad {
+	AE=|E. R. Stewart|
+	AS=|AsimovRP|
+	YR=|1992|
+	TG=|11519|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+The Watcher {
+	AE=|David Lunde|
+	AS=|AsimovRP|
+	YR=|1992|
+	TG=|7613|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+Carbon Star {
+	AE=|Joe Haldeman|
+	AS=|AsimovRP|
+	YR=|1992|
+	TG=|5496|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+Verbs {
+	AE=|Thomas M. Disch|
+	AS=|AsimovRP|
+	YR=|1992|
+	TG=|3666|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|8|
+}
+The Number of the Man {
+	AE=|Joe Haldeman|
+	AS=|AsimovRP|
+	YR=|1992|
+	TG=|5535|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|9|
+}
+Consider the Amoeba {
+	AE=|Arthur E. Stamps III|
+	AS=|AsimovRP|
+	YR=|1992|
+	TG=|11327|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|9|
+}
+1967 NFC Championship Game Remembered After Awakening from Cryogenic Sleep {
+	AE=|Roger Dutcher|
+	AS=|AsimovRP|
+	YR=|1992|
+	TG=|3880|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+A Robot's Farewell to the Master {
+	AE=|Ace G. Pilkington|
+	AS=|AsimovRP|
+	YR=|1993|
+	TG=|9154|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|1|
+}
+The Last Nightfall {
+	AE=|Ashley J. Hastings|
+	AS=|AsimovRP|
+	YR=|1993|
+	TG=|5752|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+Amazon {
+	AE=|Roger Dutcher|
+	AS=|AsimovRP|
+	YR=|1993|
+	TG=|3881|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+Planet: For Sale {
+	AE=|Amy Cubellis|
+	AS=|AsimovRP|
+	YR=|1993|
+	TG=|3112|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+The Witch's Declaration of Love for Dorothy {
+	AE=|Lawrence Person|
+	AS=|AsimovRP|
+	YR=|1993|
+	TG=|9130|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+The Two Cultures: for John Swope {
+	AE=|James Patrick Kelly|
+	AS=|AsimovRP|
+	YR=|1993|
+	TG=|6415|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+In Praise of Timelessness {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1993|
+	TG=|1482|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+Christmas Day, Give or Take a Week {
+	AE=|Lawrence Schimel|
+	AS=|AsimovRP|
+	YR=|1993|
+	TG=|10346|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|8|
+}
+Au {
+	AE=|Terry McGarry|
+	AS=|AsimovRP|
+	YR=|1993|
+	TG=|8178|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|9|
+}
+Not {
+	AE=|Thomas M. Disch|
+	AS=|AsimovRP|
+	YR=|1993|
+	TG=|3654|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+Head {
+	AE=|Steve Rasnic Tem|
+	AS=|AsimovRP|
+	YR=|1993|
+	TG=|11869|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+Curse of the Shapeshifter's Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1994|
+	TG=|1478|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|1|
+}
+Curse of the Telepath's Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1994|
+	TG=|1479|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+If Angels Ate Apples {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRP|
+	YR=|1994|
+	TG=|6947|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+If You Loved Me {
+	AE=|Mary A. Turzillo|
+	AS=|AsimovRP|
+	YR=|1994|
+	TG=|12129|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+The Time Tour Stops at My House After Lunch {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1994|
+	TG=|12931|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+Curse of the Angel's Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1994|
+	TG=|1471|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+Solo {
+	AE=|Joe Haldeman|
+	AS=|AsimovRP|
+	YR=|1994|
+	TG=|5537|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+Some Personal Pronouns {
+	AE=|Thomas M. Disch|
+	AS=|AsimovRP|
+	YR=|1994|
+	TG=|3663|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|8|
+}
+Downtime on Digger's World {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1994|
+	TG=|12922|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|9|
+}
+The Dusts of Palamon Are Bliss {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1994|
+	TG=|12923|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+When the Voices {
+	AE=|W. Gregory Stewart|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|11544|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|1|
+}
+Big Boom {
+	AE=|Joe Haldeman|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|5493|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+Love's Labours Glossed {
+	AE=|Lawrence Schimel|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|10347|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+Waiting to Explode {
+	AE=|Joe Haldeman|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|5543|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+On Wanderer's Day {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|12928|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+Dinosaur Highway {
+	AE=|Scott E. Green|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|5349|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+Changing {
+	AE=|Wendy Rathbone|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|9536|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+The Sleeping with the Dinosaurs: To Jack Horner {
+	AE=|Sandra J. Lindow|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|7513|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+On the Theory of Everything {
+	AE=|Lawrence Schimel|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|10348|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+Einstein's Brain {
+	AE=|Keith Allen Daniels|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|3146|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+Lullaby for Recent Settlers on Starfall Five {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|12926|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+Gingko {
+	AE=|Howard V. Hendrix|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|5846|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|8|
+}
+The Wonders of Interstellar Free Trade {
+	AE=|Thomas M. Disch|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|3669|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|9|
+}
+Flight 063 {
+	AE=|Brian W. Aldiss|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|247|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+Endlessness {
+	AE=|Thomas M. Disch|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|3643|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+Piloting Alone Out There {
+	AE=|Robert Frazier|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|4695|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+Not a Dick Novel {
+	AE=|Lawrence Person|
+	AS=|AsimovRP|
+	YR=|1995|
+	TG=|9129|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+Curse of Bruce Boston's Wife {
+	AE=|Scott L. Towner|
+	AS=|AsimovRP|
+	YR=|1996|
+	TG=|12032|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|1|
+}
+Son, Dead on the Solstice {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1996|
+	TG=|12930|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+Port City Lament {
+	AE=|David Lunde|
+	AS=|AsimovRP|
+	YR=|1996|
+	TG=|7612|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+The Old Astronaut Sings to the Mourning Star {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1996|
+	TG=|12927|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+In Kafkaville the Funerals Run on Time {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1996|
+	TG=|12924|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+Brownies at Work {
+	AE=|Ruth Berman|
+	AS=|AsimovRP|
+	YR=|1996|
+	TG=|1152|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+Kitchen Witch {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1996|
+	TG=|12925|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+Curse of the Clone's Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1996|
+	TG=|1472|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+Future Present: A Lesson in Expectation {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1996|
+	TG=|1481|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+Curse of the Cyborg's Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1996|
+	TG=|1474|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|8|
+}
+Postcard From a Time Traveler {
+	AE=|Robert Frazier|
+	AS=|AsimovRP|
+	YR=|1996|
+	TG=|4696|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|8|
+}
+Curse of the Time Traveler's Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1996|
+	TG=|1480|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|9|
+}
+cleaning out the attic {
+	AE=|W. Gregory Stewart|
+	AS=|AsimovRP|
+	YR=|1996|
+	TG=|11542|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+Curse of the Science Fiction Writer's Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15317|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|1|
+}
+The Year of the Dragon {
+	AE=|Karawynn Long|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15352|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+Star-Rigger {
+	AE=|David Lunde|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15353|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+This Neat Sheet {
+	AE=|James Tiptree, Jr.|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15372|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+This Is Just to Say {
+	AE=|Mary A. Turzillo|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15374|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+Pendragon {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15377|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+time {
+	AE=|Danny Daniels|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15327|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+Dinosaurs May Be Ancestors of More than Birds {
+	AE=|Mary A. Turzillo|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15373|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+The Robots' Wasteland {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15378|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+Love Song of the Holo-Celebs {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15318|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+Astronaut Boneyard {
+	AE=|Wendy Rathbone|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15359|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+Day Omega {
+	AE=|W. Gregory Stewart|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15370|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+Dragon Skin {
+	AE=|W. Gregory Stewart|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15371|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+Dodoes {
+	AE=|Steven Utley|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15375|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|8|
+}
+In Memoriam: For a Colleague, Departed {
+	AE=|Thomas M. Disch^Tom Disch|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15328|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|9|
+}
+Pteranodon {
+	AE=|Steven Utley|
+	AS=|AsimovRP|
+	YR=|1997|
+	TG=|15376|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+why goldfish shouldn't use power tools {
+	AE=|Laurel Winter|
+	AS=|AsimovRP|
+	YR=|1998|
+	TG=|18232|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|1|
+}
+Report to Moctezuma {
+	AE=|Steven Utley|
+	AS=|AsimovRP|
+	YR=|1998|
+	TG=|19252|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+In the Star's Mouth {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1998|
+	TG=|19254|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+A Reflection on the Apollo Moon Missions {
+	AE=|Robert Frazier|
+	AS=|AsimovRP|
+	YR=|1998|
+	TG=|19242|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+System Crash {
+	AE=|Peg Healy|
+	AS=|AsimovRP|
+	YR=|1998|
+	TG=|19245|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+Curse of Medusa's Husband {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1998|
+	TG=|19235|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+Our Brave Terranaut {
+	AE=|Steven Utley|
+	AS=|AsimovRP|
+	YR=|1998|
+	TG=|19251|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+17 Questions the Judges at Nuremberg Forgot to Ask {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1998|
+	TG=|19253|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|8|
+}
+On Distance {
+	AE=|Sandra J. Lindow|
+	AS=|AsimovRP|
+	YR=|1998|
+	TG=|19248|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|9|
+}
+Why the Mummy Kills {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1998|
+	TG=|19255|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+egg horror poem {
+	AE=|Laurel Winter|
+	AS=|AsimovRP|
+	YR=|1999|
+	TG=|19924|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|1|
+}
+The Hunter's Mothers {
+	AE=|Mary A. Turzillo|
+	AS=|AsimovRP|
+	YR=|1999|
+	TG=|21630|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+Curse of the SF Editor's Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1999|
+	TG=|21531|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+Willy in the Nano-Lab {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRP|
+	YR=|1999|
+	TG=|21583|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+Curse of the Super-Hero's Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1999|
+	TG=|21532|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+Gravity Drives the Blood and Bends the Light {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1999|
+	TG=|21534|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+The Genetic Engineer Throws a Cocktail Party and Drinks Too Much {
+	AE=|Andy Duncan|
+	AS=|AsimovRP|
+	YR=|1999|
+	TG=|21552|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+Black Hole, Black Hole {
+	AE=|W. Gregory Stewart|
+	AS=|AsimovRP|
+	YR=|1999|
+	TG=|21621|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+Recipe for a Planck Sandwich {
+	AE=|W. Gregory Stewart|
+	AS=|AsimovRP|
+	YR=|1999|
+	TG=|21622|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+Human/Technological Dimensions on the Eve of the Bimillennium {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|1999|
+	TG=|21535|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+November {
+	AE=|Wendy Rathbone|
+	AS=|AsimovRP|
+	YR=|1999|
+	TG=|21599|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+Particle Resonance {
+	AE=|David Lunde|
+	AS=|AsimovRP|
+	YR=|1999|
+	TG=|21585|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|8|
+}
+Colonists {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|1999|
+	TG=|21635|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|9|
+}
+Eating the Mystery {
+	AE=|Robert Frazier+James Patrick Kelly|
+	AS=|AsimovRP|
+	YR=|1999|
+	TG=|21562|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+Christmas (after we all get time machines) {
+	AE=|Geoffrey A. Landis|
+	AS=|AsimovRP|
+	YR=|2000|
+	TG=|21581|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|1|
+}
+Beware the Werecanary! {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|2000|
+	TG=|21528|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+When an Alien is Inhabiting Your Body {
+	AE=|Laurel Winter|
+	AS=|AsimovRP|
+	YR=|2000|
+	TG=|19298|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+Curse of the Fantasy Writer's Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|2000|
+	TG=|21529|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+Atlantis {
+	AE=|Judith Moffett|
+	AS=|AsimovRP|
+	YR=|2000|
+	TG=|21596|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+Down in Your Bones Only You Alone Know {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|2000|
+	TG=|21533|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+Butterside Down {
+	AE=|William John Watkins|
+	AS=|AsimovRP|
+	YR=|2000|
+	TG=|21634|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+Another Short Story {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|2000|
+	TG=|21527|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+Mathematical Limericks {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|2000|
+	TG=|21536|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+Curse of the Incubus' Wife {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|2000|
+	TG=|21530|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|8|
+}
+Eisenberg Haiku {
+	AE=|Timons Esaias|
+	AS=|AsimovRP|
+	YR=|2000|
+	TG=|21558|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|9|
+}
+Dog Star {
+	AE=|Joe Haldeman|
+	AS=|AsimovRP|
+	YR=|2000|
+	TG=|21569|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+10 Things You Can't Do Inside a Space Helmet {
+	AE=|G. O. Clark|
+	AS=|AsimovRP|
+	YR=|2001|
+	TG=|22632|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|1|
+}
+Dying Live on CNN {
+	AE=|Joe Haldeman|
+	AS=|AsimovRP|
+	YR=|2001|
+	TG=|22652|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|2|
+}
+My Wife Returns As She Would Have It {
+	AE=|Bruce Boston|
+	AS=|AsimovRP|
+	YR=|2001|
+	TG=|22627|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|3|
+}
+A Question of Time {
+	AE=|Jack Williamson|
+	AS=|AsimovRP|
+	YR=|2001|
+	TG=|22681|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|4|
+}
+I Must Admit {
+	AE=|Timons Esaias|
+	AS=|AsimovRP|
+	YR=|2001|
+	TG=|22644|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+Fire on Ice {
+	AE=|Joe Haldeman|
+	AS=|AsimovRP|
+	YR=|2001|
+	TG=|22653|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|5|
+}
+Iggy Guards Her Secrets {
+	AE=|Keith Allen Daniels|
+	AS=|AsimovRP|
+	YR=|2001|
+	TG=|22635|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|6|
+}
+The Last Word {
+	AE=|Timons Esaias|
+	AS=|AsimovRP|
+	YR=|2001|
+	TG=|22645|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|7|
+}
+Dog Stars {
+	AE=|Ace G. Pilkington|
+	AS=|AsimovRP|
+	YR=|2001|
+	TG=|22669|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|8|
+}
+The Morning After {
+	AE=|Leslie What|
+	AS=|AsimovRP|
+	YR=|2001|
+	TG=|22680|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|9|
+}
+God's Breath {
+	AE=|Keith Allen Daniels|
+	AS=|AsimovRP|
+	YR=|2001|
+	TG=|22634|
+	TA=|Asimov's Reader's Poll -- Poem|
+	TP=|po|
+	LV=|10|
+}
+untitled {
+	AE=|Hisaki Yasuda|
+	AS=|AsimovRC|
+	YR=|1989|
+	TG=|13768|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRC|
+	YR=|1989|
+	TG=|4729|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|AsimovRC|
+	YR=|1989|
+	TG=|4052|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Bradley Clark|
+	AS=|AsimovRC|
+	YR=|1989|
+	TG=|2777|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Terry Lee|
+	AS=|AsimovRC|
+	YR=|1989|
+	TG=|7300|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Bob Walters|
+	AS=|AsimovRC|
+	YR=|1989|
+	TG=|12882|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Stanislaw Fernandes|
+	AS=|AsimovRC|
+	YR=|1989|
+	TG=|4483|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Hank Jankus|
+	AS=|AsimovRC|
+	YR=|1989|
+	TG=|6161|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|A. C. Farley|
+	AS=|AsimovRC|
+	YR=|1989|
+	TG=|4353|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|AsimovRC|
+	YR=|1989|
+	TG=|9337|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Keith Parkinson|
+	AS=|AsimovRC|
+	YR=|1990|
+	TG=|9053|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|A. C. Farley|
+	AS=|AsimovRC|
+	YR=|1990|
+	TG=|4354|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Nicholas Jainschigg|
+	AS=|AsimovRC|
+	YR=|1990|
+	TG=|6143|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Hisaki Yasuda|
+	AS=|AsimovRC|
+	YR=|1990|
+	TG=|13769|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|AsimovRC|
+	YR=|1990|
+	TG=|13075|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRC|
+	YR=|1990|
+	TG=|4730|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Bob Walters|
+	AS=|AsimovRC|
+	YR=|1990|
+	TG=|12883|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Christos Achilleos|
+	AS=|AsimovRC|
+	YR=|1990|
+	TG=|195|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Wayne Barlowe|
+	AS=|AsimovRC|
+	YR=|1990|
+	TG=|821|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alan Gutierrez|
+	AS=|AsimovRC|
+	YR=|1990|
+	TG=|5476|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|AsimovRC|
+	YR=|1991|
+	TG=|13076|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRC|
+	YR=|1991|
+	TG=|4731|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|AsimovRC|
+	YR=|1991|
+	TG=|2246|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Bob Walters|
+	AS=|AsimovRC|
+	YR=|1991|
+	TG=|12884|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|A. C. Farley|
+	AS=|AsimovRC|
+	YR=|1991|
+	TG=|4355|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Michael Bates|
+	AS=|AsimovRC|
+	YR=|1991|
+	TG=|907|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Hisaki Yasuda|
+	AS=|AsimovRC|
+	YR=|1991|
+	TG=|13770|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Wayne Barlowe|
+	AS=|AsimovRC|
+	YR=|1991|
+	TG=|822|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|AsimovRC|
+	YR=|1991|
+	TG=|4053|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Terry Lee|
+	AS=|AsimovRC|
+	YR=|1991|
+	TG=|7301|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|AsimovRC|
+	YR=|1992|
+	TG=|4054|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRC|
+	YR=|1992|
+	TG=|4732|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Broeck Steadman|
+	AS=|AsimovRC|
+	YR=|1992|
+	TG=|11371|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Dorian Vallejo|
+	AS=|AsimovRC|
+	YR=|1992|
+	TG=|12536|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Steven Crisp|
+	AS=|AsimovRC|
+	YR=|1992|
+	TG=|3070|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Alan Gutierrez|
+	AS=|AsimovRC|
+	YR=|1992|
+	TG=|5477|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Wayne Barlowe|
+	AS=|AsimovRC|
+	YR=|1992|
+	TG=|823|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Nicholas Jainschigg|
+	AS=|AsimovRC|
+	YR=|1992|
+	TG=|6144|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|AsimovRC|
+	YR=|1993|
+	TG=|4055|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|AsimovRC|
+	YR=|1993|
+	TG=|13077|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRC|
+	YR=|1993|
+	TG=|4733|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Nicholas Jainschigg|
+	AS=|AsimovRC|
+	YR=|1993|
+	TG=|6145|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Michael Carroll|
+	AS=|AsimovRC|
+	YR=|1993|
+	TG=|2480|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Bob Walters|
+	AS=|AsimovRC|
+	YR=|1993|
+	TG=|12885|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|David A. Cherry|
+	AS=|AsimovRC|
+	YR=|1993|
+	TG=|2625|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Hisaki Yasuda|
+	AS=|AsimovRC|
+	YR=|1993|
+	TG=|13771|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|E. T. Steadman|
+	AS=|AsimovRC|
+	YR=|1993|
+	TG=|11374|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Mark Harrison|
+	AS=|AsimovRC|
+	YR=|1993|
+	TG=|5684|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Steve Cavallo|
+	AS=|AsimovRC|
+	YR=|1993|
+	TG=|2518|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Wojtek Siudmak|
+	AS=|AsimovRC|
+	YR=|1994|
+	TG=|11030|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Keith Parkinson|
+	AS=|AsimovRC|
+	YR=|1994|
+	TG=|9054|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Jim Burns|
+	AS=|AsimovRC|
+	YR=|1994|
+	TG=|1989|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Mark Harrison|
+	AS=|AsimovRC|
+	YR=|1994|
+	TG=|5685|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Lee Macleod|
+	AS=|AsimovRC|
+	YR=|1994|
+	TG=|7711|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRC|
+	YR=|1994|
+	TG=|4734|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Todd Lockwood|
+	AS=|AsimovRC|
+	YR=|1994|
+	TG=|7547|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Chris Moore|
+	AS=|AsimovRC|
+	YR=|1994|
+	TG=|8514|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Wayne Barlowe|
+	AS=|AsimovRC|
+	YR=|1994|
+	TG=|824|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|E. T. Steadman|
+	AS=|AsimovRC|
+	YR=|1994|
+	TG=|11375|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Daniel Kirk|
+	AS=|AsimovRC|
+	YR=|1994|
+	TG=|6631|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|AsimovRC|
+	YR=|1995|
+	TG=|4056|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Kinuko Y. Craft|
+	AS=|AsimovRC|
+	YR=|1995|
+	TG=|3045|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRC|
+	YR=|1995|
+	TG=|4735|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Wojtek Siudmak|
+	AS=|AsimovRC|
+	YR=|1995|
+	TG=|11031|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Jim Burns|
+	AS=|AsimovRC|
+	YR=|1995|
+	TG=|1990|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Mark Harrison|
+	AS=|AsimovRC|
+	YR=|1995|
+	TG=|5686|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Pamela Lee|
+	AS=|AsimovRC|
+	YR=|1995|
+	TG=|7234|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Chris Moore|
+	AS=|AsimovRC|
+	YR=|1995|
+	TG=|8515|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Ron Fleming|
+	AS=|AsimovRC|
+	YR=|1995|
+	TG=|4520|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Todd Lockwood|
+	AS=|AsimovRC|
+	YR=|1995|
+	TG=|7548|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Greg Le Fevere|
+	AS=|AsimovRC|
+	YR=|1995|
+	TG=|7089|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|AsimovRC|
+	YR=|1996|
+	TG=|4057|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Jim Burns|
+	AS=|AsimovRC|
+	YR=|1996|
+	TG=|1991|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Todd Lockwood|
+	AS=|AsimovRC|
+	YR=|1996|
+	TG=|7549|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Kinuko Y. Craft|
+	AS=|AsimovRC|
+	YR=|1996|
+	TG=|3046|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|John Maggard|
+	AS=|AsimovRC|
+	YR=|1996|
+	TG=|7720|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Chris Moore|
+	AS=|AsimovRC|
+	YR=|1996|
+	TG=|8516|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Peter Peebles|
+	AS=|AsimovRC|
+	YR=|1996|
+	TG=|9096|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Bruce Jensen|
+	AS=|AsimovRC|
+	YR=|1996|
+	TG=|6176|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Mark Harrison|
+	AS=|AsimovRC|
+	YR=|1996|
+	TG=|5687|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|George H. Krauter|
+	AS=|AsimovRC|
+	YR=|1996|
+	TG=|6743|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Gary Overacre|
+	AS=|AsimovRC|
+	YR=|1996|
+	TG=|8985|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Wojtek Siudmak|
+	AS=|AsimovRC|
+	YR=|1997|
+	TG=|15368|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|AsimovRC|
+	YR=|1997|
+	TG=|15333|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Paul Youll|
+	AS=|AsimovRC|
+	YR=|1997|
+	TG=|15381|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Fred Gambino|
+	AS=|AsimovRC|
+	YR=|1997|
+	TG=|15336|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Kinuko Y. Craft|
+	AS=|AsimovRC|
+	YR=|1997|
+	TG=|15323|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Todd Lockwood|
+	AS=|AsimovRC|
+	YR=|1997|
+	TG=|15350|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Keith Scaife|
+	AS=|AsimovRC|
+	YR=|1997|
+	TG=|15364|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Chris Moore|
+	AS=|AsimovRC|
+	YR=|1998|
+	TG=|18195|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|AsimovRC|
+	YR=|1998|
+	TG=|19240|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Don Dixon|
+	AS=|AsimovRC|
+	YR=|1998|
+	TG=|19239|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Michael Carroll|
+	AS=|AsimovRC|
+	YR=|1998|
+	TG=|19236|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRC|
+	YR=|1998|
+	TG=|19243|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Kim Poor|
+	AS=|AsimovRC|
+	YR=|1998|
+	TG=|19249|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Kinuko Y. Craft|
+	AS=|AsimovRC|
+	YR=|1998|
+	TG=|19238|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Jael|
+	AS=|AsimovRC|
+	YR=|1998|
+	TG=|19246|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|John Foster|
+	AS=|AsimovRC|
+	YR=|1999|
+	TG=|19915|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|AsimovRC|
+	YR=|1999|
+	TG=|21554|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Michael Carroll|
+	AS=|AsimovRC|
+	YR=|1999|
+	TG=|21540|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Jim Burns|
+	AS=|AsimovRC|
+	YR=|1999|
+	TG=|21537|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRC|
+	YR=|1999|
+	TG=|21565|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Wojtek Siudmak|
+	AS=|AsimovRC|
+	YR=|1999|
+	TG=|21617|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Ron Walotsky|
+	AS=|AsimovRC|
+	YR=|1999|
+	TG=|21632|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Joel Shabram|
+	AS=|AsimovRC|
+	YR=|1999|
+	TG=|21614|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Jim Burns|
+	AS=|AsimovRC|
+	YR=|2000|
+	TG=|21538|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Kim Poor|
+	AS=|AsimovRC|
+	YR=|2000|
+	TG=|21598|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Bob Walters|
+	AS=|AsimovRC|
+	YR=|2000|
+	TG=|21633|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Frank Kelly Freas^Kelly Freas|
+	AS=|AsimovRC|
+	YR=|2000|
+	TG=|21563|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Nicholas Jainschigg|
+	AS=|AsimovRC|
+	YR=|2000|
+	TG=|21572|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Michael Carroll|
+	AS=|AsimovRC|
+	YR=|2000|
+	TG=|21541|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Mark Garlick|
+	AS=|AsimovRC|
+	YR=|2000|
+	TG=|21566|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Don Dixon|
+	AS=|AsimovRC|
+	YR=|2000|
+	TG=|21547|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|John Foster|
+	AS=|AsimovRC|
+	YR=|2000|
+	TG=|21561|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|AsimovRC|
+	YR=|2001|
+	TG=|22642|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Fred Gambino|
+	AS=|AsimovRC|
+	YR=|2001|
+	TG=|22648|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Stephen Hickman|
+	AS=|AsimovRC|
+	YR=|2001|
+	TG=|22656|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Chris Butler|
+	AS=|AsimovRC|
+	YR=|2001|
+	TG=|22628|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Wolf Read^Wolf A. Read|
+	AS=|AsimovRC|
+	YR=|2001|
+	TG=|22670|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Michael Carroll|
+	AS=|AsimovRC|
+	YR=|2001|
+	TG=|22629|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|David Egge|
+	AS=|AsimovRC|
+	YR=|2001|
+	TG=|22641|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|David Hardy|
+	AS=|AsimovRC|
+	YR=|2001|
+	TG=|22655|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Nicholas Jainschigg|
+	AS=|AsimovRC|
+	YR=|2001|
+	TG=|22666|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Mark Garlick|
+	AS=|AsimovRC|
+	YR=|2001|
+	TG=|22649|
+	TA=|Asimov's Reader's Poll -- Cover Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|AsimovRI|
+	YR=|1988|
+	TG=|4058|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|AsimovRI|
+	YR=|1988|
+	TG=|9338|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRI|
+	YR=|1988|
+	TG=|4736|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Terry Lee|
+	AS=|AsimovRI|
+	YR=|1988|
+	TG=|7302|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Janet Aulisio|
+	AS=|AsimovRI|
+	YR=|1988|
+	TG=|680|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Hisaki Yasuda|
+	AS=|AsimovRI|
+	YR=|1988|
+	TG=|13772|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Joe Bergeron|
+	AS=|AsimovRI|
+	YR=|1988|
+	TG=|1141|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Bob Walters|
+	AS=|AsimovRI|
+	YR=|1988|
+	TG=|12886|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Laura Lakey|
+	AS=|AsimovRI|
+	YR=|1989|
+	TG=|6925|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Janet Aulisio|
+	AS=|AsimovRI|
+	YR=|1989|
+	TG=|681|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Hisaki Yasuda|
+	AS=|AsimovRI|
+	YR=|1989|
+	TG=|13773|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Nicholas Jainschigg|
+	AS=|AsimovRI|
+	YR=|1989|
+	TG=|6146|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRI|
+	YR=|1989|
+	TG=|4737|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|AsimovRI|
+	YR=|1989|
+	TG=|9339|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Bob Walters|
+	AS=|AsimovRI|
+	YR=|1989|
+	TG=|12887|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Hank Jankus|
+	AS=|AsimovRI|
+	YR=|1989|
+	TG=|6162|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Terry Lee|
+	AS=|AsimovRI|
+	YR=|1989|
+	TG=|7303|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Richard Christ|
+	AS=|AsimovRI|
+	YR=|1989|
+	TG=|2753|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Janet Aulisio|
+	AS=|AsimovRI|
+	YR=|1990|
+	TG=|682|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRI|
+	YR=|1990|
+	TG=|4738|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Laura Lakey|
+	AS=|AsimovRI|
+	YR=|1990|
+	TG=|6926|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Nicholas Jainschigg|
+	AS=|AsimovRI|
+	YR=|1990|
+	TG=|6147|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Bob Walters|
+	AS=|AsimovRI|
+	YR=|1990|
+	TG=|12888|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|A. C. Farley|
+	AS=|AsimovRI|
+	YR=|1990|
+	TG=|4356|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Hisaki Yasuda|
+	AS=|AsimovRI|
+	YR=|1990|
+	TG=|13774|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Hank Jankus|
+	AS=|AsimovRI|
+	YR=|1990|
+	TG=|6163|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|George Thompson|
+	AS=|AsimovRI|
+	YR=|1990|
+	TG=|11923|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Terry Lee|
+	AS=|AsimovRI|
+	YR=|1990|
+	TG=|7304|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Janet Aulisio|
+	AS=|AsimovRI|
+	YR=|1991|
+	TG=|683|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Laura Lakey|
+	AS=|AsimovRI|
+	YR=|1991|
+	TG=|6927|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRI|
+	YR=|1991|
+	TG=|4739|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Terry Lee|
+	AS=|AsimovRI|
+	YR=|1991|
+	TG=|7305|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Bob Walters|
+	AS=|AsimovRI|
+	YR=|1991|
+	TG=|12889|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Laurie Harden|
+	AS=|AsimovRI|
+	YR=|1991|
+	TG=|5618|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Pat Morrissey|
+	AS=|AsimovRI|
+	YR=|1991|
+	TG=|8569|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|A. C. Farley|
+	AS=|AsimovRI|
+	YR=|1991|
+	TG=|4357|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Ron Lindahn+Val Lakey Lindahn|
+	AS=|AsimovRI|
+	YR=|1991|
+	TG=|7493|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Broeck Steadman|
+	AS=|AsimovRI|
+	YR=|1991|
+	TG=|11372|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Laura Lakey|
+	AS=|AsimovRI|
+	YR=|1992|
+	TG=|6928|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRI|
+	YR=|1992|
+	TG=|4740|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Janet Aulisio|
+	AS=|AsimovRI|
+	YR=|1992|
+	TG=|684|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Broeck Steadman|
+	AS=|AsimovRI|
+	YR=|1992|
+	TG=|11373|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Bob Walters|
+	AS=|AsimovRI|
+	YR=|1992|
+	TG=|12890|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Terry Lee|
+	AS=|AsimovRI|
+	YR=|1992|
+	TG=|7306|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|John Johnson|
+	AS=|AsimovRI|
+	YR=|1992|
+	TG=|6205|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Pat Morrissey|
+	AS=|AsimovRI|
+	YR=|1992|
+	TG=|8570|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Steve Cavallo|
+	AS=|AsimovRI|
+	YR=|1992|
+	TG=|2519|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|A. C. Farley|
+	AS=|AsimovRI|
+	YR=|1992|
+	TG=|4358|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRI|
+	YR=|1993|
+	TG=|4741|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Steve Cavallo|
+	AS=|AsimovRI|
+	YR=|1993|
+	TG=|2520|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Bob Walters|
+	AS=|AsimovRI|
+	YR=|1993|
+	TG=|12891|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Laura Lakey|
+	AS=|AsimovRI|
+	YR=|1993|
+	TG=|6929|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Laurie Harden|
+	AS=|AsimovRI|
+	YR=|1993|
+	TG=|5619|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Janet Aulisio|
+	AS=|AsimovRI|
+	YR=|1993|
+	TG=|685|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Anthony Bari|
+	AS=|AsimovRI|
+	YR=|1993|
+	TG=|794|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Alan M. Clark|
+	AS=|AsimovRI|
+	YR=|1993|
+	TG=|2766|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|John Johnson|
+	AS=|AsimovRI|
+	YR=|1993|
+	TG=|6206|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|David A. Cherry|
+	AS=|AsimovRI|
+	YR=|1993|
+	TG=|2626|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Nicholas Jainschigg|
+	AS=|AsimovRI|
+	YR=|1993|
+	TG=|6148|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Pat Morrissey|
+	AS=|AsimovRI|
+	YR=|1993|
+	TG=|8571|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Steve Cavallo|
+	AS=|AsimovRI|
+	YR=|1994|
+	TG=|2521|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Laurie Harden|
+	AS=|AsimovRI|
+	YR=|1994|
+	TG=|5620|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRI|
+	YR=|1994|
+	TG=|4742|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Alan M. Clark|
+	AS=|AsimovRI|
+	YR=|1994|
+	TG=|2767|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Ron Chironna|
+	AS=|AsimovRI|
+	YR=|1994|
+	TG=|2732|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|George H. Krauter|
+	AS=|AsimovRI|
+	YR=|1994|
+	TG=|6744|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Laura Lakey|
+	AS=|AsimovRI|
+	YR=|1994|
+	TG=|6930|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Janet Aulisio|
+	AS=|AsimovRI|
+	YR=|1994|
+	TG=|686|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Pat Morrissey|
+	AS=|AsimovRI|
+	YR=|1994|
+	TG=|8572|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Carol Heyer|
+	AS=|AsimovRI|
+	YR=|1994|
+	TG=|5888|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Beryl Bush|
+	AS=|AsimovRI|
+	YR=|1994|
+	TG=|2039|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRI|
+	YR=|1995|
+	TG=|4743|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Steve Cavallo|
+	AS=|AsimovRI|
+	YR=|1995|
+	TG=|2522|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Laurie Harden|
+	AS=|AsimovRI|
+	YR=|1995|
+	TG=|5621|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Kandis Elliot|
+	AS=|AsimovRI|
+	YR=|1995|
+	TG=|4121|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Dell Harris|
+	AS=|AsimovRI|
+	YR=|1995|
+	TG=|5655|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Gina Mohr LoParo|
+	AS=|AsimovRI|
+	YR=|1995|
+	TG=|7574|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|AsimovRI|
+	YR=|1995|
+	TG=|4059|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Jonathan Hunt+Lisa Hunt|
+	AS=|AsimovRI|
+	YR=|1995|
+	TG=|6074|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Ron Chironna|
+	AS=|AsimovRI|
+	YR=|1995|
+	TG=|2733|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alan M. Clark|
+	AS=|AsimovRI|
+	YR=|1995|
+	TG=|2768|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Pat Morrissey|
+	AS=|AsimovRI|
+	YR=|1995|
+	TG=|8573|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Ron Chironna|
+	AS=|AsimovRI|
+	YR=|1996|
+	TG=|2734|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Steve Cavallo|
+	AS=|AsimovRI|
+	YR=|1996|
+	TG=|2523|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Mike Aspengren|
+	AS=|AsimovRI|
+	YR=|1996|
+	TG=|636|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Laurie Harden|
+	AS=|AsimovRI|
+	YR=|1996|
+	TG=|5622|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Gary Freeman|
+	AS=|AsimovRI|
+	YR=|1996|
+	TG=|4744|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Dell Harris|
+	AS=|AsimovRI|
+	YR=|1996|
+	TG=|5656|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Kandis Elliot|
+	AS=|AsimovRI|
+	YR=|1996|
+	TG=|4122|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Alan M. Clark|
+	AS=|AsimovRI|
+	YR=|1996|
+	TG=|2769|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Darryl Elliott|
+	AS=|AsimovRI|
+	YR=|1996|
+	TG=|4118|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|George H. Krauter|
+	AS=|AsimovRI|
+	YR=|1996|
+	TG=|6745|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Darryl Elliott|
+	AS=|AsimovRI|
+	YR=|1997|
+	TG=|15334|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Laurie Harden|
+	AS=|AsimovRI|
+	YR=|1997|
+	TG=|15338|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Steve Cavallo|
+	AS=|AsimovRI|
+	YR=|1997|
+	TG=|15319|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|John Stevens|
+	AS=|AsimovRI|
+	YR=|1997|
+	TG=|15369|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Todd Lockwood|
+	AS=|AsimovRI|
+	YR=|1997|
+	TG=|15351|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|George H. Krauter|
+	AS=|AsimovRI|
+	YR=|1997|
+	TG=|15346|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Ron Chironna|
+	AS=|AsimovRI|
+	YR=|1997|
+	TG=|15321|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Alan M. Clark|
+	AS=|AsimovRI|
+	YR=|1997|
+	TG=|15322|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Dell Harris|
+	AS=|AsimovRI|
+	YR=|1997|
+	TG=|15339|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Mike Aspengren|
+	AS=|AsimovRI|
+	YR=|1997|
+	TG=|15314|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Darryl Elliott|
+	AS=|AsimovRI|
+	YR=|1998|
+	TG=|18165|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Steve Cavallo|
+	AS=|AsimovRI|
+	YR=|1998|
+	TG=|19237|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Laurie Harden|
+	AS=|AsimovRI|
+	YR=|1998|
+	TG=|19244|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|John Stevens|
+	AS=|AsimovRI|
+	YR=|1998|
+	TG=|19250|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Dwayne V. Wright|
+	AS=|AsimovRI|
+	YR=|1998|
+	TG=|19256|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Janet Aulisio|
+	AS=|AsimovRI|
+	YR=|1998|
+	TG=|19233|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Anthony Bari|
+	AS=|AsimovRI|
+	YR=|1998|
+	TG=|19234|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Mike Aspengren|
+	AS=|AsimovRI|
+	YR=|1998|
+	TG=|19232|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Nicholas Jainschigg|
+	AS=|AsimovRI|
+	YR=|1998|
+	TG=|19247|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|AsimovRI|
+	YR=|1998|
+	TG=|19241|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Alan Giana|
+	AS=|AsimovRI|
+	YR=|1999|
+	TG=|19916|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Darryl Elliott|
+	AS=|AsimovRI|
+	YR=|1999|
+	TG=|21555|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Laurie Harden|
+	AS=|AsimovRI|
+	YR=|1999|
+	TG=|21570|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Mark Evans|
+	AS=|AsimovRI|
+	YR=|1999|
+	TG=|21559|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Steve Cavallo|
+	AS=|AsimovRI|
+	YR=|1999|
+	TG=|21542|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|George H. Krauter|
+	AS=|AsimovRI|
+	YR=|1999|
+	TG=|21577|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Jeff Crosby|
+	AS=|AsimovRI|
+	YR=|1999|
+	TG=|21544|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|John Stevens|
+	AS=|AsimovRI|
+	YR=|1999|
+	TG=|21620|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Beryl Bush|
+	AS=|AsimovRI|
+	YR=|1999|
+	TG=|21539|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jason Eckhardt|
+	AS=|AsimovRI|
+	YR=|1999|
+	TG=|21553|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Kandis Elliot|
+	AS=|AsimovRI|
+	YR=|1999|
+	TG=|21557|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Darryl Elliott|
+	AS=|AsimovRI|
+	YR=|2000|
+	TG=|21556|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|David Michael Beck|
+	AS=|AsimovRI|
+	YR=|2000|
+	TG=|21524|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Laurie Harden|
+	AS=|AsimovRI|
+	YR=|2000|
+	TG=|21571|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Alan Giana|
+	AS=|AsimovRI|
+	YR=|2000|
+	TG=|21567|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Frank Kelly Freas^Kelly Freas|
+	AS=|AsimovRI|
+	YR=|2000|
+	TG=|21564|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Shirley Chan Levi|
+	AS=|AsimovRI|
+	YR=|2000|
+	TG=|21584|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Mark Evans|
+	AS=|AsimovRI|
+	YR=|2000|
+	TG=|21560|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Steve Cavallo|
+	AS=|AsimovRI|
+	YR=|2000|
+	TG=|21543|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Wolf Read^Wolf A. Read|
+	AS=|AsimovRI|
+	YR=|2000|
+	TG=|21600|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|George H. Krauter|
+	AS=|AsimovRI|
+	YR=|2000|
+	TG=|21578|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+untitled {
+	AE=|Darryl Elliott|
+	AS=|AsimovRI|
+	YR=|2001|
+	TG=|22643|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Laurie Harden|
+	AS=|AsimovRI|
+	YR=|2001|
+	TG=|22654|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Wolf Read^Wolf A. Read|
+	AS=|AsimovRI|
+	YR=|2001|
+	TG=|22671|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Alan Giana|
+	AS=|AsimovRI|
+	YR=|2001|
+	TG=|22650|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Mark Evans|
+	AS=|AsimovRI|
+	YR=|2001|
+	TG=|22646|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|June Levine|
+	AS=|AsimovRI|
+	YR=|2001|
+	TG=|22662|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|6|
+}
+untitled {
+	AE=|Janet Aulisio|
+	AS=|AsimovRI|
+	YR=|2001|
+	TG=|22620|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Shirley Chan|
+	AS=|AsimovRI|
+	YR=|2001|
+	TG=|22631|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|7|
+}
+untitled {
+	AE=|Jason Eckhardt|
+	AS=|AsimovRI|
+	YR=|2001|
+	TG=|22639|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|8|
+}
+untitled {
+	AE=|Steve Cavallo|
+	AS=|AsimovRI|
+	YR=|2001|
+	TG=|22630|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alan Gutierrez|
+	AS=|AsimovRI|
+	YR=|2001|
+	TG=|22651|
+	TA=|Asimov's Reader's Poll -- Interior Artist|
+	TP=|ar|
+	LV=|10|
+}
+I, Robot: The Movie {
+	AE=|Harlan Ellison|
+	AS=|AsimovRX|
+	YR=|1988|
+	TG=|4192|
+	TA=|Asimov's Reader's Poll -- Special Award|
+	TP=|sc|
+	LV=|1|
+}

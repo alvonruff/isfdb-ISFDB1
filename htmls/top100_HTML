@@ -1,0 +1,80 @@
+<html> <head> <title>ISFDB Top 100 Lists</title></head>
+<body bgcolor="ffffff">
+<h1>ISFDB Top 100 Lists</h1>
+
+<hr>
+Without question, there must be a genetic disorder in humans which
+compels them to create Top 100 Lists.
+<p>
+The philosophy of the following lists is pretty simple: all novels 
+and works of short fiction which have been nominated for an award are
+scored based on the number of award wins and nominations. The results
+are then sorted.  This is not an attempt to list the <i>best</i> works
+in the genre, just those which won the most awards. Since the proliferation
+of genre-related awards is a fairly recent phenomenon, these lists tend
+to favor more recent works.  There are 3 different algorithms used in each category:
+<ol>
+  <li> The Balanced List simply assigns scores from the various awards;
+  this list is the most objective of the three.
+  <li> The Critical List puts extra emphasis on those awards which are decided
+  by jury. It attempts to construct a list which might appeal to those who
+  prefer "Literate SF". It also attempts to balance the age factor by more
+  heavily weighing older works.
+  <li> The Popular List puts extra emphasis on those awards which are decided
+  by popular vote. It attempts to construct a list which might appeal to a
+  younger audience. It assigns an additional penalty to older works for being "dated".
+</ol>
+The author lists use the same algorithms as the novels and short fiction, except
+that the scores are accumulated. Additionally, collaborations are treated as
+a single author since the collaborative style usually differs from that of the
+individual authors.  The Anthologies/Collections/Magazines lists 
+also use the same algorithms, except that the scores are accumulated per publication.
+<ol>
+  <li> Top 100 Novels (<a href="http://HTMLBASE/topnbal.html">Balanced List</a>).
+  <li> Top 100 Novels (<a href="http://HTMLBASE/topncrit.html">Critical List</a>).
+  <li> Top 100 Novels (<a href="http://HTMLBASE/topnpop.html">Popular List</a>).
+  <li> Top Novels (<a href="http://HTMLBASE/topnyear.html">By Year</a>). This is the
+       list of novels which scored at least 50 points using the Balanced Algorithm,
+       sorted and listed by year. (Note: due to the various award eligibility rules,
+       a novel may be nominated well after it was published, or have nominations
+       that span multiple years. For simplicity, all award points for a given work 
+       are collated into the year that the book was published.)
+  <li> Top 100 Short Stories (<a href="http://HTMLBASE/topsbal.html">Balanced List</a>).
+  <li> Top 100 Short Stories (<a href="http://HTMLBASE/topscrit.html">Critical List</a>).
+  <li> Top 100 Short Stories (<a href="http://HTMLBASE/topspop.html">Popular List</a>).
+  <li> Top Short Stories (<a href="http://HTMLBASE/topsyear.html">By Year</a>). This is the
+       list of short fiction which scored at least 50 points using the Balanced Algorithm,
+       sorted and listed by year.
+  <li> Top 100 Anthologies/Collections/Magazines (<a href="http://HTMLBASE/toppbal.html">Balanced List</a>).
+  <li> Top 100 Anthologies/Collections/Magazines (<a href="http://HTMLBASE/toppcrit.html">Critical List</a>).
+  <li> Top 100 Anthologies/Collections/Magazines (<a href="http://HTMLBASE/topppop.html">Popular List</a>).
+  <li> Top 100 Authors (<a href="http://HTMLBASE/topabal.html">Balanced List</a>).
+  <li> Top 100 Authors (<a href="http://HTMLBASE/topacrit.html">Critical List</a>).
+  <li> Top 100 Authors (<a href="http://HTMLBASE/topapop.html">Popular List</a>).
+</ol>
+And don't forget Tristrom Cooke's original 
+<a href="http://www.clark.net/pub/iz/Books/Top100/top100.html">Internet Top 100</a>.
+<hr>
+<h2>The Scoring Algorithm</h2>
+<ol>
+  <li> Titles in the appropriate award categories are first assigned a score
+  based upon each award nomination it received. A first place finish receives 50 points;
+  a 2nd place (or a non-winning nomination) gets 35 points; titles which finished
+  in 3rd place or higher get (33-poll position) points, with a minimum of 1 score
+  of 1 point.
+  <li> For Critical Lists, the score from each award determined by jury is 
+  multiplied by 5. Additionally, the score is increased by the age (in years) of the
+  work.
+  <li> For Popular Lists, the score from each award determined by popular vote is 
+  multiplied by 5. Additionally, the score is decreased by the age (in years) of the
+  work.
+</ol>
+<p>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

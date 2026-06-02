@@ -1,0 +1,59 @@
+#
+#     (C) COPYRIGHT 1995-1997   Al von Ruff
+#         ALL RIGHTS RESERVED
+#
+#     The copyright notice above does not evidence any actual or
+#     intended publication of such source code.
+#
+#     sccsid[] = "@(#)ccstats	1.1	02 May 1997 ISFDB"
+#
+
+
+cd $1/dbase.compiled
+
+echo "Creating: Most-Reviewed Lists"
+../bin/mostsf2 2000 > ../dbase.compiled/mostsf2000_HTML
+../bin/mostsf2 1999 > ../dbase.compiled/mostsf1999_HTML
+../bin/mostsf2 1998 > ../dbase.compiled/mostsf1998_HTML
+../bin/mostsf2 1997 > ../dbase.compiled/mostsf1997_HTML
+../bin/mostsf2 1996 > ../dbase.compiled/mostsf1996_HTML
+../bin/mostsf2 1995 > ../dbase.compiled/mostsf1995_HTML
+
+../bin/mostsf2 1964 > ../dbase.compiled/mostsf1964_HTML
+
+echo "Creating: Top 100 Novels"
+../bin/info 6 | egrep -v "ISFDB Engine" | egrep -v Content-type > ../dbase.compiled/topnbal_HTML
+../bin/info 7 | egrep -v "ISFDB Engine" | egrep -v Content-type > ../dbase.compiled/topncrit_HTML
+../bin/info 8 | egrep -v "ISFDB Engine" | egrep -v Content-type > ../dbase.compiled/topnpop_HTML
+../bin/info 15 | egrep -v "ISFDB Engine" | egrep -v Content-type > ../dbase.compiled/topnyear_HTML
+echo "Creating: Top 100 Short Fiction"
+../bin/info 9  | egrep -v "ISFDB Engine" | egrep -v Content-type > ../dbase.compiled/topsbal_HTML
+../bin/info 10 | egrep -v "ISFDB Engine" | egrep -v Content-type > ../dbase.compiled/topscrit_HTML
+../bin/info 11 | egrep -v "ISFDB Engine" | egrep -v Content-type > ../dbase.compiled/topspop_HTML
+../bin/info 16 | egrep -v "ISFDB Engine" | egrep -v Content-type > ../dbase.compiled/topsyear_HTML
+echo "Creating: Top 100 Authors"
+../bin/info 12 | egrep -v "ISFDB Engine" | egrep -v Content-type > ../dbase.compiled/topabal_HTML
+../bin/info 13 | egrep -v "ISFDB Engine" | egrep -v Content-type > ../dbase.compiled/topacrit_HTML
+../bin/info 14 | egrep -v "ISFDB Engine" | egrep -v Content-type > ../dbase.compiled/topapop_HTML
+echo "Creating: Top 100 Publications"
+../bin/info 18 | egrep -v "ISFDB Engine" | egrep -v Content-type > ../dbase.compiled/toppbal_HTML
+../bin/info 19 | egrep -v "ISFDB Engine" | egrep -v Content-type > ../dbase.compiled/toppcrit_HTML
+../bin/info 20 | egrep -v "ISFDB Engine" | egrep -v Content-type > ../dbase.compiled/topppop_HTML
+echo "Creating: Age Graphs"
+../bin/info 23      > ../dbase.compiled/agef1_HTML
+../bin/info 21 n    > ../dbase.compiled/agen1_HTML
+../bin/info 21 sf   > ../dbase.compiled/agesf1_HTML
+../bin/info 21 es   > ../dbase.compiled/agees1_HTML
+../bin/info 22 ss 0 > ../dbase.compiled/agesf2_HTML
+../bin/info 22 nt 0 > ../dbase.compiled/agent2_HTML
+../bin/info 22 nv 0 > ../dbase.compiled/agenv2_HTML
+../bin/info 22 n  0 > ../dbase.compiled/agen2_HTML
+../bin/info 22 ss 1 > ../dbase.compiled/agesf4_HTML
+../bin/info 22 nt 1 > ../dbase.compiled/agent4_HTML
+../bin/info 22 nv 1 > ../dbase.compiled/agenv4_HTML
+../bin/info 22 n  1 > ../dbase.compiled/agen4_HTML
+../bin/info 24      > ../dbase.compiled/agen3_HTML
+../bin/info 27      > ../dbase.compiled/agefs1_HTML
+mv *_HTML ../htmls
+
+cd ../dbase.ascii

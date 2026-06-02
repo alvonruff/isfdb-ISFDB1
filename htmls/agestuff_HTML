@@ -1,0 +1,182 @@
+<html> <head> <title>ISFDB Age Graphs</title></head>
+<body bgcolor="ffffff">
+<h1>ISFDB Age Graphs</h1>
+
+<hr>
+Every once in a while, a question arises in one of the newsgroups
+which goes something like this: "Do authors go downhill after a
+certain age?" People then take sides and post anecdotal evidence
+showing how author X slid down the hill to oblivion, while others
+post the glories of author Y reaping ever-increasing numbers of
+awards. None of which really answers the original question.
+<p>
+Then follows a flury of questions, such as: "What's the typical age
+for a first novelist," "How young was the youngest first novelist," 
+countered with "How old was the oldest first novelist", or "How young
+was the youngest Hugo-winner" and so on.
+<p>
+So: the ISFDB has publication dates, author birthdates, and an array
+of award-nominated titles which can be used as a measure of quality.
+What follows is a series of graphs, based on tracking author ages
+through a number of publication events. The first section graphs
+data based strictly on publication dates, without regard to quality.
+The second takes award nominations information into account, and
+the third takes award wins into account, both attempting
+to graph information concerning quality.
+<p>
+Publication Date Data:
+<ol>
+	<li> <a href="http://HTMLBASE/agef1.html">First Novels</a>
+	This graph is constructed by starting with the database
+	of birthdates. For each author in the birthdate data, the novel
+	database is searched for their works. If a work is found, the
+	age at publication is determined; if the age is less than the
+	current age on hand, it is replaced. There are two caveats:
+	(1) This information tracks date of publication, not the date
+	of writing, (2) it doesn't take into account novels which
+	are published posthumously, and (3) some data artifacts
+	exist in the >70 range due to mainstream authors who dabbled
+	in the genre at an advanced age.
+	<p>
+	The graph shows that lots of people have their first novel
+	published by age 25, while just as many have their first novel
+	published at age 45. The peak in first novels seems to occur
+	around age 33, although lots of first novels are published
+	well into the 50s.
+	<p>
+	<li> <a href="http://HTMLBASE/agefs1.html">First Shortfiction</a>
+	This graph is constructed in exactly the same way as the first
+	novels graph above, and the same caveats apply.
+	<p>
+	The peak in first shortfiction seems to occur around age 28, about
+	five years in advance of the peak for first novels.
+	<p>
+	<li> <a href="http://HTMLBASE/agen1.html">Novels</a>
+	This graph is constructed by starting with the novel database.
+	For each novel, an attempt is made to locate the author's
+	birthdate. If it can't be found, the work is rejected. For
+	collaborations, the book is counted against the age of each
+	author, so it may be included several times. The
+	percentage of novels actually used in the calculations is displayed 
+	on the graph. Just to point out the obvious: only dates of first
+	publication are used.
+	<p>
+	The graph shows that starting at age 25 (which is where first
+	time novelists start to make an impact on the curve), there is
+	a steep climb to a peak around age 43. The curve then slowly
+	declines, becoming asymptotic in the late 70s.
+	<p>
+	<li> <a href="http://HTMLBASE/agesf1.html">Shortfiction</a>
+	This graph is constructed in the same manner as the Novels graph.
+	As common sense tells us, it's easier to get a work of short
+	fiction published than a novel. The curve starts its climb
+	at about age 20, and reaches its peak at about age 35.
+	To grossly overgeneralize - it looks like the shortfiction
+	curve is about 5 years ahead of the novel curve, suggesting
+	that it takes about 5 years of experience writing publishable
+	short fiction before a person can write a novel good enough 
+	to be published. 
+	<p>
+	<li> <a href="http://HTMLBASE/agees1.html">Essays</a>
+	This graph is constructed in the same manner as the Novels graph.
+	The essay curve is shifted far to the right, peaking in the
+	late 40's, but with serious output from about age 42 to 
+	about age 53. Clearly, people feel that they need a few
+	years under the belt before they start pointificating.
+</ol>
+
+Award-Nominated Publication Data:
+<ol>
+	<li> <a href="http://HTMLBASE/agesf2.html">Short Stories</a>
+	This graph is constructed by loading the titles database, 
+	looking for matches in the awards database, then searching 
+	the author database for authors with birthdates.
+	Again, collaborations are rejected.
+	<p>
+	The award-nominated short story curve starts at about age 25,
+	and climbs to a peak at age 41, with an earlier spike at 36. 
+	<p>
+	<li> <a href="http://HTMLBASE/agent2.html">Novelettes</a>
+	This graph is constructed in the same manner as the Short Stories graph.
+	The award-nominated novelette curve starts at about age 25,
+	and climbs to a peak at age 39.
+	<p>
+	<li> <a href="http://HTMLBASE/agenv2.html">Novellas</a>
+	The award-nominated novelette curve starts at about age 25,
+	and climbs to a peak at age 44, with an earlier spike at
+	38.
+	<p>
+	<li> <a href="http://HTMLBASE/agen2.html">Novels</a>
+	The award-nominated novel curve starts at about age
+	25, and rapidly climbs to a peak at age 37.
+</ol>
+
+Award-Winning Publication Data:
+<ol>
+	<li> <a href="http://HTMLBASE/agesf4.html">Short Stories</a>
+	This graph is constructed the same as above, except only
+	award-winning records are kept.
+	<p>
+	This particular graph is the least coherent of the bunch,
+	almost certainly due to the small sample space.
+	The award-winning short story curve starts at about age 29,
+	and climbs to a peak an early peak at age 35. 
+	<p>
+	<li> <a href="http://HTMLBASE/agent4.html">Novelettes</a>
+	This graph is constructed in the same manner as the Short Stories graph.
+	The award-winning novelette curve starts at about age 25,
+	and climbs to a peak somewhere around age 38.
+	<p>
+	<li> <a href="http://HTMLBASE/agenv4.html">Novellas</a>
+	The award-winning novelette curve starts at about age 25,
+	and climbs to a peak at age 38.
+	<p>
+	<li> <a href="http://HTMLBASE/agen4.html">Novels</a>
+	The award-winning novel curve starts later, at about age
+	27 and climbs to a peak at about 36.
+</ol>
+
+The first thing to note about the award-nomination graphs is that
+the decrease with age <i>does not</i> indicate reduced quality with age.
+It only shows a decrease in the <i>quantity</i> of quality material.
+For instance, the publication graph for novels
+in general also shows a decline in quantity after age 43. So, to really find 
+out the effect of age on quality we need to track the ratio of award-nominated 
+books to the number of books published overall per age group. These ratios
+are by definition less than 1, so the values are magnified by multiplying
+the ratio by 100 (effective giving a percentage) before displaying them in the graph. Additionally,
+the results get pretty whacky past age 75, so to reduce compression
+on the rest of the data, only the results from age 15 to age 75 are
+displayed. The results are shown
+<a href="http://HTMLBASE/agen3.html">here</a>.
+<p>
+The graph shows that "quality" suddenly appears 
+at age 23, increases until doubled at age 37, then tapers off at
+a steady level until about age 50, where the data then gets
+a bit fuzzy. Closer examination of the data shows that the quality
+ratio drops until about age 55, when it starts to rise again. It's
+possible that the fuzzy data past age 45 shows the genre purging
+itself of the lowest-quality authors as their works fail to sell,
+leaving more and more of the high-quality ones, but that's speculative.
+It's interesting to note that the fuzziness is more pronounced in age
+brackets greater than 70, and the quality ratio skyrockets.
+<p>
+This graph does show that quality begins to drop after age 37.
+However, this data is for the entire sample of SF authors as they
+pass through specific age points. It doesn't track, for example, whether
+or not any specific author experiences a decline in quality. For
+instance, if "quality" authors begin writing more ambitious novels
+after age 37 - novels which take longer to write - then the number of 
+quality books would be reduced, lowering the overall quality ratio in 
+later age brackets.
+<p>
+So, what does this all prove? Well, apparently nothing. But it is a
+fun way to burn a few minutes.
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>Copyright (c) 2001 Al von Ruff</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

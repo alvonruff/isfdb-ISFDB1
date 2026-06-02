@@ -1,0 +1,1860 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)HOMER	1.10	12/29/98 ISFDB";
+##
+Redshift Rendezvous {
+	AE=|John E. Stith|
+	AS=|HomerN|
+	YR=|1990|
+	TG=|11562|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Quiet Pools {
+	AE=|Michael P. Kube-McDowell|
+	AS=|HomerN|
+	YR=|1990|
+	TG=|6827|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|2|
+}
+The Vor Game {
+	AE=|Lois McMaster Bujold|
+	AS=|HomerN|
+	YR=|1990|
+	TG=|1951|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|3|
+}
+Barrayar {
+	AE=|Lois McMaster Bujold|
+	AS=|HomerN|
+	YR=|1991|
+	TG=|1925|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+All the Weyrs of Pern {
+	AE=|Anne McCaffrey|
+	AS=|HomerN|
+	YR=|1991|
+	TG=|7998|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Far-Seer {
+	AE=|Robert J. Sawyer|
+	AS=|HomerN|
+	YR=|1992|
+	TG=|10254|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Exile {
+	AE=|Michael P. Kube-McDowell|
+	AS=|HomerN|
+	YR=|1992|
+	TG=|6823|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Metaphase {
+	AE=|Vonda N. McIntyre|
+	AS=|HomerN|
+	YR=|1992|
+	TG=|8233|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Mining the Oort {
+	AE=|Frederik Pohl|
+	AS=|HomerN|
+	YR=|1992|
+	TG=|9242|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Oracle {
+	AE=|Mike Resnick|
+	AS=|HomerN|
+	YR=|1992|
+	TG=|9653|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Fossil Hunter {
+	AE=|Robert J. Sawyer|
+	AS=|HomerN|
+	YR=|1993|
+	TG=|10259|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+A Season for Slaughter {
+	AE=|David Gerrold|
+	AS=|HomerN|
+	YR=|1993|
+	TG=|4955|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Beggars in Spain {
+	AE=|Nancy Kress|
+	AS=|HomerN|
+	YR=|1993|
+	TG=|6769|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Purgatory^Purgatory: A Chronicle of a Distant World {
+	AE=|Mike Resnick|
+	AS=|HomerN|
+	YR=|1993|
+	TG=|9659|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Manhattan Transfer {
+	AE=|John E. Stith|
+	AS=|HomerN|
+	YR=|1993|
+	TG=|11556|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+End of an Era {
+	AE=|Robert J. Sawyer|
+	AS=|HomerN|
+	YR=|1994|
+	TG=|10247|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Mother of Storms {
+	AE=|John Barnes|
+	AS=|HomerN|
+	YR=|1994|
+	TG=|837|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dolphins of Pern {
+	AE=|Anne McCaffrey|
+	AS=|HomerN|
+	YR=|1994|
+	TG=|8010|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+A Miracle of Rare Design {
+	AE=|Mike Resnick|
+	AS=|HomerN|
+	YR=|1994|
+	TG=|9643|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Reunion on Neverend {
+	AE=|John E. Stith|
+	AS=|HomerN|
+	YR=|1994|
+	TG=|11565|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Terminal Experiment^Hobson's Choice {
+	AE=|Robert J. Sawyer|
+	AS=|HomerN|
+	YR=|1995|
+	TG=|10272|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Cetaganda {
+	AE=|Lois McMaster Bujold|
+	AS=|HomerN|
+	YR=|1995|
+	TG=|1933|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Invader {
+	AE=|C. J. Cherryh|
+	AS=|HomerN|
+	YR=|1995|
+	TG=|2689|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Belgarath the Sorcerer {
+	AE=|David Eddings+Leigh Eddings|
+	AS=|HomerN|
+	YR=|1995|
+	TG=|3909|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Diamond Age {
+	AE=|Neal Stephenson|
+	AS=|HomerN|
+	YR=|1995|
+	TG=|11429|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Starplex {
+	AE=|Robert J. Sawyer|
+	AS=|HomerN|
+	YR=|1996|
+	TG=|13969|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Memory {
+	AE=|Lois McMaster Bujold|
+	AS=|HomerN|
+	YR=|1996|
+	TG=|13956|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Kingmaker's Sword {
+	AE=|Ann Marston|
+	AS=|HomerN|
+	YR=|1996|
+	TG=|13963|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Broken Blade {
+	AE=|Ann Marston|
+	AS=|HomerN|
+	YR=|1997|
+	TG=|18077|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Masterharper of Pern {
+	AE=|Anne McCaffrey|
+	AS=|HomerN|
+	YR=|1997|
+	TG=|18079|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Eternity Road {
+	AE=|Jack McDevitt|
+	AS=|HomerN|
+	YR=|1997|
+	TG=|18080|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Frameshift {
+	AE=|Robert J. Sawyer|
+	AS=|HomerN|
+	YR=|1997|
+	TG=|18087|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Illegal Alien {
+	AE=|Robert J. Sawyer|
+	AS=|HomerN|
+	YR=|1997|
+	TG=|18088|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Kirinyaga {
+	AE=|Mike Resnick|
+	AS=|HomerN|
+	YR=|1998|
+	TG=|19348|
+	TA=|Novel|
+	TP=|c|
+	LV=|1|
+}
+Prisoner of Conscience {
+	AE=|Susan R. Matthews|
+	AS=|HomerN|
+	YR=|1998|
+	TG=|19608|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Moonfall {
+	AE=|Jack McDevitt|
+	AS=|HomerN|
+	YR=|1998|
+	TG=|19609|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Factoring Humanity {
+	AE=|Robert J. Sawyer|
+	AS=|HomerN|
+	YR=|1998|
+	TG=|19620|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Veiled Web {
+	AE=|Catherine Asaro|
+	AS=|HomerN|
+	YR=|1999|
+	TG=|21126|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Radiant Seas {
+	AE=|Catherine Asaro|
+	AS=|HomerN|
+	YR=|1999|
+	TG=|21125|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+A Civil Campaign {
+	AE=|Lois McMaster Bujold|
+	AS=|HomerN|
+	YR=|1999|
+	TG=|21133|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Precursor {
+	AE=|C. J. Cherryh|
+	AS=|HomerN|
+	YR=|1999|
+	TG=|21136|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Hour of Judgment {
+	AE=|Susan R. Matthews|
+	AS=|HomerN|
+	YR=|1999|
+	TG=|21150|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+A Deepness in the Sky {
+	AE=|Vernor Vinge|
+	AS=|HomerN|
+	YR=|1999|
+	TG=|21161|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Servant of the Empire {
+	AE=|Raymond E. Feist+Janny Wurts|
+	AS=|HomerF|
+	YR=|1990|
+	TG=|4406|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|1|
+}
+Good Omens {
+	AE=|Neil Gaiman+Terry Pratchett|
+	AS=|HomerF|
+	YR=|1990|
+	TG=|4811|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|2|
+}
+Tehanu: The Last Book of Earthsea {
+	AE=|Ursula K. Le Guin|
+	AS=|HomerF|
+	YR=|1990|
+	TG=|7200|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|2|
+}
+The Little Country {
+	AE=|Charles de Lint|
+	AS=|HomerF|
+	YR=|1991|
+	TG=|3350|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|1|
+}
+Moon Dance {
+	AE=|S. P. Somtow|
+	AS=|HomerH|
+	YR=|1990|
+	TG=|11673|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|1|
+}
+The Fetch^Unknown Regions (US 1996) {
+	AE=|Robert Holdstock|
+	AS=|HomerH|
+	YR=|1991|
+	TG=|6005|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|1|
+}
+Naught for Hire {
+	AE=|John E. Stith|
+	AS=|HomerL|
+	YR=|1990|
+	TG=|11560|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Bully! {
+	AE=|Mike Resnick|
+	AS=|HomerL|
+	YR=|1990|
+	TG=|9608|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+Bwana {
+	AE=|Mike Resnick|
+	AS=|HomerL|
+	YR=|1990|
+	TG=|9614|
+	TA=|Novella|
+	TP=|nv|
+	LV=|3|
+}
+The Gallery of His Dreams {
+	AE=|Kristine Kathryn Rusch|
+	AS=|HomerL|
+	YR=|1991|
+	TG=|10029|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Protection {
+	AE=|Maureen F. McHugh|
+	AS=|HomerL|
+	YR=|1992|
+	TG=|8209|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Cleon the Emperor {
+	AE=|Isaac Asimov|
+	AS=|HomerL|
+	YR=|1992|
+	TG=|560|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Stopping at Slowyear {
+	AE=|Frederik Pohl|
+	AS=|HomerL|
+	YR=|1992|
+	TG=|9255|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Seeing {
+	AE=|Andrew Weiner|
+	AS=|HomerL|
+	YR=|1992|
+	TG=|13023|
+	TA=|Novella|
+	TP=|sf|
+	LV=|9|
+}
+The Night We Buried Road Dog {
+	AE=|Jack Cady|
+	AS=|HomerL|
+	YR=|1993|
+	TG=|2142|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Mefisto in Onyx {
+	AE=|Harlan Ellison|
+	AS=|HomerL|
+	YR=|1993|
+	TG=|4203|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Dancing on Air {
+	AE=|Nancy Kress|
+	AS=|HomerL|
+	YR=|1993|
+	TG=|6778|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Naming the Flowers {
+	AE=|Kate Wilhelm|
+	AS=|HomerL|
+	YR=|1993|
+	TG=|13233|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Wall, Stone, Craft {
+	AE=|Walter Jon Williams|
+	AS=|HomerL|
+	YR=|1993|
+	TG=|13318|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Seven Views of Olduvai Gorge {
+	AE=|Mike Resnick|
+	AS=|HomerL|
+	YR=|1994|
+	TG=|9662|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Last Plague {
+	AE=|Gregory Bennett|
+	AS=|HomerL|
+	YR=|1994|
+	TG=|1125|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Melodies of the Heart {
+	AE=|Michael F. Flynn|
+	AS=|HomerL|
+	YR=|1994|
+	TG=|4543|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Last Summer at Mars Hill {
+	AE=|Elizabeth Hand|
+	AS=|HomerL|
+	YR=|1994|
+	TG=|5586|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Haunted Humans {
+	AE=|Nina Kiriki Hoffman|
+	AS=|HomerL|
+	YR=|1994|
+	TG=|5966|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Les Fleurs du Mal {
+	AE=|Brian Stableford|
+	AS=|HomerL|
+	YR=|1994|
+	TG=|11300|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Bibi {
+	AE=|Mike Resnick+Susan Shwartz|
+	AS=|HomerL|
+	YR=|1995|
+	TG=|9679|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Fish Tank {
+	AE=|Gregory Bennett|
+	AS=|HomerL|
+	YR=|1995|
+	TG=|1123|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+In Forests Afloat Upon the Sea {
+	AE=|Daniel Hatch|
+	AS=|HomerL|
+	YR=|1995|
+	TG=|5753|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Time Travelers Never Die {
+	AE=|Jack McDevitt|
+	AS=|HomerL|
+	YR=|1996|
+	TG=|13965|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Beauty and the Opéra or The Phantom Beast {
+	AE=|Suzy McKee Charnas|
+	AS=|HomerL|
+	YR=|1996|
+	TG=|13957|
+	TA=|Novella|
+	TP=|nt|
+	LV=|9|
+}
+Airborn {
+	AE=|Nina Kiriki Hoffman|
+	AS=|HomerL|
+	YR=|1996|
+	TG=|13958|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Blood of the Dragon {
+	AE=|George R. R. Martin|
+	AS=|HomerL|
+	YR=|1996|
+	TG=|13964|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Gas Fish {
+	AE=|Mary Rosenblum|
+	AS=|HomerL|
+	YR=|1996|
+	TG=|13967|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Primrose and Thorn {
+	AE=|Bud Sparhawk|
+	AS=|HomerL|
+	YR=|1996|
+	TG=|13970|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Insufficient Nominations - Category Cancelled {
+	AE=|(********)|
+	AS=|HomerL|
+	YR=|1997|
+	TG=|18060|
+	TA=|Novella|
+	TP=|x|
+	LV=|72|
+}
+Aurora in Four Voices {
+	AE=|Catherine Asaro|
+	AS=|HomerL|
+	YR=|1998|
+	TG=|19291|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Story of Your Life {
+	AE=|Ted Chiang|
+	AS=|HomerL|
+	YR=|1998|
+	TG=|19588|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Oceanic {
+	AE=|Greg Egan|
+	AS=|HomerL|
+	YR=|1998|
+	TG=|19592|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Jumping off the Planet {
+	AE=|David Gerrold|
+	AS=|HomerL|
+	YR=|1998|
+	TG=|19595|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Hunting the Snark {
+	AE=|Mike Resnick|
+	AS=|HomerL|
+	YR=|1999|
+	TG=|21154|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Son Observe the Time {
+	AE=|Kage Baker|
+	AS=|HomerL|
+	YR=|1999|
+	TG=|21128|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Astronaut from Wyoming {
+	AE=|Adam-Troy Castro+Jerry Oltion|
+	AS=|HomerL|
+	YR=|1999|
+	TG=|21135|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+Living Trust {
+	AE=|L. Timmel Duchamp|
+	AS=|HomerL|
+	YR=|1999|
+	TG=|21138|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Executioners' Guild {
+	AE=|Andy Duncan|
+	AS=|HomerL|
+	YR=|1999|
+	TG=|21139|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Wedding Album {
+	AE=|David Marusek|
+	AS=|HomerL|
+	YR=|1999|
+	TG=|21149|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Manamouki {
+	AE=|Mike Resnick|
+	AS=|HomerT|
+	YR=|1990|
+	TG=|9639|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Over the Long Haul {
+	AE=|Martha Soukup|
+	AS=|HomerT|
+	YR=|1990|
+	TG=|11184|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Mrs. Byres and the Dragon {
+	AE=|Keith Roberts|
+	AS=|HomerT|
+	YR=|1990|
+	TG=|9743|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Dispatches from the Revolution {
+	AE=|Pat Cadigan|
+	AS=|HomerT|
+	YR=|1991|
+	TG=|2094|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Song of a Dry River {
+	AE=|Mike Resnick|
+	AS=|HomerT|
+	YR=|1992|
+	TG=|9668|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+True Faces {
+	AE=|Pat Cadigan|
+	AS=|HomerT|
+	YR=|1992|
+	TG=|2125|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Suppose They Gave a Peace... {
+	AE=|Susan Shwartz|
+	AS=|HomerT|
+	YR=|1992|
+	TG=|10750|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Thebes of the Hundred Gates {
+	AE=|Robert Silverberg|
+	AS=|HomerT|
+	YR=|1992|
+	TG=|10900|
+	TA=|Novelette|
+	TP=|nv|
+	LV=|9|
+}
+Naught Again {
+	AE=|John E. Stith|
+	AS=|HomerT|
+	YR=|1992|
+	TG=|11559|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Beast {
+	AE=|George Alec Effinger|
+	AS=|HomerT|
+	YR=|1993|
+	TG=|3960|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Tinker's Spectacles {
+	AE=|Gregory Bennett|
+	AS=|HomerT|
+	YR=|1993|
+	TG=|1131|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+England Underway {
+	AE=|Terry Bisson|
+	AS=|HomerT|
+	YR=|1993|
+	TG=|1328|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+One Morning in the Looney Bin {
+	AE=|Maggie Flinn|
+	AS=|HomerT|
+	YR=|1993|
+	TG=|4525|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Arrival of Truth {
+	AE=|Kristine Kathryn Rusch|
+	AS=|HomerT|
+	YR=|1993|
+	TG=|10020|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Deep Eddy {
+	AE=|Bruce Sterling|
+	AS=|HomerT|
+	YR=|1993|
+	TG=|11448|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Death on the Nile {
+	AE=|Connie Willis|
+	AS=|HomerT|
+	YR=|1993|
+	TG=|13375|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Martian Child {
+	AE=|David Gerrold|
+	AS=|HomerT|
+	YR=|1994|
+	TG=|4948|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Singular Habits of Wasps {
+	AE=|Geoffrey A. Landis|
+	AS=|HomerT|
+	YR=|1994|
+	TG=|6959|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Another Story {
+	AE=|Ursula K. Le Guin|
+	AS=|HomerT|
+	YR=|1994|
+	TG=|7106|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Nekropolis {
+	AE=|Maureen F. McHugh|
+	AS=|HomerT|
+	YR=|1994|
+	TG=|8203|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+A Little Knowledge {
+	AE=|Mike Resnick|
+	AS=|HomerT|
+	YR=|1994|
+	TG=|9630|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+When the Old Gods Die {
+	AE=|Mike Resnick|
+	AS=|HomerT|
+	YR=|1995|
+	TG=|9671|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Home for Christmas {
+	AE=|Nina Kiriki Hoffman|
+	AS=|HomerT|
+	YR=|1995|
+	TG=|5970|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Think Like a Dinosaur {
+	AE=|James Patrick Kelly|
+	AS=|HomerT|
+	YR=|1995|
+	TG=|6410|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Across the Darkness {
+	AE=|Geoffrey A. Landis|
+	AS=|HomerT|
+	YR=|1995|
+	TG=|6940|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Copyright Notice Case {
+	AE=|Paul Levinson|
+	AS=|HomerT|
+	YR=|1996|
+	TG=|13962|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Age of Aquarius {
+	AE=|William Barton|
+	AS=|HomerT|
+	YR=|1996|
+	TG=|13955|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Flowers of Aulit Prison {
+	AE=|Nancy Kress|
+	AS=|HomerT|
+	YR=|1996|
+	TG=|13961|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Land of Nod {
+	AE=|Mike Resnick|
+	AS=|HomerT|
+	YR=|1996|
+	TG=|13966|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Radio Waves {
+	AE=|Michael Swanwick|
+	AS=|HomerT|
+	YR=|1996|
+	TG=|13975|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Blood Harp {
+	AE=|Laurel Winter|
+	AS=|HomerT|
+	YR=|1996|
+	TG=|13977|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Insufficient Nominations - Category Cancelled {
+	AE=|(********)|
+	AS=|HomerT|
+	YR=|1997|
+	TG=|18061|
+	TA=|Novelette|
+	TP=|x|
+	LV=|72|
+}
+Echea {
+	AE=|Kristine Kathryn Rusch|
+	AS=|HomerT|
+	YR=|1998|
+	TG=|19351|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Planck Dive {
+	AE=|Greg Egan|
+	AS=|HomerT|
+	YR=|1998|
+	TG=|19593|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Little Differences {
+	AE=|Paul Levinson|
+	AS=|HomerT|
+	YR=|1998|
+	TG=|19603|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Orchard {
+	AE=|Paul Levinson|
+	AS=|HomerT|
+	YR=|1998|
+	TG=|19604|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Building the Building of the World {
+	AE=|Robert Reed|
+	AS=|HomerT|
+	YR=|1998|
+	TG=|19613|
+	TA=|Novelette|
+	TP=|ss|
+	LV=|9|
+}
+The Eye of God {
+	AE=|Mary Rosenblum|
+	AS=|HomerT|
+	YR=|1998|
+	TG=|19617|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Stellar Harvest {
+	AE=|Eleanor Arnason|
+	AS=|HomerT|
+	YR=|1999|
+	TG=|21124|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Smart Alec {
+	AE=|Kage Baker|
+	AS=|HomerT|
+	YR=|1999|
+	TG=|21127|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Hestwood {
+	AE=|Rob Chilson|
+	AS=|HomerT|
+	YR=|1999|
+	TG=|21137|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Chanoyu {
+	AE=|Esther M. Friesner|
+	AS=|HomerT|
+	YR=|1999|
+	TG=|21140|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+How to Make Unicorn Pie {
+	AE=|Esther M. Friesner|
+	AS=|HomerT|
+	YR=|1999|
+	TG=|21141|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Women of Whale Rock {
+	AE=|Kristine Kathryn Rusch|
+	AS=|HomerT|
+	YR=|1999|
+	TG=|21155|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Designated Hitter {
+	AE=|Harry Turtledove|
+	AS=|HomerS|
+	YR=|1990|
+	TG=|12106|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Bears Discover Fire {
+	AE=|Terry Bisson|
+	AS=|HomerS|
+	YR=|1990|
+	TG=|1316|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Curious Elation {
+	AE=|Michael Cassutt|
+	AS=|HomerS|
+	YR=|1990|
+	TG=|2504|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+How I Wrote the New Testament, Brought Forth the Renaissance, and Birdied the 17th Hole at Pebble Beach {
+	AE=|Mike Resnick|
+	AS=|HomerS|
+	YR=|1990|
+	TG=|9620|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Cibola {
+	AE=|Connie Willis|
+	AS=|HomerS|
+	YR=|1990|
+	TG=|13365|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+In the Late Cretaceous {
+	AE=|Connie Willis|
+	AS=|HomerS|
+	YR=|1991|
+	TG=|13402|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Black Ice {
+	AE=|Barbara Delaplace|
+	AS=|HomerS|
+	YR=|1992|
+	TG=|3472|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+In Memoriam {
+	AE=|Poul Anderson|
+	AS=|HomerS|
+	YR=|1992|
+	TG=|379|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Steelcollar Worker {
+	AE=|Vonda N. McIntyre|
+	AS=|HomerS|
+	YR=|1992|
+	TG=|8239|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Lotus and the Spear {
+	AE=|Mike Resnick|
+	AS=|HomerS|
+	YR=|1992|
+	TG=|9634|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Danny Goes to Mars {
+	AE=|Pamela Sargent|
+	AS=|HomerS|
+	YR=|1992|
+	TG=|10215|
+	TA=|Short Story|
+	TP=|nt|
+	LV=|9|
+}
+Mwalimu in the Squared Circle {
+	AE=|Mike Resnick|
+	AS=|HomerS|
+	YR=|1993|
+	TG=|9646|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Dream Pirate's Tale {
+	AE=|Kent Brewster|
+	AS=|HomerS|
+	YR=|1993|
+	TG=|1646|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Modern Mansions {
+	AE=|Barbara Delaplace|
+	AS=|HomerS|
+	YR=|1993|
+	TG=|3473|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Good Pup {
+	AE=|Bridget McKenna|
+	AS=|HomerS|
+	YR=|1993|
+	TG=|8255|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Pale Thin God {
+	AE=|Mike Resnick|
+	AS=|HomerS|
+	YR=|1993|
+	TG=|9657|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+None So Blind {
+	AE=|Joe Haldeman|
+	AS=|HomerS|
+	YR=|1994|
+	TG=|5530|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Painted Bridges {
+	AE=|Barbara Delaplace|
+	AS=|HomerS|
+	YR=|1994|
+	TG=|3474|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Virtual Love {
+	AE=|Maureen F. McHugh|
+	AS=|HomerS|
+	YR=|1994|
+	TG=|8214|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Barnaby in Exile {
+	AE=|Mike Resnick|
+	AS=|HomerS|
+	YR=|1994|
+	TG=|9602|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Birdie {
+	AE=|Mike Resnick+Nicholas A. DiChario|
+	AS=|HomerS|
+	YR=|1994|
+	TG=|9677|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+You See But You Do Not Observe {
+	AE=|Robert J. Sawyer|
+	AS=|HomerS|
+	YR=|1995|
+	TG=|10277|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Lincoln Train {
+	AE=|Maureen F. McHugh|
+	AS=|HomerS|
+	YR=|1995|
+	TG=|8197|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Moriarty By Modem {
+	AE=|Jack Nimersheim|
+	AS=|HomerS|
+	YR=|1995|
+	TG=|8724|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Above It All {
+	AE=|Robert J. Sawyer|
+	AS=|HomerS|
+	YR=|1996|
+	TG=|13968|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Breakaway, Backdown {
+	AE=|James Patrick Kelly|
+	AS=|HomerS|
+	YR=|1996|
+	TG=|13959|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Snowball {
+	AE=|Jeffery D. Kooistra|
+	AS=|HomerS|
+	YR=|1996|
+	TG=|13960|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Symmetry of Duty {
+	AE=|Louise Rowder|
+	AS=|HomerS|
+	YR=|1997|
+	TG=|18085|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+A Medal for Harry {
+	AE=|Paul Levinson|
+	AS=|HomerS|
+	YR=|1997|
+	TG=|18075|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The 43 Antarean Dynasties {
+	AE=|Mike Resnick|
+	AS=|HomerS|
+	YR=|1997|
+	TG=|18084|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Drawing Out Leviathan {
+	AE=|Susan Shwartz|
+	AS=|HomerS|
+	YR=|1997|
+	TG=|18089|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Face of God {
+	AE=|Barb Galler-Smith|
+	AS=|HomerS|
+	YR=|1998|
+	TG=|19310|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Stubbornest Broad on Earth {
+	AE=|Janet Kagan|
+	AS=|HomerS|
+	YR=|1998|
+	TG=|19600|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Advantage, Bellarmine {
+	AE=|Paul Levinson|
+	AS=|HomerS|
+	YR=|1998|
+	TG=|19602|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Year of the Mouse {
+	AE=|Norman Spinrad|
+	AS=|HomerS|
+	YR=|1998|
+	TG=|19623|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Tall One {
+	AE=|K. D. Wentworth|
+	AS=|HomerS|
+	YR=|1998|
+	TG=|19627|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Hothouse Flowers {
+	AE=|Mike Resnick|
+	AS=|HomerS|
+	YR=|1999|
+	TG=|21153|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Absynthe Eyes {
+	AE=|Charlene L. Brusso|
+	AS=|HomerS|
+	YR=|1999|
+	TG=|21132|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Goliath {
+	AE=|Neil Gaiman|
+	AS=|HomerS|
+	YR=|1999|
+	TG=|21142|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Jennifer, Just Before Midnight {
+	AE=|William Sanders|
+	AS=|HomerS|
+	YR=|1999|
+	TG=|21157|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Golden Fleece {
+	AE=|Robert J. Sawyer|
+	AS=|Homer1|
+	YR=|1990|
+	TG=|10264|
+	TA=|First Novel|
+	TP=|n|
+	LV=|1|
+}
+In the Country of the Blind {
+	AE=|Michael F. Flynn|
+	AS=|Homer1|
+	YR=|1990|
+	TG=|4538|
+	TA=|First Novel|
+	TP=|n|
+	LV=|2|
+}
+The Interior Life {
+	AE=|Dorothy J. Heydt^Katherine Blake|
+	AS=|Homer1|
+	YR=|1990|
+	TG=|1368|
+	TA=|First Novel|
+	TP=|n|
+	LV=|9|
+}
+Babylon 5 - The Coming of Shadows {
+	AE=|J. Michael Straczynski|
+	MV=|"Babylon 5" (1994)|
+	AS=|HomerD|
+	YR=|1995|
+	TG=|11593|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|1|
+}
+Babylon 5 - Comes the Inquisitor {
+	AE=|J. Michael Straczynski|
+	MV=|"Babylon 5" (1994)|
+	AS=|HomerD|
+	YR=|1995|
+	TG=|11586|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Babylon 5 - The Fall of Night {
+	AE=|J. Michael Straczynski|
+	MV=|"Babylon 5" (1994)|
+	AS=|HomerD|
+	YR=|1995|
+	TG=|11595|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Star Trek: Deep Space Nine - The Visitor {
+	AE=|Michael Taylor|
+	MV=|"Star Trek: Deep Space Nine" (1993)|
+	AS=|HomerD|
+	YR=|1995|
+	TG=|11850|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Highlander: The Series - Homeland {
+	AE=|Unknown-TV-Episode|
+	AS=|HomerD|
+	YR=|1995|
+	TG=|5895|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Star Trek: Deep Space Nine - Trials and Tribble-ations {
+	AE=|Ronald D. Moore+Rene Echevarria|
+	MV=|"Star Trek: Deep Space Nine" (1993)|
+	AS=|HomerD|
+	YR=|1996|
+	TG=|13971|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|1|
+}
+Independence Day {
+	AE=|Dean Devlin+Roland Emmerich|
+	MV=|Independence Day (1996)|
+	AS=|HomerD|
+	YR=|1996|
+	TG=|13976|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Babylon 5 - Severed Dreams {
+	AE=|J. Michael Straczynski|
+	MV=|"Babylon 5" (1994)|
+	AS=|HomerD|
+	YR=|1996|
+	TG=|13972|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Babylon 5 - War Without End {
+	AE=|J. Michael Straczynski|
+	MV=|"Babylon 5" (1994)|
+	AS=|HomerD|
+	YR=|1996|
+	TG=|13973|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Babylon 5 - Z'ha'dum {
+	AE=|J. Michael Straczynski|
+	MV=|"Babylon 5" (1994)|
+	AS=|HomerD|
+	YR=|1996|
+	TG=|13974|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Contact {
+	AE=|Carl Sagan+Ann Druyan+James V. Hart+Michael Goldenberg|
+	MV=|Contact (1997/I)|
+	AS=|HomerD|
+	YR=|1997|
+	TG=|18086|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Gattaca {
+	AE=|Andrew M. Niccol|
+	MV=|Gattaca (1997)|
+	AS=|HomerD|
+	YR=|1997|
+	TG=|18082|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Babylon 5 - Into the Fire {
+	AE=|J. Michael Straczynski|
+	MV=|"Babylon 5" (1994)|
+	AS=|HomerD|
+	YR=|1997|
+	TG=|18090|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Babylon 5 - The Deconstruction of Falling Stars {
+	AE=|J. Michael Straczynski|
+	MV=|"Babylon 5" (1994)|
+	AS=|HomerD|
+	YR=|1997|
+	TG=|18091|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Babylon 5 - The Face of the Enemy {
+	AE=|J. Michael Straczynski|
+	MV=|"Babylon 5" (1994)|
+	AS=|HomerD|
+	YR=|1997|
+	TG=|18092|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Babylon 5 - Sleeping in Light {
+	AE=|J. Michael Straczynski|
+	MV=|"Babylon 5" (1994)|
+	AS=|HomerD|
+	YR=|1998|
+	TG=|19361|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|1|
+}
+Star Trek: Insurrection {
+	AE=|Rick Berman+Michael Piller|
+	MV=|Star Trek: Insurrection (1998)|
+	AS=|HomerD|
+	YR=|1998|
+	TG=|19581|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Armageddon {
+	AE=|Jonathan Hensleigh+Robert Roy Pool|
+	MV=|Armageddon (1998)|
+	AS=|HomerD|
+	YR=|1998|
+	TG=|19598|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+What Dreams May Come {
+	AE=|Richard Matheson+Ronald Bass|
+	MV=|What Dreams May Come (1998)|
+	AS=|HomerD|
+	YR=|1998|
+	TG=|19607|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Dark City {
+	AE=|Alex Proyas+Lem Dobbs+David S. Goyer|
+	MV=|Dark City (1998)|
+	AS=|HomerD|
+	YR=|1998|
+	TG=|19612|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Babylon 5 - In the Beginning {
+	AE=|J. Michael Straczynski|
+	MV=|Babylon 5: In the Beginning (1998) (TV)|
+	AS=|HomerD|
+	YR=|1998|
+	TG=|19626|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+Star Trek: Deep Space Nine - Far Beyond the Stars {
+	AE=|Unknown-TV-Episode|
+	MV=|Star Trek: Deep Space Nine - Emissary (1993) (TV)|
+	AS=|HomerD|
+	YR=|1998|
+	TG=|19618|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}
+The Matrix {
+	AE=|Andy Wachowski+Larry Wachowski|
+	MV=|Matrix, The (1999)|
+	AS=|HomerD|
+	YR=|1999|
+	TG=|21162|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Galaxy Quest {
+	AE=|David Howard+Robert Gordon|
+	MV=|Galaxy Quest (1999)|
+	AS=|HomerD|
+	YR=|1999|
+	TG=|21146|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+The Iron Giant {
+	AE=|Ted Hughes+Brad Bird+Tim McCanlies|
+	MV=|Iron Giant, The (1999)|
+	AS=|HomerD|
+	YR=|1999|
+	TG=|21147|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+The Sixth Sense {
+	AE=|M. Night Shyamalan|
+	MV=|Sixth Sense, The (1999)|
+	AS=|HomerD|
+	YR=|1999|
+	TG=|21159|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Buffy the Vampire Slayer - Hush {
+	AE=|Joss Whedon|
+	MV=|"Buffy the Vampire Slayer" (1997)|
+	AS=|HomerD|
+	YR=|1999|
+	TG=|21165|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|9|
+}

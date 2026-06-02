@@ -1,0 +1,4336 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)PROMETHEUS	1.7	06/18/98 ISFDB";
+##
+Wheels Within Wheels {
+	AE=|F. Paul Wilson|
+	AS=|PromN|
+	YR=|1979|
+	TG=|13470|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+The Probability Broach {
+	AE=|L. Neil Smith|
+	AS=|PromN|
+	YR=|1982|
+	TG=|11115|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+Tales of Neveryon {
+	AE=|Samuel R. Delany|
+	AS=|PromN|
+	YR=|1982|
+	TG=|14366|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Alongside Night {
+	AE=|J. Neil Schulman|
+	AS=|PromN|
+	YR=|1982|
+	TG=|14367|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Watcher {
+	AE=|Kay Nolte Smith|
+	AS=|PromN|
+	YR=|1982|
+	TG=|14368|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Songs from the Stars {
+	AE=|Norman Spinrad|
+	AS=|PromN|
+	YR=|1982|
+	TG=|14371|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+An Enemy of the State {
+	AE=|F. Paul Wilson|
+	AS=|PromN|
+	YR=|1982|
+	TG=|14372|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Voyage from Yesteryear {
+	AE=|James P. Hogan|
+	AS=|PromN|
+	YR=|1983|
+	TG=|5996|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+Friday {
+	AE=|Robert A. Heinlein|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14136|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Fire Dancer {
+	AE=|Ann Maxwell|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14228|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Many-Colored Land {
+	AE=|Julian May|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14232|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Oath of Fealty {
+	AE=|Larry Niven+Jerry Pournelle|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14249|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14033|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+Vicious Circle {
+	AE=|Piers Anthony|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14041|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Voyagers {
+	AE=|Ben Bova|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14050|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Pride of Chanur {
+	AE=|C. J. Cherryh|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14068|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Divine Invasion {
+	AE=|Philip K. Dick|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14096|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Morphodite {
+	AE=|M. A. Foster|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14111|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+First Channel {
+	AE=|Jacqueline Lichtenberg+Jean Lorrah|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14212|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Golden Torc {
+	AE=|Julian May|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14230|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The War Hound and the World's Pain {
+	AE=|Michael Moorcock|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14241|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+War of Omission {
+	AE=|Kevin O'Donnell, Jr.|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14252|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+First Cycle {
+	AE=|H. Beam Piper+Michael Kurland|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14267|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Catching Fire {
+	AE=|Kay Nolte Smith|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14310|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Their Majesties' Bucketeers {
+	AE=|L. Neil Smith|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14319|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Venus Belt {
+	AE=|L. Neil Smith|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14321|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The California Coven Project {
+	AE=|Bob Stickgold|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14330|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Masks of the Illuminati {
+	AE=|Robert Anton Wilson|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14297|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Epiphany {
+	AE=|Nicholas Yermakov|
+	AS=|PromN|
+	YR=|1983|
+	TG=|14277|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Rainbow Cadenza {
+	AE=|J. Neil Schulman|
+	AS=|PromN|
+	YR=|1984|
+	TG=|10430|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+Orion Shall Rise {
+	AE=|Poul Anderson|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14028|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Thendara House {
+	AE=|Marion Zimmer Bradley|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14055|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Double Crossing {
+	AE=|Erica Holzer|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14151|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Nagasaki Vector {
+	AE=|L. Neil Smith|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14369|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14035|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+New America {
+	AE=|Poul Anderson|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14027|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+On a Pale Horse {
+	AE=|Piers Anthony|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14039|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Refugee {
+	AE=|Piers Anthony|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14040|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Against Infinity {
+	AE=|Gregory Benford|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14044|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Ariel {
+	AE=|Steven R. Boyett|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14052|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Jonuta Rising! {
+	AE=|(Victor Koman+Andrew J. Offutt)^John Cleve|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14077|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Manna {
+	AE=|G. Harry Stine^Lee Correy|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14083|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Neveryona {
+	AE=|Samuel R. Delany|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14093|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Man Who Used the Universe {
+	AE=|Alan Dean Foster|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14110|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Shadow of the Ship {
+	AE=|Robert W. Franson|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14112|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+A Matter for Men {
+	AE=|David Gerrold|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14113|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Code of the Lifemaker {
+	AE=|James P. Hogan|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14146|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Tomorrow Testament {
+	AE=|Barry B. Longyear|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14221|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Triangle {
+	AE=|Sondra Marshak+Myrna Culbreath|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14225|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Nonborn King {
+	AE=|Julian May|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14233|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Khi to Freedom {
+	AE=|Ardath Mayhar|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14234|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Lagrangists {
+	AE=|Mack Reynolds|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14282|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Mindspell {
+	AE=|Kay Nolte Smith|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14312|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Lando Calrissian and the Starcave of Thonboka {
+	AE=|L. Neil Smith|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14317|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Millennium {
+	AE=|John Varley|
+	AS=|PromN|
+	YR=|1984|
+	TG=|14352|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+No Winner (None of the Above) {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1985|
+	TG=|43|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|1|
+}
+Manna {
+	AE=|G. Harry Stine^Lee Correy|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14084|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Final Encyclopedia {
+	AE=|Gordon R. Dickson|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14101|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Tom Paine Maru {
+	AE=|L. Neil Smith|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14316|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Peace War {
+	AE=|Vernor Vinge|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14354|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Tomb {
+	AE=|F. Paul Wilson|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14335|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14037|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+Across the Sea of Suns {
+	AE=|Gregory Benford|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14043|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+V {
+	AE=|A. C. Crispin|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14087|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Stars in My Pocket Like Grains of Sand {
+	AE=|Samuel R. Delany|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14095|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Sword of Allah {
+	AE=|Richard Elliot|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14105|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Heretics of Dune {
+	AE=|Frank Herbert|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14139|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Anvil of the Heart {
+	AE=|Bruce T. Holmes|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14150|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Adversary {
+	AE=|Julian May|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14229|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Shattered Stars {
+	AE=|Richard S. McEnroe|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14237|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Fuzzies and Other People {
+	AE=|H. Beam Piper|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14262|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Sicillian {
+	AE=|Mario Puzo|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14274|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Icehenge {
+	AE=|Kim Stanley Robinson|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14284|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Right Where You Are Sitting Now {
+	AE=|Robert Anton Wilson|
+	AS=|PromN|
+	YR=|1985|
+	TG=|14290|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Cybernetic Samurai {
+	AE=|Victor Milán|
+	AS=|PromN|
+	YR=|1986|
+	TG=|8388|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+A Matter of Time {
+	AE=|Glen Cook|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14080|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Radio Free Albemuth {
+	AE=|Philip K. Dick|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14099|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Elegy for a Soprano {
+	AE=|Kay Nolte Smith|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14311|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Gallatin Divergence {
+	AE=|L. Neil Smith|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14315|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14048|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+Bio of a Space Tyrant, Vol. IV {
+	AE=|Piers Anthony|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14038|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Voyagers II: The Alien Within {
+	AE=|Ben Bova|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14051|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Kif Strike Back {
+	AE=|C. J. Cherryh|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14067|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Chapterhouse: Dune {
+	AE=|Frank Herbert|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14138|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Proteus Operation {
+	AE=|James P. Hogan|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14149|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Windrider {
+	AE=|Stephanie T. Hoppe|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14152|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Glass Hammer {
+	AE=|K. W. Jeter|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14156|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Trinity {
+	AE=|Nancy Kress|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14186|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|nv|
+	LV=|92|
+}
+Moscow Rules {
+	AE=|Robert Moss|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14244|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Free Live Free {
+	AE=|Gene Wolfe|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14281|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Spinneret {
+	AE=|Timothy Zahn|
+	AS=|PromN|
+	YR=|1986|
+	TG=|14266|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Marooned in Realtime {
+	AE=|Vernor Vinge|
+	AS=|PromN|
+	YR=|1987|
+	TG=|12728|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+The Handmaid's Tale {
+	AE=|Margaret Atwood|
+	AS=|PromN|
+	YR=|1987|
+	TG=|14042|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+A Door into Ocean {
+	AE=|Joan Slonczewski|
+	AS=|PromN|
+	YR=|1987|
+	TG=|14309|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Crystal Empire {
+	AE=|L. Neil Smith|
+	AS=|PromN|
+	YR=|1987|
+	TG=|14314|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Circuit {
+	AE=|Melinda M. Snodgrass|
+	AS=|PromN|
+	YR=|1987|
+	TG=|14324|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1987|
+	TG=|14365|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+Child of Fortune {
+	AE=|Norman Spinrad|
+	AS=|PromN|
+	YR=|1987|
+	TG=|14370|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Jehovah Contract {
+	AE=|Victor Koman|
+	AS=|PromN|
+	YR=|1988|
+	TG=|6718|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+The Uplift War {
+	AE=|David Brin|
+	AS=|PromN|
+	YR=|1988|
+	TG=|14057|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Way of the Pilgrim {
+	AE=|Gordon R. Dickson|
+	AS=|PromN|
+	YR=|1988|
+	TG=|14102|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Circuit Breaker {
+	AE=|Melinda M. Snodgrass|
+	AS=|PromN|
+	YR=|1988|
+	TG=|14325|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+First Citizen {
+	AE=|Thomas T. Thomas|
+	AS=|PromN|
+	YR=|1988|
+	TG=|14339|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1988|
+	TG=|14054|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+Warhaven {
+	AE=|M. Elayn Harvey|
+	AS=|PromN|
+	YR=|1988|
+	TG=|14121|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+An Alien Light {
+	AE=|Nancy Kress|
+	AS=|PromN|
+	YR=|1988|
+	TG=|14185|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Intervention {
+	AE=|Julian May|
+	AS=|PromN|
+	YR=|1988|
+	TG=|14231|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Architects of Hyperspace {
+	AE=|Thomas R. McDonough|
+	AS=|PromN|
+	YR=|1988|
+	TG=|14236|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Beloved {
+	AE=|Toni Morrison|
+	AS=|PromN|
+	YR=|1988|
+	TG=|14243|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Moon of Ice {
+	AE=|Brad Linaweaver|
+	AS=|PromN|
+	YR=|1989|
+	TG=|7491|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+Falling Free {
+	AE=|Lois McMaster Bujold|
+	AS=|PromN|
+	YR=|1989|
+	TG=|14060|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+To Sail Beyond the Sunset {
+	AE=|Robert A. Heinlein|
+	AS=|PromN|
+	YR=|1989|
+	TG=|14135|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Final Circuit {
+	AE=|Melinda M. Snodgrass|
+	AS=|PromN|
+	YR=|1989|
+	TG=|14326|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+David's Sling {
+	AE=|Marc Stiegler|
+	AS=|PromN|
+	YR=|1989|
+	TG=|14331|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1989|
+	TG=|14081|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+The Fool's Progress {
+	AE=|Edward Abbey|
+	AS=|PromN|
+	YR=|1989|
+	TG=|14023|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Farside Cannon {
+	AE=|Roger MacBride Allen|
+	AS=|PromN|
+	YR=|1989|
+	TG=|14025|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Mona Lisa Overdrive {
+	AE=|William Gibson|
+	AS=|PromN|
+	YR=|1989|
+	TG=|14114|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Julian Solo {
+	AE=|Shelly Reuben|
+	AS=|PromN|
+	YR=|1989|
+	TG=|14287|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+A Splendid Chaos {
+	AE=|John Shirley|
+	AS=|PromN|
+	YR=|1989|
+	TG=|14296|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Brightsuit MacBear {
+	AE=|L. Neil Smith|
+	AS=|PromN|
+	YR=|1989|
+	TG=|14322|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Voice of the Whirlwind {
+	AE=|Walter Jon Williams|
+	AS=|PromN|
+	YR=|1989|
+	TG=|14364|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Solomon's Knife {
+	AE=|Victor Koman|
+	AS=|PromN|
+	YR=|1990|
+	TG=|6719|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+The Boat of a Million Years {
+	AE=|Poul Anderson|
+	AS=|PromN|
+	YR=|1990|
+	TG=|14026|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Mirror Maze {
+	AE=|James P. Hogan|
+	AS=|PromN|
+	YR=|1990|
+	TG=|14145|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Infinity Hold {
+	AE=|Barry B. Longyear|
+	AS=|PromN|
+	YR=|1990|
+	TG=|14220|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Henry Martyn {
+	AE=|L. Neil Smith|
+	AS=|PromN|
+	YR=|1990|
+	TG=|14323|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1990|
+	TG=|14082|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+Borders of Infinity {
+	AE=|Lois McMaster Bujold|
+	AS=|PromN|
+	YR=|1990|
+	TG=|14059|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|c|
+	LV=|92|
+}
+Hacker {
+	AE=|Chet Day|
+	AS=|PromN|
+	YR=|1990|
+	TG=|14091|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Buying Time^The Long Habit of Living (UK) {
+	AE=|Joe Haldeman|
+	AS=|PromN|
+	YR=|1990|
+	TG=|14118|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Grumbles from the Grave {
+	AE=|Robert A. Heinlein|
+	AS=|PromN|
+	YR=|1990|
+	TG=|14127|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|nf|
+	LV=|92|
+}
+Weapon {
+	AE=|Robert Mason|
+	AS=|PromN|
+	YR=|1990|
+	TG=|14227|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Free Zone {
+	AE=|Charles Platt|
+	AS=|PromN|
+	YR=|1990|
+	TG=|14269|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Under the Yoke {
+	AE=|S. M. Stirling|
+	AS=|PromN|
+	YR=|1990|
+	TG=|14336|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+In the Country of the Blind {
+	AE=|Michael F. Flynn|
+	AS=|PromN|
+	YR=|1991|
+	TG=|4541|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+The Infinity Gambit {
+	AE=|James P. Hogan|
+	AS=|PromN|
+	YR=|1991|
+	TG=|14144|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Cybernetic Shogun {
+	AE=|Victor Milán|
+	AS=|PromN|
+	YR=|1991|
+	TG=|14239|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+V for Vendetta {
+	AE=|Alan Moore|
+	AS=|PromN|
+	YR=|1991|
+	TG=|14242|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|co|
+	LV=|9|
+}
+Under the Yoke {
+	AE=|S. M. Stirling|
+	AS=|PromN|
+	YR=|1991|
+	TG=|14332|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Fallen Angels {
+	AE=|Michael F. Flynn+Larry Niven+Jerry Pournelle|
+	AS=|PromN|
+	YR=|1992|
+	TG=|4553|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+Distant Drums {
+	AE=|D. L. Carey|
+	AS=|PromN|
+	YR=|1992|
+	TG=|14066|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Rift: Star Trek #59 {
+	AE=|Peter David|
+	AS=|PromN|
+	YR=|1992|
+	TG=|14090|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Silicon Man {
+	AE=|Charles Platt|
+	AS=|PromN|
+	YR=|1992|
+	TG=|14271|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+D'Shai {
+	AE=|Joel Rosenberg|
+	AS=|PromN|
+	YR=|1992|
+	TG=|14285|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+A Tale of the Wind {
+	AE=|Kay Nolte Smith|
+	AS=|PromN|
+	YR=|1992|
+	TG=|14313|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+ME {
+	AE=|Thomas T. Thomas|
+	AS=|PromN|
+	YR=|1992|
+	TG=|14338|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Tery {
+	AE=|F. Paul Wilson|
+	AS=|PromN|
+	YR=|1992|
+	TG=|14333|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Multiplex Man {
+	AE=|James P. Hogan|
+	AS=|PromN|
+	YR=|1993|
+	TG=|5991|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+Pallas {
+	AE=|L. Neil Smith|
+	AS=|PromN|
+	YR=|1994|
+	TG=|11114|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+Rainbow Man {
+	AE=|M. J. Engh|
+	AS=|PromN|
+	YR=|1994|
+	TG=|4263|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Beggars in Spain {
+	AE=|Nancy Kress|
+	AS=|PromN|
+	YR=|1994|
+	TG=|6774|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Silicon Man {
+	AE=|Charles Platt|
+	AS=|PromN|
+	YR=|1994|
+	TG=|9176|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Virtual Girl {
+	AE=|Amy Thomson|
+	AS=|PromN|
+	YR=|1994|
+	TG=|11932|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1994|
+	TG=|14116|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+Strange Devices of the Sun and Moon {
+	AE=|Lisa Goldstein|
+	AS=|PromN|
+	YR=|1994|
+	TG=|14115|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Children of Men {
+	AE=|P. D. James|
+	AS=|PromN|
+	YR=|1994|
+	TG=|14154|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Nightworld {
+	AE=|F. Paul Wilson|
+	AS=|PromN|
+	YR=|1994|
+	TG=|14334|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Stars Are Also Fire {
+	AE=|Poul Anderson|
+	AS=|PromN|
+	YR=|1995|
+	TG=|412|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+Solis {
+	AE=|A. A. Attanasio|
+	AS=|PromN|
+	YR=|1995|
+	TG=|667|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Deadly Care {
+	AE=|Richard Fulmer|
+	AS=|PromN|
+	YR=|1995|
+	TG=|4798|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Dark Rivers of the Heart {
+	AE=|Dean R. Koontz|
+	AS=|PromN|
+	YR=|1995|
+	TG=|6725|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Select {
+	AE=|F. Paul Wilson|
+	AS=|PromN|
+	YR=|1995|
+	TG=|13467|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1995|
+	TG=|14128|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+Lovelock {
+	AE=|Orson Scott Card+Kathryn Kramer|
+	AS=|PromN|
+	YR=|1995|
+	TG=|14065|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Star Fraction {
+	AE=|Ken MacLeod|
+	AS=|PromN|
+	YR=|1996|
+	TG=|7709|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+Four Ways to Forgiveness {
+	AE=|Ursula K. Le Guin|
+	AS=|PromN|
+	YR=|1996|
+	TG=|7157|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|c|
+	LV=|9|
+}
+CDL {
+	AE=|Victor Milán|
+	AS=|PromN|
+	YR=|1996|
+	TG=|8387|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Design for Great-Day {
+	AE=|Eric Frank Russell+Alan Dean Foster|
+	AS=|PromN|
+	YR=|1996|
+	TG=|10093|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Diamond Age {
+	AE=|Neal Stephenson|
+	AS=|PromN|
+	YR=|1996|
+	TG=|11434|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1996|
+	TG=|116|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+The Resurrectionist {
+	AE=|Thomas F. Monteleone|
+	AS=|PromN|
+	YR=|1996|
+	TG=|8458|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Bats in the Belfry, By Design {
+	AE=|Titus Stauffer|
+	AS=|PromN|
+	YR=|1996|
+	TG=|11370|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Profiteer: Hostile Takeover #1 {
+	AE=|S. Andrew Swann|
+	AS=|PromN|
+	YR=|1996|
+	TG=|11718|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Implant {
+	AE=|F. Paul Wilson|
+	AS=|PromN|
+	YR=|1996|
+	TG=|13463|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Kings of the High Frontier {
+	AE=|Victor Koman|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14179|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+Firestar {
+	AE=|Michael F. Flynn|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14109|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Wildside {
+	AE=|Steven Gould|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14117|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Paths to Otherwhere {
+	AE=|James P. Hogan|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14148|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Sliders {
+	AE=|Brad Linaweaver|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14213|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Stone Canal {
+	AE=|Ken MacLeod|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14224|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14131|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+Rebel Moon {
+	AE=|Bruce Bethke+Vox Day|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14049|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Innerverse {
+	AE=|John DeChancie|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14092|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Patriots {
+	AE=|David Drake|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14104|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Host {
+	AE=|Peter James|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14155|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Third Force {
+	AE=|Marc Laidlaw|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14188|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Murder in the Solid State {
+	AE=|Wil McCarthy|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14235|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Protektor {
+	AE=|Charles Platt|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14270|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Feet of Clay {
+	AE=|Terry Pratchett|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14273|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Freedom from Freedom Froms {
+	AE=|Titus Stauffer|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14328|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Quantum Moon {
+	AE=|Denise Vitola|
+	AS=|PromN|
+	YR=|1997|
+	TG=|14355|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Stone Canal {
+	AE=|Ken MacLeod|
+	AS=|PromN|
+	YR=|1998|
+	TG=|18102|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+The Fleet of Stars {
+	AE=|Poul Anderson|
+	AS=|PromN|
+	YR=|1998|
+	TG=|18096|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Finity's End {
+	AE=|C. J. Cherryh|
+	AS=|PromN|
+	YR=|1998|
+	TG=|18098|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Nanotime {
+	AE=|Bart Kosko|
+	AS=|PromN|
+	YR=|1998|
+	TG=|18101|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Bretta Martyn {
+	AE=|L. Neil Smith|
+	AS=|PromN|
+	YR=|1998|
+	TG=|18105|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1998|
+	TG=|22538|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+Freedom's Choice {
+	AE=|Anne McCaffrey|
+	AS=|PromN|
+	YR=|1998|
+	TG=|22546|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Exiles: The Mageborn Traitor {
+	AE=|Melanie Rawn|
+	AS=|PromN|
+	YR=|1998|
+	TG=|22547|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Merro Tree {
+	AE=|Katie Waitman|
+	AS=|PromN|
+	YR=|1998|
+	TG=|22549|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+City on Fire {
+	AE=|Walter Jon Williams|
+	AS=|PromN|
+	YR=|1998|
+	TG=|22550|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Deep as the Marrow {
+	AE=|F. Paul Wilson|
+	AS=|PromN|
+	YR=|1998|
+	TG=|22551|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Golden Globe {
+	AE=|John Varley|
+	AS=|PromN|
+	YR=|1999|
+	TG=|19510|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+Moonwar {
+	AE=|Ben Bova|
+	AS=|PromN|
+	YR=|1999|
+	TG=|19653|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rogue Star {
+	AE=|Michael F. Flynn|
+	AS=|PromN|
+	YR=|1999|
+	TG=|19708|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Y2K: The Millennium Bug {
+	AE=|Don L. Tiggre|
+	AS=|PromN|
+	YR=|1999|
+	TG=|19832|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Masque {
+	AE=|F. Paul Wilson+Matthew Costello|
+	AS=|PromN|
+	YR=|1999|
+	TG=|19848|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|1999|
+	TG=|22539|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+Revolutionary Language {
+	AE=|David Calderwood|
+	AS=|PromN|
+	YR=|1999|
+	TG=|22541|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Heartfire {
+	AE=|Orson Scott Card|
+	AS=|PromN|
+	YR=|1999|
+	TG=|22542|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Operation Damocles {
+	AE=|Oscar L. Fellows|
+	AS=|PromN|
+	YR=|1999|
+	TG=|22543|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Freedom's Challenge {
+	AE=|Anne McCaffrey|
+	AS=|PromN|
+	YR=|1999|
+	TG=|22545|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Between the Rivers {
+	AE=|Harry Turtledove|
+	AS=|PromN|
+	YR=|1999|
+	TG=|22548|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Legacies {
+	AE=|F. Paul Wilson|
+	AS=|PromN|
+	YR=|1999|
+	TG=|22552|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+A Deepness in the Sky {
+	AE=|Vernor Vinge|
+	AS=|PromN|
+	YR=|2000|
+	TG=|20224|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|1|
+}
+The Martian Race {
+	AE=|Gregory Benford|
+	AS=|PromN|
+	YR=|2000|
+	TG=|22355|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Cradle of Saturn {
+	AE=|James P. Hogan|
+	AS=|PromN|
+	YR=|2000|
+	TG=|22424|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Cassini Division {
+	AE=|Ken MacLeod|
+	AS=|PromN|
+	YR=|2000|
+	TG=|22497|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Cryptonomicon {
+	AE=|Neal Stephenson|
+	AS=|PromN|
+	YR=|2000|
+	TG=|22515|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromN|
+	YR=|2000|
+	TG=|22540|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|x|
+	LV=|90|
+}
+Operation Luna {
+	AE=|Poul Anderson|
+	AS=|PromN|
+	YR=|2000|
+	TG=|22344|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Prometheus {
+	AE=|William Forstchen|
+	AS=|PromN|
+	YR=|2000|
+	TG=|22402|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Nobody's Safe {
+	AE=|Richard Steinberg|
+	AS=|PromN|
+	YR=|2000|
+	TG=|22514|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Earthweb {
+	AE=|Marc Stiegler|
+	AS=|PromN|
+	YR=|2000|
+	TG=|22517|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+The Silicon Dagger {
+	AE=|Jack Williamson|
+	AS=|PromN|
+	YR=|2000|
+	TG=|20903|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|92|
+}
+Lodestar {
+	AE=|Michael F. Flynn|
+	AS=|PromN|
+	YR=|2001|
+	TG=|22400|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Sky Road {
+	AE=|Ken MacLeod|
+	AS=|PromN|
+	YR=|2001|
+	TG=|22450|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Truth {
+	AE=|Terry Pratchett|
+	AS=|PromN|
+	YR=|2001|
+	TG=|22478|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Forge of the Elders {
+	AE=|L. Neil Smith|
+	AS=|PromN|
+	YR=|2001|
+	TG=|22507|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+Eagle Against the Stars {
+	AE=|Steve White|
+	AS=|PromN|
+	YR=|2001|
+	TG=|18843|
+	TA=|Prometheus (Best Libertarian SF Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Moon is a Harsh Mistress {
+	AE=|Robert A. Heinlein|
+	AS=|PromH|
+	YR=|1983|
+	TG=|5819|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Atlas Shrugged {
+	AE=|Ayn Rand|
+	AS=|PromH|
+	YR=|1983|
+	TG=|9515|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Fahrenheit 451^The Fireman {
+	AE=|Ray Bradbury|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14053|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+One Flew Over the Cuckoo's Nest {
+	AE=|Ken Kesey|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14157|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Syndic {
+	AE=|C. M. Kornbluth|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14181|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dispossessed {
+	AE=|Ursula K. Le Guin|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14189|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+This Perfect Day {
+	AE=|Ira Levin|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14202|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+1984 {
+	AE=|George Orwell|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14253|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Anthem {
+	AE=|Ayn Rand|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14275|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Great Explosion {
+	AE=|Eric Frank Russell|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14288|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14147|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|x|
+	LV=|90|
+}
+Trader to the Stars {
+	AE=|Poul Anderson|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14034|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|c|
+	LV=|92|
+}
+A Clockwork Orange {
+	AE=|Anthony Burgess|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14062|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Time Enough for Love {
+	AE=|Robert A. Heinlein|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14134|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Brave New World {
+	AE=|Aldous Huxley|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14153|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Darkness at Noon {
+	AE=|Arthur Koestler|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14174|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+That Hideous Strength^The Tortured Planet (1958 US) {
+	AE=|C. S. Lewis|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14209|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+A Planet for Texans^Lone Star Planet {
+	AE=|H. Beam Piper+John J. McGuire|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14265|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Fountainhead {
+	AE=|Ayn Rand|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14278|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+We the Living {
+	AE=|Ayn Rand|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14279|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Arundel {
+	AE=|Kenneth Roberts|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14283|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Julie, ou la Nouvelle Héloïse {
+	AE=|Jean-Jacques Rousseau|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14286|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Status Civilization {
+	AE=|Robert Sheckley|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14295|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+A Time of Changes {
+	AE=|Robert Silverberg|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14298|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Book of Merlyn {
+	AE=|T. H. White|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14357|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Humanoids {
+	AE=|Jack Williamson|
+	AS=|PromH|
+	YR=|1983|
+	TG=|14349|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Fahrenheit 451^The Fireman {
+	AE=|Ray Bradbury|
+	AS=|PromH|
+	YR=|1984|
+	TG=|1567|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+1984 {
+	AE=|George Orwell|
+	AS=|PromH|
+	YR=|1984|
+	TG=|8978|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Stars My Destination^Tiger! Tiger! {
+	AE=|Alfred Bester|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14045|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Citizen of the Galaxy {
+	AE=|Robert A. Heinlein|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14125|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+One Flew Over the Cuckoo's Nest {
+	AE=|Ken Kesey|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14158|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Anthem {
+	AE=|Ayn Rand|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14276|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Illuminatus! {
+	AE=|Robert Shea+Robert Anton Wilson|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14293|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|ob|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14166|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|x|
+	LV=|90|
+}
+The People of the Wind {
+	AE=|Poul Anderson|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14029|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Satan's World {
+	AE=|Poul Anderson|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14030|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Star Fox {
+	AE=|Poul Anderson|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14031|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Winter of the World {
+	AE=|Poul Anderson|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14036|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Falling Torch {
+	AE=|Algis Budrys|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14058|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Manna {
+	AE=|G. Harry Stine^Lee Correy|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14085|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Man in the High Castle {
+	AE=|Philip K. Dick|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14097|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Riddley Walker {
+	AE=|Russell Hoban|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14141|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Syndic {
+	AE=|C. M. Kornbluth|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14182|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Reefs of Earth {
+	AE=|R. A. Lafferty|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14187|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Dispossessed {
+	AE=|Ursula K. Le Guin|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14190|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Malafrena {
+	AE=|Ursula K. Le Guin|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14198|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+This Perfect Day {
+	AE=|Ira Levin|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14203|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Elephant Song {
+	AE=|Barry B. Longyear|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14219|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Birth of Fire {
+	AE=|Jerry Pournelle|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14272|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Great Explosion {
+	AE=|Eric Frank Russell|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14289|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Alongside Night {
+	AE=|J. Neil Schulman|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14291|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+A Time of Changes {
+	AE=|Robert Silverberg|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14299|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Emphyrio {
+	AE=|Jack Vance|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14344|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Wyst: Alastor 1716 {
+	AE=|Jack Vance|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14351|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Once and Future King {
+	AE=|T. H. White|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14360|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|ob|
+	LV=|92|
+}
+An Enemy of the State {
+	AE=|F. Paul Wilson|
+	AS=|PromH|
+	YR=|1984|
+	TG=|14343|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Trader to the Stars {
+	AE=|Poul Anderson|
+	AS=|PromH|
+	YR=|1985|
+	TG=|419|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|c|
+	LV=|1|
+}
+The Great Explosion {
+	AE=|Eric Frank Russell|
+	AS=|PromH|
+	YR=|1985|
+	TG=|10092|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Manna {
+	AE=|G. Harry Stine^Lee Correy|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14086|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+One Flew Over the Cuckoo's Nest {
+	AE=|Ken Kesey|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14159|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dispossessed {
+	AE=|Ursula K. Le Guin|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14191|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+A Time of Changes {
+	AE=|Robert Silverberg|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14300|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14170|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|x|
+	LV=|90|
+}
+The Star Fox {
+	AE=|Poul Anderson|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14032|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Riddley Walker {
+	AE=|Russell Hoban|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14142|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Darkness at Noon {
+	AE=|Arthur Koestler|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14175|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Syndic {
+	AE=|C. M. Kornbluth|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14183|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+This Perfect Day {
+	AE=|Ira Levin|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14204|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Iron Heel {
+	AE=|Jack London|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14214|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Armageddon Rag {
+	AE=|George R. R. Martin|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14226|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Gormenghast {
+	AE=|Mervyn Peake|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14256|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Titus Alone {
+	AE=|Mervyn Peake|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14258|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Titus Groan {
+	AE=|Mervyn Peake|
+	AS=|PromH|
+	YR=|1985|
+	TG=|14260|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Syndic {
+	AE=|C. M. Kornbluth|
+	AS=|PromH|
+	YR=|1986|
+	TG=|6737|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Illuminatus! {
+	AE=|Robert Shea+Robert Anton Wilson|
+	AS=|PromH|
+	YR=|1986|
+	TG=|10537|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|ob|
+	LV=|1|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromH|
+	YR=|1986|
+	TG=|14171|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|x|
+	LV=|90|
+}
+The Monkey Wrench Gang {
+	AE=|Edward Abbey|
+	AS=|PromH|
+	YR=|1986|
+	TG=|14024|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Stars My Destination^Tiger! Tiger! {
+	AE=|Alfred Bester|
+	AS=|PromH|
+	YR=|1986|
+	TG=|14046|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Dr. Who and the Sunmakers {
+	AE=|Terrence Dicks|
+	AS=|PromH|
+	YR=|1986|
+	TG=|14100|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Riddley Walker {
+	AE=|Russell Hoban|
+	AS=|PromH|
+	YR=|1986|
+	TG=|14143|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+One Flew Over the Cuckoo's Nest {
+	AE=|Ken Kesey|
+	AS=|PromH|
+	YR=|1986|
+	TG=|14160|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Dispossessed {
+	AE=|Ursula K. Le Guin|
+	AS=|PromH|
+	YR=|1986|
+	TG=|14192|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Iron Heel {
+	AE=|Jack London|
+	AS=|PromH|
+	YR=|1986|
+	TG=|14215|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+A Time of Changes {
+	AE=|Robert Silverberg|
+	AS=|PromH|
+	YR=|1986|
+	TG=|14301|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Burr {
+	AE=|Gore Vidal|
+	AS=|PromH|
+	YR=|1986|
+	TG=|14353|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Stranger in a Strange Land {
+	AE=|Robert A. Heinlein|
+	AS=|PromH|
+	YR=|1987|
+	TG=|5829|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Anthem {
+	AE=|Ayn Rand|
+	AS=|PromH|
+	YR=|1987|
+	TG=|9514|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Stars My Destination^Tiger! Tiger! {
+	AE=|Alfred Bester|
+	AS=|PromH|
+	YR=|1987|
+	TG=|14047|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Forever War {
+	AE=|Joe Haldeman|
+	AS=|PromH|
+	YR=|1987|
+	TG=|14119|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+One Flew Over the Cuckoo's Nest {
+	AE=|Ken Kesey|
+	AS=|PromH|
+	YR=|1987|
+	TG=|14161|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Darkness at Noon {
+	AE=|Arthur Koestler|
+	AS=|PromH|
+	YR=|1987|
+	TG=|14176|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dispossessed {
+	AE=|Ursula K. Le Guin|
+	AS=|PromH|
+	YR=|1987|
+	TG=|14193|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+This Perfect Day {
+	AE=|Ira Levin|
+	AS=|PromH|
+	YR=|1987|
+	TG=|14205|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+A Time of Changes {
+	AE=|Robert Silverberg|
+	AS=|PromH|
+	YR=|1987|
+	TG=|14302|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Man Who Wanted to Be Guilty {
+	AE=|Henrik Stangerup|
+	AS=|PromH|
+	YR=|1987|
+	TG=|14327|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+We {
+	AE=|Yevgeny Zamyatin|
+	AS=|PromH|
+	YR=|1987|
+	TG=|14263|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Stars My Destination^Tiger! Tiger! {
+	AE=|Alfred Bester|
+	AS=|PromH|
+	YR=|1988|
+	TG=|1179|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+This Perfect Day {
+	AE=|Ira Levin|
+	AS=|PromH|
+	YR=|1988|
+	TG=|14206|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Alongside Night {
+	AE=|J. Neil Schulman|
+	AS=|PromH|
+	YR=|1988|
+	TG=|14292|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+We {
+	AE=|Yevgeny Zamyatin|
+	AS=|PromH|
+	YR=|1988|
+	TG=|14254|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromH|
+	YR=|1988|
+	TG=|14178|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|x|
+	LV=|90|
+}
+Noble House {
+	AE=|James Clavell|
+	AS=|PromH|
+	YR=|1988|
+	TG=|14071|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Tai-Pan {
+	AE=|James Clavell|
+	AS=|PromH|
+	YR=|1988|
+	TG=|14072|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+1985 {
+	AE=|Gyorgy Dalos|
+	AS=|PromH|
+	YR=|1988|
+	TG=|14088|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Arslan {
+	AE=|M. J. Engh|
+	AS=|PromH|
+	YR=|1988|
+	TG=|14106|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Blue World {
+	AE=|Jack Vance|
+	AS=|PromH|
+	YR=|1988|
+	TG=|14340|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Book of Merlyn {
+	AE=|T. H. White|
+	AS=|PromH|
+	YR=|1988|
+	TG=|14358|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Once and Future King {
+	AE=|T. H. White|
+	AS=|PromH|
+	YR=|1988|
+	TG=|14361|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|ob|
+	LV=|92|
+}
+Alongside Night {
+	AE=|J. Neil Schulman|
+	AS=|PromH|
+	YR=|1989|
+	TG=|10429|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+One Flew Over the Cuckoo's Nest {
+	AE=|Ken Kesey|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14162|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dispossessed {
+	AE=|Ursula K. Le Guin|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14194|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+We the Living {
+	AE=|Ayn Rand|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14280|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+We {
+	AE=|Yevgeny Zamyatin|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14251|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14180|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|x|
+	LV=|90|
+}
+1985 {
+	AE=|Gyorgy Dalos|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14089|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Arslan {
+	AE=|M. J. Engh|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14107|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Rolling Stones^Space Family Stone {
+	AE=|Robert A. Heinlein|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14132|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Hanta Yo {
+	AE=|Ruth Beebe Hill|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14140|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Courtship Rite {
+	AE=|Donald Kingsbury|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14168|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Seven Days in May {
+	AE=|Fletcher Knebel+Charles Bailey II|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14173|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Steel Tsar {
+	AE=|Michael Moorcock|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14240|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Oath of Fealty {
+	AE=|Larry Niven+Jerry Pournelle|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14246|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Davy {
+	AE=|Edgar Pangborn|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14255|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+A Time of Changes {
+	AE=|Robert Silverberg|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14303|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Emphyrio {
+	AE=|Jack Vance|
+	AS=|PromH|
+	YR=|1989|
+	TG=|14345|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Healer {
+	AE=|F. Paul Wilson|
+	AS=|PromH|
+	YR=|1990|
+	TG=|13462|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+One Flew Over the Cuckoo's Nest {
+	AE=|Ken Kesey|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14163|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dispossessed {
+	AE=|Ursula K. Le Guin|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14195|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+This Perfect Day {
+	AE=|Ira Levin|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14207|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Circus World {
+	AE=|Barry B. Longyear|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14216|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|c|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14184|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|x|
+	LV=|90|
+}
+THX 1138 {
+	AE=|Ben Bova|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14223|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Cities of the Night {
+	AE=|William S. Burroughs|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14063|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Hunt for Red October {
+	AE=|Tom Clancy|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14069|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Tai-Pan {
+	AE=|James Clavell|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14073|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Eight Keys to Eden {
+	AE=|Mark Clifton|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14078|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+When They Come from Space {
+	AE=|Mark Clifton|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14079|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Radio Free Albemuth {
+	AE=|Philip K. Dick|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14098|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Facial Justice {
+	AE=|L. P. Hartley|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14120|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Oath of Fealty {
+	AE=|Larry Niven+Jerry Pournelle|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14247|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Gormenghast {
+	AE=|Mervyn Peake|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14257|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Titus Alone {
+	AE=|Mervyn Peake|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14259|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Titus Groan {
+	AE=|Mervyn Peake|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14261|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+A Time of Changes {
+	AE=|Robert Silverberg|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14304|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+We {
+	AE=|Yevgeny Zamyatin|
+	AS=|PromH|
+	YR=|1990|
+	TG=|14245|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+An Enemy of the State {
+	AE=|F. Paul Wilson|
+	AS=|PromH|
+	YR=|1991|
+	TG=|13460|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Dispossessed {
+	AE=|Ursula K. Le Guin|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14196|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+This Perfect Day {
+	AE=|Ira Levin|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14208|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+We {
+	AE=|Yevgeny Zamyatin|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14238|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14197|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|x|
+	LV=|90|
+}
+Cities of the Night {
+	AE=|William S. Burroughs|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14064|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Tai-Pan {
+	AE=|James Clavell|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14074|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Cash McCall {
+	AE=|Cameron Hawley|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14122|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Time Will Run Back^The Great Idea (US 1951) {
+	AE=|Henry Hazlitt|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14123|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Courtship Rite {
+	AE=|Donald Kingsbury|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14169|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Circus World {
+	AE=|Barry B. Longyear|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14217|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|c|
+	LV=|92|
+}
+Oath of Fealty {
+	AE=|Larry Niven+Jerry Pournelle|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14248|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+A Time of Changes {
+	AE=|Robert Silverberg|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14305|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Nagasaki Vector {
+	AE=|L. Neil Smith|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14318|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Venus Belt {
+	AE=|L. Neil Smith|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14320|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+East of Eden {
+	AE=|John Steinbeck|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14329|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Emphyrio {
+	AE=|Jack Vance|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14346|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Hardwired {
+	AE=|Walter Jon Williams|
+	AS=|PromH|
+	YR=|1991|
+	TG=|14362|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+This Perfect Day {
+	AE=|Ira Levin|
+	AS=|PromH|
+	YR=|1992|
+	TG=|7447|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Dispossessed {
+	AE=|Ursula K. Le Guin|
+	AS=|PromH|
+	YR=|1993|
+	TG=|7138|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+We {
+	AE=|Yevgeny Zamyatin|
+	AS=|PromH|
+	YR=|1994|
+	TG=|13840|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+One Flew Over the Cuckoo's Nest {
+	AE=|Ken Kesey|
+	AS=|PromH|
+	YR=|1994|
+	TG=|14164|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromH|
+	YR=|1994|
+	TG=|14199|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|x|
+	LV=|90|
+}
+334 {
+	AE=|Thomas M. Disch|
+	AS=|PromH|
+	YR=|1994|
+	TG=|14103|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Time Will Run Back^The Great Idea (US 1951) {
+	AE=|Henry Hazlitt|
+	AS=|PromH|
+	YR=|1994|
+	TG=|14124|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Farnham's Freehold {
+	AE=|Robert A. Heinlein|
+	AS=|PromH|
+	YR=|1994|
+	TG=|14126|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Puppet Masters {
+	AE=|Robert A. Heinlein|
+	AS=|PromH|
+	YR=|1994|
+	TG=|14129|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+A Time of Changes {
+	AE=|Robert Silverberg|
+	AS=|PromH|
+	YR=|1994|
+	TG=|14306|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Blue World {
+	AE=|Jack Vance|
+	AS=|PromH|
+	YR=|1994|
+	TG=|14341|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Emphyrio {
+	AE=|Jack Vance|
+	AS=|PromH|
+	YR=|1994|
+	TG=|14347|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Star Fox {
+	AE=|Poul Anderson|
+	AS=|PromH|
+	YR=|1995|
+	TG=|408|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Manna {
+	AE=|G. Harry Stine^Lee Correy|
+	AS=|PromH|
+	YR=|1995|
+	TG=|2983|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Time Will Run Back^The Great Idea (US 1951) {
+	AE=|Henry Hazlitt|
+	AS=|PromH|
+	YR=|1995|
+	TG=|5781|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Courtship Rite {
+	AE=|Donald Kingsbury|
+	AS=|PromH|
+	YR=|1995|
+	TG=|6622|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Gather, Darkness! {
+	AE=|Fritz Leiber|
+	AS=|PromH|
+	YR=|1995|
+	TG=|7356|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+We the Living {
+	AE=|Ayn Rand|
+	AS=|PromH|
+	YR=|1995|
+	TG=|9516|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromH|
+	YR=|1995|
+	TG=|14200|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|x|
+	LV=|90|
+}
+One Flew Over the Cuckoo's Nest {
+	AE=|Ken Kesey|
+	AS=|PromH|
+	YR=|1995|
+	TG=|14165|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Darkness at Noon {
+	AE=|Arthur Koestler|
+	AS=|PromH|
+	YR=|1995|
+	TG=|14177|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+It Can't Happen Here {
+	AE=|Sinclair Lewis|
+	AS=|PromH|
+	YR=|1995|
+	TG=|14211|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+A Time of Changes {
+	AE=|Robert Silverberg|
+	AS=|PromH|
+	YR=|1995|
+	TG=|14307|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Weapon Shops of Isher {
+	AE=|A. E. van Vogt|
+	AS=|PromH|
+	YR=|1995|
+	TG=|14356|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Blue World {
+	AE=|Jack Vance|
+	AS=|PromH|
+	YR=|1995|
+	TG=|14342|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Emphyrio {
+	AE=|Jack Vance|
+	AS=|PromH|
+	YR=|1995|
+	TG=|14348|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Hardwired {
+	AE=|Walter Jon Williams|
+	AS=|PromH|
+	YR=|1995|
+	TG=|14363|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+My Name is Legion {
+	AE=|Roger Zelazny|
+	AS=|PromH|
+	YR=|1995|
+	TG=|14294|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|c|
+	LV=|92|
+}
+Red Planet {
+	AE=|Robert A. Heinlein|
+	AS=|PromH|
+	YR=|1996|
+	TG=|5822|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Winter of the World {
+	AE=|Poul Anderson|
+	AS=|PromH|
+	YR=|1996|
+	TG=|424|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Manna {
+	AE=|G. Harry Stine^Lee Correy|
+	AS=|PromH|
+	YR=|1996|
+	TG=|2984|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Time Will Run Back^The Great Idea (US 1951) {
+	AE=|Henry Hazlitt|
+	AS=|PromH|
+	YR=|1996|
+	TG=|5782|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Gather, Darkness! {
+	AE=|Fritz Leiber|
+	AS=|PromH|
+	YR=|1996|
+	TG=|7357|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromH|
+	YR=|1996|
+	TG=|117|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|x|
+	LV=|90|
+}
+The Countess Angeline {
+	AE=|Sergeann Golon|
+	AS=|PromH|
+	YR=|1996|
+	TG=|5207|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Cash McCall {
+	AE=|Cameron Hawley|
+	AS=|PromH|
+	YR=|1996|
+	TG=|5762|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Puppet Masters {
+	AE=|Robert A. Heinlein|
+	AS=|PromH|
+	YR=|1996|
+	TG=|14130|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Courtship Rite {
+	AE=|Donald Kingsbury|
+	AS=|PromH|
+	YR=|1996|
+	TG=|6623|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+War of Omission {
+	AE=|Kevin O'Donnell, Jr.|
+	AS=|PromH|
+	YR=|1996|
+	TG=|8909|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Agent of Chaos {
+	AE=|Norman Spinrad|
+	AS=|PromH|
+	YR=|1996|
+	TG=|11221|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Marching Through Georgia {
+	AE=|S. M. Stirling|
+	AS=|PromH|
+	YR=|1996|
+	TG=|11553|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Stone Dogs {
+	AE=|S. M. Stirling|
+	AS=|PromH|
+	YR=|1996|
+	TG=|11554|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Under the Yoke {
+	AE=|S. M. Stirling|
+	AS=|PromH|
+	YR=|1996|
+	TG=|11555|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Blue World {
+	AE=|Jack Vance|
+	AS=|PromH|
+	YR=|1996|
+	TG=|12578|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Emphyrio {
+	AE=|Jack Vance|
+	AS=|PromH|
+	YR=|1996|
+	TG=|12587|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Hardwired {
+	AE=|Walter Jon Williams|
+	AS=|PromH|
+	YR=|1996|
+	TG=|13303|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Humanoids {
+	AE=|Jack Williamson|
+	AS=|PromH|
+	YR=|1996|
+	TG=|13346|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Methuselah's Children {
+	AE=|Robert A. Heinlein|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14137|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Oath of Fealty {
+	AE=|Larry Niven+Jerry Pournelle|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14250|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Little Fuzzy {
+	AE=|H. Beam Piper|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14264|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+A Planet for Texans^Lone Star Planet {
+	AE=|H. Beam Piper+John J. McGuire|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14268|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Emphyrio {
+	AE=|Jack Vance|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14350|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14218|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|x|
+	LV=|90|
+}
+Secret of the League {
+	AE=|Ernest Bramah|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14056|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Falling Free {
+	AE=|Lois McMaster Bujold|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14061|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Hunt for Red October {
+	AE=|Tom Clancy|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14070|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Noble House {
+	AE=|James Clavell|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14075|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Tai-Pan {
+	AE=|James Clavell|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14076|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Dhalgren {
+	AE=|Samuel R. Delany|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14094|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+One Flew Over the Cuckoo's Nest {
+	AE=|Ken Kesey|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14167|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Courtship Rite {
+	AE=|Donald Kingsbury|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14172|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Gather, Darkness! {
+	AE=|Fritz Leiber|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14201|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+That Hideous Strength^The Tortured Planet (1958 US) {
+	AE=|C. S. Lewis|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14210|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Circus World {
+	AE=|Barry B. Longyear|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14222|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|c|
+	LV=|92|
+}
+Under the Yoke {
+	AE=|S. M. Stirling|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14337|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+The Book of Merlyn {
+	AE=|T. H. White|
+	AS=|PromH|
+	YR=|1997|
+	TG=|14359|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|92|
+}
+Time Enough for Love {
+	AE=|Robert A. Heinlein|
+	AS=|PromH|
+	YR=|1998|
+	TG=|18099|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Orion Shall Rise {
+	AE=|Poul Anderson|
+	AS=|PromH|
+	YR=|1998|
+	TG=|18097|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Mirror Maze {
+	AE=|James P. Hogan|
+	AS=|PromH|
+	YR=|1998|
+	TG=|18100|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+A Planet for Texans^Lone Star Planet {
+	AE=|H. Beam Piper+John J. McGuire|
+	AS=|PromH|
+	YR=|1998|
+	TG=|18103|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Wasp {
+	AE=|Eric Frank Russell|
+	AS=|PromH|
+	YR=|1998|
+	TG=|18104|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+A Planet for Texans^Lone Star Planet {
+	AE=|H. Beam Piper+John J. McGuire|
+	AS=|PromH|
+	YR=|1999|
+	TG=|19509|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Emperor's New Clothes {
+	AE=|Hans Christian Andersen|
+	AS=|PromH|
+	YR=|1999|
+	TG=|19638|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|ss|
+	LV=|9|
+}
+Orion Shall Rise {
+	AE=|Poul Anderson|
+	AS=|PromH|
+	YR=|1999|
+	TG=|19639|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+A Clockwork Orange {
+	AE=|Anthony Burgess|
+	AS=|PromH|
+	YR=|1999|
+	TG=|19659|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Circus World {
+	AE=|Barry B. Longyear|
+	AS=|PromH|
+	YR=|1999|
+	TG=|19764|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|c|
+	LV=|9|
+}
+The Emperor's New Clothes {
+	AE=|Hans Christian Andersen|
+	AS=|PromH|
+	YR=|2000|
+	TG=|20171|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|ss|
+	LV=|1|
+}
+Orion Shall Rise {
+	AE=|Poul Anderson|
+	AS=|PromH|
+	YR=|2000|
+	TG=|22345|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Mirror Maze {
+	AE=|James P. Hogan|
+	AS=|PromH|
+	YR=|2000|
+	TG=|22425|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+It Can't Happen Here {
+	AE=|Sinclair Lewis|
+	AS=|PromH|
+	YR=|2000|
+	TG=|22445|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Wardove {
+	AE=|L. Neil Smith|
+	AS=|PromH|
+	YR=|2000|
+	TG=|22508|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Orion Shall Rise {
+	AE=|Poul Anderson|
+	AS=|PromH|
+	YR=|2001|
+	TG=|22346|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+It Can't Happen Here {
+	AE=|Sinclair Lewis|
+	AS=|PromH|
+	YR=|2001|
+	TG=|22446|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Survival of Freedom {
+	AE=|Jerry Pournelle+John F. Carr|
+	AS=|PromH|
+	YR=|2001|
+	TG=|22477|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Wardove {
+	AE=|L. Neil Smith|
+	AS=|PromH|
+	YR=|2001|
+	TG=|22509|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Star Trek: The Next Generation - The Measure of a Man {
+	AE=|Melinda M. Snodgrass|
+	AS=|PromH|
+	YR=|2001|
+	TG=|22510|
+	TA=|Hall of Fame Award for Best Classic Libertarian SF Novel|
+	TP=|tve|
+	LV=|9|
+}

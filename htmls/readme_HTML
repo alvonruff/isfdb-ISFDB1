@@ -1,0 +1,274 @@
+<html>
+<head>
+<title>README for ISFDB Download Files</title>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#155BF0" vlink="#309372">
+<h1>README for ISFDB Download Files</h1>
+<hr>
+
+As described elsewhere, one of the main inspirations for the ISFDB was the
+IMDB, or Internet Movie Database. While the ISFDB has been fairly successful
+in integrating several distinct services into a single cohesive webpage, it
+has not been successful in fostering the kind of virtual community that helped
+the IMBD to sustain its explosive growth. The IMDB started out as a University
+site, with large amounts of diskspace and the ability to administer itself. 
+The ISFDB started as a homepage at an ISP, with a maximum of 10 Meg of diskspace,
+working under a Draconian Web administration setup. These differences inhibited
+the development of a team approach to the ISFDB.  Now that the ISFDB is hosted
+at SF Site, this is no longer the case - more resources are made available to the
+ISFDB at SF Site. 
+<p>
+It has been painfully obvious over the past few months that the main bottleneck
+for continued growth of the ISFDB is myself. I have fewer hours available to
+maintain the ISFDB than I did a year ago. So, in order to keep the train rolling,
+I am making available the source code and data files which make up the ISFDB.
+Hopefully, people will become familiar with the ISFDB and begin to
+construct a methodology for distributing the workload among more volunteers.
+<p>
+This file describes how to obtain the source code and data files to the ISFDB.
+It also describes how to build and maintain a private copy of the database.
+The following warnings should be noted before trying to install and run the 
+ISFDB locally:
+
+<ol>
+  <li> Note that all of the source code is intended for UNIX systems; there is 
+       absolutely no support for Windows or MacOS.
+  <p>
+  <li> A certain level of familiarity with software development is assumed - you
+       should be familiar with UNIX, compilers, and makefiles before attempting
+       to port and run this software on your system.
+  <p>
+  <li> The ISFDB doesn't use any advanced system calls or UNIX features - it's mostly
+       string processing, so porting it to new platforms should require little more
+       than finding the appropriate include files.  If you would like to see permanent 
+       ifdef's to support your particular UNIX platform, just send them to me and I'll
+       put them in if they are sensible.
+  <p>
+  <li> Compiling the ISFDB source code is only half of the installation problem -
+       you must also set up your http server correctly. This means you'll need 
+       administrative access to your web server, or at least cooperation from your web
+       server administrator to set up a private copy of the ISFDB. Most ISPs have
+       limitations on how CGI binaries are accessed. Almost all problems encountered
+       with the ISFDB have been http configuration problems. I implore you not to 
+       ask me how to fix http configuration problems - the details are almost certainly
+       dependent upon the specific http daemon you are running, and I am only familiar
+       with the NCSA server.
+  <p>
+  <li> If you use your version of the ISFDB to enter data locally via the user
+       submission forms, I will be able to take the data that shows up in your
+       copy of the NEWDATA file (that's where submissions go) and merge that into
+       the ISFDB using current tools. There is, however, no facility in place for
+       the merging of ISFDB files. That is, if you directly modify NOVELS, or
+       SHORTFICTION, or any other data files, it is highly doubtful that I can diff
+       your entries with the master copies, since they change on a daily basis.
+       All merging tools to date assume that there is one, and only one, copy of the
+       various ISFDB files.
+</ol>
+
+<hr>
+<h2>Licensing Terms</h2>
+Here are the license terms:
+<ol>
+  <li> Data Files - The bulk of the data in the ISFDB has been entered by the public,
+  either via the online forms or through private databases which have been merged
+  into the ISFDB. On the other hand, some data (such as that from NESFA) was obtained
+  with the proviso that the data not be used for commercial purposes. As such, the
+  data files in the ISFDB may be freely used to create derived works, so long as they
+  are non-commercial in nature. Attributions to the ISFDB should be made.
+  Commercial use of the files cannot be permitted.
+  <p>
+  <li> Awards Data Files - We have purposely disallowed the entry of awards information
+  at the ISFDB. This means that all of the data can be tracked to threthree specific people.
+  As such, copyright of the awards files is held by Al von Ruff, Paul Cardinal, and
+  David G. Grubbs. Each award file contains a copyright citation to this effect.
+  We have decided that you may use the data contained within the awards files to
+  create derived works, so long as they are non-commercial in nature, and an
+  attribution to the ISFDB is made. Commercial use of the files must be negotiated
+  with the parties cited in the copyright notice.
+  <p>
+  <li> Source Code - at present, all ISFDB source code copyrights are held by Al von Ruff. 
+  You may use the source code to create derived works, so long as they are non-commercial
+  in nature, and an attribution to the ISFDB is made.
+</ol>
+
+<hr>
+<h2>The Available Filesets</h2>
+The following filesets are available at 
+<a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb">cyberhome.cyberus.ca/pub/users/isfdb</a>:
+
+<ol>
+  <li><a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/README.html">README.html</a>
+  - A copy of the file you are reading.
+  <li><a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/frame.tar.Z">frame.tar.Z</a>
+  - This image contains the basic directory structure layout, as well as the top-level
+  makefiles. You'll need this if you want to compile the database tools or do your own
+  database compiles.  This file requires about 16K of space after expansion and extraction.
+  <li><a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/data.tar.Z">data.tar.Z</a>
+  - This image contains an uncompiled image of the ISFDB database data files. These are
+  in the ISFDB data format specified in the FAQ. This file requires about 16Mbytes of space 
+  after expansion.
+  <li><a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/tools.tar.Z">tools.tar.Z</a>
+  - This image contains the source code to the tools needed to compile the data files
+  into an online database. There are also a number of utilities here used to find errors
+  in the database, or in other databases that are being merged into the ISFDB.
+  This file requires about 600K of space after expansion and extraction.
+  <li><a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/src.tar.Z">src.tar.Z</a>
+  - This image contains the source code to the online database applications. These
+  will compile into the binaries that you are used to seeing in ISFDB URL's:
+  exact_author.cgi, search.cgi, dataentry.cgi, etc... This file requires about 600K 
+  of space after expansion and extraction.
+  <li><a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/cmpl.tar.Z">cmpl.tar.Z</a>
+  - This image contains a compiled image of the database data files. These files
+  are used by the online database applications. If you have the tools fileset, you
+  can generate these files yourself. This file requires about 15Mbytes of space after 
+  expansion and extraction.
+  <li><a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/html.tar.Z">html.tar.Z</a>
+  - This image contains the ISFDB's html files. This file requires about 2.3Mbytes of
+  space after expansion and extraction.
+</ol>
+
+<hr>
+<h2>Which Filesets You Should Download</h2>
+There are 3 different levels of interest you might have in these filesets.
+<ol>
+  <li> You want the whole shibang to make a private copy of the ISFDB.
+  <li> You really only want the data, but don't feel like writing a parser from scratch. So you'd
+  like to pick up some tools to get started with. 
+  <li> You just want the ISFDB raw data, and are willing to write your own tools to
+  translate the data into some other format useful to you. This is the simpliest -
+  just download 
+  <a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/data.tar.Z">data.tar.Z</a>
+  and you're done.
+</ol>
+
+<hr>
+<h2>Setup for the Entire ISFDB</h2>
+The recommended approach to installing and porting the ISFDB to your UNIX system is:
+
+<ol>
+   <li> Download 
+  <a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/frame.tar.Z">frame.tar.Z</a>, unzip and untar. 
+  There are two top-level makefiles: <i>Makefile</i> and <i>dbase.mk</i>. You shouldn't have to alter
+  <i>dbase.mk</i> at all. In <i>Makefile</i>, there are 8 defines which may need modification:
+<p>
+<ol>
+  <li> <b>CC</b> - This should be changed to point to you compiler. The ISFDB uses ANSI
+  prototyping (well, usually), so you need an ANSI-compilant C compiler.
+  <li> <b>CFLAGS</b> - At a minimum you should define <b>-O</b> to optimize. Other defines
+  which can be used here are:
+  <ol>
+     <li> <b>-DAIX</b> - Use this if your system is AIX.
+     <li> <b>-DSUNOS</b> - Use this if your system is SunOS.
+     <li> <b>-DLINUX</b> - Use this if your system is LINUX. This is a good starting
+     point for any other OS as well.
+     <li> <b>-DCHDIR</b> - This define should be enabled if your http server
+     does not do a chdir to the working directory of the CGI binaries. You'll
+     know you need this if an application can't find the database files.
+     <li> <b>-DPOST_METHOD</b> - This is a legacy define. Leave it alone.
+  </ol>
+  <li> <b>LDFLAGS</b> - Use this if your compiler needs special linker options.
+  <li> <b>HTMLDIR</b> - This should be set to the pathname of the local directory where
+  the html files will reside. It is used to install the html and gif files. 
+  <li> <b>HTMLLOC</b> - This should be set to the base directory of the html files that
+  outside users see in URL's. For instance, the URL for the ISFDB at sfsite is
+  <i>http://www.sfsite.com/isfdb/index.html</i>. So <i>HTMLLOC</i> would be set
+  to <i>www.sfsite.com\/isfdb</i>. This define is used by the database applications
+  to generate URL's on the fly.  Note that this define is passed to the compiler, so
+  the "\/" notation is required. Also note that the leading <i>http://</i> should <b>not</b>
+  be included in the define. This define is used by the ISFDB binaries to generate
+  internal URLs, such as help files.
+  <li> <b>CGIBIN</b> - This should be set to the pathname of the local directory where the
+  cgi binaries will reside. It should be in a directory that your http server allows cgi
+  access to. This define is used to intall the ISFDB binaries.
+  <li> <b>DATABASE</b> - This is similar to <i>HTMLLOC</i>. This define should be set to
+  the base path of the cgi binaries that outside users see in URL's. For instance, the URL
+  to display an author's bibliography at sfsite is 
+  <i>http://www.sfsite.com/isfdb-bin/exact_author.cgi</i>.
+  So <i>DATABASE</i> would be set
+  to <i>www.sfsite.com\/isfdb-bin</i>. This define is used to install the html files.
+  The string <i>DBASELOC</i> will be replaced in each html file with the value of <i>DATABASE</i>.
+  Note that this define is passed to the compiler, so the "\/" notation is required.
+  <li> <b>HTFAKE</b> - This is nearly identical to <i>DATABASE</i>, except the define requires 
+  a leading "/" for historical reasons.
+</ol>
+<p>
+   <li> Download 
+  <a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/src.tar.Z">src.tar.Z</a>, unzip and untar. 
+  Type <i>make</i> at the top-level makefile. Do <b>not</b> cd to the src directory, as the
+  makefile in src requires defines passed down from above. Port as necessary. When finished,
+  the online application binaries should be built.
+  <p>
+   <li> Download 
+  <a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/cmpl.tar.Z">cmpl.tar.Z</a>, unzip and untar. 
+  This will place the pre-compiled database data files into a directory named <i>dbase.compiled</i>.
+  To spot test your application binaries, cd to dbase.compiled, and try the following commands:
+  <ol>
+     <p>
+     <li> <i>../bin/exact_author.cgi dan_simmons</i>. This should output a bunch of stuff
+     which looks like an htmlized bibliography.
+     <li> <i>../bin/AwYear.cgi Hu1996</i>. This should output a bunch of stuff
+     which looks like an htmlized award listing for the Hugos for the year 1996.
+     <li> <i>../bin/plist.cgi TLSTDGV19XX</i>. This should output a bunch of stuff
+     which looks like an htmlized content listing of <i>The Last Dangerous Visions</i>.
+     <p>
+  </ol>
+  If these work correctly, chances are that things will mostly work after the installation.
+  <p>
+   <li> Download 
+  <a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/html.tar.Z">html.tar.Z</a>, unzip and untar. 
+  A boatload of html files will be placed in a directory called <i>htmls</i>. The files
+  will be in all caps, with the extension HTML. When the installation is made, a script
+  called <i>make_htmls</i> will replace certain keywords in the files with the definitions
+  in the top-level makefile. The modified files will be in lowercase.html files. The original
+  files are never modified.
+  <p>
+  <li> Type <i>make install</i>. This should install the cgi binaries, html files, and database
+  files into the appropriate directories. At this point, if your http server is configured
+  correctly and you've ported everything correctly, you should have an ISFDB mirror up
+  and running.
+</ol>
+<p>
+In the future, when you wish to update the database image, you only need to download
+<i>cmpl.tar.Z</i> and <i>html.tar.Z</i>. Unzip, and untar these files, and type
+<i>make install</i>, and you will be up to date. Occassionally, changes will be made
+to the source code, in which case you'll need to download <i>src.tar.Z</i>, unzip and
+untar, and again type <i>make install</i>. In either case, you won't have to ever
+modify the top-level makefiles.
+<p>
+
+<hr>
+<h2>Setup for Data Files and Tools</h2>
+If you want to play with compiling your own version of the database files from
+the database source files, or if you want to start modifying the tools, you need to:
+<p>
+<ol>
+   <li> Download 
+  <a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/tools.tar.Z">frame.tar.Z</a>, unzip and untar. 
+  This will create a directory structure for you, as give you some makefiles to work with.
+  <a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/tools.tar.Z">tools.tar.Z</a>, unzip and untar. 
+  This will place some source code files into a directory called <i>tools</i>. These will
+  be compiled into binaries, which in turn will compile the database data files. To compile,
+  type <i>make</i> from the top-level directory. Note that some files are shared between
+  the tools and src directories (sfdbase.h, parse.c, print.c and sort.c). The master copies 
+  live in the tools directory; links are made to the src directory when the tools are made.
+  <p>
+  <li> Download 
+  <a href="ftp://cyberhome.cyberus.ca/pub/users/isfdb/data.tar.Z">data.tar.Z</a>, unzip and untar. 
+  This will place data files into a directory called <i>dbase.ascii</i>. These are the raw
+  datafiles of the ISFDB. These are the files which are edited when changes are made.
+  <p>
+  <li> Type <i>make dbase</i>. This will begin a highly-orchestrated compile procedure
+  defined by <i>tools/ccdbase.c</i>. When complete, the compiled database will reside in
+  <i>dbase.compiled</i>, while html files which are a side-effect of the compile will
+  reside in <i>htmls</i>.
+</ol>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.
+</body>
+</html>

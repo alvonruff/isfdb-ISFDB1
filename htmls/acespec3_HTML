@@ -1,0 +1,84 @@
+<html><head>
+<title>ISFDB - New Ace Science Fiction Specials</title></head>
+<h1>New Ace Science Fiction Specials</h1>
+<hr>
+This is a first pass at the list. Most of the links on this
+page are currently nonfunctional.
+<p>
+
+<table border=1 cellpadding=2 cellspacing=1 width="100%">
+<tr>
+<td><b>#</b></td>
+    <td><b>ISBN</b></td>
+    <td><b>Title</b></td>
+    <td><b>Author</b></td>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-88870-4</a></td>
+    <td>The Wild Shore</td>
+    <td>Kim Stanley Robinson</td>
+</tr>
+<td>2</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-30274-2</a></td>
+    <td>Green Eyes</td>
+    <td>Lucius Shepard</td>
+</tr>
+<td>3</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-56956-0</a></td>
+    <td>Neuromancer</td>
+    <td>William Gibson</td>
+</tr>
+<td>4</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-65065-1</a></td>
+    <td>Palimpsests</td>
+    <td>Carter Scholz, Glenn Harcourt</td>
+</tr>
+<td>5</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-80557-4</a></td>
+    <td>Them Bones</td>
+    <td>Howard Waldrop</td>
+</tr>
+<td>6</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-35869-1</a></td>
+    <td>In the Drift</td>
+    <td>Michael Swanwick</td>
+</tr>
+<td>7</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-37367-4</a></td>
+    <td>The Hercules Text</td>
+    <td>Jack McDevitt</td>
+</tr>
+<td>8</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-56941-2</a></td>
+    <td>The Net</td>
+    <td>Loren MacGregor</td>
+</tr>
+<td>9</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-52813-9</a></td>
+    <td>Metrophage</td>
+    <td>Richard Kadrey</td>
+</tr>
+<td>10</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-80894-8</a></td>
+    <td>The Tides of God</td>
+    <td>Ted Reynolds</td>
+</tr>
+<td>11</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-06689-5</a></td>
+    <td>Black Snow Days</td>
+    <td>Claudia O'Keefe</td>
+</tr>
+<td>12</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-64571-2</a></td>
+    <td>The Oxygen Barrons</td>
+    <td>Gregory Feeley</td>
+</tr>
+</table>
+
+<hr>
+Copyright (c) 2001 Al von Ruff
+<hr>
+</pre>
+</body>
+</html>

@@ -1,0 +1,40 @@
+<html>
+<title>What's Next With The ISFDB</title>
+<h1>What's Next With The ISFDB</h1>
+<hr>
+
+This is just a list of upcoming attractions - it is non-binding,
+not necessarily listed in any particular order, and scheduled for
+whenever we get around to them. Updated: 24 Mar 97.
+
+<ol>
+ <li> Fix sorting routines to take 8-bit characters into account.
+ <li> Finish research/cleanup associated with integrating the collections
+      from the NESFA database; send error report back to NESFA.
+ <li> Finish work begun on the Michael J. Cross collection database.
+ <li> Begin work on the anthologies present in the NESFA database.
+ <li> Update the FAQ page-by-page.
+ <li> Fix [Alpha] option so that *all* titles are sorted, including
+      those under pseudonyms.
+ <li> Fix correction page for an existing anth/coll, such that
+      it allows story entries to be made.
+ <li> Fix magazine listings such that novels can be displayed. (easy)
+ <li> Fix magazine listings such that awards can be displayed. (medium)
+ <li> Add support for series notes. (medium/hard)
+ <li> Add support such that publication data for serials shows up under
+      the novel instead of on the author's summary bibliography. (hard)
+ <li> A home version of the ISFDB which runs on Windows95 platforms is in
+      the works. So far, a command-line version is up and running, which 
+      means it would work on a Windows95 web server. It still needs to be 
+      integrated with a browser-like user interface.
+</ol>
+
+<p>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

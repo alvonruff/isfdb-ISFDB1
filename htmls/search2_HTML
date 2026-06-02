@@ -1,0 +1,114 @@
+<html>
+<head>
+<title>Internet Speculative Fiction DataBase (ISFDB) Advanced Search Form</title>
+</head>
+<body bgcolor="#ffffff" text="#000000" >
+
+<font size=-1>
+<h1>Internet Speculative Fiction DataBase (ISFDB) Advanced Search Form</h1>
+<form method="POST" action="http://DBASELOC/search2.cgi">
+<hr>
+<h2>Title Attributes</h2>
+<P>
+<b>Enter Term 1:</b><INPUT NAME="TERM_1" SIZE="32">
+<SELECT NAME="TITLE_1">
+<OPTION SELECTED VALUE="1">Title
+<OPTION VALUE="2">Author
+<OPTION VALUE="3">Year
+<OPTION VALUE="4">Series
+</SELECT>
+<SELECT NAME="STRUCT_1">
+<OPTION SELECTED VALUE="1">Phrase
+<OPTION VALUE="2">Word
+<OPTION VALUE="3">Less Than
+<OPTION VALUE="4">Greater Than
+</SELECT>
+
+<P>
+<INPUT TYPE="RADIO" NAME="OPERATOR_2" VALUE="AND" CHECKED>AND
+<INPUT TYPE="RADIO" NAME="OPERATOR_2" VALUE="OR">OR
+<INPUT TYPE="RADIO" NAME="OPERATOR_2" VALUE="ANDNOT">AND NOT
+
+<P>
+<b>Enter Term 2:</b><INPUT NAME="TERM_2" SIZE="32">
+<SELECT NAME="TITLE_2">
+<OPTION SELECTED VALUE="1">Title
+<OPTION VALUE="2">Author
+<OPTION VALUE="3">Year
+<OPTION VALUE="4">Series
+</SELECT>
+<SELECT NAME="STRUCT_2">
+<OPTION SELECTED VALUE="1">Phrase
+<OPTION VALUE="2">Word
+<OPTION VALUE="3">Less Than
+<OPTION VALUE="4">Greater Than
+</SELECT>
+
+<P>
+<INPUT TYPE="RADIO" NAME="OPERATOR_3" VALUE="AND" CHECKED>AND
+<INPUT TYPE="RADIO" NAME="OPERATOR_3" VALUE="OR">OR
+<INPUT TYPE="RADIO" NAME="OPERATOR_3" VALUE="ANDNOT">AND NOT
+<P>
+
+<b>Enter Term 3:</b><INPUT NAME="TERM_3" SIZE="32">
+<SELECT NAME="USE_3">
+<OPTION SELECTED VALUE="1">Title
+<OPTION VALUE="2">Author
+<OPTION VALUE="3">Year
+<OPTION VALUE="4">Series
+</SELECT>
+<SELECT NAME="STRUCT_3">
+<OPTION SELECTED VALUE="1">Phrase
+<OPTION VALUE="2">Word
+<OPTION VALUE="3">Less Than
+<OPTION VALUE="4">Greater Than
+</SELECT>
+
+<hr>
+<h2>Author Attributes</h2>
+<P>
+<b>Enter Term 1:</b><INPUT NAME="TERM_1" SIZE="32">
+<SELECT NAME="AUTHOR_1">
+<OPTION SELECTED VALUE="1">Birthyear
+<OPTION VALUE="2">Deathyear
+</SELECT>
+<SELECT NAME="STRUCT_4">
+<OPTION SELECTED VALUE="1">Phrase
+<OPTION VALUE="2">Word
+<OPTION VALUE="3">Less Than
+<OPTION VALUE="4">Greater Than
+</SELECT>
+
+<P>
+<INPUT TYPE="RADIO" NAME="OPERATOR_2" VALUE="AND" CHECKED>AND
+<INPUT TYPE="RADIO" NAME="OPERATOR_2" VALUE="OR">OR
+<INPUT TYPE="RADIO" NAME="OPERATOR_2" VALUE="ANDNOT">AND NOT
+
+<P>
+<b>Enter Term 1:</b><INPUT NAME="TERM_1" SIZE="32">
+<SELECT NAME="AUTHOR_2">
+<OPTION SELECTED VALUE="1">Birthyear
+<OPTION VALUE="2">Deathyear
+</SELECT>
+<SELECT NAME="STRUCT_5">
+<OPTION SELECTED VALUE="1">Phrase
+<OPTION VALUE="2">Word
+<OPTION VALUE="3">Less Than
+<OPTION VALUE="4">Greater Than
+</SELECT>
+
+<br>
+<INPUT TYPE="SUBMIT" VALUE="Submit Query">
+<INPUT TYPE="RESET" VALUE="Clear Form">
+</FORM>
+</font>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>Copyright (c) 2001 Al von Ruff</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.
+
+</body></html>

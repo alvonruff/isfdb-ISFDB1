@@ -1,0 +1,4453 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)CHESLEY	1.2	12/29/98 ISFDB";
+##
+Cover (The Integral Trees by Larry Niven) {
+	AE=|Michael Whelan|
+	AS=|ChesH|
+	YR=|1984|
+	TG=|17241|
+	TA=|Best Hardback Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Ghost Story by Peter Straub) {
+	AE=|Steve Gervais|
+	AS=|ChesH|
+	YR=|1984|
+	TG=|17423|
+	TA=|Best Hardback Cover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Wings of Flame by Nancy Springer) {
+	AE=|Carl Lundgren|
+	AS=|ChesH|
+	YR=|1984|
+	TG=|17427|
+	TA=|Best Hardback Cover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Infinity Link by Jeffrey Carver) {
+	AE=|David Mattingly|
+	AS=|ChesH|
+	YR=|1984|
+	TG=|17432|
+	TA=|Best Hardback Cover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Chanur's Venture by C. J. Cherryh) {
+	AE=|Michael Whelan|
+	AS=|ChesH|
+	YR=|1984|
+	TG=|17439|
+	TA=|Best Hardback Cover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Job: A Comedy of Justice by Robert Heinlein) {
+	AE=|Michael Whelan|
+	AS=|ChesH|
+	YR=|1984|
+	TG=|17442|
+	TA=|Best Hardback Cover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Final Encyclopedia by Gordon R. Dickson) {
+	AE=|Michael Whelan|
+	AS=|ChesH|
+	YR=|1984|
+	TG=|17443|
+	TA=|Best Hardback Cover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Chanur's Homecoming by C. J. Cherryh) {
+	AE=|David A. Cherry|
+	AS=|ChesH|
+	YR=|1986|
+	TG=|17234|
+	TA=|Best Hardback Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (On Stranger Tides by Tim Powers) {
+	AE=|James Gurney|
+	AS=|ChesH|
+	YR=|1987|
+	TG=|17275|
+	TA=|Best Hardback Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Cyteen by C. J. Cherryh) {
+	AE=|Don Maitz|
+	AS=|ChesH|
+	YR=|1988|
+	TG=|17308|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Rusalka by C. J. Cherryh) {
+	AE=|Keith Parkinson|
+	AS=|ChesH|
+	YR=|1989|
+	TG=|17328|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Chernovog by C. J. Cherryh) {
+	AE=|Keith Parkinson|
+	AS=|ChesH|
+	YR=|1990|
+	TG=|17327|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (The Summer Queen by Joan D. Vinge) {
+	AE=|Michael Whelan|
+	AS=|ChesH|
+	YR=|1991|
+	TG=|17261|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Magician) {
+	AE=|Don Maitz|
+	AS=|ChesH|
+	YR=|1992|
+	TG=|17388|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (The Far Kingdoms by Chris Bunch & Allan Cole) {
+	AE=|Tom Kidd|
+	AS=|ChesH|
+	YR=|1993|
+	TG=|17290|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Curse of the Mistwraith) {
+	AE=|Janny Wurts|
+	AS=|ChesH|
+	YR=|1994|
+	TG=|17410|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (The Dragon, the Earl, and the Troll by Gordon R. Dickson) {
+	AE=|Den Beauvais|
+	AS=|ChesH|
+	YR=|1994|
+	TG=|17358|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Storm Warning by Mercedes Lackey) {
+	AE=|Jody Lee^Jody A. Lee|
+	AS=|ChesH|
+	YR=|1994|
+	TG=|17383|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (2001: A Space Odyssey by Arthur C. Clarke) {
+	AE=|Ron Walotsky|
+	AS=|ChesH|
+	YR=|1994|
+	TG=|17404|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Foreigner by C. J. Cherryh) {
+	AE=|Michael Whelan|
+	AS=|ChesH|
+	YR=|1994|
+	TG=|17406|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Kingdoms of the Night by Allan Cole & Chris Bunch) {
+	AE=|Tom Kidd|
+	AS=|ChesH|
+	YR=|1995|
+	TG=|17289|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Cthulhu 2000: A Lovecraftian Mythology edited by Jim Turner) {
+	AE=|Bob Eggleton|
+	AS=|ChesH|
+	YR=|1995|
+	TG=|17257|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (A Sorcerer and a Gentleman by Elizabeth Willey) {
+	AE=|Charles Vess|
+	AS=|ChesH|
+	YR=|1995|
+	TG=|17346|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Temporary Agency by Rachel Pollack) {
+	AE=|Ron Walotsky|
+	AS=|ChesH|
+	YR=|1995|
+	TG=|17348|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Invader by C. J. Cherryh) {
+	AE=|Michael Whelan|
+	AS=|ChesH|
+	YR=|1995|
+	TG=|17230|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Golden Key by Melanie Rawn, Jennifer Roberson & Kate Elliot) {
+	AE=|Michael Whelan|
+	AS=|ChesH|
+	YR=|1996|
+	TG=|15606|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Winter Rose by Patricia A. McKillip) {
+	AE=|Kinuko Y. Craft|
+	AS=|ChesH|
+	YR=|1996|
+	TG=|15543|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Sabriel by Garth Nix) {
+	AE=|Leo Dillon+Diane Dillon|
+	AS=|ChesH|
+	YR=|1996|
+	TG=|15547|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Ringworld Throne by Larry Niven,) {
+	AE=|Barclay Shaw|
+	AS=|ChesH|
+	YR=|1996|
+	TG=|15593|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Cloud's Rider by C. J. Cherryh) {
+	AE=|Stephen Youll|
+	AS=|ChesH|
+	YR=|1996|
+	TG=|15386|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Howling Stones by Alan Dean Foster) {
+	AE=|Bob Eggleton|
+	AS=|ChesH|
+	YR=|1997|
+	TG=|18113|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Things Left Behind by Gary Braunbeck) {
+	AE=|Alan M. Clark|
+	AS=|ChesH|
+	YR=|1997|
+	TG=|18109|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Corum: The Coming of Chaos by Michael Moorcock) {
+	AE=|Don Maitz|
+	AS=|ChesH|
+	YR=|1997|
+	TG=|18126|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Lady of Avalon by Marion Zimmer Bradley) {
+	AE=|John Jude Palencar|
+	AS=|ChesH|
+	YR=|1997|
+	TG=|18133|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Mageborn Traitor by Melanie Rawn) {
+	AE=|Michael Whelan|
+	AS=|ChesH|
+	YR=|1997|
+	TG=|18137|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Song for the Basilisk by Patricia A. McKillip) {
+	AE=|Kinuko Y. Craft|
+	AS=|ChesH|
+	YR=|1998|
+	TG=|19524|
+	TA=|Best Cover Illustration - Hardback Book|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Darwinia by Robert Charles Wilson) Darwinia {
+	AE=|Jim Burns|
+	AS=|ChesH|
+	YR=|1998|
+	TG=|19520|
+	TA=|Best Cover Illustration - Hardback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Last Dragon Lord by Joanne Bertin) {
+	AE=|Bob Eggleton|
+	AS=|ChesH|
+	YR=|1998|
+	TG=|19531|
+	TA=|Best Cover Illustration - Hardback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Icefalcon's Quest by Barbara Hambly) {
+	AE=|Donato Giancola|
+	AS=|ChesH|
+	YR=|1998|
+	TG=|19541|
+	TA=|Best Cover Illustration - Hardback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Otherland: River of Blue Fire by Tad Williams) {
+	AE=|Michael Whelan|
+	AS=|ChesH|
+	YR=|1998|
+	TG=|19572|
+	TA=|Best Cover Illustration - Hardback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Otherland: Mountain of Black Glass by Tad Williams) {
+	AE=|Michael Whelan|
+	AS=|ChesH|
+	YR=|1999|
+	TG=|20229|
+	TA=|Best Cover Illustration - Hardback Book|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Dragon and Phoenix by Joanne Bertin) {
+	AE=|Bob Eggleton|
+	AS=|ChesH|
+	YR=|1999|
+	TG=|20184|
+	TA=|Best Cover Illustration - Hardback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Rainbow Mars by Larry Niven) {
+	AE=|Bob Eggleton|
+	AS=|ChesH|
+	YR=|1999|
+	TG=|20186|
+	TA=|Best Cover Illustration - Hardback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Black Swan by Mercedes Lackey) {
+	AE=|Jody Lee^Jody A. Lee|
+	AS=|ChesH|
+	YR=|1999|
+	TG=|20203|
+	TA=|Best Cover Illustration - Hardback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Spine of the World by R. A. Salvatore) {
+	AE=|Todd Lockwood|
+	AS=|ChesH|
+	YR=|1999|
+	TG=|20204|
+	TA=|Best Cover Illustration - Hardback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Tower at Stony Wood by Patricia A. Mckillip) {
+	AE=|Kinuko Y. Craft|
+	AS=|ChesH|
+	YR=|2000|
+	TG=|22023|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Darkness Descending by Harry Turtledove) {
+	AE=|Bob Eggleton|
+	AS=|ChesH|
+	YR=|2000|
+	TG=|22029|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Lord of the Rings by J. R. R. Tolkien) {
+	AE=|Donato Giancola|
+	AS=|ChesH|
+	YR=|2000|
+	TG=|22038|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Forests of the Heart by Charles de Lint) {
+	AE=|John Jude Palencar|
+	AS=|ChesH|
+	YR=|2000|
+	TG=|22063|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Tangled Up in Blue by Joan D. Vinge) {
+	AE=|Michael Whelan|
+	AS=|ChesH|
+	YR=|2000|
+	TG=|22074|
+	TA=|Best Cover Illustration - Hardcover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Day of the Dissonance by Alan Dean Foster) {
+	AE=|Carl Lundgren|
+	AS=|ChesP|
+	YR=|1984|
+	TG=|17301|
+	TA=|Best Paperback Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Orsinian Tales by Ursula K. Le Guin) {
+	AE=|Alan Lee|
+	AS=|ChesP|
+	YR=|1984|
+	TG=|17426|
+	TA=|Best Paperback Cover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Fire Time by Poul Anderson) {
+	AE=|David Mattingly|
+	AS=|ChesP|
+	YR=|1984|
+	TG=|17431|
+	TA=|Best Paperback Cover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Neuromancer by William Gibson) {
+	AE=|James Warhola|
+	AS=|ChesP|
+	YR=|1984|
+	TG=|17438|
+	TA=|Best Paperback Cover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Chanur's Venture by C. J. Cherryh) {
+	AE=|Michael Whelan|
+	AS=|ChesP|
+	YR=|1984|
+	TG=|17440|
+	TA=|Best Paperback Cover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Elric at The End of Time by Michael Moorcock) {
+	AE=|Michael Whelan|
+	AS=|ChesP|
+	YR=|1984|
+	TG=|17441|
+	TA=|Best Paperback Cover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Cat Who Walks Through Walls by Robert A. Heinlein) {
+	AE=|Michael Whelan|
+	AS=|ChesP|
+	YR=|1986|
+	TG=|17239|
+	TA=|Best Paperback Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Wizard War) {
+	AE=|Don Maitz|
+	AS=|ChesP|
+	YR=|1987|
+	TG=|17310|
+	TA=|Best Paperback Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (The Oathbound by Mercedes Lackey) {
+	AE=|Jody Lee|
+	AS=|ChesP|
+	YR=|1988|
+	TG=|17294|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Gryphon) {
+	AE=|Stephen Hickman|
+	AS=|ChesP|
+	YR=|1989|
+	TG=|17285|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Magic Casement by Dave Duncan) {
+	AE=|Don Maitz|
+	AS=|ChesP|
+	YR=|1990|
+	TG=|17309|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|1|
+}
+Cover (The Madness Season by C. S. Friedman) {
+	AE=|Michael Whelan|
+	AS=|ChesP|
+	YR=|1990|
+	TG=|17247|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Sword and Sorceress VIII, ed. by Andre Norton) {
+	AE=|David A. Cherry|
+	AS=|ChesP|
+	YR=|1991|
+	TG=|17235|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Sword and Sorceress IX) {
+	AE=|David A. Cherry|
+	AS=|ChesP|
+	YR=|1992|
+	TG=|17364|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Dragons edited by Jack Dann & Gardner Dozois) {
+	AE=|Bob Eggleton|
+	AS=|ChesP|
+	YR=|1993|
+	TG=|17258|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Geckos edited by Carrie Richerson) {
+	AE=|Alan M. Clark|
+	AS=|ChesP|
+	YR=|1994|
+	TG=|17240|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Catfantastic III) {
+	AE=|Braldt Bralds|
+	AS=|ChesP|
+	YR=|1994|
+	TG=|17361|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Lion, the Witch, and the Wardrobe by C. S. Lewis) {
+	AE=|Leo Dillon+Diane Dillon|
+	AS=|ChesP|
+	YR=|1994|
+	TG=|17370|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Witch and Wombat) {
+	AE=|Jody Lee^Jody A. Lee|
+	AS=|ChesP|
+	YR=|1994|
+	TG=|17384|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Pigs Don't Fly) {
+	AE=|Darrell K. Sweet|
+	AS=|ChesP|
+	YR=|1994|
+	TG=|17402|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (A Farce to be Reckoned With by Roger Zelazny & Robert Sheckley) {
+	AE=|Don Maitz|
+	AS=|ChesP|
+	YR=|1995|
+	TG=|17307|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|1|
+}
+Cover (The Printer's Devil by Chico Kidd) {
+	AE=|Newell Convers+Cortney Skinner|
+	AS=|ChesP|
+	YR=|1995|
+	TG=|17244|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Regenesis by Julia Ecklar) {
+	AE=|Daniel Craig|
+	AS=|ChesP|
+	YR=|1995|
+	TG=|17246|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Lethe by Tricia Sullivan) {
+	AE=|Donato Giancola^Donato|
+	AS=|ChesP|
+	YR=|1995|
+	TG=|17272|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Hunter's Oath by Michelle West) {
+	AE=|Jody Lee^Jody A. Lee|
+	AS=|ChesP|
+	YR=|1995|
+	TG=|17293|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Eggheads by Emily Devenport) {
+	AE=|Donato Giancola^Donato|
+	AS=|ChesP|
+	YR=|1996|
+	TG=|15552|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|1|
+}
+Cover (The Gates of Twilight by Paula Volsky) {
+	AE=|Stephen Hickman|
+	AS=|ChesP|
+	YR=|1996|
+	TG=|15560|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Castle Fantastic by John DeChancie & Martin H. Greenberg) {
+	AE=|John Howe|
+	AS=|ChesP|
+	YR=|1996|
+	TG=|15562|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Unknown Regions by Robert Holdstock) {
+	AE=|Ron Walotsky|
+	AS=|ChesP|
+	YR=|1996|
+	TG=|15600|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Royal Assassin by Robin Hobb) {
+	AE=|Michael Whelan|
+	AS=|ChesP|
+	YR=|1996|
+	TG=|15604|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Exile's Children by Angus Wells) {
+	AE=|Stephen Youll|
+	AS=|ChesP|
+	YR=|1996|
+	TG=|15156|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Rhinocerous Who Quoted Nietzche and Other Odd Acquaintancs by Peter S. Beagle) {
+	AE=|Michael Dashow|
+	AS=|ChesP|
+	YR=|1997|
+	TG=|18110|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Competitions by Sharon Green) {
+	AE=|Thomas Canty|
+	AS=|ChesP|
+	YR=|1997|
+	TG=|18107|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Stone Prince by Fiona Patton) {
+	AE=|Jody Lee^Jody A. Lee|
+	AS=|ChesP|
+	YR=|1997|
+	TG=|18122|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Wayward Knights by Roland Green) {
+	AE=|Todd Lockwood|
+	AS=|ChesP|
+	YR=|1997|
+	TG=|18124|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Merlin's Harp by Anne Eliot Crompton) {
+	AE=|Don Maitz|
+	AS=|ChesP|
+	YR=|1997|
+	TG=|18127|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Jovah's Angel by Sharon Shinn) {
+	AE=|John Jude Palencar|
+	AS=|ChesP|
+	YR=|1997|
+	TG=|18132|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (A Game of Thrones by George R. R. Martin) {
+	AE=|Stephen Youll|
+	AS=|ChesP|
+	YR=|1997|
+	TG=|18138|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Tales of the Cthulhu Mythos by H. P. Lovecraft and Others) {
+	AE=|John Jude Palencar|
+	AS=|ChesP|
+	YR=|1998|
+	TG=|19560|
+	TA=|Best Cover Illustration - Paperback Book|
+	TP=|aw|
+	LV=|1|
+}
+Cover (The Boss in the Wall by Avram Davidson and Grania Davis) {
+	AE=|Michael Dashow|
+	AS=|ChesP|
+	YR=|1998|
+	TG=|19527|
+	TA=|Best Cover Illustration - Paperback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Five Worlds #3: Return by Al Sarrantino) {
+	AE=|Donato Giancola|
+	AS=|ChesP|
+	YR=|1998|
+	TG=|19540|
+	TA=|Best Cover Illustration - Paperback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Star Child by James P. Hogan) {
+	AE=|Stephen Hickman|
+	AS=|ChesP|
+	YR=|1998|
+	TG=|19542|
+	TA=|Best Cover Illustration - Paperback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Dreaming in Smoke by Tricia Sullivan) {
+	AE=|Pamela Lee|
+	AS=|ChesP|
+	YR=|1998|
+	TG=|19550|
+	TA=|Best Cover Illustration - Paperback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Flying Sorcerers edited by Peter Haining) {
+	AE=|Walter Velez|
+	AS=|ChesP|
+	YR=|1998|
+	TG=|19570|
+	TA=|Best Cover Illustration - Paperback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Terrorists of Irustan by Louise Marley) {
+	AE=|John Jude Palencar|
+	AS=|ChesP|
+	YR=|1999|
+	TG=|20210|
+	TA=|Best Cover Illustration - Paperback Book|
+	TP=|aw|
+	LV=|1|
+}
+Cover (The Garden of Stone by Victoria Strauss) {
+	AE=|Rowena Morrill|
+	AS=|ChesP|
+	YR=|1999|
+	TG=|20208|
+	TA=|Best Cover Illustration - Paperback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Wrapt in Crystal by Sharon Shinn) {
+	AE=|Jean Pierre Targete|
+	AS=|ChesP|
+	YR=|1999|
+	TG=|20223|
+	TA=|Best Cover Illustration - Paperback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Callahan's Crosstime Saloon by Spider Robinson) {
+	AE=|James Warhola|
+	AS=|ChesP|
+	YR=|1999|
+	TG=|20227|
+	TA=|Best Cover Illustration - Paperback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Company of Glass by Valery Leith) {
+	AE=|Stephen Youll|
+	AS=|ChesP|
+	YR=|1999|
+	TG=|20233|
+	TA=|Best Cover Illustration - Paperback Book|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Chick is in the Mail by Martin H. Greenberg & Esther Friesner) {
+	AE=|Larry Elmore|
+	AS=|ChesP|
+	YR=|2000|
+	TG=|22031|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Book of Ash #2: Carthage Ascendant by Mary Gentle) {
+	AE=|Donato Giancola|
+	AS=|ChesP|
+	YR=|2000|
+	TG=|22037|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Magic Dead by Peter Garrison) {
+	AE=|Don Maitz|
+	AS=|ChesP|
+	YR=|2000|
+	TG=|22056|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Circle at Center by Douglas Niles) {
+	AE=|Jean Pierre Targete|
+	AS=|ChesP|
+	YR=|2000|
+	TG=|22073|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (The Clandestine Circle by Mary H. Herbert) {
+	AE=|Mark Zug|
+	AS=|ChesP|
+	YR=|2000|
+	TG=|22079|
+	TA=|Best Cover Illustration - Paperback|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Asimov's Dec 1984) [Promises to Keep by Jack McDevitt] {
+	AE=|Bob Walters|
+	AS=|ChesM|
+	YR=|1984|
+	TG=|17351|
+	TA=|Best Magazine Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Asimov's May 1985) [Dinner in Audoghast by Bruce Sterling] {
+	AE=|J. K. Potter|
+	AS=|ChesM|
+	YR=|1984|
+	TG=|17435|
+	TA=|Best Magazine Cover|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Asimov's Jan 1987) {
+	AE=|Bob Eggleton|
+	AS=|ChesM|
+	YR=|1986|
+	TG=|17255|
+	TA=|Best Magazine Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Amazing Jan 1988) {
+	AE=|Terry Lee|
+	AS=|ChesM|
+	YR=|1987|
+	TG=|17295|
+	TA=|Best Magazine Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Asimov's Jul 1988) {
+	AE=|Bob Eggleton|
+	AS=|ChesM|
+	YR=|1988|
+	TG=|17256|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|1|
+}
+Cover (MZB Fantasy Magazine Autumn 1989) {
+	AE=|Frank Kelly Freas+Laura Brodian Kelly Freas|
+	AS=|ChesM|
+	YR=|1989|
+	TG=|17268|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Aboriginal Jan 1990) {
+	AE=|Bob Eggleton|
+	AS=|ChesM|
+	YR=|1990|
+	TG=|17253|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Amazing Sep 1991) {
+	AE=|David Mattingly|
+	AS=|ChesM|
+	YR=|1991|
+	TG=|17313|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Asimov's Nov 1992) Asimov portrait {
+	AE=|Michael Whelan|
+	AS=|ChesM|
+	YR=|1992|
+	TG=|17405|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Asimov's Dec 1993) {
+	AE=|Wojtek Siudmak|
+	AS=|ChesM|
+	YR=|1993|
+	TG=|17335|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Asimov's Aug 1994) {
+	AE=|Bob Eggleton|
+	AS=|ChesM|
+	YR=|1994|
+	TG=|17372|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Asimov's May 1994) {
+	AE=|Mark Harrison|
+	AS=|ChesM|
+	YR=|1994|
+	TG=|17378|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Analog Sep 1994) [Hurricane!] {
+	AE=|John Maggard|
+	AS=|ChesM|
+	YR=|1994|
+	TG=|17387|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Asimov's Nov 1994) {
+	AE=|Chris Moore|
+	AS=|ChesM|
+	YR=|1994|
+	TG=|17390|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Analog Dec 1994) {
+	AE=|Wojtek Siudmak|
+	AS=|ChesM|
+	YR=|1994|
+	TG=|17399|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Analog Jan 1995) [Tide of Stars by Julia Ecklar] {
+	AE=|Bob Eggleton|
+	AS=|ChesM|
+	YR=|1995|
+	TG=|17254|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Jul 1995) [Final Review by G. David Nordley] {
+	AE=|Jim Burns|
+	AS=|ChesM|
+	YR=|1995|
+	TG=|17229|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (MZB Fantasy Magazine Summer 1995) {
+	AE=|Bob Eggleton|
+	AS=|ChesM|
+	YR=|1995|
+	TG=|17259|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Omni Fall 1995) {
+	AE=|Hajime Sorayama|
+	AS=|ChesM|
+	YR=|1995|
+	TG=|17339|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (F&SF Jun 1995) [The Spire Dancers] {
+	AE=|Ron Walotsky|
+	AS=|ChesM|
+	YR=|1995|
+	TG=|17347|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (F&SF May 1996) {
+	AE=|Bob Eggleton|
+	AS=|ChesM|
+	YR=|1996|
+	TG=|15548|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Realms of Fantasy Apr 1996) {
+	AE=|Brom|
+	AS=|ChesM|
+	YR=|1996|
+	TG=|15536|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Analog Oct 1996) [Starplex by Robert J. Sawyer] {
+	AE=|Jim Burns|
+	AS=|ChesM|
+	YR=|1996|
+	TG=|15537|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Analog Apr 1996) {
+	AE=|Vincent Di Fate|
+	AS=|ChesM|
+	YR=|1996|
+	TG=|15546|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Asimov's Feb 1996) {
+	AE=|Todd Lockwood|
+	AS=|ChesM|
+	YR=|1996|
+	TG=|15567|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Worlds of Fantasy and Horror Summer 1996) {
+	AE=|Ian Miller|
+	AS=|ChesM|
+	YR=|1996|
+	TG=|15578|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Asimov's May 1996) {
+	AE=|Wojtek Siudmak|
+	AS=|ChesM|
+	YR=|1996|
+	TG=|15594|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Dragon Aug 1997) {
+	AE=|Todd Lockwood|
+	AS=|ChesM|
+	YR=|1997|
+	TG=|18123|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Heavy Metal May 1997) {
+	AE=|Olivia de Berardinis|
+	AS=|ChesM|
+	YR=|1997|
+	TG=|18111|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Analog Oct 1997) [O Pioneer! by Frederik Pohl] {
+	AE=|Bob Eggleton|
+	AS=|ChesM|
+	YR=|1997|
+	TG=|18112|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Realms of Fantasy Apr 1997) {
+	AE=|Don Maitz|
+	AS=|ChesM|
+	YR=|1997|
+	TG=|18128|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (F&SF Apr 1997) {
+	AE=|Barclay Shaw|
+	AS=|ChesM|
+	YR=|1997|
+	TG=|18135|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (F&SF May 1998) {
+	AE=|Bob Eggleton|
+	AS=|ChesM|
+	YR=|1998|
+	TG=|19530|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|1|
+}
+Cover (F&SF Jul 1998) {
+	AE=|Jill Bauman|
+	AS=|ChesM|
+	YR=|1998|
+	TG=|19512|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Dungeon #70 1998) {
+	AE=|Brom|
+	AS=|ChesM|
+	YR=|1998|
+	TG=|19517|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Analog Apr 1998) {
+	AE=|Jim Burns|
+	AS=|ChesM|
+	YR=|1998|
+	TG=|19519|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (SF Age Mar 1998) {
+	AE=|Chris Moore|
+	AS=|ChesM|
+	YR=|1998|
+	TG=|19556|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Asimov's Apr 1998) {
+	AE=|Wojtek Siudmak|
+	AS=|ChesM|
+	YR=|1998|
+	TG=|19567|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (F&SF Aug 1999) {
+	AE=|Bob Eggleton|
+	AS=|ChesM|
+	YR=|1999|
+	TG=|20185|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|1|
+}
+Cover (F&SF Jun 1999) {
+	AE=|Jill Bauman|
+	AS=|ChesM|
+	YR=|1999|
+	TG=|20173|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Cemetery Dance Fall 1999) {
+	AE=|Alan M. Clark|
+	AS=|ChesM|
+	YR=|1999|
+	TG=|20180|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Realms of Fantasy Aug 1999) {
+	AE=|Greg Hildebrandt|
+	AS=|ChesM|
+	YR=|1999|
+	TG=|20198|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (F&SF Apr 1999) {
+	AE=|Ron Walotsky|
+	AS=|ChesM|
+	YR=|1999|
+	TG=|20226|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Dragon Jun 2000) {
+	AE=|Brom|
+	AS=|ChesM|
+	YR=|2000|
+	TG=|22020|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Analog Oct 2000) {
+	AE=|Frank Kelly Freas|
+	AS=|ChesM|
+	YR=|2000|
+	TG=|22033|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Dreams of Decadence Summer 2000) {
+	AE=|Jael|
+	AS=|ChesM|
+	YR=|2000|
+	TG=|22045|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Tomb Raider #6 Jul 2000) {
+	AE=|Joe Jusko|
+	AS=|ChesM|
+	YR=|2000|
+	TG=|22046|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Dragon Jul 2000) {
+	AE=|Todd Lockwood|
+	AS=|ChesM|
+	YR=|2000|
+	TG=|22053|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Cover (Heavy Metal Nov 2000) {
+	AE=|Luis Royo|
+	AS=|ChesM|
+	YR=|2000|
+	TG=|22068|
+	TA=|Best Cover Illustration - Magazine|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Analog Mar 1985) {
+	AE=|Dell Harris|
+	AS=|ChesI|
+	YR=|1984|
+	TG=|17281|
+	TA=|Best Interior Illustrator|
+	TP=|aw|
+	LV=|1|
+}
+Interior (Asimov's Mar 1985) [Marooned on Planet Earth by Thomas Wylde] {
+	AE=|Bob Walters|
+	AS=|ChesI|
+	YR=|1984|
+	TG=|17436|
+	TA=|Best Interior Illustrator|
+	TP=|aw|
+	LV=|9|
+}
+True Names {
+	AE=|Bob Walters|
+	AS=|ChesI|
+	YR=|1984|
+	TG=|17437|
+	TA=|Best Interior Illustrator|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Analog) {
+	AE=|Dell Harris|
+	AS=|ChesI|
+	YR=|1986|
+	TG=|17282|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Interior (Asimov's) [Vacuum Flowers] {
+	AE=|Bob Walters|
+	AS=|ChesI|
+	YR=|1986|
+	TG=|17352|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Interior (Amazing May 1987) [untitled illustration on p. 41] {
+	AE=|Janet Aulisio|
+	AS=|ChesI|
+	YR=|1987|
+	TG=|17227|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Interior (Merlin Dreams by Peter Dickinson) {
+	AE=|Alan Lee|
+	AS=|ChesI|
+	YR=|1988|
+	TG=|17292|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Interior (The Dragonlover's Guide to Pern by Anne McCaffrey and Jody Lynn Nye) {
+	AE=|Todd Cameron Hamilton|
+	AS=|ChesI|
+	YR=|1989|
+	TG=|17280|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Interior (Analog Jun 1990) [The Flowers, the Birds, the Leaves, the Bees by L. A. Taylor] {
+	AE=|Val Lakey Lindahn|
+	AS=|ChesI|
+	YR=|1990|
+	TG=|17296|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Interior (Weird Tales Summer 1991) [It Grows on You] {
+	AE=|Bob Walters|
+	AS=|ChesI|
+	YR=|1991|
+	TG=|17353|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Interior (Analog mid-Dec 1992) [Poles Apart by G. David Nordley] {
+	AE=|Alan M. Clark|
+	AS=|ChesI|
+	YR=|1992|
+	TG=|17366|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Interior (Asimov's Jun 1993) [The Toad of Heaven by Robert Reed] {
+	AE=|Alan M. Clark|
+	AS=|ChesI|
+	YR=|1993|
+	TG=|17242|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Lady Cottington's Pressed Fairy Book {
+	AE=|Brian Froud+Terry Jones|
+	AS=|ChesI|
+	YR=|1994|
+	TG=|17376|
+	TA=|Best Interior Illustration|
+	TP=|ac|
+	LV=|1|
+}
+Interior (Mermaid's Tale) {
+	AE=|Rob Alexander|
+	AS=|ChesI|
+	YR=|1994|
+	TG=|17356|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Buffalo Gals Won't You Come Out Tonight?) {
+	AE=|Susan Seddon Boulet|
+	AS=|ChesI|
+	YR=|1994|
+	TG=|17360|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Starmind by Spider & Jeanne Robinson) {
+	AE=|Alan M. Clark|
+	AS=|ChesI|
+	YR=|1994|
+	TG=|17367|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (The Black Gryphon by Mercedes Lackey) {
+	AE=|Larry Dixon|
+	AS=|ChesI|
+	YR=|1994|
+	TG=|17371|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Werewolves of Luna by R. Garcia y Robertson) {
+	AE=|Jonathan Hunt+Lisa Hunt|
+	AS=|ChesI|
+	YR=|1994|
+	TG=|17380|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Dinotopia: The World Beneath {
+	AE=|James Gurney|
+	AS=|ChesI|
+	YR=|1995|
+	TG=|17277|
+	TA=|Best Interior Illustration|
+	TP=|ac|
+	LV=|1|
+}
+Page 60 (Asimov's Jan 1995) [Hero by Stephen Baxter] {
+	AE=|Bob Eggleton|
+	AS=|ChesI|
+	YR=|1995|
+	TG=|17260|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Pages 10-11 (Asimov's Dec 1995) [The Doryman by Mary Rosenblum] {
+	AE=|Darryl Elliott|
+	AS=|ChesI|
+	YR=|1995|
+	TG=|17262|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Pages 44-45 (Realms of Fantasy Jun 1995) [Thorns by Martha Wells] {
+	AE=|Todd Lockwood|
+	AS=|ChesI|
+	YR=|1995|
+	TG=|17299|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (The Crystal Palace of Adamas by Richard Wainwright) {
+	AE=|Ron Walotsky|
+	AS=|ChesI|
+	YR=|1995|
+	TG=|17350|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Pages 40-41 (Realms of Fantasy Aug 1996) [Death Loves Me by Tanith Lee] {
+	AE=|Todd Lockwood|
+	AS=|ChesI|
+	YR=|1996|
+	TG=|15569|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Interior (The Voyage of the Bassett by James Christensen) {
+	AE=|James Christensen|
+	AS=|ChesI|
+	YR=|1996|
+	TG=|15542|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Page 82-83 (Asimov's Jul 1996) [Blood of the Dragon by George R. R. Martin] {
+	AE=|Darryl Elliott|
+	AS=|ChesI|
+	YR=|1996|
+	TG=|15549|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Strange Stains and Mysterious Smells by Terry Jones and Brian Froud) {
+	AE=|Brian Froud|
+	AS=|ChesI|
+	YR=|1996|
+	TG=|15550|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Desperation by Stephen King) {
+	AE=|Don Maitz|
+	AS=|ChesI|
+	YR=|1996|
+	TG=|15574|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (William Shakespeare's a Midsummer Nights' Dream Retold by Bruce Coville) {
+	AE=|Dennis Nolan|
+	AS=|ChesI|
+	YR=|1996|
+	TG=|15582|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (The Hobbit by J. R. R. Tolkien) {
+	AE=|Alan Lee|
+	AS=|ChesI|
+	YR=|1997|
+	TG=|18121|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Interior (Repent Harlequin, Said the Ticktockman by Harlan Ellison) {
+	AE=|Rick Berry|
+	AS=|ChesI|
+	YR=|1997|
+	TG=|18106|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Fractures in Rhyme - Art Against AIDS Project) The Queen of Hearts {
+	AE=|Thomas Canty|
+	AS=|ChesI|
+	YR=|1997|
+	TG=|18108|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (A Diversity of Dragons by Anne McCaffrey & Richard Woods) {
+	AE=|John Howe|
+	AS=|ChesI|
+	YR=|1997|
+	TG=|18116|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (MZB Fantasy Magazine, Autumn 1997) [Grey by Mercedes Lackey] {
+	AE=|Nicholas Jainschigg|
+	AS=|ChesI|
+	YR=|1997|
+	TG=|18117|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (SF Age Nov 1997) [On the Inside by Robert Silverberg] {
+	AE=|Todd Lockwood|
+	AS=|ChesI|
+	YR=|1997|
+	TG=|18125|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Good Faeries/Bad Faeries by Brian Froud and Terri Windling) {
+	AE=|Brian Froud|
+	AS=|ChesI|
+	YR=|1998|
+	TG=|19537|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Interior (Darker than You Think by Jack Williamson) {
+	AE=|Jill Bauman|
+	AS=|ChesI|
+	YR=|1998|
+	TG=|19513|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Pegasus by Marianna Mayer) {
+	AE=|Kinuko Y. Craft|
+	AS=|ChesI|
+	YR=|1998|
+	TG=|19525|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (The Book of Sea Monsters by Bob Eggleton and Nigel Suckling) {
+	AE=|Bob Eggleton|
+	AS=|ChesI|
+	YR=|1998|
+	TG=|19532|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Page 67 (SF Age Mar 1998) [Founding Fathers] {
+	AE=|Chris Moore|
+	AS=|ChesI|
+	YR=|1998|
+	TG=|19557|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Dinotopia: First Flight by James Gurney) {
+	AE=|James Gurney|
+	AS=|ChesI|
+	YR=|1999|
+	TG=|20194|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Frontispiece (Rules of Engagement by Elizabeth Moon) {
+	AE=|Vincent Di Fate|
+	AS=|ChesI|
+	YR=|1999|
+	TG=|20183|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (The Little Princess by Francis Hodgson Burnett) {
+	AE=|Jael|
+	AS=|ChesI|
+	YR=|1999|
+	TG=|20201|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (G-Fan Mar/Apr 1999) [Rainbow Mothra] {
+	AE=|Marianne Plumridge|
+	AS=|ChesI|
+	YR=|1999|
+	TG=|20214|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Spider Magazine Mar 1999) [Weighing the Elephant] {
+	AE=|Omar Rayyan|
+	AS=|ChesI|
+	YR=|1999|
+	TG=|20217|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Cinderella by K. Y. Craft) {
+	AE=|Kinuko Y. Craft|
+	AS=|ChesI|
+	YR=|2000|
+	TG=|22024|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (20,000 Leagues Under the Sea by Jules Verne) {
+	AE=|Leo Dillon+Diane Dillon|
+	AS=|ChesI|
+	YR=|2000|
+	TG=|22028|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Mzb Fantasy Magazine Winter 2000) A Dear Gazelle {
+	AE=|Omar Rayyan|
+	AS=|ChesI|
+	YR=|2000|
+	TG=|22066|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (Where Have the Unicorns Gone? by Jane Yolen) {
+	AE=|Ruth Sanderson|
+	AS=|ChesI|
+	YR=|2000|
+	TG=|22070|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Interior (The New Dinosaurs by William Stout) {
+	AE=|William Stout|
+	AS=|ChesI|
+	YR=|2000|
+	TG=|22072|
+	TA=|Best Interior Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Winter's King {
+	AE=|Dawn Wilson|
+	AS=|ChesQ|
+	YR=|1984|
+	TG=|17298|
+	TA=|Best Unpublished Color|
+	TP=|aw|
+	LV=|1|
+}
+Astronomy {
+	AE=|Joe Bergeron|
+	AS=|ChesQ|
+	YR=|1984|
+	TG=|17414|
+	TA=|Best Unpublished Color|
+	TP=|aw|
+	LV=|9|
+}
+Man of Prophecy {
+	AE=|David A. Cherry|
+	AS=|ChesQ|
+	YR=|1984|
+	TG=|17415|
+	TA=|Best Unpublished Color|
+	TP=|aw|
+	LV=|9|
+}
+Companions Through Necessity {
+	AE=|James Christensen|
+	AS=|ChesQ|
+	YR=|1984|
+	TG=|17416|
+	TA=|Best Unpublished Color|
+	TP=|aw|
+	LV=|9|
+}
+The Snow Queen {
+	AE=|Carl Lundgren|
+	AS=|ChesQ|
+	YR=|1984|
+	TG=|17428|
+	TA=|Best Unpublished Color|
+	TP=|aw|
+	LV=|9|
+}
+unknown {
+	AE=|David A. Cherry|
+	AS=|ChesQ|
+	YR=|1986|
+	TG=|17237|
+	TA=|Best Unpublished Color|
+	TP=|aw|
+	LV=|1|
+}
+Sentinels {
+	AE=|Michael Whelan|
+	AS=|ChesQ|
+	YR=|1986|
+	TG=|17271|
+	TA=|Best Unpublished Color|
+	TP=|aw|
+	LV=|1|
+}
+Conjure Maitz {
+	AE=|Don Maitz|
+	AS=|ChesQ|
+	YR=|1987|
+	TG=|17306|
+	TA=|Best Unpublished Color|
+	TP=|aw|
+	LV=|1|
+}
+The Waterfall City {
+	AE=|James Gurney|
+	AS=|ChesQ|
+	YR=|1988|
+	TG=|17278|
+	TA=|Best Unpublished Color|
+	TP=|aw|
+	LV=|1|
+}
+Windsor McKay City {
+	AE=|Tom Kidd|
+	AS=|ChesQ|
+	YR=|1989|
+	TG=|17291|
+	TA=|Best Unpublished Color|
+	TP=|aw|
+	LV=|1|
+}
+Charting the Skies {
+	AE=|Dean Morrissey|
+	AS=|ChesQ|
+	YR=|1990|
+	TG=|17319|
+	TA=|Best Unpublished Color|
+	TP=|aw|
+	LV=|1|
+}
+Filea Mea {
+	AE=|David A. Cherry|
+	AS=|ChesQ|
+	YR=|1991|
+	TG=|17236|
+	TA=|Best Unpublished Color|
+	TP=|aw|
+	LV=|1|
+}
+The Wizard of Owls {
+	AE=|Janny Wurts|
+	AS=|ChesQ|
+	YR=|1992|
+	TG=|17411|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|1|
+}
+Garden of Hope {
+	AE=|James Gurney|
+	AS=|ChesQ|
+	YR=|1993|
+	TG=|17276|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|1|
+}
+The Pain Doctors of Suture Self General {
+	AE=|Alan M. Clark|
+	AS=|ChesQ|
+	YR=|1994|
+	TG=|17243|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|1|
+}
+Leyak-Legong {
+	AE=|Mark Harrison|
+	AS=|ChesQ|
+	YR=|1994|
+	TG=|17379|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Silver Lining {
+	AE=|Don Maitz|
+	AS=|ChesQ|
+	YR=|1994|
+	TG=|17389|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Void Engineeers {
+	AE=|Kevin Murphy|
+	AS=|ChesQ|
+	YR=|1994|
+	TG=|17391|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Midnight Medusa {
+	AE=|Susan Van Camp|
+	AS=|ChesQ|
+	YR=|1994|
+	TG=|17403|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+The Archers {
+	AE=|Stephen Hickman|
+	AS=|ChesQ|
+	YR=|1995|
+	TG=|17284|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|1|
+}
+Heart of Thunder {
+	AE=|David Martin|
+	AS=|ChesQ|
+	YR=|1995|
+	TG=|17312|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Pan {
+	AE=|Dennis Nolan|
+	AS=|ChesQ|
+	YR=|1995|
+	TG=|17324|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Return of the Titans {
+	AE=|Ezra Tucker|
+	AS=|ChesQ|
+	YR=|1995|
+	TG=|17343|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Malthusian Wave {
+	AE=|Michael Whelan|
+	AS=|ChesQ|
+	YR=|1995|
+	TG=|17269|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Display (L.A. Con III) Sinja's World {
+	AE=|Rob Alexander|
+	AS=|ChesQ|
+	YR=|1996|
+	TG=|15532|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|1|
+}
+Display (L.A. Con III) Aurora {
+	AE=|Richard Hescox|
+	AS=|ChesQ|
+	YR=|1996|
+	TG=|15558|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Display (Dragoncon 1996) No Blood ... So Far {
+	AE=|Carl Lundgren|
+	AS=|ChesQ|
+	YR=|1996|
+	TG=|15571|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Display (WFC 1996) Haida {
+	AE=|David Martin|
+	AS=|ChesQ|
+	YR=|1996|
+	TG=|15575|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Display (L.A. Con III) Lumen 4 {
+	AE=|Michael Whelan|
+	AS=|ChesQ|
+	YR=|1996|
+	TG=|15607|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Painting (Private Commission) The Astronomer Prince {
+	AE=|Stephen Hickman|
+	AS=|ChesQ|
+	YR=|1997|
+	TG=|18114|
+	TA=|Best Unpublished Illustration - Color|
+	TP=|aw|
+	LV=|1|
+}
+Display (DragonCon 1997) Michael the Archangel {
+	AE=|Greg Hildebrandt+Tim Hildebrandt|
+	AS=|ChesQ|
+	YR=|1997|
+	TG=|18115|
+	TA=|Best Unpublished Illustration - Color|
+	TP=|aw|
+	LV=|9|
+}
+Display (LoneStarCon II) Chasing the Wind {
+	AE=|Don Maitz|
+	AS=|ChesQ|
+	YR=|1997|
+	TG=|18129|
+	TA=|Best Unpublished Illustration - Color|
+	TP=|aw|
+	LV=|9|
+}
+Display (LoneStarCon II) Perrin, Queen of Autumn {
+	AE=|Jennifer Emmett Weyland|
+	AS=|ChesQ|
+	YR=|1997|
+	TG=|18136|
+	TA=|Best Unpublished Illustration - Color|
+	TP=|aw|
+	LV=|9|
+}
+Salvation (oil) {
+	AE=|Marc Fishman|
+	AS=|ChesQ|
+	YR=|1998|
+	TG=|19535|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|1|
+}
+Rage & Despair (acrylic) {
+	AE=|Bob Eggleton|
+	AS=|ChesQ|
+	YR=|1998|
+	TG=|19533|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Pharazar (oil) {
+	AE=|Stephen Hickman|
+	AS=|ChesQ|
+	YR=|1998|
+	TG=|19543|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Family Personalitrees (acrylic) {
+	AE=|Jael|
+	AS=|ChesQ|
+	YR=|1998|
+	TG=|19545|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Solo at Sunset (acrylic) {
+	AE=|Charles Lang|
+	AS=|ChesQ|
+	YR=|1998|
+	TG=|19548|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Far from Home (oil) {
+	AE=|Don Maitz|
+	AS=|ChesQ|
+	YR=|1998|
+	TG=|19553|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Storm Worship/The Storm Twins (oil) {
+	AE=|John Jude Palencar|
+	AS=|ChesQ|
+	YR=|1998|
+	TG=|19561|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+At the Entmoot {
+	AE=|Stephen Hickman|
+	AS=|ChesQ|
+	YR=|1999|
+	TG=|20197|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|1|
+}
+Dragonstorm {
+	AE=|Bob Eggleton|
+	AS=|ChesQ|
+	YR=|1999|
+	TG=|20188|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Titania {
+	AE=|Marc Fishman|
+	AS=|ChesQ|
+	YR=|1999|
+	TG=|20190|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+King Solomon's Mines {
+	AE=|Don Maitz|
+	AS=|ChesQ|
+	YR=|1999|
+	TG=|20206|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Aphrodite Rising {
+	AE=|Marianne Plumridge|
+	AS=|ChesQ|
+	YR=|1999|
+	TG=|20212|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Peace {
+	AE=|Michael Whelan|
+	AS=|ChesQ|
+	YR=|1999|
+	TG=|20230|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Dance of the Dead {
+	AE=|H. Ed Cox|
+	AS=|ChesQ|
+	YR=|2000|
+	TG=|22022|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Daybreak {
+	AE=|Lubov|
+	AS=|ChesQ|
+	YR=|2000|
+	TG=|22054|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Appointment with Death {
+	AE=|Marianne Plumridge|
+	AS=|ChesQ|
+	YR=|2000|
+	TG=|22064|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Berry Market {
+	AE=|Omar Rayyan|
+	AS=|ChesQ|
+	YR=|2000|
+	TG=|22065|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Reach {
+	AE=|Michael Whelan|
+	AS=|ChesQ|
+	YR=|2000|
+	TG=|22075|
+	TA=|Best Color Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Can I Keep Him, Mom? {
+	AE=|Suzanna Griffin|
+	AS=|ChesB|
+	YR=|1984|
+	TG=|17273|
+	TA=|Best Unpublished Monochrome|
+	TP=|aw|
+	LV=|1|
+}
+Replicant {
+	AE=|Robert Daniels|
+	AS=|ChesB|
+	YR=|1984|
+	TG=|17417|
+	TA=|Best Unpublished Monochrome|
+	TP=|aw|
+	LV=|9|
+}
+Defiance {
+	AE=|Guy Frechette|
+	AS=|ChesB|
+	YR=|1984|
+	TG=|17421|
+	TA=|Best Unpublished Monochrome|
+	TP=|aw|
+	LV=|9|
+}
+Stinger {
+	AE=|Dell Harris|
+	AS=|ChesB|
+	YR=|1984|
+	TG=|17424|
+	TA=|Best Unpublished Monochrome|
+	TP=|aw|
+	LV=|9|
+}
+Queen of the Snows {
+	AE=|Dawn Wilson|
+	AS=|ChesB|
+	YR=|1987|
+	TG=|17286|
+	TA=|Best Unpublished Monochrome|
+	TP=|aw|
+	LV=|1|
+}
+Night Flyer {
+	AE=|Brad W. Foster|
+	AS=|ChesB|
+	YR=|1988|
+	TG=|17264|
+	TA=|Best Unpublished Monochrome|
+	TP=|aw|
+	LV=|1|
+}
+The Guardian {
+	AE=|Ruth Thompson|
+	AS=|ChesB|
+	YR=|1989|
+	TG=|17342|
+	TA=|Best Unpublished Monochrome|
+	TP=|aw|
+	LV=|1|
+}
+Study for All the Weyrs of Pern by Anne McCaffrey {
+	AE=|Michael Whelan|
+	AS=|ChesB|
+	YR=|1991|
+	TG=|17279|
+	TA=|Best Unpublished Monochrome|
+	TP=|aw|
+	LV=|1|
+}
+Tag, You're It {
+	AE=|David A. Cherry|
+	AS=|ChesB|
+	YR=|1992|
+	TG=|17365|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|1|
+}
+Impudence {
+	AE=|Carl Lundgren|
+	AS=|ChesB|
+	YR=|1993|
+	TG=|17344|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|1|
+}
+Promise {
+	AE=|Carl Lundgren|
+	AS=|ChesB|
+	YR=|1994|
+	TG=|17386|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|1|
+}
+Moondance {
+	AE=|Lisa Hunt|
+	AS=|ChesB|
+	YR=|1994|
+	TG=|17381|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Escape of the Smoke Nuisance {
+	AE=|Rick Lieder|
+	AS=|ChesB|
+	YR=|1994|
+	TG=|17385|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Julie's Nightmare {
+	AE=|Jeff Pitarelli|
+	AS=|ChesB|
+	YR=|1994|
+	TG=|17396|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Display (World Fantasy Convention 1995) Cerebus {
+	AE=|Todd Lockwood|
+	AS=|ChesB|
+	YR=|1995|
+	TG=|17297|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|1|
+}
+Display (Christie's Comic Auction, Oct 1995) Vampirella {
+	AE=|Frank Frazetta|
+	AS=|ChesB|
+	YR=|1995|
+	TG=|17265|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Display (L.A. Con III) Waiting for Anthony {
+	AE=|Davette Shands|
+	AS=|ChesB|
+	YR=|1996|
+	TG=|15592|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|1|
+}
+Display (Dragoncon 1996) Twig {
+	AE=|Joy Marie Ledet|
+	AS=|ChesB|
+	YR=|1996|
+	TG=|15566|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Display (L.A. Con III) Kali {
+	AE=|Todd Lockwood|
+	AS=|ChesB|
+	YR=|1996|
+	TG=|15568|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Display (Dragoncon 1996) Julie II {
+	AE=|Jeff Pitarelli|
+	AS=|ChesB|
+	YR=|1996|
+	TG=|15586|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Display (L.A. Con III) Raven Haired Beauty {
+	AE=|Sheila Rayyan|
+	AS=|ChesB|
+	YR=|1996|
+	TG=|15588|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Painting () Silently Moving People {
+	AE=|Joy Marie Ledat|
+	AS=|ChesB|
+	YR=|1997|
+	TG=|18120|
+	TA=|Best Unpublished Illustration - Monochrome|
+	TP=|aw|
+	LV=|1|
+}
+Display (DragonCon 1997) Teenage Angst {
+	AE=|Charles Keegan|
+	AS=|ChesB|
+	YR=|1997|
+	TG=|18118|
+	TA=|Best Unpublished Illustration - Monochrome|
+	TP=|aw|
+	LV=|9|
+}
+Display (DragonCon 1997) Mr. Buttons {
+	AE=|Richard Kirk|
+	AS=|ChesB|
+	YR=|1997|
+	TG=|18119|
+	TA=|Best Unpublished Illustration - Monochrome|
+	TP=|aw|
+	LV=|9|
+}
+Display (LoneStarCon II) Harlequin {
+	AE=|Erin McKee|
+	AS=|ChesB|
+	YR=|1997|
+	TG=|18130|
+	TA=|Best Unpublished Illustration - Monochrome|
+	TP=|aw|
+	LV=|9|
+}
+Display (Oasis 11) the Hatchling {
+	AE=|Stanley W. Morrison|
+	AS=|ChesB|
+	YR=|1997|
+	TG=|18131|
+	TA=|Best Unpublished Illustration - Monochrome|
+	TP=|aw|
+	LV=|9|
+}
+Display (DragonCon 1997) Callisto {
+	AE=|Jeff Pitarelli|
+	AS=|ChesB|
+	YR=|1997|
+	TG=|18134|
+	TA=|Best Unpublished Illustration - Monochrome|
+	TP=|aw|
+	LV=|9|
+}
+Bottom & Titania (black chalk) {
+	AE=|Beryl Bush|
+	AS=|ChesB|
+	YR=|1998|
+	TG=|19521|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|1|
+}
+A Hard Act to Follow (acrylic) {
+	AE=|H. Ed Cox|
+	AS=|ChesB|
+	YR=|1998|
+	TG=|19523|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Griffon Rider (acrylic & oil) {
+	AE=|Stephen Daniele|
+	AS=|ChesB|
+	YR=|1998|
+	TG=|19526|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Aisling (pencil) {
+	AE=|Joy Marie Ledet|
+	AS=|ChesB|
+	YR=|1998|
+	TG=|19549|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Artemis {
+	AE=|Rick Berry|
+	AS=|ChesB|
+	YR=|1999|
+	TG=|20176|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|1|
+}
+Dragonhenge {
+	AE=|Bob Eggleton|
+	AS=|ChesB|
+	YR=|1999|
+	TG=|20187|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Asian Wonders {
+	AE=|Stanley W. Morrison|
+	AS=|ChesB|
+	YR=|1999|
+	TG=|20209|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Claire Et La Luna {
+	AE=|Sheila Rayyan|
+	AS=|ChesB|
+	YR=|1999|
+	TG=|20218|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+It Followed Me Home, Can I Keep It? {
+	AE=|Sheila Rayyan|
+	AS=|ChesB|
+	YR=|1999|
+	TG=|20219|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+The Secret Garden {
+	AE=|Jill Bauman|
+	AS=|ChesB|
+	YR=|2000|
+	TG=|22018|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Anubis {
+	AE=|Charles Keegan|
+	AS=|ChesB|
+	YR=|2000|
+	TG=|22047|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Enchanged Wood {
+	AE=|Joel Keener|
+	AS=|ChesB|
+	YR=|2000|
+	TG=|22048|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Baby Dragon {
+	AE=|Stanley W. Morrison|
+	AS=|ChesB|
+	YR=|2000|
+	TG=|22061|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+A Wizard of Earthsea {
+	AE=|Drew Willis|
+	AS=|ChesB|
+	YR=|2000|
+	TG=|22077|
+	TA=|Best Monochrome Work - Unpublished|
+	TP=|aw|
+	LV=|9|
+}
+Merchant of Dreams {
+	AE=|Hap Henriksen|
+	AS=|Ches3|
+	YR=|1984|
+	TG=|17283|
+	TA=|Best 3D Art|
+	TP=|aw|
+	LV=|1|
+}
+Melchior the Cat Wizard {
+	AE=|Guy Frechette|
+	AS=|Ches3|
+	YR=|1984|
+	TG=|17422|
+	TA=|Best 3D Art|
+	TP=|aw|
+	LV=|9|
+}
+Scrimshaw Exhibit {
+	AE=|Jim Nelson|
+	AS=|Ches3|
+	YR=|1984|
+	TG=|17433|
+	TA=|Best 3D Art|
+	TP=|aw|
+	LV=|9|
+}
+Magic Mountain {
+	AE=|Butch Honeck+Susan Honeck|
+	AS=|Ches3|
+	YR=|1986|
+	TG=|17287|
+	TA=|Best 3D Art|
+	TP=|aw|
+	LV=|1|
+}
+Hawk Mountain {
+	AE=|John Longendorfer|
+	AS=|Ches3|
+	YR=|1987|
+	TG=|17300|
+	TA=|Best 3D Art|
+	TP=|aw|
+	LV=|1|
+}
+Metropolis {
+	AE=|John A. Morrison|
+	AS=|Ches3|
+	YR=|1988|
+	TG=|17318|
+	TA=|Best 3D Art|
+	TP=|aw|
+	LV=|1|
+}
+Wave Born (bronze) {
+	AE=|Arlin Robins|
+	AS=|Ches3|
+	YR=|1989|
+	TG=|17331|
+	TA=|Best 3D Art|
+	TP=|aw|
+	LV=|1|
+}
+The Fishwalker (bronze) {
+	AE=|James Christensen|
+	AS=|Ches3|
+	YR=|1990|
+	TG=|17238|
+	TA=|Best 3D Art|
+	TP=|aw|
+	LV=|1|
+}
+Celestial Jade {
+	AE=|Clayburn Moore|
+	AS=|Ches3|
+	YR=|1991|
+	TG=|17315|
+	TA=|Best 3D Art|
+	TP=|aw|
+	LV=|1|
+}
+Reflection {
+	AE=|Gary Persello|
+	AS=|Ches3|
+	YR=|1992|
+	TG=|17395|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|1|
+}
+... And I Am the Shining Star {
+	AE=|Jennifer Weyland|
+	AS=|Ches3|
+	YR=|1993|
+	TG=|17355|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|1|
+}
+Pitt {
+	AE=|Clayburn Moore|
+	AS=|Ches3|
+	YR=|1994|
+	TG=|17316|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|1|
+}
+Through the Eye of the Wizard {
+	AE=|Robert Ashton|
+	AS=|Ches3|
+	YR=|1994|
+	TG=|17357|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Chinese Demon {
+	AE=|Jeff Coleman|
+	AS=|Ches3|
+	YR=|1994|
+	TG=|17368|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Narnia {
+	AE=|Lee Dillon|
+	AS=|Ches3|
+	YR=|1994|
+	TG=|17369|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Don't Ask Jack {
+	AE=|Lisa Snellings|
+	AS=|Ches3|
+	YR=|1994|
+	TG=|17400|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Wonderland (wood) {
+	AE=|Barclay Shaw|
+	AS=|Ches3|
+	YR=|1995|
+	TG=|17334|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|1|
+}
+Display (San Diego Comics Con) Lady Death (coldcast porcelain) {
+	AE=|Clayburn Moore|
+	AS=|Ches3|
+	YR=|1995|
+	TG=|17317|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Display (Boskone 32) This Wheel Too, Goes Round (mixed media) {
+	AE=|Lisa Snellings|
+	AS=|Ches3|
+	YR=|1995|
+	TG=|17337|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Display (World Fantasy Convention 1995) Ancient Warrior (mixed media) {
+	AE=|Ron Walotsky|
+	AS=|Ches3|
+	YR=|1995|
+	TG=|17349|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Display (Boskone 32) Lightning (bronze) {
+	AE=|Jennifer Weyland|
+	AS=|Ches3|
+	YR=|1995|
+	TG=|17245|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Princess (bronze) {
+	AE=|Clayburn Moore+Frank Frazetta|
+	AS=|Ches3|
+	YR=|1996|
+	TG=|15579|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|1|
+}
+Pillow Fight (resin) {
+	AE=|Real Musgrave|
+	AS=|Ches3|
+	YR=|1996|
+	TG=|15581|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Time Bandit (bronze) {
+	AE=|J. A. Pippett|
+	AS=|Ches3|
+	YR=|1996|
+	TG=|15585|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Crowded After Hours (mixed media) {
+	AE=|Lisa Snellings|
+	AS=|Ches3|
+	YR=|1996|
+	TG=|15596|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Pegasus (bronze) {
+	AE=|Jennifer Weyland|
+	AS=|Ches3|
+	YR=|1996|
+	TG=|15603|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Witchblade (coldcast porcelain) {
+	AE=|Clayburn Moore|
+	AS=|Ches3|
+	YR=|1997|
+	TG=|18196|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|1|
+}
+Gandalf the Gray (mixed media) {
+	AE=|Danial Horne|
+	AS=|Ches3|
+	YR=|1997|
+	TG=|18174|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Reach (bronze) {
+	AE=|J. A. Pippett|
+	AS=|Ches3|
+	YR=|1997|
+	TG=|18203|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Princess Holly (mixed media) {
+	AE=|Laura Reynolds|
+	AS=|Ches3|
+	YR=|1997|
+	TG=|18210|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Dragonheart (coldcast porcelain) {
+	AE=|The Schifflet Brothers|
+	AS=|Ches3|
+	YR=|1997|
+	TG=|18215|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Short Trip to October (mixed media) {
+	AE=|Lisa Snellings|
+	AS=|Ches3|
+	YR=|1998|
+	TG=|19568|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|1|
+}
+Bionica (resin) {
+	AE=|Randy Bowen|
+	AS=|Ches3|
+	YR=|1998|
+	TG=|19515|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Basil the Basilisk Tries a Breathmint {
+	AE=|Halla Fleischer|
+	AS=|Ches3|
+	YR=|1998|
+	TG=|19536|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Miss Muffet [Based on a Painting by Brom] (coldcast resin) {
+	AE=|Barsom Manashian|
+	AS=|Ches3|
+	YR=|1998|
+	TG=|19554|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Isengrim (mixed media) {
+	AE=|Laura Reynolds|
+	AS=|Ches3|
+	YR=|1998|
+	TG=|19566|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+The Astrologer's Anteroom (wood & stone, furniture grouping) {
+	AE=|Johnna Klukas|
+	AS=|Ches3|
+	YR=|1999|
+	TG=|20202|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|1|
+}
+Maschera D'osso (ivory, fiber, displayed at World Fantasy) {
+	AE=|Marian Crane|
+	AS=|Ches3|
+	YR=|1999|
+	TG=|20182|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Never Say Die (super sculpey, displayed at Philcon) {
+	AE=|Halla Fleisher|
+	AS=|Ches3|
+	YR=|1999|
+	TG=|20191|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Heartsong (coldcast bronze) {
+	AE=|Marianne Plumridge|
+	AS=|Ches3|
+	YR=|1999|
+	TG=|20213|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Bendyman (mixed media) {
+	AE=|Lisa Snellings|
+	AS=|Ches3|
+	YR=|1999|
+	TG=|20220|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+The White Dragon {
+	AE=|Robert Belgrad|
+	AS=|Ches3|
+	YR=|2000|
+	TG=|22019|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Goth Faery (Fimo) {
+	AE=|Wendy Froud|
+	AS=|Ches3|
+	YR=|2000|
+	TG=|22034|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Bookstand (Read Oak, Slate, Glass & Sterling Silver) {
+	AE=|Johnna Klukas|
+	AS=|Ches3|
+	YR=|2000|
+	TG=|22050|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Millennium Angel (Resin) {
+	AE=|Sandra Lira|
+	AS=|Ches3|
+	YR=|2000|
+	TG=|22052|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Frazetta's Barbarian (Bronze) {
+	AE=|Clayburn Moore|
+	AS=|Ches3|
+	YR=|2000|
+	TG=|22060|
+	TA=|Best Three-Dimensional Art|
+	TP=|aw|
+	LV=|9|
+}
+Dragonlance Classics 15th Anniversary Game Module {
+	AE=|Todd Lockwood|
+	AS=|ChesG|
+	YR=|1998|
+	TG=|19552|
+	TA=|Best Gaming and Related Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Plainscape: The Inner Plains {
+	AE=|Brom|
+	AS=|ChesG|
+	YR=|1998|
+	TG=|19518|
+	TA=|Best Gaming and Related Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Ertai, Wizard Adept (Magic Card) {
+	AE=|Terese Nielsen|
+	AS=|ChesG|
+	YR=|1998|
+	TG=|19559|
+	TA=|Best Gaming and Related Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Alternity: Player's Handbook & Game Guide Cover {
+	AE=|R. K. Post|
+	AS=|ChesG|
+	YR=|1998|
+	TG=|19564|
+	TA=|Best Gaming and Related Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Duelist (Warriors of Heaven/Guide to Hell - two-sided insert poster) {
+	AE=|Brom|
+	AS=|ChesG|
+	YR=|1999|
+	TG=|20178|
+	TA=|Best Gaming-Related Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Ivy Scholar, Card Art, Magic: The Gathering {
+	AE=|Donato Giancola|
+	AS=|ChesG|
+	YR=|1999|
+	TG=|20193|
+	TA=|Best Gaming-Related Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Dune Card (put out by Last Unicorn Games, with Wizards of the Coast) {
+	AE=|Carol Heyer|
+	AS=|ChesG|
+	YR=|1999|
+	TG=|20195|
+	TA=|Best Gaming-Related Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Creatures of the Night, Golems {
+	AE=|Todd Lockwood|
+	AS=|ChesG|
+	YR=|1999|
+	TG=|20205|
+	TA=|Best Gaming-Related Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Unmask, Card Art, Magic: The Gathering {
+	AE=|R. K. Post|
+	AS=|ChesG|
+	YR=|1999|
+	TG=|20215|
+	TA=|Best Gaming-Related Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Archangel (Magic Card Package Art) {
+	AE=|Donato Giancola|
+	AS=|ChesT|
+	YR=|1998|
+	TG=|19539|
+	TA=|Best Product Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Starcraft (Computer Game Box Cover Art) {
+	AE=|Blizzard Entertainment|
+	AS=|ChesT|
+	YR=|1998|
+	TG=|19514|
+	TA=|Best Product Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Dragonlance 5th Age Calendar (Cover Art) {
+	AE=|Todd Lockwood|
+	AS=|ChesT|
+	YR=|1998|
+	TG=|19551|
+	TA=|Best Product Illustration|
+	TP=|aw|
+	LV=|9|
+}
+The Truth About Myths and Monsters (Promotional Billboard Art [Europe/Asia] for the National Geographic Channel) {
+	AE=|John Jude Palencar|
+	AS=|ChesT|
+	YR=|1998|
+	TG=|19562|
+	TA=|Best Product Illustration|
+	TP=|aw|
+	LV=|9|
+}
+A Bug's Life (Movie Poster) {
+	AE=|Pixar Studios|
+	AS=|ChesT|
+	YR=|1998|
+	TG=|19563|
+	TA=|Best Product Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Cleopatra (plate art for the Bradford Exchange) {
+	AE=|Richard Bober|
+	AS=|ChesT|
+	YR=|1999|
+	TG=|20177|
+	TA=|Best Product Illustration|
+	TP=|aw|
+	LV=|1|
+}
+Honey Lemon Ginseng Green Tea Box Art for Celestial Seasonings {
+	AE=|Kinuko Y. Craft|
+	AS=|ChesT|
+	YR=|1999|
+	TG=|20181|
+	TA=|Best Product Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Star Wars, Episode One (Character and Costume Design) {
+	AE=|Ian McCaig|
+	AS=|ChesT|
+	YR=|1999|
+	TG=|20207|
+	TA=|Best Product Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Cover Art for Everquest, 989 Studios/Sony {
+	AE=|Keith Parkinson|
+	AS=|ChesT|
+	YR=|1999|
+	TG=|20211|
+	TA=|Best Product Illustration|
+	TP=|aw|
+	LV=|9|
+}
+Star Wars, Episode One (Phantom Menace Poster) {
+	AE=|Drew Struzan|
+	AS=|ChesT|
+	YR=|1999|
+	TG=|20222|
+	TA=|Best Product Illustration|
+	TP=|aw|
+	LV=|9|
+}
+DAW Books {
+	AE=|Betsy Wollheim+Sheila Gilbert|
+	AS=|ChesD|
+	YR=|1989|
+	TG=|17323|
+	TA=|Best Art Direction|
+	TP=|ar|
+	LV=|1|
+}
+Ballantine Books {
+	AE=|Don Munson|
+	AS=|ChesD|
+	YR=|1990|
+	TG=|17320|
+	TA=|Best Art Direction|
+	TP=|ar|
+	LV=|1|
+}
+DAW Books {
+	AE=|Betsy Wollheim+Sheila Gilbert|
+	AS=|ChesD|
+	YR=|1991|
+	TG=|17329|
+	TA=|Best Art Direction|
+	TP=|ar|
+	LV=|1|
+}
+Bantam Books {
+	AE=|Jamie Warren Youll|
+	AS=|ChesD|
+	YR=|1992|
+	TG=|17412|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|1|
+}
+Bantam Books {
+	AE=|Jamie Warren Youll|
+	AS=|ChesD|
+	YR=|1993|
+	TG=|17336|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Cathy Burnett+Arnie Fenner|
+	AS=|ChesD|
+	YR=|1994|
+	TG=|17362|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|1|
+}
+Harper Collins {
+	AE=|Gene Mydlowski|
+	AS=|ChesD|
+	YR=|1994|
+	TG=|17392|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+unknown {
+	AE=|Ruth Ross|
+	AS=|ChesD|
+	YR=|1994|
+	TG=|17397|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+unknown {
+	AE=|Carol Russo|
+	AS=|ChesD|
+	YR=|1994|
+	TG=|17398|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+DAW Books {
+	AE=|Betsy Wollheim+Sheila Gilbert|
+	AS=|ChesD|
+	YR=|1994|
+	TG=|17408|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Bantam Spectra Books {
+	AE=|Jamie Warren Youll|
+	AS=|ChesD|
+	YR=|1995|
+	TG=|17354|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|1|
+}
+Harper Collins {
+	AE=|Gene Mydlowski|
+	AS=|ChesD|
+	YR=|1995|
+	TG=|17321|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Playboy {
+	AE=|Tom Staebler|
+	AS=|ChesD|
+	YR=|1995|
+	TG=|17340|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+The Greenwich Workshop {
+	AE=|David Usher|
+	AS=|ChesD|
+	YR=|1995|
+	TG=|17345|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+DAW Books {
+	AE=|Betsy Wollheim+Sheila Gilbert|
+	AS=|ChesD|
+	YR=|1995|
+	TG=|17333|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Bantam Spectra Books {
+	AE=|Jamie Warren Youll|
+	AS=|ChesD|
+	YR=|1996|
+	TG=|15608|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|1|
+}
+Wizards of the Coast {
+	AE=|Maria Cabardo|
+	AS=|ChesD|
+	YR=|1996|
+	TG=|15539|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Analog & Asimov's {
+	AE=|Terri Czeczko|
+	AS=|ChesD|
+	YR=|1996|
+	TG=|15544|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+TSR, Inc. {
+	AE=|Stephen Daniele|
+	AS=|ChesD|
+	YR=|1996|
+	TG=|15545|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Science Fiction Age {
+	AE=|Carl Gnam|
+	AS=|ChesD|
+	YR=|1996|
+	TG=|15553|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Bantam Books {
+	AE=|Jamie Warren Youll|
+	AS=|ChesD|
+	YR=|1997|
+	TG=|18236|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|1|
+}
+DNA Publications {
+	AE=|Warren Lapine|
+	AS=|ChesD|
+	YR=|1997|
+	TG=|18185|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Warner Books {
+	AE=|Don Puckey|
+	AS=|ChesD|
+	YR=|1997|
+	TG=|18205|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Random House/Ballantine Books {
+	AE=|David Stevenson|
+	AS=|ChesD|
+	YR=|1997|
+	TG=|18220|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Wizards of the Coast {
+	AE=|Matt Wilson|
+	AS=|ChesD|
+	YR=|1997|
+	TG=|18231|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Spectrum Design & Underwood Books {
+	AE=|Arnie Fenner+Cathy Fenner|
+	AS=|ChesD|
+	YR=|1998|
+	TG=|19534|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|1|
+}
+Tor Books {
+	AE=|Irene Gallo|
+	AS=|ChesD|
+	YR=|1998|
+	TG=|19538|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Time Warner {
+	AE=|Don Puckey|
+	AS=|ChesD|
+	YR=|1998|
+	TG=|19565|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Del Rey Books {
+	AE=|David Stevenson|
+	AS=|ChesD|
+	YR=|1998|
+	TG=|19569|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Bantam Books {
+	AE=|Jamie Warren Youll|
+	AS=|ChesD|
+	YR=|1998|
+	TG=|19573|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Wizards of the Coast {
+	AE=|Ron Spears|
+	AS=|ChesD|
+	YR=|1999|
+	TG=|20221|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|1|
+}
+Baen Books {
+	AE=|James P. Baen|
+	AS=|ChesD|
+	YR=|1999|
+	TG=|20172|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Spectrum and Legacy (The Book About Frank Frazetta) {
+	AE=|Cathy Fenner+Arnie Fenner|
+	AS=|ChesD|
+	YR=|1999|
+	TG=|20189|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Tor Books {
+	AE=|Irene Gallo|
+	AS=|ChesD|
+	YR=|1999|
+	TG=|20192|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Warner Books {
+	AE=|Don Puckey|
+	AS=|ChesD|
+	YR=|1999|
+	TG=|20216|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Baen Books {
+	AE=|James P. Baen|
+	AS=|ChesD|
+	YR=|2000|
+	TG=|22017|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Tor Books {
+	AE=|Irene Gallo|
+	AS=|ChesD|
+	YR=|2000|
+	TG=|22035|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+DAW Books {
+	AE=|Sheila Gilbert|
+	AS=|ChesD|
+	YR=|2000|
+	TG=|22039|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+Bantam Books {
+	AE=|Jamie Warren Youll|
+	AS=|ChesD|
+	YR=|2000|
+	TG=|22078|
+	TA=|Best Art Director|
+	TP=|ar|
+	LV=|9|
+}
+founding Studio of Illustration and Fine Art {
+	AE=|Carl Lundgren|
+	AS=|ChesA|
+	YR=|1984|
+	TG=|17302|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|1|
+}
+World's End {
+	AE=|Leo Dillon+Diane Dillon|
+	AS=|ChesA|
+	YR=|1984|
+	TG=|17418|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+Contribution to the Field {
+	AE=|Bob Eggleton|
+	AS=|ChesA|
+	YR=|1984|
+	TG=|17419|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+Contribution to the Field {
+	AE=|Tom Kidd|
+	AS=|ChesA|
+	YR=|1984|
+	TG=|17425|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+Contribution to the Field {
+	AE=|Don Maitz|
+	AS=|ChesA|
+	YR=|1984|
+	TG=|17429|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+Contribution to the Field {
+	AE=|David Mattingly|
+	AS=|ChesA|
+	YR=|1984|
+	TG=|17430|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+her Art Shows {
+	AE=|Elizabeth Pearse|
+	AS=|ChesA|
+	YR=|1984|
+	TG=|17434|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alex Schomburg|
+	AS=|ChesA|
+	YR=|1986|
+	TG=|17332|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Frank Frazetta|
+	AS=|ChesA|
+	YR=|1987|
+	TG=|17266|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|1|
+}
+First Maitz {
+	AE=|Don Maitz|
+	AS=|ChesA|
+	YR=|1988|
+	TG=|17311|
+	TA=|Award for Artistic Achievement|
+	TP=|ac|
+	LV=|1|
+}
+body of work {
+	AE=|Don Maitz|
+	AS=|ChesA|
+	YR=|1989|
+	TG=|17305|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|1|
+}
+body of work {
+	AE=|Michael Whelan|
+	AS=|ChesA|
+	YR=|1990|
+	TG=|17228|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|1|
+}
+body of work {
+	AE=|James Gurney|
+	AS=|ChesA|
+	YR=|1991|
+	TG=|17274|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|1|
+}
+body of work {
+	AE=|James Gurney|
+	AS=|ChesA|
+	YR=|1992|
+	TG=|17377|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|1|
+}
+body of work {
+	AE=|Frank Kelly Freas|
+	AS=|ChesA|
+	YR=|1993|
+	TG=|17267|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Frank Frazetta|
+	AS=|ChesA|
+	YR=|1994|
+	TG=|17374|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Jim Burns|
+	AS=|ChesA|
+	YR=|1994|
+	TG=|17363|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Brian Froud|
+	AS=|ChesA|
+	YR=|1994|
+	TG=|17375|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jael|
+	AS=|ChesA|
+	YR=|1994|
+	TG=|17382|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Gahan Wilson|
+	AS=|ChesA|
+	YR=|1994|
+	TG=|17407|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|ChesA|
+	YR=|1995|
+	TG=|17231|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Roger Dean|
+	AS=|ChesA|
+	YR=|1995|
+	TG=|17248|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Leo Dillon+Diane Dillon|
+	AS=|ChesA|
+	YR=|1995|
+	TG=|17250|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|ChesA|
+	YR=|1995|
+	TG=|17252|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Hajime Sorayama|
+	AS=|ChesA|
+	YR=|1995|
+	TG=|17338|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|ChesA|
+	YR=|1996|
+	TG=|15572|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Stephen Hickman|
+	AS=|ChesA|
+	YR=|1996|
+	TG=|15559|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Tim Hildebrandt+Greg Hildebrandt|
+	AS=|ChesA|
+	YR=|1996|
+	TG=|15561|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Ralph McQuarrie|
+	AS=|ChesA|
+	YR=|1996|
+	TG=|15577|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Real Musgrave|
+	AS=|ChesA|
+	YR=|1996|
+	TG=|15580|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Vincent Di Fate|
+	AS=|ChesA|
+	YR=|1997|
+	TG=|18161|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Rick Berry|
+	AS=|ChesA|
+	YR=|1997|
+	TG=|18147|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Olivia de Berardinis|
+	AS=|ChesA|
+	YR=|1997|
+	TG=|18159|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alan Lee|
+	AS=|ChesA|
+	YR=|1997|
+	TG=|18186|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Syd Mead|
+	AS=|ChesA|
+	YR=|1997|
+	TG=|18191|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|John Jude Palencar|
+	AS=|ChesA|
+	YR=|1997|
+	TG=|18200|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Bernie Wrightson|
+	AS=|ChesA|
+	YR=|1997|
+	TG=|18234|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|ChesA|
+	YR=|1998|
+	TG=|19529|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Jill Bauman|
+	AS=|ChesA|
+	YR=|1998|
+	TG=|19511|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Brom|
+	AS=|ChesA|
+	YR=|1998|
+	TG=|19516|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Alan M. Clark|
+	AS=|ChesA|
+	YR=|1998|
+	TG=|19522|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jeff Jones|
+	AS=|ChesA|
+	YR=|1998|
+	TG=|19547|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jean Giraud^Moebius|
+	AS=|ChesA|
+	YR=|1998|
+	TG=|19555|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Stephen Hickman|
+	AS=|ChesA|
+	YR=|1999|
+	TG=|20196|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|John Berkey|
+	AS=|ChesA|
+	YR=|1999|
+	TG=|20174|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Rick Berry|
+	AS=|ChesA|
+	YR=|1999|
+	TG=|20175|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|David A. Cherry|
+	AS=|ChesA|
+	YR=|1999|
+	TG=|20179|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Ron Walotsky|
+	AS=|ChesA|
+	YR=|1999|
+	TG=|20225|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Frank Kelly Freas|
+	AS=|ChesA|
+	YR=|2000|
+	TG=|22032|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Tom Kidd|
+	AS=|ChesA|
+	YR=|2000|
+	TG=|22049|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|ChesA|
+	YR=|2000|
+	TG=|22055|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|John Jude Palencar|
+	AS=|ChesA|
+	YR=|2000|
+	TG=|22062|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Lisa Snellings|
+	AS=|ChesA|
+	YR=|2000|
+	TG=|22071|
+	TA=|Award for Artistic Achievement|
+	TP=|ar|
+	LV=|9|
+}
+ASFA Newsletter {
+	AE=|Michele Lundgren|
+	AS=|ChesC|
+	YR=|1984|
+	TG=|17303|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+LAcon II Art Programming {
+	AE=|David Lee Anderson|
+	AS=|ChesC|
+	YR=|1984|
+	TG=|17413|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|9|
+}
+Artistic Contribution to ASFA Newsletter {
+	AE=|Matt Fertig|
+	AS=|ChesC|
+	YR=|1984|
+	TG=|17420|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|9|
+}
+ASFA Newsletter and Quarterly {
+	AE=|Matt Fertig|
+	AS=|ChesC|
+	YR=|1986|
+	TG=|17263|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+Contributions to ASFA {
+	AE=|David A. Cherry|
+	AS=|ChesC|
+	YR=|1988|
+	TG=|17232|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+Contributions to ASFA {
+	AE=|David A. Cherry|
+	AS=|ChesC|
+	YR=|1989|
+	TG=|17233|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+chairmanship & coordination of the Chesley Awards {
+	AE=|Erin McKee+Bettyann Guarino|
+	AS=|ChesC|
+	YR=|1990|
+	TG=|17314|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+service to ASFA {
+	AE=|Jan Sherrell Gephardt|
+	AS=|ChesC|
+	YR=|1991|
+	TG=|17270|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+financial assistance to ASFA {
+	AE=|Richard Kelly|
+	AS=|ChesC|
+	YR=|1991|
+	TG=|17288|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+service to ASFA (Board Member 1985-1993) {
+	AE=|Ingrid Nielson|
+	AS=|ChesC|
+	YR=|1992|
+	TG=|17393|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|1|
+}
+printing & mailing ASFA publications {
+	AE=|David Lee Pancake|
+	AS=|ChesC|
+	YR=|1993|
+	TG=|17325|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|1|
+}
+running the ASFA Print Shop at ConFrancisco {
+	AE=|Teresa Patterson+Pegasus Management Crew|
+	AS=|ChesC|
+	YR=|1993|
+	TG=|17330|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|1|
+}
+production of ASFA publications {
+	AE=|David Lee Pancake|
+	AS=|ChesC|
+	YR=|1994|
+	TG=|17394|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|1|
+}
+Design and Production of Last Year's Chesley brochure {
+	AE=|Holly Bird|
+	AS=|ChesC|
+	YR=|1994|
+	TG=|17359|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+monetary donation to ASFA {
+	AE=|Howard Frank+Network General Corp.|
+	AS=|ChesC|
+	YR=|1994|
+	TG=|17373|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+editorship of the ASFA Quarterly {
+	AE=|Diana Harlan Stein|
+	AS=|ChesC|
+	YR=|1994|
+	TG=|17401|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+Cheap Solution to the color Portfolio Dilemma,A) {
+	AE=|Janny Wurts|
+	AS=|ChesC|
+	YR=|1994|
+	TG=|17409|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+work on the Chesley Awards and the ASFA Elections {
+	AE=|Ingrid Neilson|
+	AS=|ChesC|
+	YR=|1995|
+	TG=|17322|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|1|
+}
+management of ASFA Hospitality Suite at the 1995 NASFiC/Dragon*Con {
+	AE=|Maurine Dorris|
+	AS=|ChesC|
+	YR=|1995|
+	TG=|17251|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+articles published in the ASFA Quarterly {
+	AE=|Don Maitz|
+	AS=|ChesC|
+	YR=|1995|
+	TG=|17304|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+printing and mailing the ASFA Quarterly; production and printing the 10th Annual Chesley Awards brochure {
+	AE=|David Lee Pancake|
+	AS=|ChesC|
+	YR=|1995|
+	TG=|17326|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+editorship of the ASFA Quarterly {
+	AE=|Diana Harlan Stein|
+	AS=|ChesC|
+	YR=|1995|
+	TG=|17341|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+Art Director Interviews (ASFA Quarterly, Vol. 14, No. 2/3) {
+	AE=|Don Maitz|
+	AS=|ChesC|
+	YR=|1996|
+	TG=|15573|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|1|
+}
+Donating 10% of CD-ROM Royalties to ASFA {
+	AE=|Jon Gustafson|
+	AS=|ChesC|
+	YR=|1996|
+	TG=|15554|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+Layout & Design (ASFA Quarterly, Vol. 14, No's. 1,2/3) {
+	AE=|Kim Ann Innes|
+	AS=|ChesC|
+	YR=|1996|
+	TG=|15563|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+Coordination of Printing & Mailing of ASFA Publications {
+	AE=|Teresa Patterson+Scott Merritt|
+	AS=|ChesC|
+	YR=|1996|
+	TG=|15584|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+Scanning & Layout of Chesley Awards Brochure {
+	AE=|Jeff Watson|
+	AS=|ChesC|
+	YR=|1996|
+	TG=|15601|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+for work above and beyond the call of duty as ASFA President {
+	AE=|Janny Wurts|
+	AS=|ChesC|
+	YR=|1997|
+	TG=|18235|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Jane Frank|
+	AS=|ChesC|
+	YR=|1997|
+	TG=|18168|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Todd Lockwood|
+	AS=|ChesC|
+	YR=|1997|
+	TG=|18187|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Morgana|
+	AS=|ChesC|
+	YR=|1997|
+	TG=|18197|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Teresa Patterson|
+	AS=|ChesC|
+	YR=|1997|
+	TG=|18201|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+Creation and Maintenance of the ASFA Website {
+	AE=|Jeff Watson|
+	AS=|ChesC|
+	YR=|1998|
+	TG=|19571|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|1|
+}
+Donation of Time and Expertise to Finalize ASFA's Non-Profit Status {
+	AE=|Tomas L. Ryan de Heredia|
+	AS=|ChesC|
+	YR=|1998|
+	TG=|19528|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+editorship of the ASFA Quarterly {
+	AE=|Kim Ann Innes|
+	AS=|ChesC|
+	YR=|1998|
+	TG=|19544|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+Coordination/Production of Last Year's Chesleys {
+	AE=|Jael+Thea Glas+Ingrid Neilson+John Neilson+Jeff Watson|
+	AS=|ChesC|
+	YR=|1998|
+	TG=|19546|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+Management of ASFA Suite at Bucconeer {
+	AE=|Morgana|
+	AS=|ChesC|
+	YR=|1998|
+	TG=|19558|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+Financial Assistance and Layout of Last Year's Chesley Awards Brochure {
+	AE=|Wizards of the Coast|
+	AS=|ChesC|
+	YR=|1999|
+	TG=|20232|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|1|
+}
+Chesley Team Leader in 1999 {
+	AE=|Jael|
+	AS=|ChesC|
+	YR=|1999|
+	TG=|20200|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+ASFA Website Design and Maintenance {
+	AE=|Jeff Watson|
+	AS=|ChesC|
+	YR=|1999|
+	TG=|20228|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}
+editorship of the ASFA Quarterly {
+	AE=|Mel White|
+	AS=|ChesC|
+	YR=|1999|
+	TG=|20231|
+	TA=|Award for Contribution to ASFA|
+	TP=|hu|
+	LV=|9|
+}

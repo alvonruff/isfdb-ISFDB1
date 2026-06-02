@@ -1,0 +1,45 @@
+<html> <head> <title>ISFDB Derived Information</title></head>
+<body bgcolor="ffffff">
+<h1>ISFDB Derived Information</h1>
+
+<ol>
+  <li> <a href="http://HTMLBASE/agestuff.html">Age Graphs</a>. A page
+  of graphs showing age-related information such as: age at publication
+  of first novel, age at publication of any novel (or shortfiction and
+  essays), age at publication of award-nominated publication, and age
+  at publication of an award-winning publication.
+  <p>
+  <li> <a href="http://HTMLBASE/top100.html">Top 100 Lists</a>.
+  These are top 100 lists based on awards data; novels, shortfiction,
+  publication, and author lists are available.
+  <p>
+  <li> <a href="http://HTMLBASE/oldest.html">Oldest Living List</a>.
+  A list of the oldest living authors, editors, and artists in the
+  database.
+  <p>
+  <li> <a href="http://HTMLBASE/oldest_nl.html">Oldest Non-Living List</a>.
+  A list of the oldest no-longer-living authors, editors, and artists in the
+  database.
+  <p>
+  <li> <a href="http://HTMLBASE/youngest.html">Youngest Living List</a>.
+  A list of the youngest living authors, editors, and artists in the
+  database.
+  <p>
+  <li> <a href="http://HTMLBASE/youngest_nl.html">Youngest Non-Living List</a>.
+  A list of the youngest no-longer-living authors, editors, and artists in the
+  database.
+  <p>
+  <li> <a href="http://HTMLBASE/mostsf.html">Most-Reviewed Books</a>.
+  Lists of genre-related books that were most reviewed by genre-related
+  publications.
+</ol>
+
+<p>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

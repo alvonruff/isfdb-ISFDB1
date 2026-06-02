@@ -1,0 +1,49 @@
+<html> <head> <title>ISFDB Award File Checkin</title></head>
+<body bgcolor="#ffffff">
+<h1>ISFDB Award Checkin Page</h1>
+
+<p>
+<form method="POST" action="http://DBASELOC/selectaw.cgi">
+
+<hr>
+Select the file you wish to checkin:
+<p>
+<pre>
+<input TYPE="radio" NAME="award" VALUE="Analog"      >......Analog <input TYPE="radio" NAME="award" VALUE="Apollo"      >......Apollo <input TYPE="radio" NAME="award" VALUE="AsimovR"     >.....AsimovR <input TYPE="radio" NAME="award" VALUE="AsimovU"     >.....AsimovU <input TYPE="radio" NAME="award" VALUE="Aurealis"    >....Aurealis 
+<br>
+<input TYPE="radio" NAME="award" VALUE="Aurora"      >......Aurora <input TYPE="radio" NAME="award" VALUE="Balrog"      >......Balrog <input TYPE="radio" NAME="award" VALUE="BFA"         >.........BFA <input TYPE="radio" NAME="award" VALUE="BSFA"        >........BSFA <input TYPE="radio" NAME="award" VALUE="Campbell"    >....Campbell 
+<br>
+<input TYPE="radio" NAME="award" VALUE="Chesley"     >.....Chesley <input TYPE="radio" NAME="award" VALUE="Clarke"      >......Clarke <input TYPE="radio" NAME="award" VALUE="ComptonCrook">ComptonCrook <input TYPE="radio" NAME="award" VALUE="Deathrealm"  >..Deathrealm <input TYPE="radio" NAME="award" VALUE="Ditmar"      >......Ditmar 
+<br>
+<input TYPE="radio" NAME="award" VALUE="Gandalf"     >.....Gandalf <input TYPE="radio" NAME="award" VALUE="HOMer"       >.......HOMer <input TYPE="radio" NAME="award" VALUE="Hugo"        >........Hugo <input TYPE="radio" NAME="award" VALUE="IFA"         >.........IFA <input TYPE="radio" NAME="award" VALUE="IHG"         >.........IHG 
+<br>
+<input TYPE="radio" NAME="award" VALUE="Imaginaire"  >..Imaginaire <input TYPE="radio" NAME="award" VALUE="JWCA"        >........JWCA <input TYPE="radio" NAME="award" VALUE="Lambda"      >......Lambda <input TYPE="radio" NAME="award" VALUE="Locus Poll"  >..Locus Poll <input TYPE="radio" NAME="award" VALUE="Mythopoeic"  >..Mythopoeic 
+<br>
+<input TYPE="radio" NAME="award" VALUE="Nebula"      >......Nebula <input TYPE="radio" NAME="award" VALUE="Prometheus"  >..Prometheus <input TYPE="radio" NAME="award" VALUE="PK Dick"     >.....PK Dick <input TYPE="radio" NAME="award" VALUE="RetroHugo"   >...RetroHugo <input TYPE="radio" NAME="award" VALUE="Rhysling"    >....Rhysling 
+<br>
+<input TYPE="radio" NAME="award" VALUE="SFBC"        >........SFBC <input TYPE="radio" NAME="award" VALUE="SF Chronicle">SF Chronicle <input TYPE="radio" NAME="award" VALUE="Skylark"     >.....Skylark <input TYPE="radio" NAME="award" VALUE="Sidewise"    >....Sidewise <input TYPE="radio" NAME="award" VALUE="Stoker"      >......Stoker 
+<br>
+<input TYPE="radio" NAME="award" VALUE="Sturgeon"    >....Sturgeon <input TYPE="radio" NAME="award" VALUE="Tiptree"     >.....Tiptree <input TYPE="radio" NAME="award" VALUE="WFA"         >.........WFA
+</pre>
+<hr>
+Password:
+<input name="password">
+<select name="owner">
+   <option selected>Al
+   <option>Paul
+   <option>Dave
+</select>
+<hr>
+<input type="submit" value="Submit Query">
+<input type="reset" value="Clear Form">
+</form>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" alt="ISFDB Logo" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.
+</body>
+</html>

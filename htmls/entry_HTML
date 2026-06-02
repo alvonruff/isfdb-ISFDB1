@@ -1,0 +1,23 @@
+<html> <head> <title>ISFDB Data Entry Page</title></head>
+<body bgcolor="ffffff">
+<h1>ISFDB Data Entry Page</h1>
+
+<p>
+Use this page to create an entry for a new author, or use it to enter new magazine
+information.
+<p>
+To enter a work (novel, collection, or anthology) for an existing author, go to
+that author's page and select the appropriate link at the top of the page.
+
+<ul>
+  <li> New [<a href="http://DBASELOC/dataentry.cgi?4">Author</a>].
+  <li> New [<a href="http://DBASELOC/dataentry.cgi?7">Magazine</a>].
+</ul>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

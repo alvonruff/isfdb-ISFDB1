@@ -1,0 +1,2538 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)CHRON	1.6	05/05/98 ISFDB";
+##
+The Claw of the Conciliator {
+	AE=|Gene Wolfe|
+	AS=|SFCN|
+	YR=|1982|
+	TG=|13596|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Foundation's Edge {
+	AE=|Isaac Asimov|
+	AS=|SFCN|
+	YR=|1982|
+	TG=|578|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+2010: Odyssey Two {
+	AE=|Arthur C. Clarke|
+	AS=|SFCN|
+	YR=|1982|
+	TG=|2790|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+The Sword of the Lictor {
+	AE=|Gene Wolfe|
+	AS=|SFCN|
+	YR=|1983|
+	TG=|13652|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Citadel of the Autarch {
+	AE=|Gene Wolfe|
+	AS=|SFCN|
+	YR=|1983|
+	TG=|13590|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Helliconia Summer {
+	AE=|Brian W. Aldiss|
+	AS=|SFCN|
+	YR=|1983|
+	TG=|259|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+Startide Rising {
+	AE=|David Brin|
+	AS=|SFCN|
+	YR=|1983|
+	TG=|1689|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+The Anubis Gates {
+	AE=|Tim Powers|
+	AS=|SFCN|
+	YR=|1984|
+	TG=|9375|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Neuromancer {
+	AE=|William Gibson|
+	AS=|SFCN|
+	YR=|1985|
+	TG=|4996|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Wild Shore {
+	AE=|Kim Stanley Robinson|
+	AS=|SFCN|
+	YR=|1985|
+	TG=|9853|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+The Integral Trees {
+	AE=|Larry Niven|
+	AS=|SFCN|
+	YR=|1985|
+	TG=|8756|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+Ender's Game {
+	AE=|Orson Scott Card|
+	AS=|SFCN|
+	YR=|1986|
+	TG=|2300|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Postman {
+	AE=|David Brin|
+	AS=|SFCN|
+	YR=|1986|
+	TG=|1681|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Helliconia Winter {
+	AE=|Brian W. Aldiss|
+	AS=|SFCN|
+	YR=|1986|
+	TG=|263|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+Speaker for the Dead {
+	AE=|Orson Scott Card|
+	AS=|SFCN|
+	YR=|1987|
+	TG=|2356|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Count Zero {
+	AE=|William Gibson|
+	AS=|SFCN|
+	YR=|1987|
+	TG=|4976|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+The Handmaid's Tale {
+	AE=|Margaret Atwood|
+	AS=|SFCN|
+	YR=|1987|
+	TG=|676|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+The Urth of the New Sun {
+	AE=|Gene Wolfe|
+	AS=|SFCN|
+	YR=|1988|
+	TG=|13659|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Swordspoint {
+	AE=|Ellen Kushner|
+	AS=|SFCN|
+	YR=|1988|
+	TG=|6854|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+When Gravity Fails {
+	AE=|George Alec Effinger|
+	AS=|SFCN|
+	YR=|1988|
+	TG=|3987|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+Cyteen {
+	AE=|C. J. Cherryh|
+	AS=|SFCN|
+	YR=|1989|
+	TG=|2664|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Islands in the Net {
+	AE=|Bruce Sterling|
+	AS=|SFCN|
+	YR=|1989|
+	TG=|11475|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Ivory: A Legend of Past and Future {
+	AE=|Mike Resnick|
+	AS=|SFCN|
+	YR=|1989|
+	TG=|9624|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+A Fire in the Sun {
+	AE=|George Alec Effinger|
+	AS=|SFCN|
+	YR=|1990|
+	TG=|3968|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Boat of a Million Years {
+	AE=|Poul Anderson|
+	AS=|SFCN|
+	YR=|1990|
+	TG=|361|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Hyperion {
+	AE=|Dan Simmons|
+	AS=|SFCN|
+	YR=|1990|
+	TG=|11003|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+The Fall of Hyperion {
+	AE=|Dan Simmons|
+	AS=|SFCN|
+	YR=|1991|
+	TG=|10992|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Earth {
+	AE=|David Brin|
+	AS=|SFCN|
+	YR=|1991|
+	TG=|1667|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+The Vor Game {
+	AE=|Lois McMaster Bujold|
+	AS=|SFCN|
+	YR=|1991|
+	TG=|1954|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+Stations of the Tide {
+	AE=|Michael Swanwick|
+	AS=|SFCN|
+	YR=|1992|
+	TG=|11777|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+All the Weyrs of Pern {
+	AE=|Anne McCaffrey|
+	AS=|SFCN|
+	YR=|1992|
+	TG=|8002|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Barrayar {
+	AE=|Lois McMaster Bujold|
+	AS=|SFCN|
+	YR=|1992|
+	TG=|1929|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+A Fire Upon the Deep {
+	AE=|Vernor Vinge|
+	AS=|SFCN|
+	YR=|1993|
+	TG=|12725|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Doomsday Book {
+	AE=|Connie Willis|
+	AS=|SFCN|
+	YR=|1993|
+	TG=|13389|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Red Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|SFCN|
+	YR=|1993|
+	TG=|9829|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+Moving Mars {
+	AE=|Greg Bear|
+	AS=|SFCN|
+	YR=|1994|
+	TG=|992|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Hard Landing {
+	AE=|Algis Budrys|
+	AS=|SFCN|
+	YR=|1994|
+	TG=|1900|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Green Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|SFCN|
+	YR=|1994|
+	TG=|9802|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+Brittle Innings {
+	AE=|Michael Bishop|
+	AS=|SFCN|
+	YR=|1995|
+	TG=|1226|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Mother of Storms {
+	AE=|John Barnes|
+	AS=|SFCN|
+	YR=|1995|
+	TG=|841|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Gun, with Occasional Music {
+	AE=|Jonathan Lethem|
+	AS=|SFCN|
+	YR=|1995|
+	TG=|7430|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+Holy Fire {
+	AE=|Bruce Sterling|
+	AS=|SFCN|
+	YR=|1997|
+	TG=|17717|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Blue Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|SFCN|
+	YR=|1997|
+	TG=|17712|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+Starplex {
+	AE=|Robert J. Sawyer|
+	AS=|SFCN|
+	YR=|1997|
+	TG=|17714|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+In the Western Tradition {
+	AE=|Phyllis Eisenstein|
+	AS=|SFCL|
+	YR=|1982|
+	TG=|4099|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Souls {
+	AE=|Joanna Russ|
+	AS=|SFCL|
+	YR=|1983|
+	TG=|10082|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Her Habiline Husband {
+	AE=|Michael Bishop|
+	AS=|SFCL|
+	YR=|1984|
+	TG=|1258|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Press Enter [] {
+	AE=|John Varley|
+	AS=|SFCL|
+	YR=|1985|
+	TG=|12665|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Only Neat Thing to Do {
+	AE=|James Tiptree, Jr.|
+	AS=|SFCL|
+	YR=|1986|
+	TG=|11981|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+R & R {
+	AE=|Lucius Shepard|
+	AS=|SFCL|
+	YR=|1987|
+	TG=|10650|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Secret Sharer {
+	AE=|Robert Silverberg|
+	AS=|SFCL|
+	YR=|1988|
+	TG=|10885|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Last of the Winnebagos {
+	AE=|Connie Willis|
+	AS=|SFCL|
+	YR=|1989|
+	TG=|13415|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Mountains of Mourning {
+	AE=|Lois McMaster Bujold|
+	AS=|SFCL|
+	YR=|1990|
+	TG=|1946|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Bully! {
+	AE=|Mike Resnick|
+	AS=|SFCL|
+	YR=|1991|
+	TG=|9612|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Beggars in Spain {
+	AE=|Nancy Kress|
+	AS=|SFCL|
+	YR=|1992|
+	TG=|6768|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Night We Buried Road Dog {
+	AE=|Jack Cady|
+	AS=|SFCL|
+	YR=|1994|
+	TG=|2146|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Wall, Stone, Craft {
+	AE=|Walter Jon Williams|
+	AS=|SFCL|
+	YR=|1994|
+	TG=|13322|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+Into the Miranda Rift {
+	AE=|G. David Nordley|
+	AS=|SFCL|
+	YR=|1994|
+	TG=|8848|
+	TA=|Novella|
+	TP=|nv|
+	LV=|3|
+}
+Seven Views of Olduvai Gorge {
+	AE=|Mike Resnick|
+	AS=|SFCL|
+	YR=|1995|
+	TG=|9666|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Forgiveness Day {
+	AE=|Ursula K. Le Guin|
+	AS=|SFCL|
+	YR=|1995|
+	TG=|7153|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+Cri de Coeur {
+	AE=|Michael Bishop|
+	AS=|SFCL|
+	YR=|1995|
+	TG=|1241|
+	TA=|Novella|
+	TP=|nv|
+	LV=|3|
+}
+Immersion {
+	AE=|Gregory Benford|
+	AS=|SFCL|
+	YR=|1997|
+	TG=|17688|
+	TA=|Novella|
+	TP=|nv|
+	LV=|1|
+}
+Gas Fish {
+	AE=|Mary Rosenblum|
+	AS=|SFCL|
+	YR=|1997|
+	TG=|17713|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+Abandon in Place {
+	AE=|Jerry Oltion|
+	AS=|SFCL|
+	YR=|1997|
+	TG=|17706|
+	TA=|Novella|
+	TP=|nv|
+	LV=|3|
+}
+Mummer Kiss {
+	AE=|Michael Swanwick|
+	AS=|SFCT|
+	YR=|1982|
+	TG=|11769|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Fire Watch {
+	AE=|Connie Willis|
+	AS=|SFCT|
+	YR=|1983|
+	TG=|13398|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Black Air {
+	AE=|Kim Stanley Robinson|
+	AS=|SFCT|
+	YR=|1984|
+	TG=|9776|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Bloodchild {
+	AE=|Octavia E. Butler|
+	AS=|SFCT|
+	YR=|1985|
+	TG=|2048|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Paper Dragons {
+	AE=|James P. Blaylock|
+	AS=|SFCT|
+	YR=|1986|
+	TG=|1387|
+	TA=|Novelette|
+	TP=|ss|
+	LV=|1|
+}
+Aymara {
+	AE=|Lucius Shepard|
+	AS=|SFCT|
+	YR=|1987|
+	TG=|10591|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Evening and the Morning and the Night {
+	AE=|Octavia E. Butler|
+	AS=|SFCT|
+	YR=|1988|
+	TG=|2055|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Schrödinger's Kitten {
+	AE=|George Alec Effinger|
+	AS=|SFCT|
+	YR=|1989|
+	TG=|3976|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+For I Have Touched the Sky {
+	AE=|Mike Resnick|
+	AS=|SFCT|
+	YR=|1990|
+	TG=|9619|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Manamouki {
+	AE=|Mike Resnick|
+	AS=|SFCT|
+	YR=|1991|
+	TG=|9642|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Gate of Faces {
+	AE=|Ray Aldridge|
+	AS=|SFCT|
+	YR=|1992|
+	TG=|294|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Battle of Long Island {
+	AE=|Nancy Kress|
+	AS=|SFCT|
+	YR=|1994|
+	TG=|6760|
+	TA=|Novelette|
+	TP=|ss|
+	LV=|1|
+}
+Georgia on My Mind {
+	AE=|Charles Sheffield|
+	AS=|SFCT|
+	YR=|1994|
+	TG=|10569|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+The Nutcracker Coup {
+	AE=|Janet Kagan|
+	AS=|SFCT|
+	YR=|1994|
+	TG=|6323|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Cocoon {
+	AE=|Greg Egan|
+	AS=|SFCT|
+	YR=|1995|
+	TG=|4004|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Matter of Seggri {
+	AE=|Ursula K. Le Guin|
+	AS=|SFCT|
+	YR=|1995|
+	TG=|7177|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+The Singular Habits of Wasps {
+	AE=|Geoffrey A. Landis|
+	AS=|SFCT|
+	YR=|1995|
+	TG=|6963|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Bicycle Repairman {
+	AE=|Bruce Sterling|
+	AS=|SFCT|
+	YR=|1997|
+	TG=|17716|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+The Land of Nod {
+	AE=|Mike Resnick|
+	AS=|SFCT|
+	YR=|1997|
+	TG=|17711|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Age of Aquarius {
+	AE=|William Barton|
+	AS=|SFCT|
+	YR=|1997|
+	TG=|17687|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+The Pusher {
+	AE=|John Varley|
+	AS=|SFCS|
+	YR=|1982|
+	TG=|12669|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Petra {
+	AE=|Greg Bear|
+	AS=|SFCS|
+	YR=|1983|
+	TG=|996|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Peacemaker {
+	AE=|Gardner Dozois|
+	AS=|SFCS|
+	YR=|1984|
+	TG=|3818|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Salvador {
+	AE=|Lucius Shepard|
+	AS=|SFCS|
+	YR=|1985|
+	TG=|10654|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Portraits of His Children {
+	AE=|George R. R. Martin|
+	AS=|SFCS|
+	YR=|1986|
+	TG=|7853|
+	TA=|Short Story|
+	TP=|nt|
+	LV=|1|
+}
+Pretty Boy Crossover {
+	AE=|Pat Cadigan|
+	AS=|SFCS|
+	YR=|1987|
+	TG=|2117|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Circular Library of Stones {
+	AE=|Carol Emshwiller|
+	AS=|SFCS|
+	YR=|1988|
+	TG=|4244|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Kirinyaga {
+	AE=|Mike Resnick|
+	AS=|SFCS|
+	YR=|1989|
+	TG=|9628|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Dori Bangs {
+	AE=|Bruce Sterling|
+	AS=|SFCS|
+	YR=|1990|
+	TG=|11457|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Bears Discover Fire {
+	AE=|Terry Bisson|
+	AS=|SFCS|
+	YR=|1991|
+	TG=|1320|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Vinland the Dream {
+	AE=|Kim Stanley Robinson|
+	AS=|SFCS|
+	YR=|1992|
+	TG=|9848|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Death on the Nile {
+	AE=|Connie Willis|
+	AS=|SFCS|
+	YR=|1994|
+	TG=|13379|
+	TA=|Short Story|
+	TP=|nt|
+	LV=|1|
+}
+Campbell's World {
+	AE=|Paul Di Filippo|
+	AS=|SFCS|
+	YR=|1994|
+	TG=|3520|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+The Good Pup {
+	AE=|Bridget McKenna|
+	AS=|SFCS|
+	YR=|1994|
+	TG=|8259|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+None So Blind {
+	AE=|Joe Haldeman|
+	AS=|SFCS|
+	YR=|1995|
+	TG=|5534|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Understanding Entropy {
+	AE=|Barry N. Malzberg|
+	AS=|SFCS|
+	YR=|1995|
+	TG=|7796|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Dead Man's Curve {
+	AE=|Terry Bisson|
+	AS=|SFCS|
+	YR=|1995|
+	TG=|1327|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Un-Birthday Boy {
+	AE=|James White|
+	AS=|SFCS|
+	YR=|1997|
+	TG=|17720|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Gone {
+	AE=|John Crowley|
+	AS=|SFCS|
+	YR=|1997|
+	TG=|17692|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Decency {
+	AE=|Robert Reed|
+	AS=|SFCS|
+	YR=|1997|
+	TG=|17710|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Raiders of the Lost Ark {
+	AE=|George Lucas+Philip Kaufman+Lawrence Kasdan|
+	MV=|Raiders of the Lost Ark (1981)|
+	AS=|SFCD|
+	YR=|1982|
+	TG=|6342|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Blade Runner {
+	AE=|Philip K. Dick+Hampton Fancher+David Webb Peoples|
+	MV=|Blade Runner (1982)|
+	AS=|SFCD|
+	YR=|1983|
+	TG=|4341|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+2010: Odyssey Two {
+	AE=|Arthur C. Clarke+Peter Hyams|
+	MV=|2010 (1984)|
+	AS=|SFCD|
+	YR=|1985|
+	TG=|6084|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Back to the Future {
+	AE=|Bob Gale+Robert Zemeckis|
+	MV=|Back to the Future (1985)|
+	AS=|SFCD|
+	YR=|1986|
+	TG=|13940|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Aliens {
+	AE=|James Cameron+David Giler+Walter Hill|
+	MV=|Aliens (1986)|
+	AS=|SFCD|
+	YR=|1987|
+	TG=|2168|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+The Princess Bride {
+	AE=|William Goldman|
+	MV=|Princess Bride, The (1987)|
+	AS=|SFCD|
+	YR=|1988|
+	TG=|5161|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Who Framed Roger Rabbit? {
+	AE=|Gary K. Wolf+Jeffrey Price+Peter S. Seaman|
+	MV=|Who Framed Roger Rabbit (1988)|
+	AS=|SFCD|
+	YR=|1989|
+	TG=|9422|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Field of Dreams {
+	AE=|W. P. Kinsella+Phil Alden Robinson|
+	MV=|Field of Dreams (1989)|
+	AS=|SFCD|
+	YR=|1990|
+	TG=|12344|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Total Recall {
+	AE=|Philip K. Dick+Ronald Shusett+Dan O'Bannon+Jon Povill+Gary Goldman|
+	MV=|Total Recall (1990)|
+	AS=|SFCD|
+	YR=|1991|
+	TG=|12453|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Terminator 2: Judgment Day {
+	AE=|James Cameron+William Wisher|
+	MV=|Terminator 2: Judgment Day (1991)|
+	AS=|SFCD|
+	YR=|1992|
+	TG=|2171|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Jurassic Park {
+	AE=|Michael Crichton+David Koepp|
+	MV=|Jurassic Park (1993)|
+	AS=|SFCD|
+	YR=|1994|
+	TG=|11211|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+The Nightmare Before Christmas {
+	AE=|Tim Burton+Michael McDowell+Caroline Thompson|
+	MV=|Nightmare Before Christmas, The (1993)|
+	AS=|SFCD|
+	YR=|1994|
+	TG=|11916|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|2|
+}
+Groundhog Day {
+	AE=|Harold Ramis+Danny Rubin|
+	MV=|Groundhog Day (1993)|
+	AS=|SFCD|
+	YR=|1994|
+	TG=|9980|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|3|
+}
+The Mask {
+	AE=|Michael Fallon+Mark Verheiden+Mike Webb|
+	MV=|Mask, The (1994)|
+	AS=|SFCD|
+	YR=|1995|
+	TG=|12991|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Star Trek: Generations {
+	AE=|Rick Berman+Ronald D. Moore+Brannon Braga|
+	MV=|Star Trek: Generations (1994)|
+	AS=|SFCD|
+	YR=|1995|
+	TG=|11343|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|2|
+}
+Interview with the Vampire {
+	AE=|Anne Rice|
+	MV=|Interview with the Vampire (1994)|
+	AS=|SFCD|
+	YR=|1995|
+	TG=|4888|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|3|
+}
+Stargate {
+	AE=|Dean Devlin+Roland Emmerich|
+	MV=|Stargate (1994)|
+	AS=|SFCD|
+	YR=|1995|
+	TG=|2947|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|4|
+}
+Star Trek: Deep Space Nine - Trials and Tribble-ations {
+	AE=|Ronald D. Moore+Rene Echevarria|
+	MV=|"Star Trek: Deep Space Nine" (1993)|
+	AS=|SFCD|
+	YR=|1997|
+	TG=|17704|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|1|
+}
+Star Trek: First Contact {
+	AE=|Rick Berman+Ronald D. Moore+Brannon Braga|
+	MV=|Star Trek: First Contact (1996)|
+	AS=|SFCD|
+	YR=|1997|
+	TG=|17689|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|2|
+}
+Babylon 5 - Severed Dreams {
+	AE=|J. Michael Straczynski|
+	MV=|"Babylon 5" (1994)|
+	AS=|SFCD|
+	YR=|1997|
+	TG=|17718|
+	TA=|Dramatic Presentation|
+	TP=|tve|
+	LV=|3|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|SFCA|
+	YR=|1982|
+	TG=|13103|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|SFCA|
+	YR=|1983|
+	TG=|13104|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|SFCA|
+	YR=|1984|
+	TG=|13105|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|SFCA|
+	YR=|1985|
+	TG=|13106|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|SFCA|
+	YR=|1986|
+	TG=|13107|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|SFCA|
+	YR=|1987|
+	TG=|13108|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|SFCA|
+	YR=|1988|
+	TG=|13109|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|SFCA|
+	YR=|1989|
+	TG=|7746|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|SFCA|
+	YR=|1990|
+	TG=|2262|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|SFCA|
+	YR=|1991|
+	TG=|13110|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|SFCA|
+	YR=|1992|
+	TG=|13111|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|SFCA|
+	YR=|1994|
+	TG=|13112|
+	TA=|Pro Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|SFCA|
+	YR=|1994|
+	TG=|7747|
+	TA=|Pro Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|SFCA|
+	YR=|1994|
+	TG=|4073|
+	TA=|Pro Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|SFCA|
+	YR=|1995|
+	TG=|4074|
+	TA=|Pro Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|SFCA|
+	YR=|1995|
+	TG=|7748|
+	TA=|Pro Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|SFCA|
+	YR=|1995|
+	TG=|13113|
+	TA=|Pro Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|SFCA|
+	YR=|1997|
+	TG=|17632|
+	TA=|Pro Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|SFCA|
+	YR=|1997|
+	TG=|17655|
+	TA=|Pro Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|SFCA|
+	YR=|1997|
+	TG=|17679|
+	TA=|Pro Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Edward L. Ferman|
+	AS=|SFCEM|
+	YR=|1982|
+	TG=|4441|
+	TA=|Editor|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Edward L. Ferman|
+	AS=|SFCEM|
+	YR=|1983|
+	TG=|4442|
+	TA=|Editor|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Edward L. Ferman|
+	AS=|SFCEM|
+	YR=|1984|
+	TG=|4443|
+	TA=|Editor (Magazines)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Edward L. Ferman|
+	AS=|SFCEM|
+	YR=|1985|
+	TG=|4444|
+	TA=|Editor (Magazines)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Shawna McCarthy|
+	AS=|SFCEM|
+	YR=|1986|
+	TG=|8075|
+	TA=|Editor (Magazines)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Gardner Dozois|
+	AS=|SFCEM|
+	YR=|1987|
+	TG=|3784|
+	TA=|Editor (Magazines)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Gardner Dozois|
+	AS=|SFCEM|
+	YR=|1988|
+	TG=|3785|
+	TA=|Editor (Magazines)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Edward L. Ferman|
+	AS=|SFCEM|
+	YR=|1989|
+	TG=|4445|
+	TA=|Editor (Magazines)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Gardner Dozois|
+	AS=|SFCEM|
+	YR=|1990|
+	TG=|3786|
+	TA=|Editor (Magazines)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Edward L. Ferman|
+	AS=|SFCEM|
+	YR=|1991|
+	TG=|4446|
+	TA=|Editor (Magazines)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Gardner Dozois|
+	AS=|SFCEM|
+	YR=|1992|
+	TG=|3787|
+	TA=|Editor (Magazines)|
+	TP=|ed|
+	LV=|1|
+}
+Asimov's Science Fiction {
+	AE=|Gardner Dozois|
+	AS=|SFCEM|
+	YR=|1994|
+	TG=|3793|
+	TA=|Pro Editor-Magazines|
+	TP=|ed|
+	LV=|1|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Kristine Kathryn Rusch|
+	AS=|SFCEM|
+	YR=|1994|
+	TG=|10036|
+	TA=|Pro Editor-Magazines|
+	TP=|ed|
+	LV=|2|
+}
+Analog Science Fiction and Fact {
+	AE=|Stanley Schmidt|
+	AS=|SFCEM|
+	YR=|1994|
+	TG=|10379|
+	TA=|Pro Editor-Magazines|
+	TP=|ed|
+	LV=|3|
+}
+Asimov's Science Fiction {
+	AE=|Gardner Dozois|
+	AS=|SFCEM|
+	YR=|1995|
+	TG=|3794|
+	TA=|Pro Editor - Magazines|
+	TP=|ed|
+	LV=|1|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Kristine Kathryn Rusch|
+	AS=|SFCEM|
+	YR=|1995|
+	TG=|10037|
+	TA=|Pro Editor - Magazines|
+	TP=|ed|
+	LV=|2|
+}
+Omni {
+	AE=|Ellen Datlow|
+	AS=|SFCEM|
+	YR=|1995|
+	TG=|3232|
+	TA=|Pro Editor - Magazines|
+	TP=|ed|
+	LV=|3|
+}
+Asimov's Science Fiction {
+	AE=|Gardner Dozois|
+	AS=|SFCEM|
+	YR=|1997|
+	TG=|17693|
+	TA=|Pro Editor - Magazines|
+	TP=|ed|
+	LV=|1|
+}
+Science Fiction Age {
+	AE=|Scott Edelman|
+	AS=|SFCEM|
+	YR=|1997|
+	TG=|17694|
+	TA=|Pro Editor - Magazines|
+	TP=|ed|
+	LV=|2|
+}
+Analog Science Fiction and Fact {
+	AE=|Stanley Schmidt|
+	AS=|SFCEM|
+	YR=|1997|
+	TG=|17715|
+	TA=|Pro Editor - Magazines|
+	TP=|ed|
+	LV=|3|
+}
+untitled {
+	AE=|David G. Hartwell|
+	AS=|SFCEB|
+	YR=|1984|
+	TG=|5712|
+	TA=|Editor (Books)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Terry Carr|
+	AS=|SFCEB|
+	YR=|1985|
+	TG=|2397|
+	TA=|Editor (Books)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Judy-Lynn del Rey|
+	AS=|SFCEB|
+	YR=|1986|
+	TG=|3390|
+	TA=|Editor (Books)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|David G. Hartwell|
+	AS=|SFCEB|
+	YR=|1987|
+	TG=|5713|
+	TA=|Editor (Books)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|David G. Hartwell|
+	AS=|SFCEB|
+	YR=|1988|
+	TG=|5714|
+	TA=|Editor (Books)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|David G. Hartwell|
+	AS=|SFCEB|
+	YR=|1989|
+	TG=|5715|
+	TA=|Editor (Books)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Beth Meacham|
+	AS=|SFCEB|
+	YR=|1990|
+	TG=|8339|
+	TA=|Editor (Books)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Ellen Datlow|
+	AS=|SFCEB|
+	YR=|1991|
+	TG=|3216|
+	TA=|Editor (Books)|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Ellen Datlow|
+	AS=|SFCEB|
+	YR=|1992|
+	TG=|3217|
+	TA=|Editor (Books)|
+	TP=|ed|
+	LV=|1|
+}
+Tor Books {
+	AE=|Beth Meacham|
+	AS=|SFCEB|
+	YR=|1994|
+	TG=|8341|
+	TA=|Pro Editor-Books|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Mike Resnick|
+	AS=|SFCEB|
+	YR=|1994|
+	TG=|9596|
+	TA=|Pro Editor-Books|
+	TP=|ed|
+	LV=|2|
+}
+untitled {
+	AE=|Ellen Datlow|
+	AS=|SFCEB|
+	YR=|1994|
+	TG=|3218|
+	TA=|Pro Editor-Books|
+	TP=|ed|
+	LV=|3|
+}
+Tor Books, various anthologies {
+	AE=|David G. Hartwell|
+	AS=|SFCEB|
+	YR=|1995|
+	TG=|5728|
+	TA=|Pro Editor - Books|
+	TP=|ed|
+	LV=|1|
+}
+Tor Books {
+	AE=|Beth Meacham|
+	AS=|SFCEB|
+	YR=|1995|
+	TG=|8342|
+	TA=|Pro Editor - Books|
+	TP=|ed|
+	LV=|2|
+}
+Tor Books {
+	AE=|Patrick Nielsen Hayden|
+	AS=|SFCEB|
+	YR=|1995|
+	TG=|5769|
+	TA=|Pro Editor - Books|
+	TP=|ed|
+	LV=|3|
+}
+Tor Books {
+	AE=|Patrick Nielsen Hayden|
+	AS=|SFCEB|
+	YR=|1997|
+	TG=|17705|
+	TA=|Pro Editor - Books|
+	TP=|ed|
+	LV=|1|
+}
+Tor Books {
+	AE=|Beth Meacham|
+	AS=|SFCEB|
+	YR=|1997|
+	TG=|17703|
+	TA=|Pro Editor - Books|
+	TP=|ed|
+	LV=|2|
+}
+Tor Books {
+	AE=|David G. Hartwell|
+	AS=|SFCEB|
+	YR=|1997|
+	TG=|17697|
+	TA=|Pro Editor - Books|
+	TP=|ed|
+	LV=|3|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCPZ|
+	YR=|1982|
+	TG=|9321|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|1|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCPZ|
+	YR=|1983|
+	TG=|9322|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|1|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCPZ|
+	YR=|1984|
+	TG=|9323|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|1|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCPZ|
+	YR=|1985|
+	TG=|9324|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|1|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCPZ|
+	YR=|1986|
+	TG=|9325|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|1|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCPZ|
+	YR=|1987|
+	TG=|9326|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|1|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCPZ|
+	YR=|1988|
+	TG=|9327|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|1|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCPZ|
+	YR=|1989|
+	TG=|9328|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|1|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCPZ|
+	YR=|1990|
+	TG=|9329|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|1|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCPZ|
+	YR=|1991|
+	TG=|9330|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|1|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCPZ|
+	YR=|1992|
+	TG=|9331|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|1|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCPZ|
+	YR=|1994|
+	TG=|9332|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|1|
+}
+Interzone {
+	AE=|David Pringle|
+	AS=|SFCPZ|
+	YR=|1994|
+	TG=|9478|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|2|
+}
+Locus {
+	AE=|Charles N. Brown|
+	AS=|SFCPZ|
+	YR=|1994|
+	TG=|1768|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|3|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCPZ|
+	YR=|1995|
+	TG=|9333|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|1|
+}
+Interzone {
+	AE=|David Pringle|
+	AS=|SFCPZ|
+	YR=|1995|
+	TG=|9479|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|2|
+}
+Locus {
+	AE=|Charles N. Brown|
+	AS=|SFCPZ|
+	YR=|1995|
+	TG=|1769|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|3|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCPZ|
+	YR=|1997|
+	TG=|17707|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|1|
+}
+Interzone {
+	AE=|David Pringle|
+	AS=|SFCPZ|
+	YR=|1997|
+	TG=|17708|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|2|
+}
+Locus {
+	AE=|Charles N. Brown|
+	AS=|SFCPZ|
+	YR=|1997|
+	TG=|17690|
+	TA=|Semi-Prozine|
+	TP=|sz|
+	LV=|3|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|SFCFZ|
+	YR=|1982|
+	TG=|9302|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+File 770 {
+	AE=|Mike Glyer|
+	AS=|SFCFZ|
+	YR=|1983|
+	TG=|5132|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+File 770 {
+	AE=|Mike Glyer|
+	AS=|SFCFZ|
+	YR=|1984|
+	TG=|5133|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+File 770 {
+	AE=|Mike Glyer|
+	AS=|SFCFZ|
+	YR=|1985|
+	TG=|5134|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+File 770 {
+	AE=|Mike Glyer|
+	AS=|SFCFZ|
+	YR=|1986|
+	TG=|5135|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Ansible {
+	AE=|David Langford|
+	AS=|SFCFZ|
+	YR=|1987|
+	TG=|7016|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Izzard {
+	AE=|Patrick Nielsen Hayden+Teresa Nielsen Hayden|
+	AS=|SFCFZ|
+	YR=|1988|
+	TG=|5771|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+FOSFAX {
+	AE=|Timothy Lane|
+	AS=|SFCFZ|
+	YR=|1989|
+	TG=|6976|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Lan's Lantern {
+	AE=|George Laskowski|
+	AS=|SFCFZ|
+	YR=|1990|
+	TG=|7063|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Lan's Lantern {
+	AE=|George Laskowski|
+	AS=|SFCFZ|
+	YR=|1991|
+	TG=|7064|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Ansible {
+	AE=|David Langford|
+	AS=|SFCFZ|
+	YR=|1992|
+	TG=|7017|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Mimosa {
+	AE=|Richard Lynch+Nicki Lynch|
+	AS=|SFCFZ|
+	YR=|1994|
+	TG=|7642|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Ansible {
+	AE=|David Langford|
+	AS=|SFCFZ|
+	YR=|1994|
+	TG=|7018|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|2|
+}
+Lan's Lantern {
+	AE=|George Laskowski|
+	AS=|SFCFZ|
+	YR=|1994|
+	TG=|7065|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|3|
+}
+Mimosa {
+	AE=|Richard Lynch+Nicki Lynch|
+	AS=|SFCFZ|
+	YR=|1995|
+	TG=|7643|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Ansible {
+	AE=|David Langford|
+	AS=|SFCFZ|
+	YR=|1995|
+	TG=|7019|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|2|
+}
+Blat! {
+	AE=|Dan Steffan+Ted White|
+	AS=|SFCFZ|
+	YR=|1995|
+	TG=|11415|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|3|
+}
+Tangent {
+	AE=|Dave Truesdale|
+	AS=|SFCFZ|
+	YR=|1997|
+	TG=|17719|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Mimosa {
+	AE=|Richard Lynch+Nicki Lynch|
+	AS=|SFCFZ|
+	YR=|1997|
+	TG=|17702|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|2|
+}
+Ansible {
+	AE=|David Langford|
+	AS=|SFCFZ|
+	YR=|1997|
+	TG=|17700|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|3|
+}
+untitled {
+	AE=|Richard E. Geis|
+	AS=|SFCFW|
+	YR=|1982|
+	TG=|4905|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|No Award Given This Year|
+	AS=|SFCFW|
+	YR=|1983|
+	TG=|8831|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Richard E. Geis|
+	AS=|SFCFW|
+	YR=|1984|
+	TG=|4906|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Richard E. Geis|
+	AS=|SFCFW|
+	YR=|1985|
+	TG=|4907|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Richard E. Geis|
+	AS=|SFCFW|
+	YR=|1986|
+	TG=|4908|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|David Langford|
+	AS=|SFCFW|
+	YR=|1987|
+	TG=|7002|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Teresa Nielsen Hayden|
+	AS=|SFCFW|
+	YR=|1988|
+	TG=|5776|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Mike Glyer|
+	AS=|SFCFW|
+	YR=|1989|
+	TG=|5114|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|David Langford|
+	AS=|SFCFW|
+	YR=|1990|
+	TG=|7003|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|David Langford|
+	AS=|SFCFW|
+	YR=|1991|
+	TG=|7004|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|David Langford|
+	AS=|SFCFW|
+	YR=|1992|
+	TG=|7005|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|David Langford|
+	AS=|SFCFW|
+	YR=|1994|
+	TG=|7006|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Andrew P. Hooper|
+	AS=|SFCFW|
+	YR=|1994|
+	TG=|6036|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|2|
+}
+untitled {
+	AE=|Sharon N. Farber|
+	AS=|SFCFW|
+	YR=|1994|
+	TG=|4350|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|3|
+}
+untitled {
+	AE=|David Langford|
+	AS=|SFCFW|
+	YR=|1995|
+	TG=|7007|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Andrew P. Hooper|
+	AS=|SFCFW|
+	YR=|1995|
+	TG=|6037|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|2|
+}
+untitled {
+	AE=|Mike Glyer|
+	AS=|SFCFW|
+	YR=|1995|
+	TG=|5115|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|3|
+}
+untitled {
+	AE=|David Langford|
+	AS=|SFCFW|
+	YR=|1997|
+	TG=|17699|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Evelyn C. Leeper|
+	AS=|SFCFW|
+	YR=|1997|
+	TG=|17701|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|2|
+}
+untitled {
+	AE=|Sharon N. Farber|
+	AS=|SFCFW|
+	YR=|1997|
+	TG=|17695|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|3|
+}
+untitled {
+	AE=|Alexis Gilliland|
+	AS=|SFCFA|
+	YR=|1982|
+	TG=|5072|
+	TA=|Fan Artist (Fanzines)|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Victoria Poyser|
+	AS=|SFCFA|
+	YR=|1982|
+	TG=|9401|
+	TA=|Fan Artist (Conventions)|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Alexis Gilliland|
+	AS=|SFCFA|
+	YR=|1983|
+	TG=|5073|
+	TA=|Fan Artist (Fanzines)|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|No Award Given This Year|
+	AS=|SFCFA|
+	YR=|1983|
+	TG=|8830|
+	TA=|Fan Artist (Conventions)|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Alexis Gilliland|
+	AS=|SFCFA|
+	YR=|1984|
+	TG=|5074|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Brad W. Foster|
+	AS=|SFCFA|
+	YR=|1985|
+	TG=|4603|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Brad W. Foster|
+	AS=|SFCFA|
+	YR=|1986|
+	TG=|4604|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Brad W. Foster|
+	AS=|SFCFA|
+	YR=|1987|
+	TG=|4605|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Brad W. Foster|
+	AS=|SFCFA|
+	YR=|1989|
+	TG=|4606|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Teddy Harvia|
+	AS=|SFCFA|
+	YR=|1990|
+	TG=|5746|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Teddy Harvia|
+	AS=|SFCFA|
+	YR=|1991|
+	TG=|5747|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Teddy Harvia|
+	AS=|SFCFA|
+	YR=|1992|
+	TG=|5748|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Linda Michaels|
+	AS=|SFCFA|
+	YR=|1994|
+	TG=|8366|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Joe Mayhew|
+	AS=|SFCFA|
+	YR=|1994|
+	TG=|7957|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|2|
+}
+untitled {
+	AE=|Merle Insinga|
+	AS=|SFCFA|
+	YR=|1994|
+	TG=|6116|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|3|
+}
+untitled {
+	AE=|Teddy Harvia|
+	AS=|SFCFA|
+	YR=|1994|
+	TG=|5749|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|4|
+}
+untitled {
+	AE=|Dan Steffan|
+	AS=|SFCFA|
+	YR=|1995|
+	TG=|11412|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Teddy Harvia|
+	AS=|SFCFA|
+	YR=|1995|
+	TG=|5750|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|2|
+}
+untitled {
+	AE=|Brad W. Foster|
+	AS=|SFCFA|
+	YR=|1995|
+	TG=|4607|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|3|
+}
+untitled {
+	AE=|Ian Gunn|
+	AS=|SFCFA|
+	YR=|1997|
+	TG=|17696|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Peggy Ranson|
+	AS=|SFCFA|
+	YR=|1997|
+	TG=|17709|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|2|
+}
+untitled {
+	AE=|Teddy Harvia|
+	AS=|SFCFA|
+	YR=|1997|
+	TG=|17698|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|3|
+}
+Denvention 2 {
+	AE=|Unknown|
+	AS=|SFCX|
+	YR=|1982|
+	TG=|12173|
+	TA=|Convention|
+	TP=|con|
+	LV=|1|
+}
+World Fantasy Convention 1982 {
+	AE=|Unknown|
+	AS=|SFCX|
+	YR=|1983|
+	TG=|12174|
+	TA=|Convention|
+	TP=|con|
+	LV=|1|
+}
+Ace Books art editor {
+	AE=|Gene Mydlowski|
+	AS=|SFCX|
+	YR=|1984|
+	TG=|8662|
+	TA=|Cover (Books)|
+	TP=|ev|
+	LV=|1|
+}
+Analog art editor {
+	AE=|Ralph Rubino|
+	AS=|SFCX|
+	YR=|1984|
+	TG=|9981|
+	TA=|Cover (Magazines)|
+	TP=|ev|
+	LV=|1|
+}
+untitled {
+	AE=|Susan Allison|
+	AS=|SFCZ|
+	YR=|1984|
+	TG=|326|
+	TA=|Most Attractive Female Editor|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Harlan Ellison|
+	AS=|SFCZ|
+	YR=|1984|
+	TG=|4135|
+	TA=|Most Attractive Male Writer|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Jean Gonzalez|
+	AS=|SFCZ|
+	YR=|1984|
+	TG=|5212|
+	TA=|Most Attractive Male Fan|
+	TP=|fn|
+	LV=|1|
+}
+untitled {
+	AE=|David G. Hartwell|
+	AS=|SFCZ|
+	YR=|1984|
+	TG=|5716|
+	TA=|Most Attractive Male Editor|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Tess Kissinger|
+	AS=|SFCZ|
+	YR=|1984|
+	TG=|6654|
+	TA=|Most Attractive Female Fan|
+	TP=|fn|
+	LV=|1|
+}
+untitled {
+	AE=|Tanith Lee|
+	AS=|SFCZ|
+	YR=|1984|
+	TG=|7240|
+	TA=|Most Attractive Female Writer|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|SFCZ|
+	YR=|1984|
+	TG=|7749|
+	TA=|Most Attractive Male Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Thomas F. Monteleone|
+	AS=|SFCZ|
+	YR=|1984|
+	TG=|8448|
+	TA=|Most Attractive Male Writer|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Dawn Wilson|
+	AS=|SFCZ|
+	YR=|1984|
+	TG=|13454|
+	TA=|Most Attractive Female Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Douglas E. Winter|
+	AS=|SFCZ|
+	YR=|1984|
+	TG=|13539|
+	TA=|Best Buns (Either Gender)|
+	TP=|hu|
+	LV=|1|
+}

@@ -1,0 +1,191 @@
+<html>
+<title>What's New With The ISFDB (1995)</title>
+<body bgcolor=ffffff>
+<h1>What's New With The ISFDB (1995)</h1>
+
+
+<hr>
+<dl><dt> <b>27 Dec 1995:</b>
+<ul>
+ <font size=-1>
+ <li> Altered <i>ccpubs</i> to automatically generate artist information from
+ the <b>CV</b> attribute stored in the publication data. In plain English,
+ this means that artwork data doesn't have to be double-entered any more.
+ </font>
+</ul>
+<p>
+<dt> <b>20 Dec 1995:</b>
+<ul>
+ <font size=-1>
+ <li> As requested, turned off the [Pub Biblio] link if there isn't actually
+ any publication data to view. Modified the content listing feature so that
+ the contents of an omnibus are displayed. 
+ </font>
+</ul>
+<p>
+<dt> <b>03 Dec 1995:</b>
+<ul>
+ <font size=-1>
+ <li> Added a new option to the search facility: the ability to generate
+ an index of fiction for a given year. This options filters works for a
+ given year, then collates them by author. This allows one to easily view
+ what works an author produced in a given year. This feature pushes the
+ database engine to 0.7.
+ </font>
+</ul>
+<p>
+<hr>
+<p>
+<dt> <b>29 Oct 1995:</b>
+<ul>
+ <font size=-1>
+ <li> Added support for one level of superseries. This should handle most of
+ the current series situations. Those authors who insist on creating a
+ subseries of a subseries of a series need to get a life and find something
+ else to write about - I just don't feel like dealing with an unlimited number 
+ of nested series today.
+ </font>
+</ul>
+<p>
+<dt> <b>15 Oct 1995:</b>
+<ul>
+ <font size=-1>
+ <li> Added support for British prices. The database compiler tools are built
+ around the UNIX lex and yacc facilities, which don't appreciate the 8-bit ASCII
+ or ISO character sets. So, to get the £ sign to work, British prices should
+ be preceded with an <i>L</i>, as in: <i>L5.99</i>. The database engine will
+ then handle the generation of the £ sign.
+ </font>
+</ul>
+<p>
+<dt> <b>08 Oct 1995:</b>
+<ul>
+ <font size=-1>
+ <li> Added support for variant titles. These are tagged in the titles 
+ database as an appendage to the working title. Variant titles are
+ denoted with the '^' operator.
+ </font>
+</ul>
+<p>
+<dt> <b>03 Oct 1995:</b>
+<ul>
+ <font size=-1>
+ <li> Added support for Zine Serials. This seems like enough additional
+ features since 0.5 to go to 0.6.
+ </font>
+</ul>
+<p>
+<hr>
+<p>
+<dt> <b>29 Sept 1995:</b>
+<ul>
+ <font size=-1>
+ <li> Added Zine auto-detect for Content Listings. If all of the works in a specific
+ publication have story length info, the listing goes into "zine mode" and outputs
+ the list via novella, novelette, short story, and poem
+ sections, just like the contents page of a zine.
+ <li> Added support for a Non-Genre category, as well as an Artwork category for 
+ cover art. Content Listings which denote the cover artist, now have a hotlink
+ to the artists Summary "Bibliography". Both categories show up on the Summary
+ Bibliography, and the search result listings for year and title.
+ </font>
+</ul>
+<p>
+<dt> <b>28 Sept 1995:</b>
+<ul>
+ <font size=-1>
+ <li> Added support for poems; will probably add non-genre next. Not that I
+ necessarily like tracking poems, but I decided to add them for completeness
+ while I'm pounding in the Asimov Zine info. 
+ <li> Added an SL attribute to the short fiction entries. This keeps track
+ of story length and is used to differentiate between novellas, novelettes,
+ and short stories - if that information is known.
+ </font>
+</ul>
+<p>
+<dt> <b>26 Sept 1995:</b>
+<ul>
+ <font size=-1>
+ <li> Rewrote the manner in which the awards database is constructed. Previously,
+ there was a separate compiled database, reverse author index, and reverse
+ year index for each award. Now there is just one for all awards. The award type 
+ is an extra tag in the database.
+ <li> Recoded the awards pages so that the author column is pulled left as
+ far as possible if no title exceeds 50 characters.
+ <li> Added full linewrap for bibliographic data on the summary page, so
+ awards don't spill off the right margin.
+ <li> Added title hot-links to publication history on the Summary Bibliography.
+ This allows the user to discern at a glance what titles have publication data,
+ and to quickly view that data.  This feature brings the database engine to 
+ rev 0.5.
+ </font>
+</ul>
+<p>
+<dt> <b>18 Sept 1995:</b>
+<ul>
+ <font size=-1>
+ <li> Publication Bibliographies are now online. The new Pub_Biblio anchor
+ is located on the Summary Bibliography. Every known publication instance
+ of a specific work is displayed, and publication titles are hotlinks to
+ detailed publication information. For omnibus, zines, collections, and
+ anthologies, this detailed information may include a listing of all works
+ contained within the publication. These listings consist of author/title
+ pairs, and the author listings are hotlinks back to that author's Summary
+ Bibliography. Engine Rev = 0.4
+ <li> Made a first pass at adding a zine page, allowing the user to look
+ at the contents of a specific SF zine.
+ </font>
+</ul>
+<p>
+<dt> <b>14 Sept 1995:</b>
+<ul>
+ <font size=-1>
+ <li> Added Corrections and New_Data anchors to the author biblio. Selecting
+Corrections brings up the authors correction page, which allows the user to
+select a work for correction. Upon selecting the work, a prefilled correction
+form is present to the user. The New_Data anchor presents a newdata form to
+the user, with only the Author field prefilled. The ability to submit 
+corrections and new data brings the Engine up to Rev 0.3.
+ <li> Added a separate Anthology Series section to the bibliography.
+ </font>
+</ul>
+<p>
+<dt> <b>11 Sept 1995:</b>
+<ul>
+ <font size=-1>
+ <li> The date field has been updated to comprehend forthcoming books,
+and now the expected publication date is printed. There is a new top-level
+menu which allows the displaying of all forthcoming books, sorted by
+month. The Engine is now Rev 0.2.
+ </font>
+</ul>
+<p>
+<dt> <b>09 Sept 1995:</b>
+<ul>
+ <font size=-1>
+ <li> Initial comments indicated a desire to show award nominations as well
+as award wins on the author's biblio page. This has been added (nominations
+have the notation [AwYear n]).
+ <li> Additionally, some terminals are still limited to 80 columns. Since 
+the biblios use preformatted html, a wrap/indent feature was added to prevent 
+long titles from spilling off the right edge of the page.
+ </font>
+</ul>
+
+<p>
+<dt> <b>08 Sept 1995:</b>
+<ul>
+ <font size=-1>
+ <li> ISFDB Engine 0.1 went online.
+ </font>
+</ul>
+
+</dl>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

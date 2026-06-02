@@ -1,0 +1,5669 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)AURORA	1.9	05/01/98 ISFDB";
+##
+A Judgement of Dragons {
+	AE=|Phyllis Gotlieb|
+	AS=|AurN|
+	YR=|1982|
+	TG=|5241|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|1|
+}
+Visions from the Edge {
+	AE=|John Bell+Lesley Choyce|
+	AS=|AurN|
+	YR=|1982|
+	TG=|1035|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|a|
+	LV=|9|
+}
+Friendly Aliens: Thirteen Stories of the Fantastic Set in Canada {
+	AE=|John Robert Colombo|
+	AS=|AurN|
+	YR=|1982|
+	TG=|2918|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|a|
+	LV=|9|
+}
+Imaro {
+	AE=|Charles R. Saunders|
+	AS=|AurN|
+	YR=|1982|
+	TG=|10238|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+No Award {
+	AE=|(********)|
+	AS=|AurN|
+	YR=|1983|
+	TG=|2|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|x|
+	LV=|1|
+}
+Windigo: An Anthology of Fact and Fantastic Fiction {
+	AE=|John Robert Colombo|
+	AS=|AurN|
+	YR=|1983|
+	TG=|2919|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|a|
+	LV=|9|
+}
+Cat Karina {
+	AE=|Michael G. Coney|
+	AS=|AurN|
+	YR=|1983|
+	TG=|2930|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Stargate {
+	AE=|Pauline Gedge|
+	AS=|AurN|
+	YR=|1983|
+	TG=|4886|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Eyas {
+	AE=|Crawford Kilian|
+	AS=|AurN|
+	YR=|1983|
+	TG=|6500|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Station Gehenna {
+	AE=|Andrew Weiner|
+	AS=|AurN|
+	YR=|1983|
+	TG=|13024|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|AurN|
+	YR=|1984|
+	TG=|23|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|x|
+	LV=|73|
+}
+Songs from the Drowned Lands^Journey to Apriloth {
+	AE=|Eileen Kernaghan|
+	AS=|AurN|
+	YR=|1985|
+	TG=|6437|
+	TA=|Best Work|
+	TP=|n|
+	LV=|1|
+}
+The Celestial Steam Locomotive {
+	AE=|Michael G. Coney|
+	AS=|AurN|
+	YR=|1985|
+	TG=|2932|
+	TA=|Best Work|
+	TP=|n|
+	LV=|9|
+}
+Neuromancer {
+	AE=|William Gibson|
+	AS=|AurN|
+	YR=|1985|
+	TG=|4987|
+	TA=|Best Work|
+	TP=|n|
+	LV=|9|
+}
+Melancholy Elephants {
+	AE=|Spider Robinson|
+	AS=|AurN|
+	YR=|1985|
+	TG=|9872|
+	TA=|Best Work|
+	TP=|c|
+	LV=|9|
+}
+Lifetime Contributions {
+	AE=|Judith Merril|
+	AS=|AurN|
+	YR=|1986|
+	TG=|8350|
+	TA=|Best Work in English|
+	TP=|au|
+	LV=|1|
+}
+The Handmaid's Tale {
+	AE=|Margaret Atwood|
+	AS=|AurN|
+	YR=|1986|
+	TG=|672|
+	TA=|Best Work in English|
+	TP=|n|
+	LV=|9|
+}
+Mulengro {
+	AE=|Charles de Lint|
+	AS=|AurN|
+	YR=|1986|
+	TG=|3360|
+	TA=|Best Work in English|
+	TP=|n|
+	LV=|9|
+}
+The Winter Market {
+	AE=|William Gibson|
+	AS=|AurN|
+	YR=|1986|
+	TG=|5004|
+	TA=|Best Work in English|
+	TP=|nt|
+	LV=|9|
+}
+The Kingdom of the Cats {
+	AE=|Phyllis Gotlieb|
+	AS=|AurN|
+	YR=|1986|
+	TG=|5242|
+	TA=|Best Work in English|
+	TP=|n|
+	LV=|9|
+}
+The Effect of Terminal Cancer on Potential Astronauts {
+	AE=|David Kirkpatrick|
+	AS=|AurN|
+	YR=|1986|
+	TG=|6651|
+	TA=|Best Work in English|
+	TP=|sf|
+	LV=|9|
+}
+Chronos' Christmas {
+	AE=|Rhea Rose|
+	AS=|AurN|
+	YR=|1986|
+	TG=|9916|
+	TA=|Best Work in English|
+	TP=|sf|
+	LV=|9|
+}
+The Wandering Fire {
+	AE=|Guy Gavriel Kay|
+	AS=|AurN|
+	YR=|1987|
+	TG=|6362|
+	TA=|Best Work in English|
+	TP=|n|
+	LV=|1|
+}
+Lifetime Contribution {
+	AE=|Michael G. Coney|
+	AS=|AurN|
+	YR=|1987|
+	TG=|2928|
+	TA=|Best Work in English|
+	TP=|au|
+	LV=|9|
+}
+Yarrow: An Autumn Tale {
+	AE=|Charles de Lint|
+	AS=|AurN|
+	YR=|1987|
+	TG=|3371|
+	TA=|Best Work in English|
+	TP=|n|
+	LV=|9|
+}
+Lifter {
+	AE=|Crawford Kilian|
+	AS=|AurN|
+	YR=|1987|
+	TG=|6501|
+	TA=|Best Work in English|
+	TP=|n|
+	LV=|9|
+}
+A Hidden Place {
+	AE=|Robert Charles Wilson|
+	AS=|AurN|
+	YR=|1987|
+	TG=|13491|
+	TA=|Best Work in English|
+	TP=|n|
+	LV=|9|
+}
+Jack, the Giant Killer^Jack the Giant-Killer: A Novel of Urban Faerie {
+	AE=|Charles de Lint|
+	AS=|AurN|
+	YR=|1988|
+	TG=|3348|
+	TA=|Best Work in English|
+	TP=|n|
+	LV=|1|
+}
+And Who is Joah? {
+	AE=|Tanya Huff|
+	AS=|AurN|
+	YR=|1988|
+	TG=|6056|
+	TA=|Best Work in English|
+	TP=|sf|
+	LV=|9|
+}
+The Darkest Road {
+	AE=|Guy Gavriel Kay|
+	AS=|AurN|
+	YR=|1988|
+	TG=|6347|
+	TA=|Best Work in English|
+	TP=|n|
+	LV=|9|
+}
+Time Pressure {
+	AE=|Spider Robinson|
+	AS=|AurN|
+	YR=|1988|
+	TG=|9877|
+	TA=|Best Work in English|
+	TP=|n|
+	LV=|9|
+}
+Memory Wire {
+	AE=|Robert Charles Wilson|
+	AS=|AurN|
+	YR=|1988|
+	TG=|13495|
+	TA=|Best Work in English|
+	TP=|n|
+	LV=|9|
+}
+Mona Lisa Overdrive {
+	AE=|William Gibson|
+	AS=|AurN|
+	YR=|1989|
+	TG=|4981|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|1|
+}
+Machine Sex and Other Stories {
+	AE=|Candas Jane Dorsey|
+	AS=|AurN|
+	YR=|1989|
+	TG=|3720|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|c|
+	LV=|9|
+}
+Time Pressure {
+	AE=|Spider Robinson|
+	AS=|AurN|
+	YR=|1989|
+	TG=|9878|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Le Silence de la cité^The Silent City (trans: Jane Brierley) {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurN|
+	YR=|1989|
+	TG=|12760|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Memory Wire {
+	AE=|Robert Charles Wilson|
+	AS=|AurN|
+	YR=|1989|
+	TG=|13496|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+West of January {
+	AE=|Dave Duncan|
+	AS=|AurN|
+	YR=|1990|
+	TG=|3864|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|1|
+}
+Barking Dogs {
+	AE=|Terence M. Green|
+	AS=|AurN|
+	YR=|1990|
+	TG=|5350|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|ss|
+	LV=|9|
+}
+Gate of Darkness, Circle of Light {
+	AE=|Tanya Huff|
+	AS=|AurN|
+	YR=|1990|
+	TG=|6062|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+The Sarsen Witch {
+	AE=|Eileen Kernaghan|
+	AS=|AurN|
+	YR=|1990|
+	TG=|6436|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Rogue Emperor: A Novel of the Chronoplane Wars {
+	AE=|Crawford Kilian|
+	AS=|AurN|
+	YR=|1990|
+	TG=|6502|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Gypsies {
+	AE=|Robert Charles Wilson|
+	AS=|AurN|
+	YR=|1990|
+	TG=|13489|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Tigana {
+	AE=|Guy Gavriel Kay|
+	AS=|AurN|
+	YR=|1991|
+	TG=|6358|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|1|
+}
+King of the Scepter'd Isle {
+	AE=|Michael G. Coney|
+	AS=|AurN|
+	YR=|1991|
+	TG=|2934|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Gate of Darkness, Circle of Light {
+	AE=|Tanya Huff|
+	AS=|AurN|
+	YR=|1991|
+	TG=|6063|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Golden Fleece {
+	AE=|Robert J. Sawyer|
+	AS=|AurN|
+	YR=|1991|
+	TG=|10262|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Gypsies {
+	AE=|Robert Charles Wilson|
+	AS=|AurN|
+	YR=|1991|
+	TG=|13490|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Golden Fleece {
+	AE=|Robert J. Sawyer|
+	AS=|AurN|
+	YR=|1992|
+	TG=|10263|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|1|
+}
+The Little Country {
+	AE=|Charles de Lint|
+	AS=|AurN|
+	YR=|1992|
+	TG=|3349|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+The Difference Engine {
+	AE=|William Gibson+Bruce Sterling|
+	AS=|AurN|
+	YR=|1992|
+	TG=|5009|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Blood Price {
+	AE=|Tanya Huff|
+	AS=|AurN|
+	YR=|1992|
+	TG=|6059|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Kill the Editor {
+	AE=|Spider Robinson|
+	AS=|AurN|
+	YR=|1992|
+	TG=|9869|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+The Divide {
+	AE=|Robert Charles Wilson|
+	AS=|AurN|
+	YR=|1992|
+	TG=|13486|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Passion Play {
+	AE=|Sean Stewart|
+	AS=|AurN|
+	YR=|1993|
+	TG=|11535|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|1|
+}
+Children of the Rainbow {
+	AE=|Terence M. Green|
+	AS=|AurN|
+	YR=|1993|
+	TG=|5353|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Blood Trail {
+	AE=|Tanya Huff|
+	AS=|AurN|
+	YR=|1993|
+	TG=|6061|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+A Song for Arbonne {
+	AE=|Guy Gavriel Kay|
+	AS=|AurN|
+	YR=|1993|
+	TG=|6352|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Far-Seer {
+	AE=|Robert J. Sawyer|
+	AS=|AurN|
+	YR=|1993|
+	TG=|10251|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Nobody's Son {
+	AE=|Sean Stewart|
+	AS=|AurN|
+	YR=|1994|
+	TG=|11533|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|1|
+}
+Virtual Light {
+	AE=|William Gibson|
+	AS=|AurN|
+	YR=|1994|
+	TG=|4999|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+A Song for Arbonne {
+	AE=|Guy Gavriel Kay|
+	AS=|AurN|
+	YR=|1994|
+	TG=|6353|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Far-Seer {
+	AE=|Robert J. Sawyer|
+	AS=|AurN|
+	YR=|1994|
+	TG=|10252|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Virtual Light {
+	AE=|William Gibson|
+	AS=|AurN|
+	YR=|1995|
+	TG=|5000|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|1|
+}
+Mysterium {
+	AE=|Robert Charles Wilson|
+	AS=|AurN|
+	YR=|1995|
+	TG=|13497|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|2|
+}
+The Callahan Touch {
+	AE=|Spider Robinson|
+	AS=|AurN|
+	YR=|1995|
+	TG=|9862|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|c|
+	LV=|3|
+}
+End of an Era {
+	AE=|Robert J. Sawyer|
+	AS=|AurN|
+	YR=|1995|
+	TG=|10246|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|4|
+}
+Near Death {
+	AE=|Nancy Kilpatrick|
+	AS=|AurN|
+	YR=|1995|
+	TG=|6508|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|5|
+}
+The Terminal Experiment^Hobson's Choice {
+	AE=|Robert J. Sawyer|
+	AS=|AurN|
+	YR=|1996|
+	TG=|10270|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|1|
+}
+Resurrection Man {
+	AE=|Sean Stewart|
+	AS=|AurN|
+	YR=|1996|
+	TG=|11538|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|2|
+}
+The Cursed {
+	AE=|Dave Duncan|
+	AS=|AurN|
+	YR=|1996|
+	TG=|3861|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|3|
+}
+Mysterium {
+	AE=|Robert Charles Wilson|
+	AS=|AurN|
+	YR=|1996|
+	TG=|13498|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|4|
+}
+Starmind {
+	AE=|Spider Robinson+Jeanne Robinson|
+	AS=|AurN|
+	YR=|1996|
+	TG=|9887|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|5|
+}
+The Lions of Al-Rassan {
+	AE=|Guy Gavriel Kay|
+	AS=|AurN|
+	YR=|1996|
+	TG=|6350|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|6|
+}
+Starplex {
+	AE=|Robert J. Sawyer|
+	AS=|AurN|
+	YR=|1997|
+	TG=|14651|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|1|
+}
+Shadow of Ashland {
+	AE=|Terence M. Green|
+	AS=|AurN|
+	YR=|1997|
+	TG=|14530|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+No Quarter {
+	AE=|Tanya Huff|
+	AS=|AurN|
+	YR=|1997|
+	TG=|14546|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Child of the Night {
+	AE=|Nancy Kilpatrick|
+	AS=|AurN|
+	YR=|1997|
+	TG=|14565|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Resurrection Man {
+	AE=|Sean Stewart|
+	AS=|AurN|
+	YR=|1997|
+	TG=|14681|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Black Wine {
+	AE=|Candas Jane Dorsey|
+	AS=|AurN|
+	YR=|1998|
+	TG=|18448|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|1|
+}
+Trader {
+	AE=|Charles de Lint|
+	AS=|AurN|
+	YR=|1998|
+	TG=|18427|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Shadow of Ashland {
+	AE=|Terence M. Green|
+	AS=|AurN|
+	YR=|1998|
+	TG=|18498|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Frameshift {
+	AE=|Robert J. Sawyer|
+	AS=|AurN|
+	YR=|1998|
+	TG=|18696|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Illegal Alien {
+	AE=|Robert J. Sawyer|
+	AS=|AurN|
+	YR=|1998|
+	TG=|18699|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Darwinia {
+	AE=|Robert Charles Wilson|
+	AS=|AurN|
+	YR=|1999|
+	TG=|21869|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|1|
+}
+Someplace to be Flying {
+	AE=|Charles de Lint|
+	AS=|AurN|
+	YR=|1999|
+	TG=|21744|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Flesh and Gold {
+	AE=|Phyllis Gotlieb|
+	AS=|AurN|
+	YR=|1999|
+	TG=|21753|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Sailing to Sarantium {
+	AE=|Guy Gavriel Kay|
+	AS=|AurN|
+	YR=|1999|
+	TG=|21767|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Dracul: An Eternal Love Story {
+	AE=|Nancy Kilpatrick|
+	AS=|AurN|
+	YR=|1999|
+	TG=|21769|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Factoring Humanity {
+	AE=|Robert J. Sawyer|
+	AS=|AurN|
+	YR=|1999|
+	TG=|21815|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Flashforward {
+	AE=|Robert J. Sawyer|
+	AS=|AurN|
+	YR=|2000|
+	TG=|21816|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|1|
+}
+Beholder's Eye {
+	AE=|Julie E. Czerneda|
+	AS=|AurN|
+	YR=|2000|
+	TG=|21740|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Brown Girl in the Ring {
+	AE=|Nalo Hopkinson|
+	AS=|AurN|
+	YR=|2000|
+	TG=|21760|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Death Drives a Semi {
+	AE=|Edo van Belkom|
+	AS=|AurN|
+	YR=|2000|
+	TG=|21855|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|c|
+	LV=|9|
+}
+Starfish {
+	AE=|Peter Watts|
+	AS=|AurN|
+	YR=|2000|
+	TG=|21865|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Bios {
+	AE=|Robert Charles Wilson|
+	AS=|AurN|
+	YR=|2000|
+	TG=|21868|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+The Snow Queen {
+	AE=|Eileen Kernaghan|
+	AS=|AurN|
+	YR=|2001|
+	TG=|21768|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|1|
+}
+Changing Vision {
+	AE=|Julie E. Czerneda|
+	AS=|AurN|
+	YR=|2001|
+	TG=|21741|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Hunted {
+	AE=|James Alan Gardner|
+	AS=|AurN|
+	YR=|2001|
+	TG=|21751|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Calculating God {
+	AE=|Robert J. Sawyer|
+	AS=|AurN|
+	YR=|2001|
+	TG=|21814|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+The Playback War {
+	AE=|Lisa Smedman|
+	AS=|AurN|
+	YR=|2001|
+	TG=|21825|
+	TA=|Best Long-Form Work in English / Meilleur livre en anglais|
+	TP=|n|
+	LV=|9|
+}
+Yadjine et la Mort {
+	AE=|Daniel Sernine|
+	AS=|AurRN|
+	YR=|1986|
+	TG=|10485|
+	TA=|Best Work in French|
+	TP=|sf|
+	LV=|1|
+}
+L'Incident Chicago {
+	AE=|Jean Dion|
+	AS=|AurRN|
+	YR=|1986|
+	TG=|22684|
+	TA=|Best Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Les Voix dans la machine {
+	AE=|Jean Dion|
+	AS=|AurRN|
+	YR=|1986|
+	TG=|22685|
+	TA=|Best Work in French|
+	TP=|sf|
+	LV=|9|
+}
+La Nature morte {
+	AE=|Charles Montpetit|
+	AS=|AurRN|
+	YR=|1986|
+	TG=|22686|
+	TA=|Best Work in French|
+	TP=|sf|
+	LV=|9|
+}
+L'Epuisement du soleil {
+	AE=|Esther Rochon|
+	AS=|AurRN|
+	YR=|1986|
+	TG=|22691|
+	TA=|Best Work in French|
+	TP=|n|
+	LV=|9|
+}
+La Maison au bord de la mer {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRN|
+	YR=|1986|
+	TG=|22693|
+	TA=|Best Work in French|
+	TP=|sf|
+	LV=|9|
+}
+La Carte du tendre {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRN|
+	YR=|1987|
+	TG=|12759|
+	TA=|Best Work in French|
+	TP=|sf|
+	LV=|1|
+}
+Bonne Fete, Univers {
+	AE=|Alain Bergeron|
+	AS=|AurRN|
+	YR=|1987|
+	TG=|22683|
+	TA=|Best Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Salut le Monde {
+	AE=|Claude-Michel Prevost|
+	AS=|AurRN|
+	YR=|1987|
+	TG=|22689|
+	TA=|Best Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Coquillage {
+	AE=|Esther Rochon|
+	AS=|AurRN|
+	YR=|1987|
+	TG=|22690|
+	TA=|Best Work in French|
+	TP=|n|
+	LV=|9|
+}
+Les Crabes de Venus regardent vers le ciel {
+	AE=|Alain Bergeron|
+	AS=|AurRN|
+	YR=|1988|
+	TG=|1138|
+	TA=|Best Work in French|
+	TP=|sf|
+	LV=|1|
+}
+Le Temps des migrations {
+	AE=|Francine Pelletier|
+	AS=|AurRN|
+	YR=|1988|
+	TG=|22687|
+	TA=|Best Work in French|
+	TP=|n|
+	LV=|9|
+}
+La Marquise de Tchernobyl {
+	AE=|Claude-Michel Prevost|
+	AS=|AurRN|
+	YR=|1988|
+	TG=|22688|
+	TA=|Best Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Le Traversier {
+	AE=|Esther Rochon|
+	AS=|AurRN|
+	YR=|1988|
+	TG=|22692|
+	TA=|Best Work in French|
+	TP=|n|
+	LV=|9|
+}
+Temps mort {
+	AE=|Charles Montpetit|
+	AS=|AurRN|
+	YR=|1989|
+	TG=|8461|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|1|
+}
+Les Gelules utopiques {
+	AE=|Guy Bouchard|
+	AS=|AurRN|
+	YR=|1989|
+	TG=|1490|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+La Plage des songes {
+	AE=|Stanley Pean|
+	AS=|AurRN|
+	YR=|1989|
+	TG=|9091|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Le Temps des migrations {
+	AE=|Francine Pelletier|
+	AS=|AurRN|
+	YR=|1989|
+	TG=|9101|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Le Traversier {
+	AE=|Esther Rochon|
+	AS=|AurRN|
+	YR=|1989|
+	TG=|9893|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+L'Oiseau de feu (Tome 1) {
+	AE=|Jacques Brossard|
+	AS=|AurRN|
+	YR=|1990|
+	TG=|1739|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|1|
+}
+Berlin-Bangkok {
+	AE=|Jean-Pierre April|
+	AS=|AurRN|
+	YR=|1990|
+	TG=|483|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+L'Idole des inactifs {
+	AE=|Denis Cote|
+	AS=|AurRN|
+	YR=|1990|
+	TG=|2990|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Le Domaine des sans yeux {
+	AE=|Jacques Lazure|
+	AS=|AurRN|
+	YR=|1990|
+	TG=|7087|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Histoire de la princesse et du dragon {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRN|
+	YR=|1991|
+	TG=|12754|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|1|
+}
+L'Oiseau de feu (2A) {
+	AE=|Jacques Brossard|
+	AS=|AurRN|
+	YR=|1991|
+	TG=|1736|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Le Maitre de Chichen Itza {
+	AE=|Vincent Chabot|
+	AS=|AurRN|
+	YR=|1991|
+	TG=|2531|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+La Mer au fond du monde {
+	AE=|Joël Champetier|
+	AS=|AurRN|
+	YR=|1991|
+	TG=|2548|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+L'Espace du diamant {
+	AE=|Esther Rochon|
+	AS=|AurRN|
+	YR=|1991|
+	TG=|9891|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Nuits blemes {
+	AE=|Daniel Sernine|
+	AS=|AurRN|
+	YR=|1991|
+	TG=|10482|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Ailleurs et au Japon {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRN|
+	YR=|1992|
+	TG=|12749|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|1|
+}
+La Taupe et la Dragon {
+	AE=|Joël Champetier|
+	AS=|AurRN|
+	YR=|1992|
+	TG=|2550|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Boulevard des etoiles {
+	AE=|Daniel Sernine|
+	AS=|AurRN|
+	YR=|1992|
+	TG=|10474|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+A la recherche de monsieur Goodtheim {
+	AE=|Daniel Sernine|
+	AS=|AurRN|
+	YR=|1992|
+	TG=|10478|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Nuits blemes {
+	AE=|Daniel Sernine|
+	AS=|AurRN|
+	YR=|1992|
+	TG=|10483|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Chroniques du Pays des Mères^In the Mothers' Land (trans: Jane Brierley)^The Maërlande Chronicles (1992) {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRN|
+	YR=|1993|
+	TG=|12750|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|1|
+}
+La Taupe et la Dragon {
+	AE=|Joël Champetier|
+	AS=|AurRN|
+	YR=|1993|
+	TG=|2551|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Chronoreg {
+	AE=|Daniel Sernine|
+	AS=|AurRN|
+	YR=|1993|
+	TG=|10475|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Le Cercle de Khaleb {
+	AE=|Daniel Sernine|
+	AS=|AurRN|
+	YR=|1993|
+	TG=|10479|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Chronoreg {
+	AE=|Daniel Sernine|
+	AS=|AurRN|
+	YR=|1994|
+	TG=|10476|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|1|
+}
+L'Oiseau de feu (2B) {
+	AE=|Jacques Brossard|
+	AS=|AurRN|
+	YR=|1994|
+	TG=|1737|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Le Jour-de-Trop {
+	AE=|Joël Champetier|
+	AS=|AurRN|
+	YR=|1994|
+	TG=|2552|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+La Mémoire du lac {
+	AE=|Joël Champetier|
+	AS=|AurRN|
+	YR=|1995|
+	TG=|2549|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|1|
+}
+Pour des soleils froids {
+	AE=|Jean-Louis Trudel|
+	AS=|AurRN|
+	YR=|1995|
+	TG=|12046|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|2|
+}
+Les Voyageurs malgré eux^Reluctant Voyagers (trans: Jane Brierley) {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRN|
+	YR=|1995|
+	TG=|12761|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|3|
+}
+Manuscrit trouvé dans un secrétaire {
+	AE=|Daniel Sernine|
+	AS=|AurRN|
+	YR=|1995|
+	TG=|10480|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|4|
+}
+Contes de Tyranaël {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRN|
+	YR=|1995|
+	TG=|12752|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|5|
+}
+Récits de Médilhaut {
+	AE=|Anne Legault|
+	AS=|AurRN|
+	YR=|1995|
+	TG=|7316|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|6|
+}
+Les Voyageurs malgré eux^Reluctant Voyagers (trans: Jane Brierley) {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRN|
+	YR=|1996|
+	TG=|12762|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|1|
+}
+Manuscrit trouvé dans un secrétaire {
+	AE=|Daniel Sernine|
+	AS=|AurRN|
+	YR=|1996|
+	TG=|10481|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|2|
+}
+La Rose du désert {
+	AE=|Yves Meynard|
+	AS=|AurRN|
+	YR=|1996|
+	TG=|8358|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|3|
+}
+L'Oiseau de feu (2C) {
+	AE=|Jacques Brossard|
+	AS=|AurRN|
+	YR=|1996|
+	TG=|1738|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|4|
+}
+Lame {
+	AE=|Esther Rochon|
+	AS=|AurRN|
+	YR=|1996|
+	TG=|9892|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|5|
+}
+Les Voyages Thanatologiques de Yan Malter {
+	AE=|Jean-Pierre April|
+	AS=|AurRN|
+	YR=|1996|
+	TG=|484|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|6|
+}
+La Rose du désert {
+	AE=|Yves Meynard|
+	AS=|AurRN|
+	YR=|1997|
+	TG=|14594|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|1|
+}
+Lame {
+	AE=|Esther Rochon|
+	AS=|AurRN|
+	YR=|1997|
+	TG=|14638|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+L'Arc-en-cercle {
+	AE=|Daniel Sernine|
+	AS=|AurRN|
+	YR=|1997|
+	TG=|14658|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Les Rêves de la mer^Dreams of the Sea {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRN|
+	YR=|1997|
+	TG=|14701|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+L'Odysée du Pénélope {
+	AE=|Jean-Pierre Guillet|
+	AS=|AurRN|
+	YR=|1998|
+	TG=|18503|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|1|
+}
+Corps-machines et rêves d'anges {
+	AE=|Alain Bergeron|
+	AS=|AurRN|
+	YR=|1998|
+	TG=|18330|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Coeur de fer {
+	AE=|Joël Champetier|
+	AS=|AurRN|
+	YR=|1998|
+	TG=|18386|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Nelle de Vilvèq {
+	AE=|Francine Pelletier|
+	AS=|AurRN|
+	YR=|1998|
+	TG=|18660|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Aboli {
+	AE=|Esther Rochon|
+	AS=|AurRN|
+	YR=|1998|
+	TG=|18688|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Le Jeu de la perfection^The Game of Perfection {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRN|
+	YR=|1998|
+	TG=|18773|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Corps-machines et rêves d'anges {
+	AE=|Alain Bergeron|
+	AS=|AurRN|
+	YR=|1999|
+	TG=|21726|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|1|
+}
+Les Voyageurs de la nuit {
+	AE=|René Beaulieu|
+	AS=|AurRN|
+	YR=|1999|
+	TG=|21722|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Un fantôme d'amour {
+	AE=|René Beaulieu|
+	AS=|AurRN|
+	YR=|1999|
+	TG=|21723|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Coeur de fer {
+	AE=|Joël Champetier|
+	AS=|AurRN|
+	YR=|1999|
+	TG=|21733|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Samiva de Frée {
+	AE=|Francine Pelletier|
+	AS=|AurRN|
+	YR=|1999|
+	TG=|21796|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Secrets {
+	AE=|Esther Rochon|
+	AS=|AurRN|
+	YR=|1999|
+	TG=|21813|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Samiva de Frée {
+	AE=|Francine Pelletier|
+	AS=|AurRN|
+	YR=|2000|
+	TG=|21797|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|1|
+}
+L'Aile du papillon {
+	AE=|Joël Champetier|
+	AS=|AurRN|
+	YR=|2000|
+	TG=|21734|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Le Livre des chevaliers {
+	AE=|Yves Meynard|
+	AS=|AurRN|
+	YR=|2000|
+	TG=|21785|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Sur le seuil {
+	AE=|Patrick Senècal|
+	AS=|AurRN|
+	YR=|2000|
+	TG=|21819|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Demain, les étoiles {
+	AE=|Jean-Louis Trudel|
+	AS=|AurRN|
+	YR=|2001|
+	TG=|21848|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|1|
+}
+L'ange écarlate {
+	AE=|Natasha Beaulieu|
+	AS=|AurRN|
+	YR=|2001|
+	TG=|21720|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Un voyage de sagesse {
+	AE=|Guy Sirois|
+	AS=|AurRN|
+	YR=|2001|
+	TG=|21824|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+La Maison au bord de la mer {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRN|
+	YR=|2001|
+	TG=|21862|
+	TA=|Meilleur livre en français / Best Long-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Sleeping in a Box {
+	AE=|Candas Jane Dorsey|
+	AS=|AurS|
+	YR=|1989|
+	TG=|3722|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|1|
+}
+The Fruit Picker {
+	AE=|Jo Beverley|
+	AS=|AurS|
+	YR=|1989|
+	TG=|1186|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+(Learning About) Machine Sex {
+	AE=|Candas Jane Dorsey|
+	AS=|AurS|
+	YR=|1989|
+	TG=|3719|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+The Paranoid {
+	AE=|Spider Robinson|
+	AS=|AurS|
+	YR=|1989|
+	TG=|9875|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Golden Fleece {
+	AE=|Robert J. Sawyer|
+	AS=|AurS|
+	YR=|1989|
+	TG=|10261|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Carpe Diem {
+	AE=|Eileen Kernaghan|
+	AS=|AurS|
+	YR=|1990|
+	TG=|6433|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|1|
+}
+Flaw on Serendip {
+	AE=|J. Brian Clarke|
+	AS=|AurS|
+	YR=|1990|
+	TG=|2828|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+If You Go Out in the Woods {
+	AE=|Paula Johanson|
+	AS=|AurS|
+	YR=|1990|
+	TG=|6196|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+A Fertile Mind {
+	AE=|Clélie Rich|
+	AS=|AurS|
+	YR=|1990|
+	TG=|9705|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Duty Free {
+	AE=|Rhea Rose|
+	AS=|AurS|
+	YR=|1990|
+	TG=|9917|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Muffin Explains Teleology to the World at Large {
+	AE=|James Alan Gardner|
+	AS=|AurS|
+	YR=|1991|
+	TG=|4840|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|1|
+}
+Wolfrunner {
+	AE=|Mary Choo|
+	AS=|AurS|
+	YR=|1991|
+	TG=|2752|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+The Fair in Emain Macha {
+	AE=|Charles de Lint|
+	AS=|AurS|
+	YR=|1991|
+	TG=|3341|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Freewheeling {
+	AE=|Charles de Lint|
+	AS=|AurS|
+	YR=|1991|
+	TG=|3343|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Eternity, Baby {
+	AE=|Andrew Weiner|
+	AS=|AurS|
+	YR=|1991|
+	TG=|13020|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Breaking Ball {
+	AE=|Michael Skeet|
+	AS=|AurS|
+	YR=|1992|
+	TG=|11042|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|1|
+}
+A Niche {
+	AE=|Peter Watts|
+	AS=|AurS|
+	YR=|1992|
+	TG=|12979|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|1|
+}
+Raven Sings a Medicine Way, Coyote Steals the Pollen {
+	AE=|Charles de Lint|
+	AS=|AurS|
+	YR=|1992|
+	TG=|3367|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Reaper {
+	AE=|James Alan Gardner|
+	AS=|AurS|
+	YR=|1992|
+	TG=|4841|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+The Water Man {
+	AE=|Ursula Pflug|
+	AS=|AurS|
+	YR=|1992|
+	TG=|9135|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Why I Hunt Flying Saucers {
+	AE=|Hugh Spencer|
+	AS=|AurS|
+	YR=|1992|
+	TG=|11196|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+The Man Who Would Be Kzin {
+	AE=|S. M. Stirling|
+	AS=|AurS|
+	YR=|1992|
+	TG=|11552|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Baseball Memories {
+	AE=|Edo van Belkom|
+	AS=|AurS|
+	YR=|1992|
+	TG=|12541|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+The Toy Mill {
+	AE=|Karl Schroeder+David Nickle|
+	AS=|AurS|
+	YR=|1993|
+	TG=|10428|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|1|
+}
+Blue Limbo {
+	AE=|Terence M. Green|
+	AS=|AurS|
+	YR=|1993|
+	TG=|5352|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Couples {
+	AE=|Eileen Kernaghan|
+	AS=|AurS|
+	YR=|1993|
+	TG=|6435|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Farm Wife {
+	AE=|Nancy Kilpatrick|
+	AS=|AurS|
+	YR=|1993|
+	TG=|6506|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|ss|
+	LV=|9|
+}
+Hopscotch {
+	AE=|Karl Schroeder|
+	AS=|AurS|
+	YR=|1993|
+	TG=|10427|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Seeing {
+	AE=|Andrew Weiner|
+	AS=|AurS|
+	YR=|1993|
+	TG=|13022|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Ants {
+	AE=|Allan Weiss|
+	AS=|AurS|
+	YR=|1993|
+	TG=|13027|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Just Like Old Times {
+	AE=|Robert J. Sawyer|
+	AS=|AurS|
+	YR=|1994|
+	TG=|10266|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|1|
+}
+Sophie's Spyglass {
+	AE=|Michael G. Coney^Michael Coney|
+	AS=|AurS|
+	YR=|1994|
+	TG=|2927|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Body Solar {
+	AE=|Derryl Murphy|
+	AS=|AurS|
+	YR=|1994|
+	TG=|8623|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Three Moral Tales {
+	AE=|Dirk L. Schaeffer|
+	AS=|AurS|
+	YR=|1994|
+	TG=|10288|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Kissing Hitler {
+	AE=|Erik Jon Spigel|
+	AS=|AurS|
+	YR=|1994|
+	TG=|11218|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+The Fragrance of Orchids {
+	AE=|Sally McBride|
+	AS=|AurS|
+	YR=|1995|
+	TG=|7986|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|nt|
+	LV=|1|
+}
+Small Rain {
+	AE=|Paula Johanson|
+	AS=|AurS|
+	YR=|1995|
+	TG=|6197|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|2|
+}
+Fourth Person Singular {
+	AE=|Dale L. Sproule|
+	AS=|AurS|
+	YR=|1995|
+	TG=|11278|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|3|
+}
+Such Sweet Sorrow {
+	AE=|Stephanie Bedwell-Grime|
+	AS=|AurS|
+	YR=|1995|
+	TG=|1025|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|4|
+}
+Writing Critique {
+	AE=|Rebecca M. Senese|
+	AS=|AurS|
+	YR=|1995|
+	TG=|10473|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|5|
+}
+The Perseids {
+	AE=|Robert Charles Wilson|
+	AS=|AurS|
+	YR=|1996|
+	TG=|13503|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|nt|
+	LV=|1|
+}
+Lost in the Mail {
+	AE=|Robert J. Sawyer|
+	AS=|AurS|
+	YR=|1996|
+	TG=|10267|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|2|
+}
+Tea and Hamsters {
+	AE=|Michael G. Coney^Michael Coney|
+	AS=|AurS|
+	YR=|1996|
+	TG=|2935|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|nt|
+	LV=|3|
+}
+The Summer Worms {
+	AE=|David Nickle|
+	AS=|AurS|
+	YR=|1996|
+	TG=|8717|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|4|
+}
+The Dead Go Shopping {
+	AE=|Stephanie Bedwell-Grime|
+	AS=|AurS|
+	YR=|1996|
+	TG=|1023|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|5|
+}
+Peking Man {
+	AE=|Robert J. Sawyer|
+	AS=|AurS|
+	YR=|1997|
+	TG=|14650|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|ss|
+	LV=|1|
+}
+In Your Dreams {
+	AE=|Stephanie Bedwell-Grime|
+	AS=|AurS|
+	YR=|1997|
+	TG=|14473|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Face Dances {
+	AE=|Rebecca M. Senese|
+	AS=|AurS|
+	YR=|1997|
+	TG=|14657|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Memory Games {
+	AE=|Dale L. Sproule|
+	AS=|AurS|
+	YR=|1997|
+	TG=|14670|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+The Piano Player Has No Fingers {
+	AE=|Edo van Belkom|
+	AS=|AurS|
+	YR=|1997|
+	TG=|14695|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Bethlehem {
+	AE=|Peter Watts|
+	AS=|AurS|
+	YR=|1997|
+	TG=|14705|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Three Hearings on the Existence of Snakes in the Human Bloodstream {
+	AE=|James Alan Gardner|
+	AS=|AurS|
+	YR=|1998|
+	TG=|18485|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|nt|
+	LV=|1|
+}
+The PlayTime Case {
+	AE=|David Chato|
+	AS=|AurS|
+	YR=|1998|
+	TG=|18392|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Divisions {
+	AE=|Eric Choi|
+	AS=|AurS|
+	YR=|1998|
+	TG=|18399|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+The Fishmonger's Emeralds {
+	AE=|Katie Harse|
+	AS=|AurS|
+	YR=|1998|
+	TG=|18516|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+The Watley Man and the Green-Eyed Girl {
+	AE=|Eileen Kernaghan|
+	AS=|AurS|
+	YR=|1998|
+	TG=|18560|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+The Hand You're Dealt {
+	AE=|Robert J. Sawyer|
+	AS=|AurS|
+	YR=|1998|
+	TG=|18698|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|ss|
+	LV=|9|
+}
+Spirit Dance {
+	AE=|Douglas Smith|
+	AS=|AurS|
+	YR=|1998|
+	TG=|18728|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Prescribed Burn {
+	AE=|Jena Snyder|
+	AS=|AurS|
+	YR=|1998|
+	TG=|18729|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Hockey's Night in Canada {
+	AE=|Edo van Belkom|
+	AS=|AurS|
+	YR=|1999|
+	TG=|21856|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|1|
+}
+Blind Date {
+	AE=|David Chato|
+	AS=|AurS|
+	YR=|1999|
+	TG=|21738|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Craphound {
+	AE=|Cory Doctorow|
+	AS=|AurS|
+	YR=|1999|
+	TG=|21747|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|nt|
+	LV=|9|
+}
+Sunny Fields {
+	AE=|David Shtogryn|
+	AS=|AurS|
+	YR=|1999|
+	TG=|21821|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+New Year's Eve {
+	AE=|Douglas Smith|
+	AS=|AurS|
+	YR=|1999|
+	TG=|21827|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Stream of Consciousness {
+	AE=|Robert J. Sawyer|
+	AS=|AurS|
+	YR=|2000|
+	TG=|21818|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|1|
+}
+The Emperor's Old Bones {
+	AE=|Gemma Files|
+	AS=|AurS|
+	YR=|2000|
+	TG=|21750|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|ss|
+	LV=|9|
+}
+Erratic Cycles {
+	AE=|Mark Leslie|
+	AS=|AurS|
+	YR=|2000|
+	TG=|21774|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Speaking Sea {
+	AE=|Sally McBride|
+	AS=|AurS|
+	YR=|2000|
+	TG=|21778|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Any Port in a Storm {
+	AE=|Mark Rayner|
+	AS=|AurS|
+	YR=|2000|
+	TG=|21808|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+State of Disorder {
+	AE=|Douglas Smith|
+	AS=|AurS|
+	YR=|2000|
+	TG=|21828|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|ss|
+	LV=|9|
+}
+Symphony {
+	AE=|Douglas Smith|
+	AS=|AurS|
+	YR=|2000|
+	TG=|21829|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Plato's Mirror {
+	AE=|Robert Charles Wilson|
+	AS=|AurS|
+	YR=|2000|
+	TG=|21870|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Surrendering the Blade {
+	AE=|Marcie Tentchoff|
+	AS=|AurS|
+	YR=|2001|
+	TG=|21845|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|po|
+	LV=|1|
+}
+Down on the Farm {
+	AE=|Julie E. Czerneda|
+	AS=|AurS|
+	YR=|2001|
+	TG=|21742|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Squat {
+	AE=|Donna McMahon|
+	AS=|AurS|
+	YR=|2001|
+	TG=|21782|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+The Shoulders of Giants {
+	AE=|Robert J. Sawyer|
+	AS=|AurS|
+	YR=|2001|
+	TG=|21817|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|ss|
+	LV=|9|
+}
+Coming of Age {
+	AE=|Edo van Belkom|
+	AS=|AurS|
+	YR=|2001|
+	TG=|21854|
+	TA=|Best Short-Form Work in English / Meilleure nouvelle en anglais|
+	TP=|sf|
+	LV=|9|
+}
+Survie sur Mars {
+	AE=|Joël Champetier|
+	AS=|AurRS|
+	YR=|1989|
+	TG=|2555|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|1|
+}
+L'Intrus {
+	AE=|Jean Dion|
+	AS=|AurRS|
+	YR=|1989|
+	TG=|3629|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+SGV {
+	AE=|Jean-François Dube|
+	AS=|AurRS|
+	YR=|1989|
+	TG=|3852|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Geisha Blues {
+	AE=|Michel Martin|
+	AS=|AurRS|
+	YR=|1989|
+	TG=|7891|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Sans Titre {
+	AE=|Yves Meynard|
+	AS=|AurRS|
+	YR=|1989|
+	TG=|8360|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Cogito^Cogito (trans: Jane Brierley, 1991) {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRS|
+	YR=|1990|
+	TG=|12751|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|1|
+}
+La tortue sur la trottoir {
+	AE=|Michel Martin|
+	AS=|AurRS|
+	YR=|1990|
+	TG=|7892|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Akimento {
+	AE=|Claude-Michel Prévost|
+	AS=|AurRS|
+	YR=|1990|
+	TG=|9493|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Pas de dum-dum pur Mister Klaus {
+	AE=|Claude-Michel Prévost|
+	AS=|AurRS|
+	YR=|1990|
+	TG=|9494|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Ici, des tigres {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRS|
+	YR=|1991|
+	TG=|12755|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|1|
+}
+Coeur de fer {
+	AE=|Joël Champetier|
+	AS=|AurRS|
+	YR=|1991|
+	TG=|2546|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+A fleur de peau {
+	AE=|Joël Champetier|
+	AS=|AurRS|
+	YR=|1991|
+	TG=|2547|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Les vertise des prisons {
+	AE=|Roger des Roches|
+	AS=|AurRS|
+	YR=|1991|
+	TG=|3492|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+L'Enfant des Mondes Assoupis {
+	AE=|Yves Meynard|
+	AS=|AurRS|
+	YR=|1992|
+	TG=|8356|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|1|
+}
+Reves d'anges {
+	AE=|Alain Bergeron|
+	AS=|AurRS|
+	YR=|1992|
+	TG=|1139|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+A't {
+	AE=|Harold Cote|
+	AS=|AurRS|
+	YR=|1992|
+	TG=|2991|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Jusqu'au dernier {
+	AE=|Michel Lamontagne|
+	AS=|AurRS|
+	YR=|1992|
+	TG=|6932|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Hotel Carnivalia {
+	AE=|Daniel Sernine|
+	AS=|AurRS|
+	YR=|1992|
+	TG=|10477|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Les Jeux de la paix et de la guerre {
+	AE=|Jean-Louis Trudel|
+	AS=|AurRS|
+	YR=|1992|
+	TG=|12045|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Base de negociation {
+	AE=|Jean Dion|
+	AS=|AurRS|
+	YR=|1993|
+	TG=|3628|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|1|
+}
+Revoir Nymphea {
+	AE=|Alain Bergeron|
+	AS=|AurRS|
+	YR=|1993|
+	TG=|1140|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Le Projet {
+	AE=|Harold Cote|
+	AS=|AurRS|
+	YR=|1993|
+	TG=|2992|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Le Perriot diffracte {
+	AE=|Laurent McAllister|
+	AS=|AurRS|
+	YR=|1993|
+	TG=|7965|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Pluies amères {
+	AE=|Daniel Sernine|
+	AS=|AurRS|
+	YR=|1993|
+	TG=|10484|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Suspends ton vol {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRS|
+	YR=|1993|
+	TG=|12764|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+La Merveilleuse machine de Johann Havel {
+	AE=|Yves Meynard|
+	AS=|AurRS|
+	YR=|1994|
+	TG=|8359|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|1|
+}
+Le huithème registre {
+	AE=|Alain Bergeron|
+	AS=|AurRS|
+	YR=|1994|
+	TG=|22703|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|n|
+	LV=|9|
+}
+Dieu, un, zero {
+	AE=|Joël Champetier|
+	AS=|AurRS|
+	YR=|1994|
+	TG=|22704|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Les Ponts du temps {
+	AE=|Jean-Louis Trudel|
+	AS=|AurRS|
+	YR=|1994|
+	TG=|22708|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+L'Homme qui fouillait la lumière {
+	AE=|Alain Bergeron|
+	AS=|AurRS|
+	YR=|1995|
+	TG=|1137|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|1|
+}
+L'Envoyé {
+	AE=|Yves Meynard|
+	AS=|AurRS|
+	YR=|1995|
+	TG=|8357|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|1|
+}
+Contamination {
+	AE=|Jean-Louis Trudel|
+	AS=|AurRS|
+	YR=|1995|
+	TG=|12043|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|3|
+}
+Pas de paradis sans... l'enfer (III) {
+	AE=|Danielle Tremblay|
+	AS=|AurRS|
+	YR=|1995|
+	TG=|12035|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|4|
+}
+Pas de paradis sans... l'enfer (IV) {
+	AE=|Danielle Tremblay|
+	AS=|AurRS|
+	YR=|1995|
+	TG=|12036|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|5|
+}
+Équinoxe {
+	AE=|Yves Meynard|
+	AS=|AurRS|
+	YR=|1996|
+	TG=|8361|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|1|
+}
+Le peuple de Protée {
+	AE=|Jean-Louis Trudel|
+	AS=|AurRS|
+	YR=|1996|
+	TG=|12044|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|2|
+}
+La Cité de Penlocke {
+	AE=|Natasha Beaulieu|
+	AS=|AurRS|
+	YR=|1996|
+	TG=|1012|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|3|
+}
+Adieu aux armes pour une fourmi-soldat {
+	AE=|Claude-Michel Prévost|
+	AS=|AurRS|
+	YR=|1996|
+	TG=|9492|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|4|
+}
+L'Attrait du Bleu {
+	AE=|Esther Rochon|
+	AS=|AurRS|
+	YR=|1996|
+	TG=|9890|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|5|
+}
+Lamente-toi, Sagesse! {
+	AE=|Jean-Louis Trudel|
+	AS=|AurRS|
+	YR=|1997|
+	TG=|14691|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|1|
+}
+Laïka {
+	AE=|Natasha Beaulieu|
+	AS=|AurRS|
+	YR=|1997|
+	TG=|14472|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+{/thea} ou le Jour venu {
+	AE=|Alain Bergeron|
+	AS=|AurRS|
+	YR=|1997|
+	TG=|14475|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+La Maison douleur {
+	AE=|Francine Pelletier|
+	AS=|AurRS|
+	YR=|1997|
+	TG=|14611|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Le début du cercle^Beginning of the Circle {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRS|
+	YR=|1997|
+	TG=|14700|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|nv|
+	LV=|9|
+}
+Une lettre de ma mère {
+	AE=|Yves Meynard|
+	AS=|AurRS|
+	YR=|1998|
+	TG=|18618|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|1|
+}
+La Voyeuse {
+	AE=|Manon Brunet|
+	AS=|AurRS|
+	YR=|1998|
+	TG=|18359|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Badelaire l'assassin {
+	AE=|Joël Champetier|
+	AS=|AurRS|
+	YR=|1998|
+	TG=|18385|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Dans ses yeux une flamme {
+	AE=|Daniel Sernine|
+	AS=|AurRS|
+	YR=|1998|
+	TG=|18705|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Fictions et fantascience {
+	AE=|Jean-Louis Trudel|
+	AS=|AurRS|
+	YR=|1998|
+	TG=|18763|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+La Demoiselle Sous La Lune {
+	AE=|Guy Sirois|
+	AS=|AurRS|
+	YR=|1999|
+	TG=|21823|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|1|
+}
+Uriel Et Kornilla {
+	AE=|Alain Bergeron|
+	AS=|AurRS|
+	YR=|1999|
+	TG=|21727|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Nocturne {
+	AE=|Frédérick Durand|
+	AS=|AurRS|
+	YR=|1999|
+	TG=|21749|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Les Corbeaux Immortels RÊvent-Ils De ContrÔler Le Monde? {
+	AE=|Hugues Morin|
+	AS=|AurRS|
+	YR=|1999|
+	TG=|21788|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Aurélie Sous Les étoiles {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRS|
+	YR=|1999|
+	TG=|21861|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Souvenirs du Saudade Express {
+	AE=|Éric Gauthier|
+	AS=|AurRS|
+	YR=|2000|
+	TG=|21752|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|1|
+}
+Soldats de sucre {
+	AE=|Yves Meynard|
+	AS=|AurRS|
+	YR=|2000|
+	TG=|21786|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Passions ètouffèes sous la pierre cendreuse {
+	AE=|Jean-Louis Trudel|
+	AS=|AurRS|
+	YR=|2000|
+	TG=|21851|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+La Danse des esprits {
+	AE=|Douglas Smith|
+	AS=|AurRS|
+	YR=|2001|
+	TG=|21826|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|1|
+}
+La première cicatrice {
+	AE=|Jean-Louis Trudel|
+	AS=|AurRS|
+	YR=|2001|
+	TG=|21850|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Oneiros {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRS|
+	YR=|2001|
+	TG=|21863|
+	TA=|Meilleur nouvelle en français / Best Short-Form Work in French|
+	TP=|sf|
+	LV=|9|
+}
+Tesseract Books {
+	AE=|Gerry Truscott|
+	AS=|AurO|
+	YR=|1989|
+	TG=|12051|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|pc|
+	LV=|1|
+}
+publisher, On Spec {
+	AE=|Copper Pig Writers' Society|
+	AS=|AurO|
+	YR=|1990|
+	TG=|2974|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|1|
+}
+publisher, On Spec {
+	AE=|Copper Pig Writers' Society|
+	AS=|AurO|
+	YR=|1991|
+	TG=|2975|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|1|
+}
+Prisoners of Gravity (TV series) {
+	AE=|TVOntario|
+	AS=|AurO|
+	YR=|1992|
+	TG=|12152|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|tvs|
+	LV=|1|
+}
+Tesseracts 4 {
+	AE=|Michael Skeet+Lorna Toolis|
+	AS=|AurO|
+	YR=|1993|
+	TG=|11044|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|1|
+}
+Prisoners of Gravity (TV series) {
+	AE=|TVOntario|
+	AS=|AurO|
+	YR=|1994|
+	TG=|12153|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|tvs|
+	LV=|1|
+}
+Ask Mr. Science (column) {
+	AE=|Al Betz|
+	AS=|AurO|
+	YR=|1994|
+	TG=|1185|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|nf|
+	LV=|9|
+}
+On Spec: The Canadian Magazine of Speculative Writing {
+	AE=|Copper Pig Writers' Society|
+	AS=|AurO|
+	YR=|1994|
+	TG=|2970|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|9|
+}
+Circle Dance {
+	AE=|Eileen Kernaghan|
+	AS=|AurO|
+	YR=|1994|
+	TG=|6434|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|nf|
+	LV=|9|
+}
+SF reviews {
+	AE=|Derryl Murphy|
+	AS=|AurO|
+	YR=|1994|
+	TG=|8624|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|nf|
+	LV=|9|
+}
+Market Report (column) {
+	AE=|Edo van Belkom|
+	AS=|AurO|
+	YR=|1994|
+	TG=|12742|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|nf|
+	LV=|9|
+}
+On Spec: The Canadian Magazine of Speculative Writing {
+	AE=|Copper Pig Writers' Society|
+	AS=|AurO|
+	YR=|1995|
+	TG=|2976|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|1|
+}
+Northern Frights 2 {
+	AE=|Don Hutchison|
+	AS=|AurO|
+	YR=|1995|
+	TG=|6081|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|2|
+}
+Prisoners of Gravity (TV series) {
+	AE=|TVOntario|
+	AS=|AurO|
+	YR=|1995|
+	TG=|12154|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|tvs|
+	LV=|3|
+}
+Northern Stars: The Anthology of Canadian Science Fiction {
+	AE=|David G. Hartwell+Glenn Grant|
+	AS=|AurO|
+	YR=|1995|
+	TG=|5731|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|4|
+}
+Prairie Fire: Canadian Speculative Fiction {
+	AE=|Candas Jane Dorsey|
+	AS=|AurO|
+	YR=|1995|
+	TG=|3721|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|5|
+}
+Reboot (Animated TV Series) {
+	AE=|BLT productions|
+	MV=|"Reboot" (1994)|
+	AS=|AurO|
+	YR=|1996|
+	TG=|1432|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|tvs|
+	LV=|1|
+}
+Northern Frights 3 {
+	AE=|Don Hutchison|
+	AS=|AurO|
+	YR=|1996|
+	TG=|6082|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|2|
+}
+On Spec: The First Five Years {
+	AE=|On Spec Editorial Collective|
+	AS=|AurO|
+	YR=|1996|
+	TG=|8940|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|3|
+}
+TransVersions {
+	AE=|Island Specialty Reports|
+	AS=|AurO|
+	YR=|1996|
+	TG=|6119|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|4|
+}
+National Library exhibit: Out of this World {
+	AE=|Hugh Spencer+Allan Weiss|
+	AS=|AurO|
+	YR=|1996|
+	TG=|11197|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|ev|
+	LV=|5|
+}
+On Spec: The Canadian Magazine of Speculative Writing {
+	AE=|Copper Pig Writers' Society|
+	AS=|AurO|
+	YR=|1997|
+	TG=|14505|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|1|
+}
+The Great Pulp Heroes {
+	AE=|Don Hutchison|
+	AS=|AurO|
+	YR=|1997|
+	TG=|14548|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|nf|
+	LV=|9|
+}
+TransVersions {
+	AE=|Island Specialty Reports|
+	AS=|AurO|
+	YR=|1997|
+	TG=|14549|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|9|
+}
+Parsec {
+	AE=|Parsec Publishing Co.|
+	AS=|AurO|
+	YR=|1997|
+	TG=|14610|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|9|
+}
+Tesseracts 5 {
+	AE=|Robert Runté+Yves Meynard|
+	AS=|AurO|
+	YR=|1997|
+	TG=|14642|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|9|
+}
+Northern Frights 4 {
+	AE=|Don Hutchison|
+	AS=|AurO|
+	YR=|1998|
+	TG=|18547|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|1|
+}
+On Spec: The Canadian Magazine of Speculative Writing {
+	AE=|Copper Pig Writers' Society|
+	AS=|AurO|
+	YR=|1998|
+	TG=|18412|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|9|
+}
+TransVersions {
+	AE=|Island Specialty Reports|
+	AS=|AurO|
+	YR=|1998|
+	TG=|18549|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|9|
+}
+Reboot - Firewall (episode 3.1.3) {
+	AE=|Mainframe Entertainment, Inc|
+	AS=|AurO|
+	YR=|1998|
+	TG=|18596|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|tve|
+	LV=|9|
+}
+Parsec {
+	AE=|Parsec Publishing Co.|
+	AS=|AurO|
+	YR=|1998|
+	TG=|18655|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|9|
+}
+Tesseracts 6 {
+	AE=|Robert J. Sawyer+Carolyn Clink|
+	AS=|AurO|
+	YR=|1998|
+	TG=|18695|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|9|
+}
+Earth: Final Conflict - Sandoval's Run (episode 112) {
+	AE=|Unknown-TV-Episode|
+	AS=|AurO|
+	YR=|1998|
+	TG=|18764|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|tve|
+	LV=|9|
+}
+Arrowdreams {
+	AE=|Mark Shainblum+John Dupuis|
+	AS=|AurO|
+	YR=|1999|
+	TG=|21820|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|1|
+}
+Ask Mr. Science (column) {
+	AE=|Al Betz|
+	AS=|AurO|
+	YR=|1999|
+	TG=|21728|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|nf|
+	LV=|9|
+}
+Parsec {
+	AE=|Chris Krejlgaard|
+	AS=|AurO|
+	YR=|1999|
+	TG=|21771|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|9|
+}
+Divine Realms {
+	AE=|Susan MacGregor|
+	AS=|AurO|
+	YR=|1999|
+	TG=|21776|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|9|
+}
+TransVersions {
+	AE=|Sally McBride+Dale L. Sproule|
+	AS=|AurO|
+	YR=|1999|
+	TG=|21779|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|9|
+}
+On Spec {
+	AE=|Jena Snyder|
+	AS=|AurO|
+	YR=|1999|
+	TG=|21831|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|9|
+}
+Northern Dreamers: Interviews with Famous Science Fiction, Fantasy, and Horror Writers {
+	AE=|Edo van Belkom|
+	AS=|AurO|
+	YR=|1999|
+	TG=|21857|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|nf|
+	LV=|9|
+}
+Northern Frights 5 {
+	AE=|Don Hutchison|
+	AS=|AurO|
+	YR=|2000|
+	TG=|21762|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|1|
+}
+Parsec {
+	AE=|Chris Krejlgaard|
+	AS=|AurO|
+	YR=|2000|
+	TG=|21772|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|9|
+}
+On Spec {
+	AE=|Jena Snyder|
+	AS=|AurO|
+	YR=|2000|
+	TG=|21832|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|9|
+}
+TransVersions {
+	AE=|Dale L. Sproule|
+	AS=|AurO|
+	YR=|2000|
+	TG=|21836|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|9|
+}
+Aurora Awards {
+	AE=|Edo van Belkom|
+	AS=|AurO|
+	YR=|2000|
+	TG=|21852|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|9|
+}
+Science Fiction: The Play {
+	AE=|David Widdicombe|
+	AS=|AurO|
+	YR=|2001|
+	TG=|21867|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|dp|
+	LV=|1|
+}
+On Spec {
+	AE=|Jena Snyder|
+	AS=|AurO|
+	YR=|2001|
+	TG=|21830|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|sz|
+	LV=|9|
+}
+Be Afraid! {
+	AE=|Edo van Belkom|
+	AS=|AurO|
+	YR=|2001|
+	TG=|21853|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|9|
+}
+Northern Horror {
+	AE=|Edo van Belkom|
+	AS=|AurO|
+	YR=|2001|
+	TG=|21858|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|a|
+	LV=|9|
+}
+Writing Horror {
+	AE=|Edo van Belkom|
+	AS=|AurO|
+	YR=|2001|
+	TG=|21859|
+	TA=|Best Other Work in English / Meilleur ouvrage en anglais (Autre)|
+	TP=|nf|
+	LV=|9|
+}
+Solaris {
+	AE=|Luc Pomerleau|
+	AS=|AurRO|
+	YR=|1989|
+	TG=|9287|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|1|
+}
+Solaris {
+	AE=|Luc Pomerleau|
+	AS=|AurRO|
+	YR=|1990|
+	TG=|9288|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|1|
+}
+Solaris {
+	AE=|Les Compagnons à temps perdu|
+	AS=|AurRO|
+	YR=|1991|
+	TG=|7415|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|1|
+}
+Solaris {
+	AE=|Les Compagnons à temps perdu|
+	AS=|AurRO|
+	YR=|1992|
+	TG=|7416|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|1|
+}
+Solaris {
+	AE=|Les Compagnons à temps perdu|
+	AS=|AurRO|
+	YR=|1993|
+	TG=|7417|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|1|
+}
+Les 42,210 Univers de la Science-Fiction {
+	AE=|Guy Bouchard|
+	AS=|AurRO|
+	YR=|1994|
+	TG=|1489|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|a|
+	LV=|1|
+}
+Solaris {
+	AE=|Joël Champetier|
+	AS=|AurRO|
+	YR=|1994|
+	TG=|22705|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|9|
+}
+L'Annèe de la Science-Fiction et du fantastique Quèbècois 1990 {
+	AE=|Claude Janelle+Jean Pettigrew|
+	AS=|AurRO|
+	YR=|1994|
+	TG=|22706|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|nf|
+	LV=|9|
+}
+Solaris {
+	AE=|Joël Champetier|
+	AS=|AurRO|
+	YR=|1995|
+	TG=|2553|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|1|
+}
+critiques (Solaris) {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRO|
+	YR=|1995|
+	TG=|12747|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|e|
+	LV=|2|
+}
+critiques (Solaris) {
+	AE=|Jean-Louis Trudel|
+	AS=|AurRO|
+	YR=|1995|
+	TG=|12040|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|e|
+	LV=|3|
+}
+critiques (Solaris) {
+	AE=|Joël Champetier|
+	AS=|AurRO|
+	YR=|1995|
+	TG=|2545|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|e|
+	LV=|4|
+}
+imagine... {
+	AE=|Marc Lemaire|
+	AS=|AurRO|
+	YR=|1995|
+	TG=|7409|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|5|
+}
+Solaris {
+	AE=|Joël Champetier|
+	AS=|AurRO|
+	YR=|1996|
+	TG=|2554|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|1|
+}
+Le modéle de Pickman {
+	AE=|Daniel Canty|
+	AS=|AurRO|
+	YR=|1996|
+	TG=|2245|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|nf|
+	LV=|2|
+}
+critiques (Solaris) {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRO|
+	YR=|1996|
+	TG=|12748|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|e|
+	LV=|3|
+}
+Interventions (SRC-Radio "Demain la Veille") {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRO|
+	YR=|1996|
+	TG=|12758|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|dr|
+	LV=|3|
+}
+imagine... {
+	AE=|Marc Lemaire|
+	AS=|AurRO|
+	YR=|1996|
+	TG=|7410|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|4|
+}
+critiques (Solaris) {
+	AE=|Jean-Louis Trudel|
+	AS=|AurRO|
+	YR=|1996|
+	TG=|12041|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|e|
+	LV=|5|
+}
+Casanegra {
+	AE=|Denis Vaillancourt+Thierry Vincent|
+	AS=|AurRO|
+	YR=|1996|
+	TG=|12522|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|6|
+}
+screenplay {
+	AE=|Thierry Vincente|
+	AS=|AurRO|
+	YR=|1996|
+	TG=|12690|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|sc|
+	LV=|7|
+}
+Solaris {
+	AE=|Joël Champetier|
+	AS=|AurRO|
+	YR=|1997|
+	TG=|14500|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|1|
+}
+critiques (Solaris 117 & 118) {
+	AE=|Joël Champetier|
+	AS=|AurRO|
+	YR=|1997|
+	TG=|14499|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|e|
+	LV=|9|
+}
+imagine... - Les Imaginoïdes {
+	AE=|Marc Lemaire+Paul-G. Croteau|
+	AS=|AurRO|
+	YR=|1997|
+	TG=|14577|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|e|
+	LV=|9|
+}
+Perf et Odonto, "De Philator en filature!" - Société canadienne des postes {
+	AE=|Ronn Sutton+Janet L. Hetherington+Hèlène LaPlante|
+	AS=|AurRO|
+	YR=|1997|
+	TG=|14511|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|om|
+	LV=|9|
+}
+critiques (Solaris 117-119) {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRO|
+	YR=|1997|
+	TG=|14699|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|e|
+	LV=|9|
+}
+Interventions (SRC-Radio "Demain la Veille") {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRO|
+	YR=|1997|
+	TG=|17965|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|dr|
+	LV=|9|
+}
+Solaris {
+	AE=|Hugues Morin|
+	AS=|AurRO|
+	YR=|1998|
+	TG=|18630|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|1|
+}
+imagine... {
+	AE=|Paul-G. Croteau+Jean-Marc Gouanvic|
+	AS=|AurRO|
+	YR=|1998|
+	TG=|18416|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|9|
+}
+editor/director (Stephen King: Trente ans de Terreur) {
+	AE=|Hugues Morin|
+	AS=|AurRO|
+	YR=|1998|
+	TG=|18629|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|nf|
+	LV=|9|
+}
+Unbaiser dans le noir -- Quand Stephen King se fait nouveliste {
+	AE=|Guy Sirois|
+	AS=|AurRO|
+	YR=|1998|
+	TG=|18726|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|nf|
+	LV=|9|
+}
+critiques (Solaris 120-123) {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRO|
+	YR=|1998|
+	TG=|18774|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|e|
+	LV=|9|
+}
+L'entreprise de Frankenstein {
+	AE=|John Dupuis|
+	AS=|AurRO|
+	YR=|1999|
+	TG=|21748|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|e|
+	LV=|1|
+}
+critiques {
+	AE=|Jean-Louis Trudel|
+	AS=|AurRO|
+	YR=|1999|
+	TG=|21847|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|nf|
+	LV=|1|
+}
+L'Oiseau de Feu: Quelques opinions et considérations sur L'Oiseau de Feu de Jacques Brossard après la lecture du quatrième volume de la série {
+	AE=|René Beaulieu|
+	AS=|AurRO|
+	YR=|1999|
+	TG=|21721|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|nf|
+	LV=|9|
+}
+imagine... {
+	AE=|Jean-Marc Gouanvic|
+	AS=|AurRO|
+	YR=|1999|
+	TG=|21754|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|9|
+}
+Solaris {
+	AE=|Hugues Morin|
+	AS=|AurRO|
+	YR=|1999|
+	TG=|21789|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|9|
+}
+Providence et Québec: à une lune de distance {
+	AE=|Esther Rochon|
+	AS=|AurRO|
+	YR=|1999|
+	TG=|21812|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|nf|
+	LV=|9|
+}
+Celle qui venait d'ailleurs: Francis Stevens {
+	AE=|Guy Sirois|
+	AS=|AurRO|
+	YR=|1999|
+	TG=|21822|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|nf|
+	LV=|9|
+}
+Solaris {
+	AE=|Joël Champetier|
+	AS=|AurRO|
+	YR=|2000|
+	TG=|21736|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|1|
+}
+L'Annèe de la Science-Fiction et du Fantastique Quèbècois 1997 {
+	AE=|Claude Janelle|
+	AS=|AurRO|
+	YR=|2000|
+	TG=|21764|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|nf|
+	LV=|9|
+}
+Le XIXe siècle fantastique en Amérique française {
+	AE=|Claude Janelle|
+	AS=|AurRO|
+	YR=|2000|
+	TG=|21765|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|nf|
+	LV=|9|
+}
+Historique des Pulps quèbècois {
+	AE=|Jean-Louis Trudel|
+	AS=|AurRO|
+	YR=|2000|
+	TG=|21849|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|nf|
+	LV=|9|
+}
+Solaris {
+	AE=|Joël Champetier|
+	AS=|AurRO|
+	YR=|2001|
+	TG=|21735|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|fz|
+	LV=|1|
+}
+Le cinéma au pays des rêves {
+	AE=|Mario Tessier|
+	AS=|AurRO|
+	YR=|2001|
+	TG=|21846|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|e|
+	LV=|9|
+}
+critiques (Solaris 132-135) {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurRO|
+	YR=|2001|
+	TG=|21860|
+	TA=|Meilleur ouvrage en français (Autre) / Best Other Work in French|
+	TP=|e|
+	LV=|9|
+}
+Cover (On Spec) {
+	AE=|Lynne Taylor Fahnestalk|
+	AS=|AurA|
+	YR=|1991|
+	TG=|4331|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|1|
+}
+Paintings {
+	AE=|Martin Springett|
+	AS=|AurA|
+	YR=|1992|
+	TG=|11276|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|1|
+}
+Covers (MZB & On Spec) {
+	AE=|Lynne Taylor Fahnestalk|
+	AS=|AurA|
+	YR=|1993|
+	TG=|4332|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|1|
+}
+Covers/Interiors (Aboriginal, Amazing, On Spec) {
+	AE=|Robert Pasternak|
+	AS=|AurA|
+	YR=|1994|
+	TG=|9071|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|1|
+}
+Art Direction (On Spec) {
+	AE=|Lynne Taylor Fahnestalk|
+	AS=|AurA|
+	YR=|1994|
+	TG=|4333|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+Interiors (On Spec) {
+	AE=|Tim Hammell|
+	AS=|AurA|
+	YR=|1994|
+	TG=|5575|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+Interiors (On Spec) {
+	AE=|Mike Jackson|
+	AS=|AurA|
+	YR=|1994|
+	TG=|6139|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+Interiors (imagine...) {
+	AE=|Jean-Pierre Normand|
+	AS=|AurA|
+	YR=|1994|
+	TG=|8854|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+Covers/Interiors (On Spec) {
+	AE=|Kenneth Scott|
+	AS=|AurA|
+	YR=|1994|
+	TG=|10450|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Tim Hammell|
+	AS=|AurA|
+	YR=|1995|
+	TG=|5576|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Lynne Taylor Fahnestalk|
+	AS=|AurA|
+	YR=|1995|
+	TG=|4334|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Jean-Pierre Normand|
+	AS=|AurA|
+	YR=|1995|
+	TG=|8855|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Robert Pasternak|
+	AS=|AurA|
+	YR=|1995|
+	TG=|9072|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Henry Van Der Linde|
+	AS=|AurA|
+	YR=|1995|
+	TG=|12543|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|5|
+}
+untitled {
+	AE=|Jean-Pierre Normand|
+	AS=|AurA|
+	YR=|1996|
+	TG=|8856|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Dale L. Sproule^DLSproule|
+	AS=|AurA|
+	YR=|1996|
+	TG=|11277|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Steve Fahnestalk|
+	AS=|AurA|
+	YR=|1996|
+	TG=|4335|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Henry Van Der Linde|
+	AS=|AurA|
+	YR=|1996|
+	TG=|12544|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Robert Pasternak|
+	AS=|AurA|
+	YR=|1996|
+	TG=|9073|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|5|
+}
+imagine... 74, Éd. Médiaspaul couvertures/covers, On Spec v8n4, Parsec v2n1, Solaris 118, SF Chronicle Jan/96, Tesseracts Q {
+	AE=|Jean-Pierre Normand|
+	AS=|AurA|
+	YR=|1997|
+	TG=|14605|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|1|
+}
+sculpture {
+	AE=|Stephanie Ann Johanson|
+	AS=|AurA|
+	YR=|1997|
+	TG=|14553|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+TransVersions 5 {
+	AE=|Jeff Kuipers|
+	AS=|AurA|
+	YR=|1997|
+	TG=|14571|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+Writers of the Future XII, On Spec v8n2, v8n3 {
+	AE=|Kenneth Scott|
+	AS=|AurA|
+	YR=|1997|
+	TG=|14654|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+Parsec, Perf & Gauge/Perf et Odonto, Song of the Sirens #1: Spinnerette {
+	AE=|Ronn Sutton|
+	AS=|AurA|
+	YR=|1997|
+	TG=|14684|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jean-Pierre Normand|
+	AS=|AurA|
+	YR=|1998|
+	TG=|18644|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|James Beveridge|
+	AS=|AurA|
+	YR=|1998|
+	TG=|18338|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Edward Charpenetier|
+	AS=|AurA|
+	YR=|1998|
+	TG=|18388|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Yves Crepeau|
+	AS=|AurA|
+	YR=|1998|
+	TG=|18415|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Janet L. Hetherington|
+	AS=|AurA|
+	YR=|1998|
+	TG=|18538|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Larry Stewart|
+	AS=|AurA|
+	YR=|1998|
+	TG=|18741|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Ronn Sutton|
+	AS=|AurA|
+	YR=|1998|
+	TG=|18751|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jean-Pierre Normand|
+	AS=|AurA|
+	YR=|1999|
+	TG=|21791|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|James Beveridge|
+	AS=|AurA|
+	YR=|1999|
+	TG=|21730|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Dale L. Sproule^DLSproule|
+	AS=|AurA|
+	YR=|1999|
+	TG=|21745|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Janet L. Hetherington|
+	AS=|AurA|
+	YR=|1999|
+	TG=|21758|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Larry Stewart|
+	AS=|AurA|
+	YR=|1999|
+	TG=|21839|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Ronn Sutton|
+	AS=|AurA|
+	YR=|1999|
+	TG=|21842|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Larry Stewart|
+	AS=|AurA|
+	YR=|2000|
+	TG=|21840|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|James Beveridge|
+	AS=|AurA|
+	YR=|2000|
+	TG=|21731|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Dale L. Sproule^DLSproule|
+	AS=|AurA|
+	YR=|2000|
+	TG=|21746|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jean-Pierre Normand|
+	AS=|AurA|
+	YR=|2000|
+	TG=|21792|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Terry Pallot|
+	AS=|AurA|
+	YR=|2000|
+	TG=|21793|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Bernard Reischl|
+	AS=|AurA|
+	YR=|2000|
+	TG=|21809|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Ronn Sutton|
+	AS=|AurA|
+	YR=|2000|
+	TG=|21843|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+Parsec V3n6, Suréal 3000, Demain Les étoiles, Futur Sur Mesure, Guerre Pour Un Harmonica, Les Eaux De Jade, Un Voyage De Sagesse {
+	AE=|Jean-Pierre Normand|
+	AS=|AurA|
+	YR=|2001|
+	TG=|21790|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|1|
+}
+On Spec Spring/00, on Spec Summer/00, on Spec Fall/00 {
+	AE=|James Beveridge|
+	AS=|AurA|
+	YR=|2001|
+	TG=|21729|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+Starports, Rim of Fire, Alien Races 3, Ground Forces, Steve Jackson Games {
+	AE=|Glenn Grant|
+	AS=|AurA|
+	YR=|2001|
+	TG=|21755|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+Production Design Illustrations and Game Art for Anachrox {
+	AE=|Mike Jackson|
+	AS=|AurA|
+	YR=|2001|
+	TG=|21763|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+On Spec Summer/00 {
+	AE=|Adrian Kleinbergen|
+	AS=|AurA|
+	YR=|2001|
+	TG=|21770|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+On Spec Fall/00, Challenging Destiny 11 {
+	AE=|Robert Pasternak|
+	AS=|AurA|
+	YR=|2001|
+	TG=|21795|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+(On Spec Summer/00, on Spec Fall/00, the Night Terrors, Supernatural Law 25, Elvira 82, 84, 87, 89 & 90 {
+	AE=|Ronn Sutton|
+	AS=|AurA|
+	YR=|2001|
+	TG=|21841|
+	TA=|Artistic Achievement / Accomplissement artistique|
+	TP=|ar|
+	LV=|9|
+}
+MLR {
+	AE=|Michael Skeet|
+	AS=|AurFZ|
+	YR=|1990|
+	TG=|22707|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|1|
+}
+Neology {
+	AE=|Catherine Donahue Girczyc|
+	AS=|AurFZ|
+	YR=|1991|
+	TG=|5085|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|1|
+}
+Sol Rising {
+	AE=|Larry Hancock|
+	AS=|AurFZ|
+	YR=|1992|
+	TG=|5580|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|1|
+}
+Under the Ozone Hole {
+	AE=|Karl Johanson+John Herbert|
+	AS=|AurFZ|
+	YR=|1993|
+	TG=|6191|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|1|
+}
+Under the Ozone Hole {
+	AE=|Karl Johanson+John Herbert|
+	AS=|AurFZ|
+	YR=|1994|
+	TG=|6192|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|1|
+}
+BCSFAzine {
+	AE=|R. Graeme Cameron|
+	AS=|AurFZ|
+	YR=|1994|
+	TG=|2173|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+ZX {
+	AE=|Andrew Murdock|
+	AS=|AurFZ|
+	YR=|1994|
+	TG=|8620|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Opuntia {
+	AE=|Dale Spiers|
+	AS=|AurFZ|
+	YR=|1994|
+	TG=|11217|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Communique {
+	AE=|Jean-Louis Trudel+Aaron Humphrey+Dale L. Sproule|
+	AS=|AurFZ|
+	YR=|1994|
+	TG=|12050|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Under the Ozone Hole {
+	AE=|Karl Johanson+John Herbert|
+	AS=|AurFZ|
+	YR=|1995|
+	TG=|6193|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|1|
+}
+BCSFAzine {
+	AE=|R. Graeme Cameron|
+	AS=|AurFZ|
+	YR=|1995|
+	TG=|2174|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|2|
+}
+From Beyond the Oört Cloud {
+	AE=|Aaron Yorgason|
+	AS=|AurFZ|
+	YR=|1995|
+	TG=|13814|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|3|
+}
+The Frozen Frog {
+	AE=|Benoit Girard|
+	AS=|AurFZ|
+	YR=|1995|
+	TG=|5082|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|4|
+}
+Bardic Runes {
+	AE=|Michael McKenny|
+	AS=|AurFZ|
+	YR=|1995|
+	TG=|8264|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|5|
+}
+Rank 82 = Withdrawn - Nomination Declined {
+	AE=|(********)|
+	AS=|AurFZ|
+	YR=|1995|
+	TG=|58|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|x|
+	LV=|80|
+}
+Rank 83 = Withdrawn - Conflict of Interest {
+	AE=|(********)|
+	AS=|AurFZ|
+	YR=|1995|
+	TG=|69|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|x|
+	LV=|80|
+}
+SFSF Boréal Inc. & Prix Boréal (Awards) {
+	AE=|Jean-Louis Trudel|
+	AS=|AurFZ|
+	YR=|1995|
+	TG=|12048|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|82|
+}
+NorthWords {
+	AE=|James Botte|
+	AS=|AurFZ|
+	YR=|1995|
+	TG=|1488|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|83|
+}
+Under the Ozone Hole {
+	AE=|Karl Johanson+John Herbert|
+	AS=|AurFZ|
+	YR=|1996|
+	TG=|6194|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|1|
+}
+Warp Factor {
+	AE=|Chris Chartier|
+	AS=|AurFZ|
+	YR=|1996|
+	TG=|2618|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|2|
+}
+From Beyond the Oört Cloud {
+	AE=|Aaron Yorgason|
+	AS=|AurFZ|
+	YR=|1996|
+	TG=|13815|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|3|
+}
+Warp {
+	AE=|Keith Braithwaite|
+	AS=|AurFZ|
+	YR=|1996|
+	TG=|1615|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|4|
+}
+BCSFAzine {
+	AE=|R. Graeme Cameron+John C. H. Wong|
+	AS=|AurFZ|
+	YR=|1996|
+	TG=|2175|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|5|
+}
+Sol Rising {
+	AE=|Theresa Wojtasiewicz|
+	AS=|AurFZ|
+	YR=|1997|
+	TG=|14719|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|1|
+}
+NorthWords {
+	AE=|James M. Botte+Bertrand Desbiens+Mark Lefebvre|
+	AS=|AurFZ|
+	YR=|1997|
+	TG=|14480|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Warp {
+	AE=|Keith Braithwaite|
+	AS=|AurFZ|
+	YR=|1997|
+	TG=|14483|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Under the Ozone Hole {
+	AE=|Karl Johanson+John Herbert|
+	AS=|AurFZ|
+	YR=|1997|
+	TG=|14552|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+The Diplomatic Pouch {
+	AE=|Capucine Plourde|
+	AS=|AurFZ|
+	YR=|1997|
+	TG=|14618|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+OSFS Statement {
+	AE=|Lionel Wagner|
+	AS=|AurFZ|
+	YR=|1997|
+	TG=|14702|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+From Beyond the Oört Cloud {
+	AE=|Aaron Yorgason|
+	AS=|AurFZ|
+	YR=|1997|
+	TG=|14727|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Warp Factor {
+	AE=|Chris Chartier|
+	AS=|AurFZ|
+	YR=|1998|
+	TG=|18391|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|1|
+}
+Warp {
+	AE=|Keith Braithwaite|
+	AS=|AurFZ|
+	YR=|1998|
+	TG=|18352|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+The Space Cadet Gazette {
+	AE=|R. Graeme Cameron|
+	AS=|AurFZ|
+	YR=|1998|
+	TG=|18373|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+A Little Enlightenment {
+	AE=|Chris Chartier|
+	AS=|AurFZ|
+	YR=|1998|
+	TG=|18389|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+OSFS Statement {
+	AE=|M. B. Wadsworth|
+	AS=|AurFZ|
+	YR=|1998|
+	TG=|18775|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Sol Rising {
+	AE=|Theresa Wojtasiewicz|
+	AS=|AurFZ|
+	YR=|1998|
+	TG=|18803|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Warp {
+	AE=|Lynda Pelley|
+	AS=|AurFZ|
+	YR=|1999|
+	TG=|21798|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|1|
+}
+Opuntia {
+	AE=|Dale Spiers|
+	AS=|AurFZ|
+	YR=|1999|
+	TG=|21835|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+OSFS Statement {
+	AE=|M. B. Wadsworth|
+	AS=|AurFZ|
+	YR=|1999|
+	TG=|21864|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Northern Fusion {
+	AE=|Carol Weekes|
+	AS=|AurFZ|
+	YR=|1999|
+	TG=|21866|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Sol Rising {
+	AE=|Theresa Wojtasiewicz|
+	AS=|AurFZ|
+	YR=|1999|
+	TG=|21871|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Made in Canada Website (www.geocities.com/canadian_sf) {
+	AE=|Don Bassie|
+	AS=|AurFZ|
+	YR=|2000|
+	TG=|21718|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|web|
+	LV=|1|
+}
+Voyageur (www.idic.ca) {
+	AE=|Karen Bennett|
+	AS=|AurFZ|
+	YR=|2000|
+	TG=|21724|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|1|
+}
+CONtract {
+	AE=|John Mansfield|
+	AS=|AurFZ|
+	YR=|2000|
+	TG=|21777|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Warp {
+	AE=|Lynda Pelley|
+	AS=|AurFZ|
+	YR=|2000|
+	TG=|21799|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+OSFS Statement {
+	AE=|Joel Polowin+Dwight Williams+Sharon C. P. Fall|
+	AS=|AurFZ|
+	YR=|2000|
+	TG=|21807|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Disrupter {
+	AE=|Bernard Reischl|
+	AS=|AurFZ|
+	YR=|2000|
+	TG=|21810|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Voyageur (www.idic.ca) {
+	AE=|Karen Bennett|
+	AS=|AurFZ|
+	YR=|2001|
+	TG=|21725|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|1|
+}
+Made in Canada Newsletter (www.geocities.com/canadian_sf/Newsletters/) {
+	AE=|Don Bassie|
+	AS=|AurFZ|
+	YR=|2001|
+	TG=|21717|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+The Neutral Zone Journal {
+	AE=|Lisa McGovern|
+	AS=|AurFZ|
+	YR=|2001|
+	TG=|21780|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Opuntia {
+	AE=|Dale Speirs|
+	AS=|AurFZ|
+	YR=|2001|
+	TG=|21833|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+BCSFAzine {
+	AE=|John C. H. Wong+Garth Spencer|
+	AS=|AurFZ|
+	YR=|2001|
+	TG=|21872|
+	TA=|Fan Achievement (Fanzine) / Accomplissement fanique (Fanzine)|
+	TP=|fz|
+	LV=|9|
+}
+Treasurer, PineKone 1 {
+	AE=|Paul Valcour|
+	AS=|AurFO|
+	YR=|1989|
+	TG=|12523|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|1|
+}
+ConText '89 {
+	AE=|The Alberta Speculative Fiction Association|
+	AS=|AurFO|
+	YR=|1990|
+	TG=|11904|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|1|
+}
+president, SSFS; chair, Combine 0 {
+	AE=|Dave Panchyk|
+	AS=|AurFO|
+	YR=|1991|
+	TG=|9022|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|1|
+}
+Chair, 1994 Winnepeg Worldcon Bid {
+	AE=|John Mansfield|
+	AS=|AurFO|
+	YR=|1992|
+	TG=|7801|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|1|
+}
+NonCon 15 {
+	AE=|Adam Charlesworth|
+	AS=|AurFO|
+	YR=|1993|
+	TG=|2591|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|1|
+}
+Ad Astra {
+	AE=|Lloyd Penney|
+	AS=|AurFO|
+	YR=|1994|
+	TG=|9113|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|1|
+}
+Ad Astra consuite {
+	AE=|Heather Ashby|
+	AS=|AurFO|
+	YR=|1994|
+	TG=|529|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+KAG/Kanada {
+	AE=|John Gannon|
+	AS=|AurFO|
+	YR=|1994|
+	TG=|4834|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Wilfcon {
+	AE=|Annette Ing|
+	AS=|AurFO|
+	YR=|1994|
+	TG=|6100|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Ad Astra {
+	AE=|Yvonne Penney|
+	AS=|AurFO|
+	YR=|1994|
+	TG=|9115|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Space-Time Continuum {
+	AE=|Rebecca M. Senese|
+	AS=|AurFO|
+	YR=|1994|
+	TG=|10470|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+SFSF Boréal {
+	AE=|Jean-Louis Trudel|
+	AS=|AurFO|
+	YR=|1994|
+	TG=|12047|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+NonCon & On Spec {
+	AE=|Cath Jackel|
+	AS=|AurFO|
+	YR=|1995|
+	TG=|6138|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|1|
+}
+1994 Worldcon {
+	AE=|John Mansfield|
+	AS=|AurFO|
+	YR=|1995|
+	TG=|7800|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|2|
+}
+Ad Astra {
+	AE=|Yvonne Penney|
+	AS=|AurFO|
+	YR=|1995|
+	TG=|9116|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|3|
+}
+Space-Time Continuum {
+	AE=|Rebecca M. Senese|
+	AS=|AurFO|
+	YR=|1995|
+	TG=|10471|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|4|
+}
+Ad Astra {
+	AE=|Lloyd Penney|
+	AS=|AurFO|
+	YR=|1995|
+	TG=|9114|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|5|
+}
+Rank 82 = Withdrawn - Nomination Declined {
+	AE=|(********)|
+	AS=|AurFO|
+	YR=|1995|
+	TG=|57|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|x|
+	LV=|80|
+}
+co-chairman of CAN-CON '94 {
+	AE=|James Botte|
+	AS=|AurFO|
+	YR=|1995|
+	TG=|1487|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|82|
+}
+SFSF Boréal, Prix Boréal {
+	AE=|Jean-Louis Trudel|
+	AS=|AurFO|
+	YR=|1996|
+	TG=|12049|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|1|
+}
+Warp 9 {
+	AE=|Chris Chartier|
+	AS=|AurFO|
+	YR=|1996|
+	TG=|2617|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|2|
+}
+Space-Time Continuum {
+	AE=|Rebecca M. Senese|
+	AS=|AurFO|
+	YR=|1996|
+	TG=|10472|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|3|
+}
+Toronto Trek {
+	AE=|Monica Winkler|
+	AS=|AurFO|
+	YR=|1996|
+	TG=|13536|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|4|
+}
+Klingon Imperial Diplomatic Corps (KIDC) {
+	AE=|Capucine Plourde|
+	AS=|AurFO|
+	YR=|1996|
+	TG=|9184|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|5|
+}
+MonSFFA {
+	AE=|Lynda Pelley|
+	AS=|AurFO|
+	YR=|1996|
+	TG=|9102|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|6|
+}
+FilkOntario {
+	AE=|Judith Hayman|
+	AS=|AurFO|
+	YR=|1996|
+	TG=|5778|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|7|
+}
+SF Saturday {
+	AE=|Yvonne Penney|
+	AS=|AurFO|
+	YR=|1997|
+	TG=|14615|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|1|
+}
+Toronto Trek 10 program book {
+	AE=|Warren Huska|
+	AS=|AurFO|
+	YR=|1997|
+	TG=|14547|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+MonSFFA {
+	AE=|Lynda Pelley|
+	AS=|AurFO|
+	YR=|1997|
+	TG=|14612|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Klingon Imperial Diplomatic Corps (KIDC) {
+	AE=|Capucine Plourde|
+	AS=|AurFO|
+	YR=|1997|
+	TG=|14619|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Space-Time Continuum {
+	AE=|Rebecca M. Senese|
+	AS=|AurFO|
+	YR=|1997|
+	TG=|14656|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+The National SF & Fantasy Society {
+	AE=|Peter Halasz|
+	AS=|AurFO|
+	YR=|1998|
+	TG=|18506|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|1|
+}
+Warp 9 & British Television Fanclub of Quebec {
+	AE=|Chris Chartier|
+	AS=|AurFO|
+	YR=|1998|
+	TG=|18390|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Pharos Project {
+	AE=|Andrew Gurudata|
+	AS=|AurFO|
+	YR=|1998|
+	TG=|18505|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Primedia {
+	AE=|Cindy Huckle|
+	AS=|AurFO|
+	YR=|1998|
+	TG=|18546|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Con*cept {
+	AE=|Ann Methe|
+	AS=|AurFO|
+	YR=|1998|
+	TG=|18616|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Space-Time Continuum {
+	AE=|Rebecca M. Senese|
+	AS=|AurFO|
+	YR=|1998|
+	TG=|18704|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Con*Cept 98 (Chair) {
+	AE=|Ann Methe|
+	AS=|AurFO|
+	YR=|1999|
+	TG=|21784|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|1|
+}
+Warp 9 & British Television Fanclub of Quebec {
+	AE=|Chris Chartier|
+	AS=|AurFO|
+	YR=|1999|
+	TG=|21737|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Toronto Trek 12 (Co-Chair) {
+	AE=|Stephen Christian|
+	AS=|AurFO|
+	YR=|1999|
+	TG=|21739|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Toronto Trek 12 (Programming) {
+	AE=|Andrew Gurudata|
+	AS=|AurFO|
+	YR=|1999|
+	TG=|21756|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Primedia 98 {
+	AE=|Cindy Huckle|
+	AS=|AurFO|
+	YR=|1999|
+	TG=|21761|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+KAG/Kanada {
+	AE=|Bernard Reischl|
+	AS=|AurFO|
+	YR=|2000|
+	TG=|21811|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|1|
+}
+InCONsequential {
+	AE=|Brian A. Davis|
+	AS=|AurFO|
+	YR=|2000|
+	TG=|21743|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Con*cept {
+	AE=|Ann Methe|
+	AS=|AurFO|
+	YR=|2000|
+	TG=|21783|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+MonSFFA {
+	AE=|Cathy Palmer-Lister|
+	AS=|AurFO|
+	YR=|2000|
+	TG=|21794|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Toronto in 2003 Worldcon Bid {
+	AE=|Lloyd Penney|
+	AS=|AurFO|
+	YR=|2000|
+	TG=|21804|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Toronto in 2003 Worldcon Bid {
+	AE=|Yvonne Penney|
+	AS=|AurFO|
+	YR=|2000|
+	TG=|21806|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+BCSFA President & V-Con 25 Chair {
+	AE=|R. Graeme Cameron|
+	AS=|AurFO|
+	YR=|2001|
+	TG=|21732|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|1|
+}
+Toronto in 2003 Worldcon Bid {
+	AE=|Larry Hancock|
+	AS=|AurFO|
+	YR=|2001|
+	TG=|21757|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+USS Hudson Bay / IDIC {
+	AE=|Peter Johnson|
+	AS=|AurFO|
+	YR=|2001|
+	TG=|21766|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Torcon 3 Committee {
+	AE=|Lloyd Penney|
+	AS=|AurFO|
+	YR=|2001|
+	TG=|21803|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+Torcon 3 Committee {
+	AE=|Yvonne Penney|
+	AS=|AurFO|
+	YR=|2001|
+	TG=|21805|
+	TA=|Fan Achievement (Organizational) / Accomplissement fanique (Organisation)|
+	TP=|con|
+	LV=|9|
+}
+editor, Maple Leaf Rag & dedication to Canadian fandom {
+	AE=|Garth Spencer|
+	AS=|AurFN|
+	YR=|1986|
+	TG=|11195|
+	TA=|Contribution to Fandom|
+	TP=|fz|
+	LV=|1|
+}
+editor, Solaris {
+	AE=|Élisabeth Vonarburg|
+	AS=|AurFN|
+	YR=|1987|
+	TG=|12753|
+	TA=|Contribution to Fandom|
+	TP=|fz|
+	LV=|1|
+}
+MLR {
+	AE=|Michael Skeet|
+	AS=|AurFN|
+	YR=|1988|
+	TG=|11043|
+	TA=|Contribution to Fandom|
+	TP=|fz|
+	LV=|1|
+}
+NCF Guide to Canadian SF {
+	AE=|Robert Runté|
+	AS=|AurFN|
+	YR=|1989|
+	TG=|10001|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|nf|
+	LV=|1|
+}
+promotion of Canadian SF {
+	AE=|Robert Runté|
+	AS=|AurFN|
+	YR=|1990|
+	TG=|10002|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|ev|
+	LV=|1|
+}
+Ask Mr. Science (column) {
+	AE=|Al Betz|
+	AS=|AurFN|
+	YR=|1991|
+	TG=|1184|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|nf|
+	LV=|1|
+}
+Horizons SF {
+	AE=|David W. New|
+	AS=|AurFN|
+	YR=|1992|
+	TG=|8692|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|om|
+	LV=|1|
+}
+SF2 show {
+	AE=|Louise Hypher|
+	AS=|AurFN|
+	YR=|1993|
+	TG=|6085|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|dp|
+	LV=|1|
+}
+promotion of Canadian SF {
+	AE=|Jean-Louis Trudel|
+	AS=|AurFN|
+	YR=|1994|
+	TG=|12042|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|ev|
+	LV=|1|
+}
+filking {
+	AE=|Heather Borean|
+	AS=|AurFN|
+	YR=|1994|
+	TG=|1464|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|mp|
+	LV=|9|
+}
+Ether Patrol reviews {
+	AE=|Adam Charlesworth|
+	AS=|AurFN|
+	YR=|1994|
+	TG=|2588|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|9|
+}
+fan writing {
+	AE=|Karl Johanson|
+	AS=|AurFN|
+	YR=|1994|
+	TG=|6190|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|9|
+}
+Cybersquid BBS {
+	AE=|Ron Sharp|
+	AS=|AurFN|
+	YR=|1994|
+	TG=|10492|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|in|
+	LV=|9|
+}
+Contributions to Fandom {
+	AE=|Larry Stewart|
+	AS=|AurFN|
+	YR=|1994|
+	TG=|11526|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|9|
+}
+Contributions to Fandom {
+	AE=|Terry Wyatt|
+	AS=|AurFN|
+	YR=|1994|
+	TG=|13753|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|9|
+}
+Ether Patrol host (Vancouver radio show) {
+	AE=|Catherine Donahue Girczyc|
+	AS=|AurFN|
+	YR=|1995|
+	TG=|5084|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|dr|
+	LV=|1|
+}
+Contributions to Fandom {
+	AE=|Bob Hadji|
+	AS=|AurFN|
+	YR=|1995|
+	TG=|5481|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|2|
+}
+Ether Patrol reviews {
+	AE=|Adam Charlesworth|
+	AS=|AurFN|
+	YR=|1995|
+	TG=|2589|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|3|
+}
+The Diplomatic Planetary Handbook {
+	AE=|Capucine Plourde|
+	AS=|AurFN|
+	YR=|1995|
+	TG=|9183|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|mn|
+	LV=|4|
+}
+Random Musings {
+	AE=|Robert J. Sawyer|
+	AS=|AurFN|
+	YR=|1995|
+	TG=|10268|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|e|
+	LV=|5|
+}
+entertainer/personnalité amuseur {
+	AE=|Larry Stewart|
+	AS=|AurFN|
+	YR=|1995|
+	TG=|11527|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|om|
+	LV=|6|
+}
+entertainer/personnalité amuseur {
+	AE=|Larry Stewart|
+	AS=|AurFN|
+	YR=|1996|
+	TG=|11528|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|om|
+	LV=|1|
+}
+fan-writing/écriture fanique {
+	AE=|Lloyd Penney|
+	AS=|AurFN|
+	YR=|1996|
+	TG=|9111|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|2|
+}
+Ether Patrol reviews {
+	AE=|Adam Charlesworth|
+	AS=|AurFN|
+	YR=|1996|
+	TG=|2590|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|3|
+}
+entertainer {
+	AE=|Lou Israel|
+	AS=|AurFN|
+	YR=|1996|
+	TG=|6121|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|om|
+	LV=|4|
+}
+filk-singing {
+	AE=|Stephanie Bedwell-Grime|
+	AS=|AurFN|
+	YR=|1996|
+	TG=|1024|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|mp|
+	LV=|5|
+}
+fan-writing/écriture fanique {
+	AE=|Lloyd Penney|
+	AS=|AurFN|
+	YR=|1997|
+	TG=|14614|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|1|
+}
+filk-singing {
+	AE=|Judith Hayman|
+	AS=|AurFN|
+	YR=|1997|
+	TG=|14541|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|mp|
+	LV=|9|
+}
+Plant 9 From Outer Space {
+	AE=|MonSFFA|
+	AS=|AurFN|
+	YR=|1997|
+	TG=|14666|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|tve|
+	LV=|9|
+}
+Klingon Imperial Diplomatic Corps website design / conception du site internet KIDC: www.klingon.org {
+	AE=|Capucine Plourde|
+	AS=|AurFN|
+	YR=|1997|
+	TG=|14617|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|om|
+	LV=|9|
+}
+bibliography/bibliographie [Dracula Opus 300] {
+	AE=|Norbert Spehner|
+	AS=|AurFN|
+	YR=|1997|
+	TG=|14668|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|bib|
+	LV=|9|
+}
+entertainer/personnalité amuseur {
+	AE=|Larry Stewart|
+	AS=|AurFN|
+	YR=|1997|
+	TG=|14679|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|om|
+	LV=|9|
+}
+entertainer/personnalité amuseur {
+	AE=|Larry Stewart|
+	AS=|AurFN|
+	YR=|1998|
+	TG=|18740|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|om|
+	LV=|1|
+}
+CUFF {
+	AE=|R. Graeme Cameron|
+	AS=|AurFN|
+	YR=|1998|
+	TG=|18372|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|9|
+}
+http://members.xoom.com/cansfrg (Canadian SF & Fantasy Resource Guide Website) {
+	AE=|Gary Hilson|
+	AS=|AurFN|
+	YR=|1998|
+	TG=|18539|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|web|
+	LV=|9|
+}
+Hollyweird Column/Chronique {
+	AE=|Charles Mohapel|
+	AS=|AurFN|
+	YR=|1998|
+	TG=|18623|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|e|
+	LV=|9|
+}
+fan-writing/écriture fanique {
+	AE=|Lloyd Penney|
+	AS=|AurFN|
+	YR=|1998|
+	TG=|18662|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|9|
+}
+Co-Curator, 60 Years of Superman Exhibit at Nepean Museum {
+	AE=|Janet L. Hetherington|
+	AS=|AurFN|
+	YR=|1999|
+	TG=|21759|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|ev|
+	LV=|9|
+}
+The Fedex Files: "Moxie" (Video) {
+	AE=|MonSFFA|
+	AS=|AurFN|
+	YR=|1999|
+	TG=|21787|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|tve|
+	LV=|9|
+}
+fan-writing/écriture fanique {
+	AE=|Lloyd Penney|
+	AS=|AurFN|
+	YR=|1999|
+	TG=|21802|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|9|
+}
+entertainer/personnalité amuseur {
+	AE=|Larry Stewart|
+	AS=|AurFN|
+	YR=|1999|
+	TG=|21837|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|om|
+	LV=|9|
+}
+The Return of X the Unknown {
+	AE=|Aaron Yorgason|
+	AS=|AurFN|
+	YR=|1999|
+	TG=|21873|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|9|
+}
+Made in Canada Website (www.geocities.com/canadian_sf) {
+	AE=|Don Bassie|
+	AS=|AurFN|
+	YR=|2000|
+	TG=|21719|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|web|
+	LV=|1|
+}
+The Road to Roswell (Music CD) {
+	AE=|Karen Linsley+Lloyd Landa|
+	AS=|AurFN|
+	YR=|2000|
+	TG=|21775|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|mr|
+	LV=|9|
+}
+fan-writing/écriture fanique {
+	AE=|Lloyd Penney|
+	AS=|AurFN|
+	YR=|2000|
+	TG=|21801|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|9|
+}
+entertainer/personnalité amuseur {
+	AE=|Larry Stewart|
+	AS=|AurFN|
+	YR=|2000|
+	TG=|21838|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|om|
+	LV=|9|
+}
+One-Man SF Parody Shows {
+	AE=|Jason Taniguchi|
+	AS=|AurFN|
+	YR=|2000|
+	TG=|21844|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|dp|
+	LV=|9|
+}
+book reviews/ critiques de livres {
+	AE=|Donna McMahon|
+	AS=|AurFN|
+	YR=|2001|
+	TG=|21781|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|1|
+}
+Pioneers of Mars (Ares CD-ROM Magazine V2n1, Summer 2000) {
+	AE=|Lloyd Landa+Karen Linsley|
+	AS=|AurFN|
+	YR=|2001|
+	TG=|21773|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|in|
+	LV=|9|
+}
+fan-writing/écriture fanique {
+	AE=|Lloyd Penney|
+	AS=|AurFN|
+	YR=|2001|
+	TG=|21800|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|9|
+}
+fan writing/écriture fanique {
+	AE=|Garth Spencer|
+	AS=|AurFN|
+	YR=|2001|
+	TG=|21834|
+	TA=|Fan Achievement (Other) / Accomplissement fanique (Autre)|
+	TP=|fn|
+	LV=|9|
+}
+untitled {
+	AE=|A. E. van Vogt|
+	AS=|AurU|
+	YR=|1980|
+	TG=|12549|
+	TA=|Lifetime Achievement|
+	TP=|hu|
+	LV=|1|
+}
+particularly as critic & editor {
+	AE=|Susan Wood|
+	AS=|AurU|
+	YR=|1981|
+	TG=|13718|
+	TA=|Lifetime Contributions|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Phyllis Gotlieb|
+	AS=|AurU|
+	YR=|1982|
+	TG=|5239|
+	TA=|Lifetime Contributions|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|John Robert Colombo|
+	AS=|AurU|
+	YR=|1982|
+	TG=|2917|
+	TA=|Lifetime Contributions|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|H. A. Hargreaves|
+	AS=|AurU|
+	YR=|1982|
+	TG=|5636|
+	TA=|Lifetime Contributions|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Judith Merril|
+	AS=|AurU|
+	YR=|1983|
+	TG=|8349|
+	TA=|Lifetime Contributions|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|H. A. Hargreaves|
+	AS=|AurU|
+	YR=|1983|
+	TG=|5637|
+	TA=|Lifetime Contributions|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Spider Robinson|
+	AS=|AurU|
+	YR=|1983|
+	TG=|9855|
+	TA=|Lifetime Contributions|
+	TP=|hu|
+	LV=|9|
+}
+Uneasy Union: A Checklist of English Language SF Concerning Canadian Separatist Conflicts {
+	AE=|John Bell|
+	AS=|AurY|
+	YR=|1983|
+	TG=|1034|
+	TA=|Finalists for Non-Fiction|
+	TP=|bib|
+	LV=|9|
+}
+Years of Light: A Celebration of Leslie A. Croutch {
+	AE=|John Robert Colombo|
+	AS=|AurY|
+	YR=|1983|
+	TG=|2920|
+	TA=|Finalists for Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}

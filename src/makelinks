@@ -1,0 +1,21 @@
+#
+# This was an experiment that didn't really go anywhere
+#
+cd $1
+
+
+#
+# Remove all binaries but xx.cgi
+rm -f ea.cgi
+rm -f exact_author.cgi
+
+
+#
+# Make links to old binary names for compatibility
+ln xx.cgi exact_author.cgi
+
+
+#
+# Make links to new binary names to save space
+ln xx.cgi ea.cgi
+

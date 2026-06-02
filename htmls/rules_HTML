@@ -1,0 +1,134 @@
+<HTML>
+<TITLE>Rules of Engagement</TITLE>
+<body bgcolor=ffffff>
+<H1>The New ISFDB Data Entry Rules of Engagement</H1>
+
+<P>
+Public data entry has been a part of the ISFDB since it became
+widely available in February of 1996. A tremendous amount of effort
+has been expended on this feature, both in maintaining the user
+interface, as well as correcting the errors made by users while 
+entering this data.  However, when one looks at the actual source 
+of the bibliographic data currently residing in the ISFDB, it turns 
+out that the vast bulk of material has come from sources other than
+the public data entry forms. The <i>real</i> source for ISFDB material
+has been private databases that individuals have been maintaining on their 
+home PC's for years, as well as a small number of large institutional 
+databases (such as the NESFA database).
+<P>
+While much useful information has come from the public data entry
+facility, by the end of last year, I was personally spending nearly
+every minute I devoted to the ISFDB in repairing bad data collected 
+from the data entry interface. The rest of my time was spent answering
+angry email about why a particular piece of submitted data wasn't
+online yet.
+<p>
+Although I believe that readers in general
+have a higher intellect than non-readers, and that SF readers as a 
+whole have a higher intellect than non-SF readers, I am nonetheless
+now convinced that the majority of you have absolutely no business
+entering data into this database. I have tried this experiment for 
+about 4 years now, and I think that I have collected more than enough 
+data to prove this assertion. 
+<P>
+I've reached the end of my rope over people who don't know the difference
+between a collection and an anthology. I'm tired of fixing entries where people
+entered short stories as anthologies, essays as books of nonfiction, single poems
+as entire collections, short stories as novels, magazines without dates of publication, 
+and magazine short stories without authors. I've fixed too many submissions that 
+were entered backwards with short story titles as authors, and authors as short story titles.
+I'm tired of being caught in the middle of the <b>Series Wars</b>: someone will
+submit about 85 updates until all of Larry Niven's books are contained in series to 
+his/her satisfaction, only to be immediately followed by email from someone else 
+who demands to know why Larry Niven's series information is completely brain-damaged.
+I'm tired of entering all of the non-SF essays published in non-genre
+magazines by marginally-SF authors that no one has ever heard of, when
+the bibliographies for major authors like Heinlein, Asimov, and Clarke are
+still unfinished.
+<p>
+We've not really made any progress on the old magazines since January
+of 1998, when the deluge of user-submitted data started in earnest. Many
+authors were treating the ISFDB as a personal bibliographic service, and
+were sending monthly updates on their latest article printed in TV-Guide 
+or the local newspaper.  But worst of all, maintaining the ISFDB had 
+turned into cut-n-paste drudgery over data which, for the most part,
+didn't have wide appeal, especially for the person doing all of the
+cutting and pasting.
+<p>
+So, we're going to re-establish our priorities here, and there
+are going to be a few changes. Major changes.
+Here then are the new rules of engagement for data that goes into the
+ISFDB:
+<UL>
+<LI>
+<B>Author Data</B>: I will leave the author data entry form online. This
+is risky - I know. Many errors occur here as well. Not to mention
+those people who enter entire bibliographies in that little box
+reserved for bios. Nonetheless, a lot of good information is entered
+here that cannot be found elsewhere. So it stays. It even has some degree
+of idiot-proofing already built in. However, I reserve my editoral right to 
+jetisson floatsam. I will immediately file bibliographies submitted in this
+manner into the maw of the massive backlog of user-submitted bibliographies. 
+<P>
+<LI>
+<B>Novel Data</B>. Information on novels will come from three areas:
+<P>
+<OL>
+<LI> <I>Forthcoming Books</I>. Forthcoming books eventually become published 
+     books, which we verify at the time of publication.
+<LI> <I>Book Reviews</I>. We track book reviews of major SF-related
+     publications and web sites. The books that are reviewed are entered into the database.
+<LI> <I>Archive Data</I>. Information found in various encyclopedias are
+     slowly being integrated into the database.
+</OL>
+<P>
+That's it. We are no longer accepting public data on novels at this time.
+That means if it's not new, and it's not in an encyclopedia, and it's not 
+curently in the database, then it won't be put into the database for the 
+near future either. Presence in an encyclopedia also doesn't guarantee that
+it will be placed into the database anytime soon.
+<P>
+<LI>
+<B>Magazines</B>. Magazine data will come from two areas:
+<P>
+<OL>
+<LI> From magazines that I buy, or are sent to me.
+<LI> Data from people I know, that I trust, and that send me data
+   in a format I can use.
+</OL>
+<P>
+That's it. We are no longer accepting public data on magazines
+at this time. This has been one of the most error-prone areas
+of public data entry. But not <I>the</I> most error-prone.
+<P>
+<LI>
+<B>Collections and Anthologies</B>. <I>This</I> is the most error-prone area of
+public data entry. The data received from public data entry for collections
+and anthologies is almost never correct. Just like magazines, anthology and 
+collection data will come from only two sources:
+<P>
+<OL>
+<LI> From books that I buy, or are sent to me.
+<LI> Data from people I trust.
+</OL>
+<P>
+That's it. We are no longer accepting public data on collections and 
+anthologies at this time.
+<P>
+<LI>
+<B>Shortfiction, Essay, and Poetry Data</B>: This data will come strictly from magazine,
+collection, and anthology data. No loose data will be accepted any more.
+<P>
+<LI>
+<B>Awards Data</B>: No change here. We never allowed the
+public to enter this data anyway.
+<P>
+<LI>
+<B>Data Errors</B>: I will accept information on database errors via email.
+These must be errors of <I>existing</I> information only; I'm not interested in
+errors of omission at this time.
+</UL>
+
+So - the upshot of this is that the public can still submit author information,
+but nothing else. 
+

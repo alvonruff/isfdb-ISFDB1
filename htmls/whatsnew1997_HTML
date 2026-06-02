@@ -1,0 +1,356 @@
+<html>
+<title>What's New With The ISFDB (1997)</title>
+<body bgcolor=ffffff>
+
+
+<hr>
+
+<dl><dt><b> 15 December 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Exceeded 70,000 titles.
+ <li> I found out last week that there are some browsers that do not support
+ 8-bit ascii, which means that those particular browsers could not select on authors
+ like <i>Philip José Farmer</i>. So the external representation of such authors
+ has been modified to use the traditional 'percent/2-digit/ascii-hexadecimal' format often
+ used in URLs. Hopefully, everyone can see everything now.
+ <li> Added a facility to track translations. This feature is not currently accessible
+ from the user submission pages.
+ <li> The content listings of about 50 issues of <i>Weird Tales</i> have been brought
+ online.
+ <li> People have started asking me if the End of Science Fiction has finally
+ arrived.  They cite the lack of data in the forthcoming books section. Okay, I get it;
+ forthcoming books have been updated.
+ <li> My problems with my copy of <i>The Encyclopedia of Science Fiction</i> have been
+ solved. See my essay: <i>Advanced Book Bindery Through Duct-Tape</i>.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 24 November 1997:</b>
+<ul>
+ <font size=-1>
+ <li> After more than 2 years of intense daily abuse, my copy of <i>The 
+ Encyclopedia of Science Fiction</i> (Clute & Nicholls) has finally taken major 
+ damage in the form of a tear down the spine. This is a pretty incredible performance from 
+ a 1370 page behemoth that weighs in at nearly five pounds. Moving the volume 
+ from my reference shelf has become a part of my daily exercise regimen, and
+ the muscle tone of my biceps has improved considerably. The collectability of
+ my particular copy has long since moved from "very fine" through "fine" through 
+ "very good" through "good" to "readable if one scrapes away the peanut butter 
+ smudges", so I'm considering having it rebound. I'm thinking along the lines of
+ some sort of MIL-Spec, battle-ready quality of binding, perhaps in shocking 
+ orange to enhance its findability.
+ <li> An internal construct called "award tags" has been brought online. This
+ doesn't affect the appearance of the ISFDB in any way, but in does change
+ the layout of the database files. As such, the engine is changed to version 1.7.
+ <li> Introduced some new code which pulls serialization data next to the
+ title. This is tricky as serials are often published with a different title
+ than when published as a novel. I have a mechanism to deal with this, but
+ I'm not going to go through all 1400 serial entries to check on them -
+ I'll fix them as I run into them.
+ So if you see any orphaned serials in the <b>Serials</b> section on an
+ author's bibiliography, please submit a brief correction that states the
+ serial needs to be moved into the title, 
+ <li> Introduced a new feature which allows editors (someone like John W. Campbell, Jr.)
+ to be linked to the magazines which they edited. It is now possible to follow
+ an editor to a specific year of a magazine, to a listing of the magazines published
+ in that calender year, to the content listing of a specific issue.
+ <li> Added a page for <i>Science Fiction Chronicle</i>.
+ <li> User-submitted data is way up (this is a Good Thing). I'll hopefully get 
+ caught up over the 4-day weekend next week.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 27 October 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Added pages for <i>Tales of the Unanticipated</i>, <i>Terminal Flight</i>,
+ and <i>Pulphouse</i>.
+ <li> Pulled in a bunch of <i>Planet Stories</i> submissions.
+ </font>
+</ul>
+<p>
+<dt><b> 20 October 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Pushed all database-derived pages into a new section; added a new section
+ all about author ages.
+ <li> Exceeded 65,000 titles.
+ </font>
+</ul>
+<p>
+<dt><b> 15 October 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Officially moved the site to http://www.sfsite.com/isfdb.
+ <li> Added a new page to list some of the more famous print series.
+ </font>
+</ul>
+<p>
+<dt><b> 06 October 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Added pages for <i>the fractal</i> and <i>The Third Alternative</i>.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 15 September 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Added pages for <i>Astonishing Stories</i> and <i>Planet Stories</i>.
+ </font>
+</ul>
+<p>
+<dt><b> 04 September 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Updated the following awards: Hugos, John W. Campbell Award,
+ WFA, IHG, and Sidewise.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 25 August 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Updated the following awards: Asimov Reader's Poll, John W. Campbell Memorial Award,
+ Mythopoeic, SFBC award, and Theodore Sturgeon Memorial Short Story Award.
+ </font>
+</ul>
+<p>
+<dt><b> 20 August 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Most of the early issues (1949-1963) of <i>Fantasy & Science Fiction</i> have now 
+ been indexed thanks to David Stovall.
+ </font>
+</ul>
+<p>
+<dt><b> 12 August 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Added the complete run of <i>Vertex: The Magazine of Science Fiction</i>.
+ <li> Exceeded 60,000 titles.
+ <li> Infrastructure difficulties should be resolved this week, allowing work
+ on submitted data to resume.
+ </font>
+</ul>
+<p>
+<dt><b> 7 August 1997:</b>
+<ul>
+ <font size=-1>
+ <li> The latest Locus Poll results are now online.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 9 July 1997:</b>
+<ul>
+ <font size=-1>
+ <li> In case you haven't noticed - it's summer; the grass needs cutting,
+ the house needs a little paint, that privacy fence needs to go up, and
+ sometimes you just want to sit in the backyard and watch the thunderstorms
+ roll in. So things are slipping here a bit.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 2 June 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Added the Imaginaire awards.
+ <li> A major renovation of the source code is taking place. Hopefully, 
+ you won't see any differences in ISFDB appearance; if you do encounter
+ server errors, send email.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 27 May 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Completely caught up on user-submitted data. If it's not here,
+ please resubmit; if you're making corrections that didn't seem to take,
+ make some comments in the correction as a guide.
+ <li> Added Barnes and Noble to the ISBN links.
+ </font>
+</ul>
+<p>
+<dt><b> 19 May 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Due to the ISFDB being offline, and a home system that needed 
+ reinstallation, no submitted data was merged into the ISFDB this
+ weekend.
+ </font>
+</ul>
+<p>
+<dt><b> 05 May 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Added books.com and bookpages to the ISBN links.
+ <li> When the publisher is displayed on the Content Listing, and
+ that publisher has a web link, the publisher will appear as
+ a link to that web page. Publishers supported to date: Tor,
+ NESFA, Bantam, and Baen.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 14 April 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Added Oldest Living Author/Editor/Artist page.
+ <li> Merged in 74 Robert Silverberg anthologies from the NESFA database.
+ </font>
+</ul>
+<p>
+<dt><b> 07 April 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Exceeded 55,000 titles.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 31 March 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Added ISBN links to Future Fantasy (see 24 March 97).
+ <li>Fixed the problem with author names that contained accented characters.
+ It turns out that the SunOS version of tolower(), which converts strings
+ to lowercase, only works on 7-bit ASCII. Authors like Philip José Farmer
+ and Caitlín R. Kiernan should work now.
+ </font>
+</ul>
+<p>
+<dt><b> 24 March 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Added the ability to follow an ISBN to Amazon Books. Note that this is
+ meant to be a general purpose feature, and not an endorsement of Amazon Books;
+ if other online bookstores have pages that can be accessed via an ISBN, I'll 
+ be more than happy to add support for those stores as well. The new links
+ are displayed on the Content Listing page for a work - if that work has an
+ ISBN.
+ </font>
+</ul>
+<p>
+<dt><b> 15 March 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Exceeded 50,000 titles.
+ <li> Split up the FAQ into multiple files in preparation of vast reworking.
+ <li> Replaced the pop-up menu on the awards page with radio buttons. There
+ are now so many awards that the old menu didn't fit on smaller monitors.
+ <li> Added the IHG and Deathrealm awards; updated the BSFA and Tiptree awards.
+ <li> Added content listings of Aurealis, an Australian semiprozine.
+ </font>
+</ul>
+<p>
+<dt><b> 10 March 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Due to increased CPU usage, attacked the performance of plist.cgi (This
+      is the binary that extracts and prints content listings). Implemented
+      a new database index called <i>titles.xbt</i>. This allows looking up the complete
+      contents in a single index entry instead of searching the entire database. This
+      sped up the performance of plist.cgi by 270%. On the downside, it
+      <b>greatly</i> increases the compile time of the database (by about 30%), and 
+      requires another 600k of diskspace. The runtime performance increase should be 
+      quite noticable.
+ <li> Implemented a strange sorting algorithm for exact_author.cgi and a_exact_author.cgi
+      which uses a combination of hash tables and linked lists. This sped up the 
+      performance of the summary bibliographies by 175%. This should be noticable on 
+      longer summary bibliographies.
+ <li> Both of the above performance changes are fairly radical, involving much
+      new code. Please report any problems you see.
+ </font>
+</ul>
+<p>
+<dt><b> 06 March 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Lots of publication data was unviewable due to a bad entry. Not only
+      was the bad entry repaired, but both compile-time and run-time checks
+      have been put in place to make sure that particular problem doesn't
+      happen again.
+ <li> A page for <i>Nebula Science Fiction</i> was put online.
+ </font>
+</ul>
+<p>
+<dt><b> 04 March 1997:</b>
+<ul>
+ <font size=-1>
+ <li> <i>Finally</i> entered all the issues of <i>Unknown</i>. Maybe it
+      only seems like years.
+ </font>
+</ul>
+<p>
+<dt><b> 03 March 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Merged in the Michael J. Cross anthology database.
+ <li> Started a page for Wonder Stories.
+ <li> Finally fixed anthology series output so that they
+      can be numbered as part of a super series.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 26 February 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Updated the Nebula Awards.
+ <li> Fixed the award scoring routines to reflect some of the new numbering schemes
+      in the awards area. This resulted is some minor adjustments of the Top 100
+      lists.
+ </font>
+</ul>
+<p>
+<dt><b> 20 February 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Recently added the Compton Crook awards.
+ <li> Fixed a bug whereby award citations for authors writing under a pseudonym weren't
+      being picked up on the author's summary bibliography.
+ <li> I'm <i>way</i> behind on user-submitted data, so don't panic.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 20 January 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Exceeded 45,000 titles.
+ <li> Added the Sidewise awards.
+ <li> I'm finally caught up on user-submitted data.
+ </font>
+</ul>
+<p>
+<dt><b> 06 January 1997:</b>
+<ul>
+ <font size=-1>
+ <li> Added the following awards: Balrog, Aurealis, Gandalf,
+ Asimov's Readers' Poll, and Asimov's Undergraduate Award.
+ <li> Changed the Top Novels By Year and Top Short Stories By Year
+ pages. Works are now collated by publication date, not the date
+ of last award. 
+ <li> Added 3 new Top 100 lists which track the top anthologies,
+ collections, and magazines based on the amount of award-nominated
+ fiction they contain.
+ </font>
+</ul>
+<p>
+</dl>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

@@ -1,0 +1,2536 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)MYTHO	1.9	12/29/98 ISFDB";
+##
+The Crystal Cave {
+	AE=|Mary Stewart|
+	AS=|MythN|
+	YR=|1971|
+	TG=|11529|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+The Marvelous Misadventures of Sebastian {
+	AE=|Lloyd Alexander|
+	AS=|MythN|
+	YR=|1971|
+	TG=|300|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Deryni Rising {
+	AE=|Katherine Kurtz|
+	AS=|MythN|
+	YR=|1971|
+	TG=|6845|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Nine Princes in Amber {
+	AE=|Roger Zelazny|
+	AS=|MythN|
+	YR=|1971|
+	TG=|13916|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Red Moon and Black Mountain {
+	AE=|Joy Chant|
+	AS=|MythN|
+	YR=|1972|
+	TG=|2576|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+Grendel {
+	AE=|John Gardner|
+	AS=|MythN|
+	YR=|1972|
+	TG=|4843|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Tsaddik of the Seven Wonders {
+	AE=|Isidore Haiblum|
+	AS=|MythN|
+	YR=|1972|
+	TG=|5482|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Tombs of Atuan {
+	AE=|Ursula K. Le Guin|
+	AS=|MythN|
+	YR=|1972|
+	TG=|7204|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Chronicles of Corum {
+	AE=|Michael Moorcock|
+	AS=|MythN|
+	YR=|1972|
+	TG=|8478|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|s|
+	LV=|9|
+}
+The Light Maze {
+	AE=|Joan North|
+	AS=|MythN|
+	YR=|1972|
+	TG=|8860|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Forest of Forever {
+	AE=|Thomas Burnett Swann|
+	AS=|MythN|
+	YR=|1972|
+	TG=|11722|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Children of Llyr {
+	AE=|Evangeline Walton|
+	AS=|MythN|
+	YR=|1972|
+	TG=|12894|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Song of Rhiannon {
+	AE=|Evangeline Walton|
+	AS=|MythN|
+	YR=|1973|
+	TG=|12897|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+The Dancer from Atlantis {
+	AE=|Poul Anderson|
+	AS=|MythN|
+	YR=|1973|
+	TG=|364|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Deryni Checkmate {
+	AE=|Katherine Kurtz|
+	AS=|MythN|
+	YR=|1973|
+	TG=|6842|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Farthest Shore {
+	AE=|Ursula K. Le Guin|
+	AS=|MythN|
+	YR=|1973|
+	TG=|7144|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Green Phoenix {
+	AE=|Thomas Burnett Swann|
+	AS=|MythN|
+	YR=|1973|
+	TG=|11723|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Guns of Avalon {
+	AE=|Roger Zelazny|
+	AS=|MythN|
+	YR=|1973|
+	TG=|13893|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Hollow Hills {
+	AE=|Mary Stewart|
+	AS=|MythN|
+	YR=|1974|
+	TG=|11530|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+Hrolf Kraki's Saga {
+	AE=|Poul Anderson|
+	AS=|MythN|
+	YR=|1974|
+	TG=|376|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Dark is Rising {
+	AE=|Susan Cooper|
+	AS=|MythN|
+	YR=|1974|
+	TG=|2967|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+High Deryni {
+	AE=|Katherine Kurtz|
+	AS=|MythN|
+	YR=|1974|
+	TG=|6846|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Excalibur {
+	AE=|Sanders Anne Laubenthal|
+	AS=|MythN|
+	YR=|1974|
+	TG=|7066|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+A Midsummer Tempest {
+	AE=|Poul Anderson|
+	AS=|MythN|
+	YR=|1975|
+	TG=|390|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+Watership Down {
+	AE=|Richard Adams|
+	AS=|MythN|
+	YR=|1975|
+	TG=|214|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Forgotten Beasts of Eld {
+	AE=|Patricia A. McKillip|
+	AS=|MythN|
+	YR=|1975|
+	TG=|8277|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Merlin's Ring {
+	AE=|H. Warner Munn|
+	AS=|MythN|
+	YR=|1975|
+	TG=|8618|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+How Are the Mighty Fallen {
+	AE=|Thomas Burnett Swann|
+	AS=|MythN|
+	YR=|1975|
+	TG=|11725|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Prince of Annwn {
+	AE=|Evangeline Walton|
+	AS=|MythN|
+	YR=|1975|
+	TG=|12896|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|MythN|
+	YR=|1976|
+	TG=|37|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|x|
+	LV=|73|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|MythN|
+	YR=|1977|
+	TG=|38|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|x|
+	LV=|73|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|MythN|
+	YR=|1978|
+	TG=|39|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|x|
+	LV=|73|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|MythN|
+	YR=|1979|
+	TG=|40|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|x|
+	LV=|73|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|MythN|
+	YR=|1980|
+	TG=|41|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|x|
+	LV=|73|
+}
+Unfinished Tales {
+	AE=|J. R. R. Tolkien+Christopher Tolkien|
+	AS=|MythN|
+	YR=|1981|
+	TG=|12022|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|c|
+	LV=|1|
+}
+The Grey Mane of Morning {
+	AE=|Joy Chant|
+	AS=|MythN|
+	YR=|1981|
+	TG=|2575|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Wounded Land {
+	AE=|Stephen R. Donaldson|
+	AS=|MythN|
+	YR=|1981|
+	TG=|3713|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Beginning Place {
+	AE=|Ursula K. Le Guin|
+	AS=|MythN|
+	YR=|1981|
+	TG=|7112|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Lion of Ireland: The Legend of Brian Boru {
+	AE=|Morgan Llywelyn|
+	AS=|MythN|
+	YR=|1981|
+	TG=|7539|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Little, Big {
+	AE=|John Crowley|
+	AS=|MythN|
+	YR=|1982|
+	TG=|3096|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+Delusion's Master {
+	AE=|Tanith Lee|
+	AS=|MythN|
+	YR=|1982|
+	TG=|7257|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Woman Who Loved the Moon and Other Stories {
+	AE=|Elizabeth A. Lynn|
+	AS=|MythN|
+	YR=|1982|
+	TG=|7657|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|c|
+	LV=|9|
+}
+The Many-Colored Land {
+	AE=|Julian May|
+	AS=|MythN|
+	YR=|1982|
+	TG=|7938|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Sable Moon {
+	AE=|Nancy Springer|
+	AS=|MythN|
+	YR=|1982|
+	TG=|11273|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Claw of the Conciliator {
+	AE=|Gene Wolfe|
+	AS=|MythN|
+	YR=|1982|
+	TG=|13594|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Firelings {
+	AE=|Carol Kendall|
+	AS=|MythN|
+	YR=|1983|
+	TG=|6421|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+The Mists of Avalon {
+	AE=|Marion Zimmer Bradley|
+	AS=|MythN|
+	YR=|1983|
+	TG=|1598|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The One Tree {
+	AE=|Stephen R. Donaldson|
+	AS=|MythN|
+	YR=|1983|
+	TG=|3706|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Queen of Sorcery {
+	AE=|David Eddings|
+	AS=|MythN|
+	YR=|1983|
+	TG=|3907|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+God Stalk {
+	AE=|P. C. Hodgell|
+	AS=|MythN|
+	YR=|1983|
+	TG=|5955|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Blue Sword {
+	AE=|Robin McKinley|
+	AS=|MythN|
+	YR=|1983|
+	TG=|8293|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Door in the Hedge {
+	AE=|Robin McKinley|
+	AS=|MythN|
+	YR=|1983|
+	TG=|8296|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|c|
+	LV=|9|
+}
+Lady of Light {
+	AE=|Diana L. Paxson|
+	AS=|MythN|
+	YR=|1983|
+	TG=|9081|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Darkangel {
+	AE=|Meredith Ann Pierce|
+	AS=|MythN|
+	YR=|1983|
+	TG=|9150|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+When Voiha Wakes {
+	AE=|Joy Chant|
+	AS=|MythN|
+	YR=|1984|
+	TG=|2577|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+Cards of Grief {
+	AE=|Jane Yolen|
+	AS=|MythN|
+	YR=|1985|
+	TG=|13793|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+Moonheart {
+	AE=|Charles de Lint|
+	AS=|MythN|
+	YR=|1985|
+	TG=|3359|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Damiano Trilogy {
+	AE=|R. A. MacAvoy|
+	AS=|MythN|
+	YR=|1985|
+	TG=|7669|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|ob|
+	LV=|9|
+}
+The Hero and the Crown {
+	AE=|Robin McKinley|
+	AS=|MythN|
+	YR=|1985|
+	TG=|8298|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Book of Lost Tales {
+	AE=|J. R. R. Tolkien|
+	AS=|MythN|
+	YR=|1985|
+	TG=|12013|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|c|
+	LV=|9|
+}
+Bridge of Birds {
+	AE=|Barry Hughart|
+	AS=|MythN|
+	YR=|1986|
+	TG=|6065|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+Dragonsbane {
+	AE=|Barbara Hambly|
+	AS=|MythN|
+	YR=|1986|
+	TG=|5561|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Dark of the Moon {
+	AE=|P. C. Hodgell|
+	AS=|MythN|
+	YR=|1986|
+	TG=|5953|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Fire and Hemlock {
+	AE=|Diana Wynne Jones|
+	AS=|MythN|
+	YR=|1986|
+	TG=|6225|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Wandering Unicorn {
+	AE=|Manuel Mujica Lainez|
+	AS=|MythN|
+	YR=|1986|
+	TG=|6916|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Always Coming Home {
+	AE=|Ursula K. Le Guin|
+	AS=|MythN|
+	YR=|1986|
+	TG=|7105|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Folk of the Air {
+	AE=|Peter S. Beagle|
+	AS=|MythN|
+	YR=|1987|
+	TG=|953|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+The Fionavar Tapestry {
+	AE=|Guy Gavriel Kay|
+	AS=|MythN|
+	YR=|1987|
+	TG=|6349|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|ob|
+	LV=|9|
+}
+Tales from the Flat Earth {
+	AE=|Tanith Lee|
+	AS=|MythN|
+	YR=|1987|
+	TG=|7290|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Merlin's Booke {
+	AE=|Jane Yolen|
+	AS=|MythN|
+	YR=|1987|
+	TG=|13801|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|c|
+	LV=|9|
+}
+Seventh Son {
+	AE=|Orson Scott Card|
+	AS=|MythN|
+	YR=|1988|
+	TG=|2347|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+War for the Oaks {
+	AE=|Emma Bull|
+	AS=|MythN|
+	YR=|1988|
+	TG=|1972|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Falling Woman {
+	AE=|Pat Murphy|
+	AS=|MythN|
+	YR=|1988|
+	TG=|8640|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Lincoln's Dreams {
+	AE=|Connie Willis|
+	AS=|MythN|
+	YR=|1988|
+	TG=|13421|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Unicorn Mountain {
+	AE=|Michael Bishop|
+	AS=|MythN|
+	YR=|1989|
+	TG=|1301|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+The Last Coin {
+	AE=|James P. Blaylock|
+	AS=|MythN|
+	YR=|1989|
+	TG=|1379|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Red Prophet {
+	AE=|Orson Scott Card|
+	AS=|MythN|
+	YR=|1989|
+	TG=|2339|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Nightingale {
+	AE=|Kara Dalkey|
+	AS=|MythN|
+	YR=|1989|
+	TG=|3133|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The White Raven {
+	AE=|Diana L. Paxson|
+	AS=|MythN|
+	YR=|1989|
+	TG=|9083|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Walkabout Woman {
+	AE=|Michaela Roessner|
+	AS=|MythN|
+	YR=|1989|
+	TG=|9905|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Stress of Her Regard {
+	AE=|Tim Powers|
+	AS=|MythN|
+	YR=|1990|
+	TG=|9395|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+Prentice Alvin {
+	AE=|Orson Scott Card|
+	AS=|MythN|
+	YR=|1990|
+	TG=|2334|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Changeling Sea {
+	AE=|Patricia A. McKillip|
+	AS=|MythN|
+	YR=|1990|
+	TG=|8272|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The City, Not Long After {
+	AE=|Pat Murphy|
+	AS=|MythN|
+	YR=|1990|
+	TG=|8636|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Fool on the Hill {
+	AE=|Matt Ruff|
+	AS=|MythN|
+	YR=|1990|
+	TG=|9999|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Thomas the Rhymer {
+	AE=|Ellen Kushner|
+	AS=|MythN|
+	YR=|1991|
+	TG=|6856|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|1|
+}
+Tigana {
+	AE=|Guy Gavriel Kay|
+	AS=|MythN|
+	YR=|1991|
+	TG=|6360|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Tehanu: The Last Book of Earthsea {
+	AE=|Ursula K. Le Guin|
+	AS=|MythN|
+	YR=|1991|
+	TG=|7202|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+Only Begotten Daughter {
+	AE=|James Morrow|
+	AS=|MythN|
+	YR=|1991|
+	TG=|8589|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|n|
+	LV=|9|
+}
+The Books of Great Alta {
+	AE=|Jane Yolen|
+	AS=|MythN|
+	YR=|1991|
+	TG=|13786|
+	TA=|Mythopoeic Fantasy Award|
+	TP=|c|
+	LV=|9|
+}
+A Woman of the Iron People {
+	AE=|Eleanor Arnason|
+	AS=|MythN|
+	YR=|1992|
+	TG=|508|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|1|
+}
+Tam Lin {
+	AE=|Pamela Dean|
+	AS=|MythN|
+	YR=|1992|
+	TG=|3377|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Moonwise {
+	AE=|Greer Ilene Gilman|
+	AS=|MythN|
+	YR=|1992|
+	TG=|5079|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The Sorceress and the Cygnet {
+	AE=|Patricia A. McKillip|
+	AS=|MythN|
+	YR=|1992|
+	TG=|8288|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Beauty {
+	AE=|Sheri S. Tepper|
+	AS=|MythN|
+	YR=|1992|
+	TG=|11880|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Briar Rose {
+	AE=|Jane Yolen|
+	AS=|MythN|
+	YR=|1993|
+	TG=|13789|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|1|
+}
+The Paper Grail {
+	AE=|James P. Blaylock|
+	AS=|MythN|
+	YR=|1993|
+	TG=|1389|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Last Call {
+	AE=|Tim Powers|
+	AS=|MythN|
+	YR=|1993|
+	TG=|9387|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The Grail of Hearts {
+	AE=|Susan Shwartz|
+	AS=|MythN|
+	YR=|1993|
+	TG=|10742|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Doomsday Book {
+	AE=|Connie Willis|
+	AS=|MythN|
+	YR=|1993|
+	TG=|13387|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The Porcelain Dove {
+	AE=|Delia Sherman|
+	AS=|MythN|
+	YR=|1994|
+	TG=|10679|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|1|
+}
+The Innkeeper's Song {
+	AE=|Peter S. Beagle|
+	AS=|MythN|
+	YR=|1994|
+	TG=|955|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The Little Country {
+	AE=|Charles de Lint|
+	AS=|MythN|
+	YR=|1994|
+	TG=|3352|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The Cygnet and the Firebird {
+	AE=|Patricia A. McKillip|
+	AS=|MythN|
+	YR=|1994|
+	TG=|8274|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Deerskin {
+	AE=|Robin McKinley|
+	AS=|MythN|
+	YR=|1994|
+	TG=|8295|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Something Rich and Strange {
+	AE=|Patricia A. McKillip|
+	AS=|MythN|
+	YR=|1995|
+	TG=|8286|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|1|
+}
+The Dubious Hills {
+	AE=|Pamela Dean|
+	AS=|MythN|
+	YR=|1995|
+	TG=|3375|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The Hollowing {
+	AE=|Robert Holdstock|
+	AS=|MythN|
+	YR=|1995|
+	TG=|6008|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Temporary Agency {
+	AE=|Rachel Pollack|
+	AS=|MythN|
+	YR=|1995|
+	TG=|9283|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Waking the Moon {
+	AE=|Elizabeth Hand|
+	AS=|MythN|
+	YR=|1996|
+	TG=|5594|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|1|
+}
+Brittle Innings {
+	AE=|Michael Bishop|
+	AS=|MythN|
+	YR=|1996|
+	TG=|1224|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+All the Bells on Earth {
+	AE=|James P. Blaylock|
+	AS=|MythN|
+	YR=|1996|
+	TG=|1373|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The Book of Atrix Wolfe {
+	AE=|Patricia A. McKillip|
+	AS=|MythN|
+	YR=|1996|
+	TG=|8270|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The Dragon Path {
+	AE=|Kenneth Morris|
+	AS=|MythN|
+	YR=|1996|
+	TG=|8563|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The Wood Wife {
+	AE=|Terri Windling|
+	AS=|MythN|
+	YR=|1997|
+	TG=|15436|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|1|
+}
+One for the Morning Glory {
+	AE=|John Barnes|
+	AS=|MythN|
+	YR=|1997|
+	TG=|15425|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Winter Rose {
+	AE=|Patricia A. McKillip|
+	AS=|MythN|
+	YR=|1997|
+	TG=|15433|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Fair Peril {
+	AE=|Nancy Springer|
+	AS=|MythN|
+	YR=|1997|
+	TG=|15435|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The Book of the Long Sun {
+	AE=|Gene Wolfe|
+	AS=|MythN|
+	YR=|1997|
+	TG=|14308|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|ob|
+	LV=|9|
+}
+The Djinn in the Nightingale's Eye {
+	AE=|A. S. Byatt|
+	AS=|MythN|
+	YR=|1998|
+	TG=|18063|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|1|
+}
+Giant Bones {
+	AE=|Peter S. Beagle|
+	AS=|MythN|
+	YR=|1998|
+	TG=|18062|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|c|
+	LV=|9|
+}
+Trader {
+	AE=|Charles de Lint|
+	AS=|MythN|
+	YR=|1998|
+	TG=|18067|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Neverwhere {
+	AE=|Neil Gaiman|
+	AS=|MythN|
+	YR=|1998|
+	TG=|18069|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The Gift {
+	AE=|Patrick O'Leary|
+	AS=|MythN|
+	YR=|1998|
+	TG=|18083|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Stardust {
+	AE=|Neil Gaiman+Charles Vess|
+	AS=|MythN|
+	YR=|1999|
+	TG=|19271|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|ac|
+	LV=|1|
+}
+Someplace to be Flying {
+	AE=|Charles de Lint|
+	AS=|MythN|
+	YR=|1999|
+	TG=|19270|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The History of Our World Beyond the Wave {
+	AE=|R. E. Klein|
+	AS=|MythN|
+	YR=|1999|
+	TG=|19275|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Song for the Basilisk {
+	AE=|Patricia A. McKillip|
+	AS=|MythN|
+	YR=|1999|
+	TG=|19278|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The High House {
+	AE=|James Stoddard|
+	AS=|MythN|
+	YR=|1999|
+	TG=|19284|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Tamsin {
+	AE=|Peter S. Beagle|
+	AS=|MythN|
+	YR=|2000|
+	TG=|22316|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|1|
+}
+Elementals {
+	AE=|A. S. Byatt|
+	AS=|MythN|
+	YR=|2000|
+	TG=|22318|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Dark Cities Underground {
+	AE=|Lisa Goldstein|
+	AS=|MythN|
+	YR=|2000|
+	TG=|22319|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The Wild Swans {
+	AE=|Peg Kerr|
+	AS=|MythN|
+	YR=|2000|
+	TG=|22320|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+The Book of Knights {
+	AE=|Yves Meynard|
+	AS=|MythN|
+	YR=|2000|
+	TG=|22322|
+	TA=|Mythopoeic Fantasy Award for Adult Literature|
+	TP=|n|
+	LV=|9|
+}
+Haroun and the Sea of Stories {
+	AE=|Salman Rushdie|
+	AS=|MythC|
+	YR=|1992|
+	TG=|10061|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|1|
+}
+Jeremy Thatcher, Dragon Hatcher {
+	AE=|Bruce Coville|
+	AS=|MythC|
+	YR=|1992|
+	TG=|3009|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Castle in the Air {
+	AE=|Diana Wynne Jones|
+	AS=|MythC|
+	YR=|1992|
+	TG=|6222|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Elsewhere {
+	AE=|Will Shetterly|
+	AS=|MythC|
+	YR=|1992|
+	TG=|10687|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Song of the Gargoyle {
+	AE=|Zilpha Keatley Snyder|
+	AS=|MythC|
+	YR=|1992|
+	TG=|11155|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Knight's Wyrd {
+	AE=|Debra Doyle+James D. Macdonald|
+	AS=|MythC|
+	YR=|1993|
+	TG=|3764|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|1|
+}
+The Ancient One {
+	AE=|T. A. Barron|
+	AS=|MythC|
+	YR=|1993|
+	TG=|889|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Jennifer Murdley's Toad {
+	AE=|Bruce Coville|
+	AS=|MythC|
+	YR=|1993|
+	TG=|3008|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Hobkin {
+	AE=|Peni R. Griffin|
+	AS=|MythC|
+	YR=|1993|
+	TG=|5389|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Fish Soup {
+	AE=|Ursula K. Le Guin|
+	AS=|MythC|
+	YR=|1993|
+	TG=|7146|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+The Kingdom of Kevin Malone {
+	AE=|Suzy McKee Charnas|
+	AS=|MythC|
+	YR=|1994|
+	TG=|2604|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|1|
+}
+The Mystery of the Cupboard {
+	AE=|Lynne Reid Banks|
+	AS=|MythC|
+	YR=|1994|
+	TG=|788|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+The Giver {
+	AE=|Lois Lowry|
+	AS=|MythC|
+	YR=|1994|
+	TG=|7586|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Nevernever {
+	AE=|Will Shetterly|
+	AS=|MythC|
+	YR=|1994|
+	TG=|10688|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Calling on Dragons {
+	AE=|Patricia C. Wrede|
+	AS=|MythC|
+	YR=|1994|
+	TG=|13728|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Owl in Love {
+	AE=|Patrice Kindl|
+	AS=|MythC|
+	YR=|1995|
+	TG=|6520|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|1|
+}
+The Princess and the Lord of Night {
+	AE=|Emma Bull|
+	AS=|MythC|
+	YR=|1995|
+	TG=|1966|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Switching Well {
+	AE=|Peni R. Griffin|
+	AS=|MythC|
+	YR=|1995|
+	TG=|5390|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+A Knot in the Grain and Other Stories {
+	AE=|Robin McKinley|
+	AS=|MythC|
+	YR=|1995|
+	TG=|8302|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|c|
+	LV=|9|
+}
+Good Griselle {
+	AE=|Jane Yolen|
+	AS=|MythC|
+	YR=|1995|
+	TG=|13799|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Crown of Dalemark^The Crown of Dalemark {
+	AE=|Diana Wynne Jones|
+	AS=|MythC|
+	YR=|1996|
+	TG=|6223|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|1|
+}
+The Boggart {
+	AE=|Susan Cooper|
+	AS=|MythC|
+	YR=|1996|
+	TG=|2966|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Falcon's Egg {
+	AE=|Luli Gray|
+	AS=|MythC|
+	YR=|1996|
+	TG=|5344|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Wren's War {
+	AE=|Sherwood Smith|
+	AS=|MythC|
+	YR=|1996|
+	TG=|11137|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+The Mennyms {
+	AE=|Sylvia Waugh|
+	AS=|MythC|
+	YR=|1996|
+	TG=|12980|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Combined with Adult Literature Award {
+	AE=|(********)|
+	AS=|MythC|
+	YR=|1997|
+	TG=|15424|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|x|
+	LV=|73|
+}
+The Young Merlin Trilogy {
+	AE=|Jane Yolen|
+	AS=|MythC|
+	YR=|1998|
+	TG=|18093|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|ob|
+	LV=|1|
+}
+The Boggart and the Monster {
+	AE=|Susan Cooper|
+	AS=|MythC|
+	YR=|1998|
+	TG=|18066|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+A Dark Horn Blowing {
+	AE=|Dahlov Ipcar|
+	AS=|MythC|
+	YR=|1998|
+	TG=|18073|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Rose Daughter {
+	AE=|Robin McKinley|
+	AS=|MythC|
+	YR=|1998|
+	TG=|18081|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Dark Lord of Derkholm {
+	AE=|Diana Wynne Jones|
+	AS=|MythC|
+	YR=|1999|
+	TG=|19274|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|1|
+}
+The Heavenward Path {
+	AE=|Kara Dalkey|
+	AS=|MythC|
+	YR=|1999|
+	TG=|19269|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Ella Enchanted {
+	AE=|Gail Carson Levine|
+	AS=|MythC|
+	YR=|1999|
+	TG=|19276|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+The Squire's Tale {
+	AE=|Gerald Morris|
+	AS=|MythC|
+	YR=|1999|
+	TG=|19279|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Harry Potter and the Sorcerer's Stone^Harry Potter and the Philosopher's Stone {
+	AE=|J. K. Rowling|
+	AS=|MythC|
+	YR=|1999|
+	TG=|19283|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+The Folk Keeper {
+	AE=|Franny Billingsley|
+	AS=|MythC|
+	YR=|2000|
+	TG=|22317|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|1|
+}
+Skellig {
+	AE=|David Almond|
+	AS=|MythC|
+	YR=|2000|
+	TG=|22315|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+The Circle of Magic (Series) {
+	AE=|Tamora Pierce|
+	AS=|MythC|
+	YR=|2000|
+	TG=|22324|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|s|
+	LV=|9|
+}
+Harry Potter and the Prisoner of Azkaban {
+	AE=|J. K. Rowling|
+	AS=|MythC|
+	YR=|2000|
+	TG=|22327|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|n|
+	LV=|9|
+}
+Kingdom (Series) {
+	AE=|Cynthia Voigt|
+	AS=|MythC|
+	YR=|2000|
+	TG=|22331|
+	TA=|Mythopoeic Fantasy Award for Children's Literature|
+	TP=|s|
+	LV=|9|
+}
+unknown {
+	AE=|C. S. Kilby|
+	AS=|MythI|
+	YR=|1971|
+	TG=|6495|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+unknown {
+	AE=|Mary McDermott Shideler|
+	AS=|MythI|
+	YR=|1971|
+	TG=|10691|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+unknown {
+	AE=|Walter Hooper|
+	AS=|MythI|
+	YR=|1972|
+	TG=|6041|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+Master of Middle-Earth {
+	AE=|Paul H. Kocher|
+	AS=|MythI|
+	YR=|1973|
+	TG=|6697|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+C. S. Lewis, Mere Christian {
+	AE=|Kathryn A. Lindskoog|
+	AS=|MythI|
+	YR=|1974|
+	TG=|7522|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+C. S. Lewis: A Biography {
+	AE=|Roger Lancelyn Green+Walter Hooper|
+	AS=|MythI|
+	YR=|1975|
+	TG=|22544|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|MythI|
+	YR=|1975|
+	TG=|32|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|x|
+	LV=|73|
+}
+C. S. Lewis: An Annotated Checklist {
+	AE=|Joe R. Christopher+Joan K. Ostling|
+	AS=|MythI|
+	YR=|1976|
+	TG=|2759|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|bib|
+	LV=|1|
+}
+Charles W. S. Williams: A Checklist {
+	AE=|Lois Glenn|
+	AS=|MythI|
+	YR=|1976|
+	TG=|5087|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|bib|
+	LV=|1|
+}
+Tolkien Criticism {
+	AE=|Richard C. West|
+	AS=|MythI|
+	YR=|1976|
+	TG=|13064|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|MythI|
+	YR=|1977|
+	TG=|33|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|x|
+	LV=|73|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|MythI|
+	YR=|1978|
+	TG=|34|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|x|
+	LV=|73|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|MythI|
+	YR=|1979|
+	TG=|35|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|x|
+	LV=|73|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|MythI|
+	YR=|1980|
+	TG=|36|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|x|
+	LV=|73|
+}
+unknown {
+	AE=|Christopher Tolkien|
+	AS=|MythI|
+	YR=|1981|
+	TG=|12005|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+The Inklings {
+	AE=|Humphrey Carpenter|
+	AS=|MythI|
+	YR=|1982|
+	TG=|2376|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+Companion to Narnia {
+	AE=|Paul F. Ford|
+	AS=|MythI|
+	YR=|1983|
+	TG=|4582|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+The Road to Middle-Earth {
+	AE=|Tom Shippey|
+	AS=|MythI|
+	YR=|1984|
+	TG=|10730|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+Reason and Imagination in C. S. Lewis {
+	AE=|Peter J. Schakel|
+	AS=|MythI|
+	YR=|1985|
+	TG=|10289|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+Charles Williams: Poet of Theology {
+	AE=|Glen Cavaliero|
+	AS=|MythI|
+	YR=|1986|
+	TG=|2517|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+Splintered Light {
+	AE=|Verlyn Flieger|
+	AS=|MythI|
+	YR=|1986|
+	TG=|4523|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+The Novels of Charles Williams {
+	AE=|Thomas Howard|
+	AS=|MythI|
+	YR=|1986|
+	TG=|6054|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+The Fantasts {
+	AE=|Edmund Little|
+	AS=|MythI|
+	YR=|1986|
+	TG=|7538|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+J. R. R. Tolkien: Myth, Morality, and Religion {
+	AE=|Richard Purtill|
+	AS=|MythI|
+	YR=|1986|
+	TG=|9500|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+J. R. R. Tolkien: Myth, Morality, and Religion {
+	AE=|Richard Purtill|
+	AS=|MythI|
+	YR=|1987|
+	TG=|9501|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+C. S. Lewis {
+	AE=|Joe R. Christopher|
+	AS=|MythI|
+	YR=|1988|
+	TG=|2758|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+The Return of the Shadow by J. R. R. Tolkien {
+	AE=|Christopher Tolkien|
+	AS=|MythI|
+	YR=|1989|
+	TG=|12006|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+The Annotated Hobbit by J. R. R. Tolkien {
+	AE=|Douglas A. Anderson|
+	AS=|MythI|
+	YR=|1990|
+	TG=|331|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|an|
+	LV=|1|
+}
+Jack: C. S. Lewis and His Times {
+	AE=|George Sayer|
+	AS=|MythI|
+	YR=|1991|
+	TG=|10281|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+Owen Barfield on C. S. Lewis {
+	AE=|Owen Barfield|
+	AS=|MythI|
+	YR=|1991|
+	TG=|792|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+The Taste of the Pineapple: Essays on C. S. Lewis as Reader, Critic, and Imaginative Writer {
+	AE=|Bruce L. Edward|
+	AS=|MythI|
+	YR=|1991|
+	TG=|3947|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+The Pattern in the Web: The Mythical Poetry of Charles Williams {
+	AE=|Roma A. King|
+	AS=|MythI|
+	YR=|1991|
+	TG=|6523|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+A Purgatorial Flame: Seven British Writers in the Second World War {
+	AE=|Sebastian Knowles|
+	AS=|MythI|
+	YR=|1991|
+	TG=|6695|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Word and Story in C. S. Lewis {
+	AE=|Peter J. Schakel+Charles A. Hutter|
+	AS=|MythI|
+	YR=|1992|
+	TG=|10290|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+Owen Barfield on C. S. Lewis {
+	AE=|Owen Barfield|
+	AS=|MythI|
+	YR=|1992|
+	TG=|793|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+The Pattern in the Web: The Mythical Poetry of Charles Williams {
+	AE=|Roma A. King|
+	AS=|MythI|
+	YR=|1992|
+	TG=|6524|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+A Purgatorial Flame: Seven British Writers in the Second World War {
+	AE=|Sebastian Knowles|
+	AS=|MythI|
+	YR=|1992|
+	TG=|6696|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+C. S. Lewis: A Biography {
+	AE=|A. N. Wilson|
+	AS=|MythI|
+	YR=|1992|
+	TG=|13450|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Planets in Peril: A Critical Study of C. S. Lewis's Ransom Trilogy {
+	AE=|David C. Downing|
+	AS=|MythI|
+	YR=|1993|
+	TG=|3763|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+J. R. R. Tolkien: A Descriptive Bibliography {
+	AE=|Wayne G. Hammond+Douglas A. Anderson|
+	AS=|MythI|
+	YR=|1994|
+	TG=|5578|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|bib|
+	LV=|1|
+}
+The Fiction of C. S. Lewis: Mask and Mirror {
+	AE=|Kath Filmer|
+	AS=|MythI|
+	YR=|1994|
+	TG=|4488|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+The Chronicles of Narnia: The Patterning of a Fantastic World {
+	AE=|Colin Manlove|
+	AS=|MythI|
+	YR=|1994|
+	TG=|7797|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+J. R. R. Tolkien: Life and Legend {
+	AE=|Judith Priestman|
+	AS=|MythI|
+	YR=|1994|
+	TG=|9456|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Tolkien: A Critical Assessment {
+	AE=|Brian Rosebury|
+	AS=|MythI|
+	YR=|1994|
+	TG=|9918|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+C. S. Lewis in Context {
+	AE=|Doris T. Myers|
+	AS=|MythI|
+	YR=|1995|
+	TG=|8663|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+The Fiction of C. S. Lewis: Mask and Mirror {
+	AE=|Kath Filmer|
+	AS=|MythI|
+	YR=|1995|
+	TG=|4489|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+The Chronicles of Narnia: The Patterning of a Fantastic World {
+	AE=|Colin Manlove|
+	AS=|MythI|
+	YR=|1995|
+	TG=|7798|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+J. R. R. Tolkien: Life and Legend {
+	AE=|Judith Priestman|
+	AS=|MythI|
+	YR=|1995|
+	TG=|9457|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Tolkien: A Critical Assessment {
+	AE=|Brian Rosebury|
+	AS=|MythI|
+	YR=|1995|
+	TG=|9919|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+J. R. R. Tolkien: Artist & Illustrator {
+	AE=|Wayne G. Hammond+Christina Scull|
+	AS=|MythI|
+	YR=|1996|
+	TG=|5579|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|1|
+}
+The Fiction of C. S. Lewis: Mask and Mirror {
+	AE=|Kath Filmer|
+	AS=|MythI|
+	YR=|1996|
+	TG=|4490|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+The Hobbit: A Journey into Maturity {
+	AE=|William H. Green|
+	AS=|MythI|
+	YR=|1996|
+	TG=|5354|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+C. S. Lewis: A Reference Guide 1927 - 1988 {
+	AE=|Susan Lowenberg|
+	AS=|MythI|
+	YR=|1996|
+	TG=|7585|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+The Chronicles of Narnia: The Patterning of a Fantastic World {
+	AE=|Colin Manlove|
+	AS=|MythI|
+	YR=|1996|
+	TG=|7799|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+The Rhetoric of Vision: Essays on Charles Williams {
+	AE=|Charles A. Huttar+Peter Schakel|
+	AS=|MythI|
+	YR=|1997|
+	TG=|15430|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|ea|
+	LV=|1|
+}
+The Hobbit: A Journey into Maturity {
+	AE=|William H. Green|
+	AS=|MythI|
+	YR=|1997|
+	TG=|15427|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+C. S. Lewis: A Companion & Guide {
+	AE=|Walter Hooper|
+	AS=|MythI|
+	YR=|1997|
+	TG=|15428|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|ea|
+	LV=|9|
+}
+Charles Williams: A Celebration {
+	AE=|Brian Horne|
+	AS=|MythI|
+	YR=|1997|
+	TG=|15429|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|ea|
+	LV=|9|
+}
+A Question of Time: J. R. R. Tolkien's Road to Faërie {
+	AE=|Verlyn Flieger|
+	AS=|MythI|
+	YR=|1998|
+	TG=|18068|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|ea|
+	LV=|1|
+}
+C. S. Lewis Index: Rumours from the Sculptor's Shop {
+	AE=|Janine Goffar|
+	AS=|MythI|
+	YR=|1998|
+	TG=|18070|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|bib|
+	LV=|9|
+}
+C. S. Lewis: A Companion & Guide {
+	AE=|Walter Hooper|
+	AS=|MythI|
+	YR=|1998|
+	TG=|18071|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|ea|
+	LV=|9|
+}
+Charles Williams: A Celebration {
+	AE=|Brian Horne|
+	AS=|MythI|
+	YR=|1998|
+	TG=|18072|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|ea|
+	LV=|9|
+}
+Finding the Landlord: A Guidebook to C. S. Lewis's The Pilgrim's Regress {
+	AE=|Kathryn A. Lindskoog|
+	AS=|MythI|
+	YR=|1998|
+	TG=|18076|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|ea|
+	LV=|9|
+}
+C. S. Lewis: A Companion & Guide {
+	AE=|Walter Hooper|
+	AS=|MythI|
+	YR=|1999|
+	TG=|19273|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|ea|
+	LV=|1|
+}
+C. S. Lewis: Writer, Dreamer & Mentor {
+	AE=|Lionel Adey|
+	AS=|MythI|
+	YR=|1999|
+	TG=|19267|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Christian Mythmakers {
+	AE=|Rolland Hein|
+	AS=|MythI|
+	YR=|1999|
+	TG=|19272|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Roverandom {
+	AE=|J. R. R. Tolkien+Christina Scull+Wayne G. Hammond|
+	AS=|MythI|
+	YR=|1999|
+	TG=|19286|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|po|
+	LV=|9|
+}
+Roverandom {
+	AE=|J. R. R. Tolkien+Christina Scull+Wayne G. Hammond|
+	AS=|MythI|
+	YR=|2000|
+	TG=|22330|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|po|
+	LV=|1|
+}
+C. S. Lewis: Writer, Dreamer & Mentor {
+	AE=|Lionel Adey|
+	AS=|MythI|
+	YR=|2000|
+	TG=|22314|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Tolkien: Man and Myth - A Literary Life {
+	AE=|Joseph Pearce|
+	AS=|MythI|
+	YR=|2000|
+	TG=|22323|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Farmer Giles of Ham {
+	AE=|J. R. R. Tolkien+Wayne G. Hammond+Christina Scull|
+	AS=|MythI|
+	YR=|2000|
+	TG=|22329|
+	TA=|Mythopoeic Scholarship Award (for Inkling Studies)|
+	TP=|po|
+	LV=|9|
+}
+The Victorian Fantasists {
+	AE=|Kath Filmer|
+	AS=|MythS|
+	YR=|1992|
+	TG=|4492|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|ea|
+	LV=|1|
+}
+Witches of the Mind: A Critical Study of Fritz Leiber {
+	AE=|Bruce Byfield|
+	AS=|MythS|
+	YR=|1992|
+	TG=|2070|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Mervyn Peake: The Evolution of a Dark Romantic {
+	AE=|Tanya J. Gardiner-Scott|
+	AS=|MythS|
+	YR=|1992|
+	TG=|4839|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+The Weird Tale {
+	AE=|S. T. Joshi|
+	AS=|MythS|
+	YR=|1992|
+	TG=|6300|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Strategies of Fantasy {
+	AE=|Brian Attebery|
+	AS=|MythS|
+	YR=|1993|
+	TG=|671|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|1|
+}
+Twentieth-Century Fantasists: Essays on Culture, Society, and Belief in Twentieth-Century Mythopoeic Literature {
+	AE=|Kath Filmer|
+	AS=|MythS|
+	YR=|1994|
+	TG=|4491|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|ea|
+	LV=|1|
+}
+The Reclamation of a Queen: Guinivere in Modern Fantasy {
+	AE=|Barbara Ann Gordon-Wise|
+	AS=|MythS|
+	YR=|1994|
+	TG=|5228|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+For the Childlike: George MacDonald's Fantasies for Children {
+	AE=|Roderick McGillis|
+	AS=|MythS|
+	YR=|1994|
+	TG=|8180|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Off with Their Heads!: Fairy Tales and the Culture of Childhood {
+	AE=|Maria Tatar|
+	AS=|MythS|
+	YR=|1994|
+	TG=|11819|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Old Tales and New Truths: Charting the Bright-Shadow World {
+	AE=|James Roy King|
+	AS=|MythS|
+	YR=|1995|
+	TG=|6522|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|1|
+}
+When Toys Come Alive: Narratives of Animation, Metamorphosis, and Development {
+	AE=|Lois Rostow Kuznets|
+	AS=|MythS|
+	YR=|1995|
+	TG=|6859|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+For the Childlike: George MacDonald's Fantasies for Children {
+	AE=|Roderick McGillis|
+	AS=|MythS|
+	YR=|1995|
+	TG=|8181|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+From the Beast to the Blonde: On Fairy Tales and Their Tellers {
+	AE=|Marina Warner|
+	AS=|MythS|
+	YR=|1995|
+	TG=|12912|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Fairy Tale as Myth/Myth as Fairy Tale {
+	AE=|Jack Zipes|
+	AS=|MythS|
+	YR=|1995|
+	TG=|13950|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+From the Beast to the Blonde: On Fairy Tales and Their Tellers {
+	AE=|Marina Warner|
+	AS=|MythS|
+	YR=|1996|
+	TG=|12913|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|1|
+}
+T. H. White's The Once and Future King {
+	AE=|Elisabeth Brewer|
+	AS=|MythS|
+	YR=|1996|
+	TG=|1644|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+The Seed and the Vision: On the Writing and Appreciation of Children's Books {
+	AE=|Eleanor Cameron|
+	AS=|MythS|
+	YR=|1996|
+	TG=|2163|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+When Toys Come Alive: Narratives of Animation, Metamorphosis, and Development {
+	AE=|Lois Rostow Kuznets|
+	AS=|MythS|
+	YR=|1996|
+	TG=|6860|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+When Toys Come Alive: Narratives of Animation, Metamorphosis, and Development {
+	AE=|Lois Rostow Kuznets|
+	AS=|MythS|
+	YR=|1997|
+	TG=|15432|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|1|
+}
+The Supernatural and English Fiction {
+	AE=|Glen Cavaliero|
+	AS=|MythS|
+	YR=|1997|
+	TG=|15426|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Lord Dunsany: Master of the Anglo-Irish Imagination {
+	AE=|S. T. Joshi|
+	AS=|MythS|
+	YR=|1997|
+	TG=|15431|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+The Water of the Wondrous Isles {
+	AE=|William Morris+Norman Talbot|
+	AS=|MythS|
+	YR=|1997|
+	TG=|15434|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|n|
+	LV=|9|
+}
+The Encyclopedia of Fantasy {
+	AE=|John Clute+John Grant|
+	AS=|MythS|
+	YR=|1998|
+	TG=|18065|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|en|
+	LV=|1|
+}
+The Supernatural and English Fiction {
+	AE=|Glen Cavaliero|
+	AS=|MythS|
+	YR=|1998|
+	TG=|18064|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Lord Dunsany: Master of the Anglo-Irish Imagination {
+	AE=|S. T. Joshi|
+	AS=|MythS|
+	YR=|1998|
+	TG=|18074|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Fantasy: The Liberation of Imagination {
+	AE=|Richard Mathews|
+	AS=|MythS|
+	YR=|1998|
+	TG=|18078|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+A Century of Welsh Myth in Children's Literature {
+	AE=|Donna R. White|
+	AS=|MythS|
+	YR=|1999|
+	TG=|19288|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|1|
+}
+Dreams and Wishes: Essays on Writing for Children {
+	AE=|Susan Cooper|
+	AS=|MythS|
+	YR=|1999|
+	TG=|19268|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Oz and Beyond: The Fantasy World of L. Frank Baum {
+	AE=|Michael Riley|
+	AS=|MythS|
+	YR=|1999|
+	TG=|19282|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+No Go the Bogeyman: Scaring, Lulling, and Making Mock {
+	AE=|Marina Warner|
+	AS=|MythS|
+	YR=|1999|
+	TG=|19287|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Strange and Secret Peoples: Fairies and Victorian Consciousness {
+	AE=|Carole G. Silver|
+	AS=|MythS|
+	YR=|2000|
+	TG=|22328|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|1|
+}
+King Arthur in America {
+	AE=|Alan Lupack+Barbara Tepa Lupack|
+	AS=|MythS|
+	YR=|2000|
+	TG=|22321|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+The Quest for the Grail: Arthurian Legend in British Art 1840--1920 {
+	AE=|Christine Poulson|
+	AS=|MythS|
+	YR=|2000|
+	TG=|22325|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+Oz and Beyond: The Fantasy World of L. Frank Baum {
+	AE=|Michael Riley|
+	AS=|MythS|
+	YR=|2000|
+	TG=|22326|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}
+When Dreams Come True: Classical Fairy Tales and Their Tradition {
+	AE=|Jack Zipes|
+	AS=|MythS|
+	YR=|2000|
+	TG=|22332|
+	TA=|Mythopoeic Scholarship Award (for Myth and Fantasy Studies)|
+	TP=|nf|
+	LV=|9|
+}

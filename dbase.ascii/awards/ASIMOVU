@@ -1,0 +1,520 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)ASIMOVU	1.5	05/01/98 ISFDB";
+##
+Dedication {
+	AE=|Eric Choi|
+	AS=|AsimovU|
+	YR=|1994|
+	TG=|2744|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|1|
+}
+Roses in the Blood {
+	AE=|Felicity Savage|
+	AS=|AsimovU|
+	YR=|1994|
+	TG=|10245|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|2|
+}
+Saving Grace {
+	AE=|Monica Eiland|
+	AS=|AsimovU|
+	YR=|1994|
+	TG=|4091|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|9|
+}
+Calliope {
+	AE=|Micole Sudberg|
+	AS=|AsimovU|
+	YR=|1994|
+	TG=|11677|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|9|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|AsimovU|
+	YR=|1994|
+	TG=|134|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|x|
+	LV=|90|
+}
+The Adventures of Ma 'n' Pa Frigidaire {
+	AE=|Cory Doctorow|
+	AS=|AsimovU|
+	YR=|1994|
+	TG=|3674|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+Knaragua's Rage {
+	AE=|Chris Gattanella|
+	AS=|AsimovU|
+	YR=|1994|
+	TG=|4866|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+Unicorns in America {
+	AE=|Kerry Jamieson|
+	AS=|AsimovU|
+	YR=|1994|
+	TG=|6160|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+Burning in the Montage {
+	AE=|Timalyne Lindquist-Frazier|
+	AS=|AsimovU|
+	YR=|1994|
+	TG=|7514|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+Auf Widershins {
+	AE=|Marsheila Rockwell|
+	AS=|AsimovU|
+	YR=|1994|
+	TG=|9894|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+The Cinderella Project {
+	AE=|Shannon Fowler|
+	AS=|AsimovU|
+	YR=|1995|
+	TG=|4640|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|1|
+}
+Hansel's Statement to the Police {
+	AE=|Monica Eiland|
+	AS=|AsimovU|
+	YR=|1995|
+	TG=|4089|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|2|
+}
+Come Walk a Mile in My Shoes {
+	AE=|Raakesh Persaud|
+	AS=|AsimovU|
+	YR=|1995|
+	TG=|9126|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|3|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|AsimovU|
+	YR=|1995|
+	TG=|135|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|x|
+	LV=|90|
+}
+Jesus Christ, Lord of Hosts, Meets L. A. County {
+	AE=|Holly Day|
+	AS=|AsimovU|
+	YR=|1995|
+	TG=|3302|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+Treaty Games {
+	AE=|Chris Gattanella|
+	AS=|AsimovU|
+	YR=|1995|
+	TG=|4868|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+This Thing of Darkness {
+	AE=|Chris Hepler|
+	AS=|AsimovU|
+	YR=|1995|
+	TG=|5849|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+He Believed in Probablity {
+	AE=|Dylan Otto Krider|
+	AS=|AsimovU|
+	YR=|1996|
+	TG=|6814|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|1|
+}
+Dancing Distance {
+	AE=|Sara Taylor|
+	AS=|AsimovU|
+	YR=|1996|
+	TG=|11853|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|2|
+}
+Metropolis 2000 {
+	AE=|Monica Eiland|
+	AS=|AsimovU|
+	YR=|1996|
+	TG=|4090|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|3|
+}
+Rough Beast {
+	AE=|William McMahon|
+	AS=|AsimovU|
+	YR=|1996|
+	TG=|8309|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|4|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|AsimovU|
+	YR=|1996|
+	TG=|136|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|x|
+	LV=|90|
+}
+Kali's Danse Macabre {
+	AE=|Maurice G. Broaddus|
+	AS=|AsimovU|
+	YR=|1996|
+	TG=|1715|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+Rupture {
+	AE=|Chris Gattanella|
+	AS=|AsimovU|
+	YR=|1996|
+	TG=|4867|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+Who By His Own Hand {
+	AE=|Kevin Landry|
+	AS=|AsimovU|
+	YR=|1996|
+	TG=|6968|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+Upgrades and Breakdowns {
+	AE=|Raakesh Persaud|
+	AS=|AsimovU|
+	YR=|1996|
+	TG=|9127|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+Marsley: Jesus Christ of the Donors {
+	AE=|Michael Suskind|
+	AS=|AsimovU|
+	YR=|1996|
+	TG=|11690|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+Lest We Forget {
+	AE=|David Kirtley|
+	AS=|AsimovU|
+	YR=|1997|
+	TG=|15345|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|1|
+}
+Paschen's Story {
+	AE=|Jerry Hughes|
+	AS=|AsimovU|
+	YR=|1997|
+	TG=|15340|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|2|
+}
+The Hidden One {
+	AE=|Melissa Garber|
+	AS=|AsimovU|
+	YR=|1997|
+	TG=|15337|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|3|
+}
+I Think Therefore...? {
+	AE=|David Kirtley|
+	AS=|AsimovU|
+	YR=|1997|
+	TG=|15344|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|4|
+}
+Wormholes {
+	AE=|Emily Thornbury|
+	AS=|AsimovU|
+	YR=|1998|
+	TG=|18224|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|1|
+}
+Dryad {
+	AE=|Michael Channing|
+	AS=|AsimovU|
+	YR=|1998|
+	TG=|18155|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|2|
+}
+Old Bones {
+	AE=|Marri Champié|
+	AS=|AsimovU|
+	YR=|1998|
+	TG=|18154|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|3|
+}
+Silent Exemplar {
+	AE=|Adam Perin|
+	AS=|AsimovU|
+	YR=|1998|
+	TG=|18202|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|4|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|AsimovU|
+	YR=|1998|
+	TG=|18140|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|x|
+	LV=|90|
+}
+Within the Parallax {
+	AE=|William Stacy Cochrane|
+	AS=|AsimovU|
+	YR=|1998|
+	TG=|18156|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+Like Mad Cassandra {
+	AE=|A. Kaay Miller|
+	AS=|AsimovU|
+	YR=|1998|
+	TG=|18194|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+In the Gardens and the Graves {
+	AE=|Marissa Lingen|
+	AS=|AsimovU|
+	YR=|1999|
+	TG=|19762|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|1|
+}
+The Mascarene {
+	AE=|Marri Champié|
+	AS=|AsimovU|
+	YR=|1999|
+	TG=|19671|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|2|
+}
+White Seal {
+	AE=|Marri Champié|
+	AS=|AsimovU|
+	YR=|1999|
+	TG=|19672|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|3|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|AsimovU|
+	YR=|1999|
+	TG=|19637|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|x|
+	LV=|90|
+}
+Through Your Metal Eyes {
+	AE=|Aaron Fries|
+	AS=|AsimovU|
+	YR=|1999|
+	TG=|19711|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+Driven Like the Snow {
+	AE=|Trent Walters|
+	AS=|AsimovU|
+	YR=|1999|
+	TG=|19840|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+Repeating Patterns {
+	AE=|Beth Adele Long|
+	AS=|AsimovU|
+	YR=|2000|
+	TG=|21119|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|1|
+}
+Farther Out and Farther Down {
+	AE=|Mark Jacobsen|
+	AS=|AsimovU|
+	YR=|2000|
+	TG=|21118|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|2|
+}
+Fire and Ice {
+	AE=|Lena DeTar|
+	AS=|AsimovU|
+	YR=|2000|
+	TG=|21117|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|3|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|AsimovU|
+	YR=|2000|
+	TG=|21114|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|x|
+	LV=|90|
+}
+Clearing Up {
+	AE=|Lena DeTar|
+	AS=|AsimovU|
+	YR=|2000|
+	TG=|21116|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+The Dreamer's Guild {
+	AE=|Elan Ruskin|
+	AS=|AsimovU|
+	YR=|2000|
+	TG=|21120|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+Conquering Europa {
+	AE=|Mark Jacobsen|
+	AS=|AsimovU|
+	YR=|2001|
+	TG=|22044|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|1|
+}
+Perfect Authentic Cadence {
+	AE=|Lena DeTar|
+	AS=|AsimovU|
+	YR=|2001|
+	TG=|22026|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|2|
+}
+Small Mercies {
+	AE=|Elan Ruskin|
+	AS=|AsimovU|
+	YR=|2001|
+	TG=|22069|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|3|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|AsimovU|
+	YR=|2001|
+	TG=|22016|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|x|
+	LV=|90|
+}
+Obon Night {
+	AE=|Lena DeTar|
+	AS=|AsimovU|
+	YR=|2001|
+	TG=|22025|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}
+To Soothe the Savage Beast {
+	AE=|Sarah Jane Elliott|
+	AS=|AsimovU|
+	YR=|2001|
+	TG=|22030|
+	TA=|Undergraduate Excellence in SF & Fantasy Writing|
+	TP=|ss|
+	LV=|93|
+}

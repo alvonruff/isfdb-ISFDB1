@@ -1,0 +1,116 @@
+This directory contains source code to the following tools:
+
+DATABASE COMPILERS
+================================================================================
+ccdbase		- Used to compile the database. Should only be invoked from the
+		  top-level Makefile with "make dbase"
+
+ccauthors	- Used to compile AUTHORS. Should only be used from ccdbase.
+
+ccawards	- Used to compile various award files. Should only be used
+		  from ccdbase.
+
+ccinterv	- Used to compile INTERVIEWS. Should only be used from ccdbase.
+
+ccpubs		- Used to compile various publication files. Should only be used
+		  from ccdbase.
+
+ccreviews	- Used to compile REVIEWS. Should only be used from ccdbase.
+
+cctitles	- Used to compile various title files. Should only be used 
+		  from ccdbase.
+
+info		- Used to generate compile-time statistics.
+
+
+
+DATABASE MERGING TOOLS
+================================================================================
+Note: The tools are only briefly described here. Refer to the FAQ for
+a more in-depth tutorial on how to use these tools.
+================================================================================
+merge		- One of the most-used merging tools. When given a file in
+		  title format (SHORTFICTION, ESSAYS, COLLECTIONS, ANTHOLOGIES,
+		  etc...), it scans the file for duplicate entries (entries
+		  that have identical titles and authors) and merges them.
+
+lexint		- Searches a file in title format for possible inexact duplicates.
+		  Used to find titles that have subtle lexical differences. This 
+		  will output both titles like this:
+
+		  --------------------------------
+		  [Adelard's Kiss] by [Madeleine E. Robins] AND
+		  [Abelard's Kiss] by [Madeleine E. Robins]
+		  --------------------------------
+
+		  This should be used on a new database file before trying to
+		  compare the entries to those already in the ISFDB.
+
+lexext		- This is very similar to lexint, except that it compares the 
+		  entries in a new dabase file to those in an ISFDB file. 
+		  Usage is:
+
+			lexext <isfdb file> <new file>
+
+pubint		- Intended to find duplicate publication entries in the ISFDB.
+		  You shouldn't need this for database merging.
+
+pubext		- Finds differences in publication data between the ISFDB and
+		  the new database. The ISFDB and the new database *must* be in
+		  agreement before a merge can be completed. For each publication
+		  that is in agreement, a key mapping is emitted into the KEYMAP
+		  file.
+
+content		- Compares the content of antholgies or collections between the
+		  ISFDB and the new database. It only checks entries that have
+		  mappings in the KEYMAP file.
+
+newdb		- One the ISFDB and the new database are in agreement, the newdb
+		  application will build a new set of database files. These
+		  consist of the new database, minus those entries which the ISFDB
+		  and the new database alreay have in common (they don't need to
+		  be merged into the ISFDB since they are already there).
+
+
+
+UTILITIES
+================================================================================
+booksort	- This binary works like "sort" except that entries are sorted
+		  in booksort order. Leading articles are ignored. Note that
+		  this binary only works on compiled data files; it will not
+		  work with files in ISFDB data format.
+
+cap		- This binary examines titles in ISFDB database files, and whines
+		  about those titles which might contain improperly capitalized
+		  words. This binary only works on files in titles format; it
+		  can't parse awards, reviews, interviews, or publication data.
+
+		  "cap ESSAYS" will give output similar to:
+
+		  --------------------------------------------------------
+		  FROM: [The Next Man on The Moon] (James E. Oberg)
+		  TO:   [The next Man on the Moon]
+		  --------------------------------------------------------
+		  FROM: [Life is in The Stars] (Thomas A. Easton)
+		  TO:   [Life is in the Stars]
+
+checkauthors	- This tools finds bad canonical author names. It uses the file
+		  BADAUTH as a basis for unacceptable names. Helps to find author
+		  names that are actually pseudonyms plus those that are 
+		  commonly misspelled.
+
+fixessays	- This tool examines the ESSAYS file and looks for generic
+		  titles like "Introduction", "Preface", "Editorial", etc...
+		  It then looks up the publication it was published in and
+		  changes the title to "Introduction (Ascents of Wonder)".
+		  Since this tools looks at publication data in dbase.compiled,
+		  the database must be compiled prior to using this tool.
+
+pubdups		- This tools examines a titles file for publication tag
+		  duplicates.
+
+tileawards      - this application is used on the award_template file in htmls.
+		  Since the award.html file uses radio buttons in alphabetical
+		  order, it's difficult to add a new award by hand to the file.
+		  Instead the award is added to award_template, and tileawards
+		  will transform the information into html radio button format.

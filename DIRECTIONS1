@@ -1,0 +1,53 @@
+
+1] Create a directory called SFdbase.
+
+2] Place the following tar images in that
+   directory:
+
+	frame.tar.Z
+	src.tar.Z
+	tools.tar.Z
+	private_tools.tar.Z
+
+3] Uncompress all of the files.
+
+4] Starting with frame.tar, extract the tar images using:
+
+	tar -xvf frame.tar
+	tar -xvf src.tar
+	tar -xvf tools.tar
+	tar -xvf private_tools.tar
+
+   frame.tar contains the directory structure and top-level Makefiles. Once
+   The Makefiles are modified, you'll never have to touch the top-level Makefiles
+   again.
+
+   src, tools, and private_tools may get later updates, so these tar images overlay
+   on top of the frame directory structure.
+
+5] Here's where the work is: modify Makefile. There are 5 defines which
+   must be changed:
+
+	HTMLDIR - This is the UNIX pathname to where html files should
+		  be installed.
+
+	CGIBIN  - This is the UNIX pathname to where cgi binaries should
+		  be installed.
+
+	HTMLLOC - This is the URL location as to where the html files will
+		  be stored. Since this is passed into the compiler when
+		  building the cgi binaries, the path delimiter must be
+		  preceeded with a backslash (see examples in Makefile).
+
+	DATABASE - This is the URL locations as to where the cgi binaries
+		   will be stored. Same rules as HTMLLOC
+
+	HTFAKE   - Basically DATABASE, preceeded by a slash. I forget why it's
+		   like this, but it is needed.
+
+6] Based on whether you're web server changes directories or not, you may
+   need to define -DCHDIR on the CFLAGS line. It means that the web server
+   chroots to a defined location for security reasons, so absolute pathnames
+   will probably break.
+
+6] Type "make". This will build all of the tools and cgi binaries.

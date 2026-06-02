@@ -1,0 +1,2005 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)AUREALIS	1.5	12/29/98 ISFDB";
+##
+Distress {
+	AE=|Greg Egan|
+	AS=|AisSN|
+	YR=|1995|
+	TG=|4006|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Mirrorsun Rising {
+	AE=|Sean McMullen|
+	AS=|AisSN|
+	YR=|1995|
+	TG=|8317|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Set Piece {
+	AE=|Kate Orman|
+	AS=|AisSN|
+	YR=|1995|
+	TG=|8957|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Unknown Soldier {
+	AE=|Sean Williams+Shane Dix|
+	AS=|AisSN|
+	YR=|1995|
+	TG=|13280|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Metal Fatigue {
+	AE=|Sean Williams|
+	AS=|AisSN|
+	YR=|1996|
+	TG=|13277|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Privateer {
+	AE=|Simon Brown|
+	AS=|AisSN|
+	YR=|1996|
+	TG=|1805|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Map of Power {
+	AE=|Tess Williams|
+	AS=|AisSN|
+	YR=|1996|
+	TG=|13289|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The White Abacus {
+	AE=|Damien Broderick|
+	AS=|AisSN|
+	YR=|1997|
+	TG=|17898|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Zones {
+	AE=|Damien Broderick+Rory Barnes|
+	AS=|AisSN|
+	YR=|1997|
+	TG=|18257|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Winter {
+	AE=|Simon Brown|
+	AS=|AisSN|
+	YR=|1997|
+	TG=|18259|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Diaspora {
+	AE=|Greg Egan|
+	AS=|AisSN|
+	YR=|1997|
+	TG=|18265|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dark Edge {
+	AE=|Richard Harland|
+	AS=|AisSN|
+	YR=|1997|
+	TG=|18271|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Centurion's Empire {
+	AE=|Sean McMullen|
+	AS=|AisSN|
+	YR=|1998|
+	TG=|19337|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+Singing the Dogstar Blues {
+	AE=|Alison Goodman|
+	AS=|AisSN|
+	YR=|1998|
+	TG=|19311|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Night is for Hunting {
+	AE=|John Marsden|
+	AS=|AisSN|
+	YR=|1998|
+	TG=|19333|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The New Adventures: Walking to Babylon {
+	AE=|Kate Orman|
+	AS=|AisSN|
+	YR=|1998|
+	TG=|19342|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Resurrected Man {
+	AE=|Sean Williams|
+	AS=|AisSN|
+	YR=|1998|
+	TG=|19375|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Teranesia {
+	AE=|Greg Egan|
+	AS=|AisSN|
+	YR=|1999|
+	TG=|21667|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Book of Revelation {
+	AE=|Rory Barnes+Damien Broderick|
+	AS=|AisSN|
+	YR=|1999|
+	TG=|21642|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Doctor Who: Unnatural History {
+	AE=|Jonathan Blum+Kate Orman|
+	AS=|AisSN|
+	YR=|1999|
+	TG=|21645|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Letter Girl {
+	AE=|Andrew Masterton|
+	AS=|AisSN|
+	YR=|1999|
+	TG=|21698|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Spare Parts {
+	AE=|Sally Rogers-Davidson|
+	AS=|AisSN|
+	YR=|1999|
+	TG=|21703|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+The Miocene Arrow {
+	AE=|Sean McMullen|
+	AS=|AisSN|
+	YR=|2000|
+	TG=|21699|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|1|
+}
+The Deep Field {
+	AE=|James Bradley|
+	AS=|AisSN|
+	YR=|2000|
+	TG=|21646|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Evergence 2: The Dying Light {
+	AE=|Sean Williams+Shane Dix|
+	AS=|AisSN|
+	YR=|2000|
+	TG=|21715|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Sea As Mirror {
+	AE=|Tess Williams|
+	AS=|AisSN|
+	YR=|2000|
+	TG=|21716|
+	TA=|SF Novel|
+	TP=|n|
+	LV=|9|
+}
+Luminous {
+	AE=|Greg Egan|
+	AS=|AisSS|
+	YR=|1995|
+	TG=|4018|
+	TA=|SF Short Story|
+	TP=|nt|
+	LV=|1|
+}
+From Whom All Blessings Flow {
+	AE=|Stephen Dedman|
+	AS=|AisSS|
+	YR=|1995|
+	TG=|3382|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Mr. Volition {
+	AE=|Greg Egan|
+	AS=|AisSS|
+	YR=|1995|
+	TG=|4021|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Wang's Carpets {
+	AE=|Greg Egan|
+	AS=|AisSS|
+	YR=|1995|
+	TG=|4045|
+	TA=|SF Short Story|
+	TP=|nt|
+	LV=|9|
+}
+A Map of the Mines of Barnath {
+	AE=|Sean Williams|
+	AS=|AisSS|
+	YR=|1995|
+	TG=|13275|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Borderline {
+	AE=|Leanne Frahm|
+	AS=|AisSS|
+	YR=|1996|
+	TG=|4660|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|1|
+}
+The Mark of Thetis {
+	AE=|Simon Brown|
+	AS=|AisSS|
+	YR=|1996|
+	TG=|1804|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+His Own, the Star Alphecca {
+	AE=|Terry Dowling|
+	AS=|AisSS|
+	YR=|1996|
+	TG=|3738|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Ichneumon and the Dormeuse {
+	AE=|Terry Dowling|
+	AS=|AisSS|
+	YR=|1996|
+	TG=|3739|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Embargo Traders {
+	AE=|Geoffrey Maloney|
+	AS=|AisSS|
+	YR=|1996|
+	TG=|7769|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Niagara Falling {
+	AE=|Janeen Webb+Jack Dann|
+	AS=|AisSS|
+	YR=|1997|
+	TG=|17887|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|1|
+}
+Lucent Carbon {
+	AE=|Russell Blackford|
+	AS=|AisSS|
+	YR=|1997|
+	TG=|18255|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Schrödinger's Dog {
+	AE=|Damien Broderick|
+	AS=|AisSS|
+	YR=|1997|
+	TG=|18256|
+	TA=|SF Short Story|
+	TP=|nt|
+	LV=|9|
+}
+Reasons to Be Cheerful {
+	AE=|Greg Egan|
+	AS=|AisSS|
+	YR=|1997|
+	TG=|18266|
+	TA=|SF Short Story|
+	TP=|nt|
+	LV=|9|
+}
+Merlusine {
+	AE=|Lucy Sussex|
+	AS=|AisSS|
+	YR=|1997|
+	TG=|18277|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Truth About Weena {
+	AE=|David Lake|
+	AS=|AisSS|
+	YR=|1998|
+	TG=|19325|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|1|
+}
+Transit {
+	AE=|Stephen Dedman|
+	AS=|AisSS|
+	YR=|1998|
+	TG=|19302|
+	TA=|SF Short Story|
+	TP=|nt|
+	LV=|9|
+}
+Oceanic {
+	AE=|Greg Egan|
+	AS=|AisSS|
+	YR=|1998|
+	TG=|19308|
+	TA=|SF Short Story|
+	TP=|nv|
+	LV=|9|
+}
+Real Men {
+	AE=|Rosaleen Love|
+	AS=|AisSS|
+	YR=|1998|
+	TG=|19327|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Australian Visions {
+	AE=|Michael Pryor|
+	AS=|AisSS|
+	YR=|1998|
+	TG=|19347|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Written in Blood {
+	AE=|Chris Lawson|
+	AS=|AisSS|
+	YR=|1999|
+	TG=|21690|
+	TA=|SF Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The View in Nancy's Window {
+	AE=|Terry Dowling|
+	AS=|AisSS|
+	YR=|1999|
+	TG=|21665|
+	TA=|SF Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Chinese Rooms {
+	AE=|Chris Lawson|
+	AS=|AisSS|
+	YR=|1999|
+	TG=|21689|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Bicycle Net {
+	AE=|Kate Orman|
+	AS=|AisSS|
+	YR=|1999|
+	TG=|21700|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Queen of Erewhon {
+	AE=|Lucy Sussex|
+	AS=|AisSS|
+	YR=|1999|
+	TG=|21706|
+	TA=|SF Short Story|
+	TP=|nt|
+	LV=|9|
+}
+Infinite Monkey {
+	AE=|Damien Broderick|
+	AS=|AisSS|
+	YR=|2000|
+	TG=|21647|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|1|
+}
+Schrodinger's Catamaran {
+	AE=|Adam Browne|
+	AS=|AisSS|
+	YR=|2000|
+	TG=|21651|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Devotee {
+	AE=|Stephen Dedman|
+	AS=|AisSS|
+	YR=|2000|
+	TG=|21657|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+White Time {
+	AE=|Margo Lanagan|
+	AS=|AisSS|
+	YR=|2000|
+	TG=|21686|
+	TA=|SF Short Story|
+	TP=|c|
+	LV=|9|
+}
+The Land Itself {
+	AE=|Sean Williams|
+	AS=|AisSS|
+	YR=|2000|
+	TG=|21713|
+	TA=|SF Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Sabriel {
+	AE=|Garth Nix|
+	AS=|AisFN|
+	YR=|1995|
+	TG=|8816|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|1|
+}
+The House of Balthus {
+	AE=|David Brooks|
+	AS=|AisFN|
+	YR=|1995|
+	TG=|1730|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+Battle-Axe {
+	AE=|Sara Douglass|
+	AS=|AisFN|
+	YR=|1995|
+	TG=|3725|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+Mus of Kerbridge {
+	AE=|Paul Kidd|
+	AS=|AisFN|
+	YR=|1995|
+	TG=|6480|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+The Last Wizard {
+	AE=|Tony Shillitoe|
+	AS=|AisFN|
+	YR=|1995|
+	TG=|10709|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+The Memory Cathedral {
+	AE=|Jack Dann|
+	AS=|AisFN|
+	YR=|1996|
+	TG=|3176|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|1|
+}
+Enchanter & Starman: The Axis Trilogy {
+	AE=|Sara Douglass|
+	AS=|AisFN|
+	YR=|1996|
+	TG=|3727|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|1|
+}
+The Price of Wisdom {
+	AE=|Shannah Jay|
+	AS=|AisFN|
+	YR=|1996|
+	TG=|6166|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+Cairo Jim and the Alabastron of the Forgotten Gods {
+	AE=|Geoffrey McSkimming|
+	AS=|AisFN|
+	YR=|1996|
+	TG=|8330|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+Equinox: The Second Book of Ascension {
+	AE=|Dirk Strasser|
+	AS=|AisFN|
+	YR=|1996|
+	TG=|11600|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+The Infernal {
+	AE=|Kim Wilkins|
+	AS=|AisFN|
+	YR=|1997|
+	TG=|17915|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|1|
+}
+Darkfall: Book One of the Legendsong {
+	AE=|Isobelle Carmody|
+	AS=|AisFN|
+	YR=|1997|
+	TG=|18260|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+Sinner: Book One of the Wayfarer Redemption {
+	AE=|Sara Douglass|
+	AS=|AisFN|
+	YR=|1997|
+	TG=|18263|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+Dragonclaw: Book One of the Witches of Eileanan {
+	AE=|Kate Forsyth|
+	AS=|AisFN|
+	YR=|1997|
+	TG=|18267|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+Black Ice {
+	AE=|Lucy Sussex|
+	AS=|AisFN|
+	YR=|1997|
+	TG=|18276|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+A Dark Winter {
+	AE=|Dave Luckett|
+	AS=|AisFN|
+	YR=|1998|
+	TG=|19329|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|1|
+}
+Fire Angels {
+	AE=|Jane Routley|
+	AS=|AisFN|
+	YR=|1998|
+	TG=|19349|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|1|
+}
+Pilgrim {
+	AE=|Sara Douglass|
+	AS=|AisFN|
+	YR=|1998|
+	TG=|19305|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+A Shadow on the Glass {
+	AE=|Ian Irvine|
+	AS=|AisFN|
+	YR=|1998|
+	TG=|19318|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+Cold Iron {
+	AE=|Sophie Masson|
+	AS=|AisFN|
+	YR=|1998|
+	TG=|19335|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+Aramaya {
+	AE=|Jane Routley|
+	AS=|AisFN|
+	YR=|1999|
+	TG=|21704|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|1|
+}
+Crusader {
+	AE=|Sara Douglass|
+	AS=|AisFN|
+	YR=|1999|
+	TG=|21661|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+The Cursed Towers {
+	AE=|Kate Forsyth|
+	AS=|AisFN|
+	YR=|1999|
+	TG=|21669|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+A Dark Journey / A Dark Victory {
+	AE=|Dave Luckett|
+	AS=|AisFN|
+	YR=|1999|
+	TG=|21691|
+	TA=|Fantasy Novel|
+	TP=|ob|
+	LV=|9|
+}
+Daughter of the Forest {
+	AE=|Juliet Marillier|
+	AS=|AisFN|
+	YR=|1999|
+	TG=|21694|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+Son of the Shadows {
+	AE=|Juliet Marillier|
+	AS=|AisFN|
+	YR=|2000|
+	TG=|21695|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|1|
+}
+The Nameless Day {
+	AE=|Sara Douglass|
+	AS=|AisFN|
+	YR=|2000|
+	TG=|21662|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+The Darkness {
+	AE=|Anthony Eaton|
+	AS=|AisFN|
+	YR=|2000|
+	TG=|21666|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+Medalon {
+	AE=|Jennifer Fallon|
+	AS=|AisFN|
+	YR=|2000|
+	TG=|21668|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+Vixen {
+	AE=|Hoa Pham|
+	AS=|AisFN|
+	YR=|2000|
+	TG=|21701|
+	TA=|Fantasy Novel|
+	TP=|n|
+	LV=|9|
+}
+Harvest Bay {
+	AE=|Karen Attard|
+	AS=|AisFS|
+	YR=|1995|
+	TG=|669|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|1|
+}
+Angel Thing {
+	AE=|Petrina Smith|
+	AS=|AisFS|
+	YR=|1995|
+	TG=|11130|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Sail On, Sail On {
+	AE=|John T. Stolarczyk|
+	AS=|AisFS|
+	YR=|1995|
+	TG=|11569|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Blue Stream {
+	AE=|Kaaron Warren|
+	AS=|AisFS|
+	YR=|1995|
+	TG=|12914|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+On the Other Side of Paradise {
+	AE=|Andrew Whitmore|
+	AS=|AisFS|
+	YR=|1995|
+	TG=|13176|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Sword of God {
+	AE=|Russell Blackford|
+	AS=|AisFS|
+	YR=|1996|
+	TG=|1361|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|1|
+}
+Green Monkey Dreams {
+	AE=|Isobelle Carmody|
+	AS=|AisFS|
+	YR=|1996|
+	TG=|2368|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Tattoo {
+	AE=|Matthew Condon|
+	AS=|AisFS|
+	YR=|1996|
+	TG=|2925|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Of Fingers and Foreskins {
+	AE=|Sara Douglass|
+	AS=|AisFS|
+	YR=|1996|
+	TG=|3728|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Our Swimmer {
+	AE=|Tim Richards|
+	AS=|AisFS|
+	YR=|1996|
+	TG=|9708|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Merlusine {
+	AE=|Lucy Sussex|
+	AS=|AisFS|
+	YR=|1997|
+	TG=|17956|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|1|
+}
+Jackie Chan {
+	AE=|Chris Gregory|
+	AS=|AisFS|
+	YR=|1997|
+	TG=|18269|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The River of Dreams {
+	AE=|Le Hang|
+	AS=|AisFS|
+	YR=|1997|
+	TG=|18270|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Nicholas Afalling {
+	AE=|Jodie Kewley|
+	AS=|AisFS|
+	YR=|1997|
+	TG=|18274|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Death at the Blue Elephant {
+	AE=|Janeen Webb|
+	AS=|AisFS|
+	YR=|1997|
+	TG=|18279|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+A Walk-On Part in the War {
+	AE=|Stephen Dedman|
+	AS=|AisFS|
+	YR=|1998|
+	TG=|19303|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|1|
+}
+Jetsam {
+	AE=|Kerry Greenwood|
+	AS=|AisFS|
+	YR=|1998|
+	TG=|19314|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Queen of Soulmates {
+	AE=|Sean McMullen|
+	AS=|AisFS|
+	YR=|1998|
+	TG=|19338|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+To Avalon {
+	AE=|Jane Routley|
+	AS=|AisFS|
+	YR=|1998|
+	TG=|19350|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Bath House {
+	AE=|Keith Taylor|
+	AS=|AisFS|
+	YR=|1998|
+	TG=|19364|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Whispers of the Mist Children {
+	AE=|Trudy Canavan|
+	AS=|AisFS|
+	YR=|1999|
+	TG=|21652|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|1|
+}
+Orlando's Third Trance {
+	AE=|Adam Browne|
+	AS=|AisFS|
+	YR=|1999|
+	TG=|21650|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Language of Trees {
+	AE=|Lisa Jacobson|
+	AS=|AisFS|
+	YR=|1999|
+	TG=|21676|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Queen of Erewhon {
+	AE=|Lucy Sussex|
+	AS=|AisFS|
+	YR=|1999|
+	TG=|21707|
+	TA=|Fantasy Short Story|
+	TP=|nt|
+	LV=|9|
+}
+Incident on Wolfe Street {
+	AE=|Janeen Webb|
+	AS=|AisFS|
+	YR=|1999|
+	TG=|21711|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The World According to Kipling (A Plain Tale from the Hills) {
+	AE=|Geoffrey Maloney|
+	AS=|AisFS|
+	YR=|2000|
+	TG=|21693|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|1|
+}
+Goddess and the Geek {
+	AE=|Louise Cusack|
+	AS=|AisFS|
+	YR=|2000|
+	TG=|21655|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Fruits of Habit {
+	AE=|Christopher Kenworthy|
+	AS=|AisFS|
+	YR=|2000|
+	TG=|21681|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Boy Who Didn't Yearn {
+	AE=|Margo Lanagan|
+	AS=|AisFS|
+	YR=|2000|
+	TG=|21682|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Left Behind {
+	AE=|Kaaron Warren|
+	AS=|AisFS|
+	YR=|2000|
+	TG=|21710|
+	TA=|Fantasy Short Story|
+	TP=|sf|
+	LV=|9|
+}
+An Intimate Knowledge of the Night {
+	AE=|Terry Dowling|
+	AS=|AisHN|
+	YR=|1995|
+	TG=|3740|
+	TA=|Horror Novel|
+	TP=|c|
+	LV=|1|
+}
+My Beautiful Friend {
+	AE=|Venero Armanno|
+	AS=|AisHN|
+	YR=|1995|
+	TG=|489|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|9|
+}
+The White Garden {
+	AE=|Carmel Bird|
+	AS=|AisHN|
+	YR=|1995|
+	TG=|1200|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|9|
+}
+The House of Balthus {
+	AE=|David Brooks|
+	AS=|AisHN|
+	YR=|1995|
+	TG=|1731|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|9|
+}
+The River Ophelia {
+	AE=|Justine Ettler|
+	AS=|AisHN|
+	YR=|1995|
+	TG=|4296|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|9|
+}
+Insufficient Nominations - Not on ballot {
+	AE=|(********)|
+	AS=|AisHN|
+	YR=|1996|
+	TG=|21|
+	TA=|Horror Novel|
+	TP=|x|
+	LV=|72|
+}
+The Infernal {
+	AE=|Kim Wilkins|
+	AS=|AisHN|
+	YR=|1997|
+	TG=|17932|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|1|
+}
+The Art of Arrow-Cutting {
+	AE=|Stephen Dedman|
+	AS=|AisHN|
+	YR=|1997|
+	TG=|18262|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dark Edge {
+	AE=|Richard Harland|
+	AS=|AisHN|
+	YR=|1997|
+	TG=|18272|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|9|
+}
+Dead Set {
+	AE=|Emma Tom|
+	AS=|AisHN|
+	YR=|1997|
+	TG=|18278|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|9|
+}
+Insufficient Nominations - Not on ballot {
+	AE=|(********)|
+	AS=|AisHN|
+	YR=|1998|
+	TG=|19289|
+	TA=|Horror Novel|
+	TP=|x|
+	LV=|72|
+}
+Foreign Devils {
+	AE=|Christine Harris|
+	AS=|AisHN|
+	YR=|1999|
+	TG=|21672|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|1|
+}
+Into the Dark {
+	AE=|Victor Kelleher|
+	AS=|AisHN|
+	YR=|1999|
+	TG=|21677|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|9|
+}
+The Ivory Trail {
+	AE=|Victor Kelleher|
+	AS=|AisHN|
+	YR=|1999|
+	TG=|21679|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|9|
+}
+Deadly Sister Love {
+	AE=|P. Scott-Bernard|
+	AS=|AisHN|
+	YR=|1999|
+	TG=|21705|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|9|
+}
+The Resurrectionists {
+	AE=|Kim Wilkins|
+	AS=|AisHN|
+	YR=|2000|
+	TG=|21712|
+	TA=|Horror Novel|
+	TP=|n|
+	LV=|1|
+}
+Blackwater Days {
+	AE=|Terry Dowling|
+	AS=|AisHN|
+	YR=|2000|
+	TG=|21664|
+	TA=|Horror Novel|
+	TP=|c|
+	LV=|9|
+}
+Olympia {
+	AE=|Francis Payne|
+	AS=|AisHS|
+	YR=|1995|
+	TG=|9085|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|1|
+}
+Scaring the Train {
+	AE=|Terry Dowling|
+	AS=|AisHS|
+	YR=|1995|
+	TG=|3753|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Entropy {
+	AE=|Leanne Frahm|
+	AS=|AisHS|
+	YR=|1995|
+	TG=|4663|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Rock and Roll Has to Die {
+	AE=|Philip Nielsen|
+	AS=|AisHS|
+	YR=|1995|
+	TG=|8720|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Skin Holes {
+	AE=|Kaaron Warren|
+	AS=|AisHS|
+	YR=|1995|
+	TG=|12916|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Passing the Bone {
+	AE=|Sean Williams|
+	AS=|AisHS|
+	YR=|1996|
+	TG=|13278|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|1|
+}
+Never Seen By Waking Eyes {
+	AE=|Stephen Dedman|
+	AS=|AisHS|
+	YR=|1996|
+	TG=|3384|
+	TA=|Horror Short Story|
+	TP=|nt|
+	LV=|9|
+}
+Beckoning Nightframe {
+	AE=|Terry Dowling|
+	AS=|AisHS|
+	YR=|1996|
+	TG=|3731|
+	TA=|Horror Short Story|
+	TP=|nt|
+	LV=|9|
+}
+The Bloom of Decay {
+	AE=|Patricia MacCormack|
+	AS=|AisHS|
+	YR=|1996|
+	TG=|7685|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Hanging People {
+	AE=|Kaaron Warren|
+	AS=|AisHS|
+	YR=|1996|
+	TG=|12915|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Jenny Come to Play {
+	AE=|Terry Dowling|
+	AS=|AisHS|
+	YR=|1997|
+	TG=|17879|
+	TA=|Horror Short Story|
+	TP=|nt|
+	LV=|1|
+}
+The Mullet that Screwed John West {
+	AE=|Bill Congreve|
+	AS=|AisHS|
+	YR=|1997|
+	TG=|18261|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Ten Minutes of Midnight {
+	AE=|J. M. Earle|
+	AS=|AisHS|
+	YR=|1997|
+	TG=|18264|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Freezing of Sarah {
+	AE=|Sean Williams|
+	AS=|AisHS|
+	YR=|1997|
+	TG=|18238|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+A Positive {
+	AE=|Kaaron Warren|
+	AS=|AisHS|
+	YR=|1998|
+	TG=|19374|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|1|
+}
+The Marsh Runners {
+	AE=|Paul Brandon|
+	AS=|AisHS|
+	YR=|1998|
+	TG=|19294|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Dawn Chorus {
+	AE=|Glyn Parry|
+	AS=|AisHS|
+	YR=|1998|
+	TG=|19343|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Third Rail {
+	AE=|Aaron Sterns|
+	AS=|AisHS|
+	YR=|1998|
+	TG=|19359|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Glass Woman {
+	AE=|Kaaron Warren|
+	AS=|AisHS|
+	YR=|1998|
+	TG=|19373|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Atrax {
+	AE=|Sean Williams+Simon Brown|
+	AS=|AisHS|
+	YR=|1999|
+	TG=|21714|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|1|
+}
+The Mouth {
+	AE=|Allan Baillie|
+	AS=|AisHS|
+	YR=|1999|
+	TG=|21639|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Honest Ghosts {
+	AE=|Stephen Dedman|
+	AS=|AisHS|
+	YR=|1999|
+	TG=|21658|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Escape from Stalingrad {
+	AE=|Kain Massin|
+	AS=|AisHS|
+	YR=|1999|
+	TG=|21696|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Funeral Rights {
+	AE=|Alison Venugoban|
+	AS=|AisHS|
+	YR=|1999|
+	TG=|21709|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The First and Final Game {
+	AE=|Deborah Biancotti|
+	AS=|AisHS|
+	YR=|2000|
+	TG=|21643|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|1|
+}
+Marilyn {
+	AE=|Jack Dann|
+	AS=|AisHS|
+	YR=|2000|
+	TG=|21656|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+A Sentiment Open to Doubt {
+	AE=|Stephen Dedman|
+	AS=|AisHS|
+	YR=|2000|
+	TG=|21659|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+That Old Black Graffiti {
+	AE=|Robert Hood|
+	AS=|AisHS|
+	YR=|2000|
+	TG=|21675|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Sewercide {
+	AE=|Michael Pryor|
+	AS=|AisHS|
+	YR=|2000|
+	TG=|21702|
+	TA=|Horror Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Deucalion {
+	AE=|Brian Caswell|
+	AS=|AisYN|
+	YR=|1995|
+	TG=|2516|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|1|
+}
+Sabriel {
+	AE=|Garth Nix|
+	AS=|AisYN|
+	YR=|1995|
+	TG=|8817|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|1|
+}
+Ashling {
+	AE=|Isobelle Carmody|
+	AS=|AisYN|
+	YR=|1995|
+	TG=|2367|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+Witch Bank {
+	AE=|Catherine Jinks^Cathy Jinks|
+	AS=|AisYN|
+	YR=|1995|
+	TG=|6189|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+The Third Day, the Frost {
+	AE=|John Marsden|
+	AS=|AisYN|
+	YR=|1995|
+	TG=|7809|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+Mirror, Mirror {
+	AE=|Hillary Bell|
+	AS=|AisYN|
+	YR=|1996|
+	TG=|1033|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|1|
+}
+The Broken Wheel {
+	AE=|Kerry Greenwood|
+	AS=|AisYN|
+	YR=|1996|
+	TG=|5382|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|1|
+}
+Beyond the Hanging Wall {
+	AE=|Sara Douglass|
+	AS=|AisYN|
+	YR=|1996|
+	TG=|3726|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+Firedancer {
+	AE=|Victor Kelleher|
+	AS=|AisYN|
+	YR=|1996|
+	TG=|6369|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+The Mask of Caliban {
+	AE=|Michael Pryor|
+	AS=|AisYN|
+	YR=|1996|
+	TG=|9491|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+Greylands {
+	AE=|Isobelle Carmody|
+	AS=|AisYN|
+	YR=|1997|
+	TG=|17903|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|1|
+}
+Eye to Eye {
+	AE=|Catherine Jinks|
+	AS=|AisYN|
+	YR=|1997|
+	TG=|17920|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|1|
+}
+The Outcast {
+	AE=|Patricia Bernard|
+	AS=|AisYN|
+	YR=|1997|
+	TG=|18254|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+Zones {
+	AE=|Damien Broderick+Rory Barnes|
+	AS=|AisYN|
+	YR=|1997|
+	TG=|18258|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+Shade's Children {
+	AE=|Garth Nix|
+	AS=|AisYN|
+	YR=|1997|
+	TG=|18275|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+Singing the Dogstar Blues {
+	AE=|Alison Goodman|
+	AS=|AisYN|
+	YR=|1998|
+	TG=|19312|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|1|
+}
+Horsehead Boy {
+	AE=|Rory Barnes|
+	AS=|AisYN|
+	YR=|1998|
+	TG=|19292|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+Killing Darcy {
+	AE=|Melissa Lucashenko|
+	AS=|AisYN|
+	YR=|1998|
+	TG=|19328|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+A Dark Winter {
+	AE=|Dave Luckett|
+	AS=|AisYN|
+	YR=|1998|
+	TG=|19330|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+The Night is for Hunting {
+	AE=|John Marsden|
+	AS=|AisYN|
+	YR=|1998|
+	TG=|19334|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+A Dark Victory {
+	AE=|Dave Luckett|
+	AS=|AisYN|
+	YR=|1999|
+	TG=|21692|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|1|
+}
+Horsehead Man {
+	AE=|Rory Barnes|
+	AS=|AisYN|
+	YR=|1999|
+	TG=|21640|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+Stuck in Fast Forward {
+	AE=|Damien Broderick+Rory Barnes|
+	AS=|AisYN|
+	YR=|1999|
+	TG=|21649|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+Into the Dark {
+	AE=|Victor Kelleher|
+	AS=|AisYN|
+	YR=|1999|
+	TG=|21678|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+The Ivory Trail {
+	AE=|Victor Kelleher|
+	AS=|AisYN|
+	YR=|1999|
+	TG=|21680|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+Thursday's Child {
+	AE=|Sonya Hartnett|
+	AS=|AisYN|
+	YR=|2000|
+	TG=|21674|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|1|
+}
+Horsehead Soup {
+	AE=|Rory Barnes|
+	AS=|AisYN|
+	YR=|2000|
+	TG=|21641|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+Ferren and the Angel {
+	AE=|Richard Harland|
+	AS=|AisYN|
+	YR=|2000|
+	TG=|21671|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+Omega {
+	AE=|Christine Harris|
+	AS=|AisYN|
+	YR=|2000|
+	TG=|21673|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+The Green Prince {
+	AE=|Sophie Masson|
+	AS=|AisYN|
+	YR=|2000|
+	TG=|21697|
+	TA=|Young Adult Novel|
+	TP=|n|
+	LV=|9|
+}
+Insufficient Nominations - Not on ballot {
+	AE=|(********)|
+	AS=|AisYS|
+	YR=|1995|
+	TG=|22|
+	TA=|Young Adult Short Story|
+	TP=|x|
+	LV=|72|
+}
+Green Monkey Dreams {
+	AE=|Isobelle Carmody|
+	AS=|AisYS|
+	YR=|1996|
+	TG=|2369|
+	TA=|Young Adult Short Story|
+	TP=|sf|
+	LV=|1|
+}
+The Wizard and Me {
+	AE=|Dave Luckett|
+	AS=|AisYS|
+	YR=|1996|
+	TG=|7604|
+	TA=|Young Adult Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Pipe {
+	AE=|James Moloney|
+	AS=|AisYS|
+	YR=|1996|
+	TG=|8446|
+	TA=|Young Adult Short Story|
+	TP=|sf|
+	LV=|9|
+}
+B'ku, B'ku {
+	AE=|Gillian Rubinstein|
+	AS=|AisYS|
+	YR=|1996|
+	TG=|9982|
+	TA=|Young Adult Short Story|
+	TP=|sf|
+	LV=|9|
+}
+At the Edge of the Sea {
+	AE=|Keith Taylor|
+	AS=|AisYS|
+	YR=|1996|
+	TG=|11833|
+	TA=|Young Adult Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Twist in the Tale {
+	AE=|Ruth Starke|
+	AS=|AisYS|
+	YR=|1997|
+	TG=|17954|
+	TA=|Young Adult Short Story|
+	TP=|sf|
+	LV=|1|
+}
+The Peppercorn Tree {
+	AE=|Sheryl Gardner|
+	AS=|AisYS|
+	YR=|1997|
+	TG=|18268|
+	TA=|Young Adult Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Hanging by a Thread {
+	AE=|Julie Ireland|
+	AS=|AisYS|
+	YR=|1997|
+	TG=|18273|
+	TA=|Young Adult Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Insufficient Nominations - Not on ballot {
+	AE=|(********)|
+	AS=|AisYS|
+	YR=|1998|
+	TG=|19290|
+	TA=|Young Adult Short Story|
+	TP=|x|
+	LV=|72|
+}
+Insufficient Nominations - Not on ballot {
+	AE=|(********)|
+	AS=|AisYS|
+	YR=|1999|
+	TG=|21638|
+	TA=|Young Adult Short Story|
+	TP=|x|
+	LV=|72|
+}
+The Queen's Notice {
+	AE=|Margo Lanagan|
+	AS=|AisYS|
+	YR=|2000|
+	TG=|21685|
+	TA=|Young Adult Short Story|
+	TP=|sf|
+	LV=|1|
+}
+Avalon {
+	AE=|Brian Caswell|
+	AS=|AisYS|
+	YR=|2000|
+	TG=|21653|
+	TA=|Young Adult Short Story|
+	TP=|sf|
+	LV=|9|
+}
+The Boy Who Didn't Yearn {
+	AE=|Margo Lanagan|
+	AS=|AisYS|
+	YR=|2000|
+	TG=|21683|
+	TA=|Young Adult Short Story|
+	TP=|sf|
+	LV=|9|
+}
+Midsummer Mission {
+	AE=|Margo Lanagan|
+	AS=|AisYS|
+	YR=|2000|
+	TG=|21684|
+	TA=|Young Adult Short Story|
+	TP=|sf|
+	LV=|9|
+}
+White Time {
+	AE=|Margo Lanagan|
+	AS=|AisYS|
+	YR=|2000|
+	TG=|21687|
+	TA=|Young Adult Short Story|
+	TP=|c|
+	LV=|9|
+}
+Artwork in "The Rabbits" {
+	AE=|Shaun Tan|
+	AS=|AisX|
+	YR=|1998|
+	TG=|19363|
+	TA=|Conveners Award|
+	TP=|aw|
+	LV=|1|
+}
+The MUP Encyclopaedia of Australian Science Fiction & Fantasy {
+	AE=|Paul Collins+Sean McMullen+Steven Paulsen|
+	AS=|AisX|
+	YR=|1998|
+	TG=|19339|
+	TA=|Conveners Award|
+	TP=|en|
+	LV=|9|
+}
+Dreaming Down-Under {
+	AE=|Jack Dann+Janeen Webb|
+	AS=|AisX|
+	YR=|1998|
+	TG=|19300|
+	TA=|Conveners Award|
+	TP=|a|
+	LV=|9|
+}
+Luminous {
+	AE=|Greg Egan|
+	AS=|AisX|
+	YR=|1998|
+	TG=|19307|
+	TA=|Conveners Award|
+	TP=|c|
+	LV=|9|
+}
+Antique Futures: The Best of Terry Dowling {
+	AE=|Terry Dowling|
+	AS=|AisX|
+	YR=|1999|
+	TG=|21663|
+	TA=|Conveners Award|
+	TP=|c|
+	LV=|1|
+}
+The Worst Band in the Universe {
+	AE=|Graeme Base|
+	AS=|AisX|
+	YR=|1999|
+	TG=|22682|
+	TA=|Conveners Award|
+	TP=|n|
+	LV=|9|
+}
+Strange Constellations: A History of Australian Science Fiction {
+	AE=|Russell Blackford+Van Ikin+Sean McMullen|
+	AS=|AisX|
+	YR=|1999|
+	TG=|21644|
+	TA=|Conveners Award|
+	TP=|nf|
+	LV=|9|
+}
+The Betrayal of Arthur {
+	AE=|Sara Douglass|
+	AS=|AisX|
+	YR=|1999|
+	TG=|21660|
+	TA=|Conveners Award|
+	TP=|n|
+	LV=|9|
+}
+Spinouts - Bronze {
+	AE=|Paul Collins+Meredith Costain|
+	AS=|AisX|
+	YR=|2000|
+	TG=|21654|
+	TA=|Conveners Award|
+	TP=|a|
+	LV=|1|
+}
+The Lost Thing {
+	AE=|Shaun Tan|
+	AS=|AisX|
+	YR=|2000|
+	TG=|21708|
+	TA=|Conveners Award|
+	TP=|ac|
+	LV=|1|
+}
+Transrealist Fiction: Writing in the Slipstream of Science {
+	AE=|Damien Broderick|
+	AS=|AisX|
+	YR=|2000|
+	TG=|21648|
+	TA=|Conveners Award|
+	TP=|nf|
+	LV=|9|
+}
+SF Commentary #76 (The Unrelenting Gaze - George Turner, Non-Fiction: A Selection) {
+	AE=|Bruce Gillespie|
+	AS=|AisX|
+	YR=|2000|
+	TG=|21670|
+	TA=|Conveners Award|
+	TP=|nf|
+	LV=|9|
+}
+White Time {
+	AE=|Margo Lanagan|
+	AS=|AisX|
+	YR=|2000|
+	TG=|21688|
+	TA=|Conveners Award|
+	TP=|c|
+	LV=|9|
+}

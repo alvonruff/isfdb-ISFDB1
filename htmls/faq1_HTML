@@ -1,0 +1,80 @@
+<html>
+<head>
+<title>ISFDB FAQ: Design Philosophy</title>
+</head>
+<body bgcolor="#ffffff" text="#000000" >
+
+<h2>The Design Philosophy Behind the ISFDB</h2>
+One of the first questions usually asked when someone looks at
+the layout of the ISFDB is: "Why did you do it <i>that</i> way
+instead of <i>this</i> way?" Here's a brief treatise on the
+design philosophies behind the ISFDB:
+<ol>
+<li><i>Bibliographies are centered around people, not author names</i>.
+It was decided fairly early on in the design phase that bibliographies
+would be centered around the people who wrote the fiction, not the
+(sometimes fictitious) names to which the work was ascribed. As such, authors
+who use a large number of pseudonyms have all of their works listed in
+a single location, denoted with pseudonym citations when necessary.
+This was deemed especially necessary when working with house names (ala
+<i>Will Garth</i>) in which several authors shared the same pseudonym.
+<p>
+As such, every author has a working name, around which the bibliographies
+revolve. The process of selecting the working name is pretty loosely 
+defined, but it's generally the name under which the author has produced the
+majority of work. It's possible that some of these working names may not 
+be the ones preferred by the author. Likewise, some 
+bibliographic references may not reflect the actual name as published:
+some publications are sloppy or inconsistent, listing (for instance)
+<i>Brian Aldiss</i> instead of <i>Brian W. Aldiss</i>, or 
+<i>Stephen Popkes</i> instead of <i>Steven Popkes</i>; in such cases the 
+preferred working name is used to no ill effect. In other cases, such as: 
+<i>Iain Banks</i> vs. <i>Iain M. Banks</i>, the distinction is important - 
+in which case we use <i>Iain M. Banks</i> as the author's working name
+(since that refers to his genre work), and <i>Iain Banks</i> as a pseudonym.
+These changes may also cause an altering of the author name listed for
+an award.  For instance, <i>Ursula K. Le Guin</i> is always used in an 
+award listing, not <i>Ursula LeGuin</i>, or <i>Ursula Le Guin</i>, 
+or <i>Ursula K. LeGuin</i>, all of which I have seen in various
+awards listings.
+<p>
+<li><i>The focus of the ISFDB is bibliographic</i>.  We have no
+interest in creating on online version of <i>Locus</i>.  Expansion
+of the database is virtually certain, and in the future we may add 
+genre tags (<i>Cyberpunk, Alternative History, etc...</i>), story 
+synopsis support, expanded biographies, and maybe even a rating 
+system.  But you won't find news, stories, reviews, press releases, 
+interviews, or coverage of the WorldCon here. 
+There's enough bibliographic work to keep an army of volunteers busy 
+for years, without branching into other areas of the field already 
+covered by professionals elsewhere.
+<p>
+<li><i>The focus of the ISFDB is on the written word</i>. 
+While we do cover novelizations, 
+nonfiction, selected non-genre works, and even game tie-ins, we 
+don't cover extracurricular activities such as: games, movies, 
+comics, trading cards, music, performance art, or stimsims.
+<p>
+<li><i>Bibliographic data is organized via publications, not authors.</i>
+Our primary goal is to document all relevant publications in the field
+of speculative fiction - not to create exhaustive author bibliographies.
+The way that the data is organized in the ISFDB allows for data to be
+easily displayed on a per-author basis, but it is not our desire to
+collect ad hoc snippets of data for each author. Rather than recording
+that author X contained story Y in collection X, we would much rather
+record all of the stories contained in collection X. This not only adds
+the appropriate data to author X's bibliography, but contributes to the
+bibliographies of the other authors in the collection as well.
+</ol>
+
+<hr>
+<a href="http://HTMLBASE/faq.html">[Main FAQ Page]</a>
+<a href="http://HTMLBASE/faq2.html">[Next FAQ Page]</a>
+<hr>
+
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

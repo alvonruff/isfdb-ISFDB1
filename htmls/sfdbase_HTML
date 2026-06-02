@@ -1,0 +1,323 @@
+<!doctype html public "-//w3c//dtd html 4.0 transitional//en">
+<html>
+<head>
+   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   <meta name="GENERATOR" content="Mozilla/4.51 [en] (X11; I; Linux 2.2.5-15 i686) [Netscape]">
+   <title>Internet Speculative Fiction DataBase</title>
+</head>
+<body text="#000000" bgcolor="#FFFFFF" link="#357BF0" vlink="#309372">
+
+<center>
+<h1>Internet Speculative Fiction DataBase</h1>
+<p>
+<b>Updated:</b> DBASEDATE
+</center>
+<p>
+
+<center><table BORDER CELLPADDING=5 WIDTH="100%" BGCOLOR="#FFFFD0" NOSAVE >
+<tr NOSAVE>
+<td VALIGN="TOP" WIDTH="25%" BGCOLOR="#FFFFD0" NOSAVE>
+<center>
+<img SRC="isfdb.gif" ALT="ISFDB Logo" BORDER=0  align=CENTER>
+</center>
+<hr>
+<p>
+<center><b>Fiction Database Search</b></center>
+<font size=-1>
+<form method="POST" action="http://DBASELOC/search.cgi"><input name="arg"><select name="type"><option selected>Name&nbsp;<option>Title&nbsp;<option>Year&nbsp;<option>Series&nbsp;<option>Index</select>
+<br><input type="submit" value="Submit Query"><input type="reset" value="Clear Form"></form>
+<p>
+Perform a database search for an author, title, or series 
+substring. The year option displays all entries alphabetically by
+category for a given year. The index option displays all fiction 
+for a given year, and is sorted by author. Search matches
+are caseless, and spaces are honored. 
+</font>
+<hr>
+<center><b>Awards Database Search</b></center>
+<font size=-1>
+<form method="POST" action="http://DBASELOC/AwGen.cgi"><input name="year">
+<select name="award">
+  <option>Analog
+  <option>Apollo
+  <option>AsimovR
+  <option>AsimovU
+  <option>Aurealis
+  <option>Aurora
+  <option>Balrog
+  <option>BFA
+  <option>BSFA
+  <option>Campbell
+  <option>Chesley
+  <option>Clarke
+  <option>ComptonCrook
+  <option>Deathrealm
+  <option>Ditmar
+  <option>Gandalf
+  <option>Gaughan
+  <option>HOMer
+  <option>Hugo
+  <option>IFA
+  <option>IHG
+  <option>Imaginaire
+  <option>JWCA
+  <option>Lambda
+  <option>Locus Poll
+  <option>Mythopoeic
+  <option>Nebula
+  <option>Prometheus
+  <option>PK Dick
+  <option>RetroHugo
+  <option>Rhysling
+  <option>SFBC
+  <option>SF Chronicle
+  <option>Skylark
+  <option>Sidewise
+  <option>Stoker
+  <option>Sturgeon
+  <option>Tiptree
+  <option>WFA
+</select>
+<br><input type="submit" value="Submit Query"><input type="reset" value="Clear Form"></form>
+<p>
+Generate an award listing for a specific award and year. 
+The year should be a fully-qualified 4-digit numeral, as: <i>1992</i>
+<p>
+<a href="http://HTMLBASE/award.html">Details</a> about the awards database.
+</font>
+</td>
+
+<td VALIGN=TOP WIDTH="50%" NOSAVE><font color="#000000"><font size=+2>The
+ISFDB</font><font size=+0> is an effort to catalog works of Science Fiction,
+Fantasy, and Horror. It links together various types of bibliographic data:
+author bibliographies, publication bibliographies, award listings, magazine
+content listings, anthology and collection content listings, yearly fiction
+indexes, and forthcoming books.</font></font>
+
+<p>
+
+<table BORDER=0 CELLPADDING=5 WIDTH="100%" NOSAVE >
+<tr>
+<td VALIGN=TOP>
+<a href="http://HTMLBASE/stats4.html">Authors</a>
+</td>
+<td>
+<font size=-1>
+The directory of authors who have entries in the database.
+</font>
+</td>
+</tr>
+
+<tr>
+<td VALIGN=TOP>
+<a href="http://HTMLBASE/zines.html">Magazines</a></font></center>
+</td>
+<td>
+<font size=-1>
+Maps and lists of the magazines currently indexed in the database.
+</font>
+</td>
+</tr>
+
+<tr>
+<td VALIGN=TOP>
+<a href="http://DBASELOC/forthcoming.cgi">Forthcoming</a>
+</td>
+<td>
+<font size=-1>
+Monthly listings of forthcoming books in the speculative fiction field.
+</font>
+</td>
+</tr>
+
+<tr>
+<td VALIGN=TOP>
+<a href="http://HTMLBASE/derived.html">Lists</a>
+</td>
+<td>
+<font size=-1>
+Interesting information derived from the database, 
+such as the Top 100 lists, most-reviewed books, oldest/youngest
+living/non-living authors, and age graphs.
+</font>
+</td>
+</tr>
+
+<tr>
+<td VALIGN=TOP>
+<a href="http://HTMLBASE/entry.html">Submissions</a></td>
+<td>
+<font size=-1>
+Use this page to enter new authors or magazines into 
+the database.
+</font>
+</td>
+</tr>
+
+<tr>
+<td VALIGN=TOP>
+<a href="http://HTMLBASE/printseries.html">Series</a></td>
+<td>
+<font size=-1>
+Lists of interesting print series.
+</font>
+</td>
+</tr>
+
+</table>
+
+<hr>
+<font size=+2>ISFDB Staff:</font>
+<p>
+
+<table BORDER=0 CELLPADDING=5 WIDTH="100%" NOSAVE >
+
+<tr>
+<td VALIGN=TOP>
+<a href="mailto:avonruff@sfsite.com">Al von Ruff</a>
+</td>
+<td>
+<i>Founder/Editor</i>
+</td>
+</tr>
+
+<tr>
+<td VALIGN=TOP>
+<a href="mailto:redacted@redacted.com">Ahasuerus</a>
+</td>
+<td>
+<i>Design Consultant</i>
+</td>
+</tr>
+
+<tr>
+<td VALIGN=TOP>
+<a href="mailto:redacted@redacted.com">David G. Grubbs</a>,
+<a href="mailto:redacted@redacted.com">Paul Cardinal</a>
+</td>
+<td>
+<i>Awards Editors</i>
+</td>
+</tr>
+
+<tr>
+<td VALIGN=TOP>
+<a href="mailto:redacted@redacted.com">John Boston</a>
+</td>
+<td>
+<i>Forthcoming Books</i>
+</td>
+</tr>
+
+<tr>
+<td VALIGN=TOP>
+<a href="http://www.nesfa.org/home.html"><img SRC="shield.gif" ALT="NESFA Logo" BORDER=0 height=40 width=40 align=BOTTOM></a><a href="http://www.nesfa.org/home.html">NESFA</a>,
+<a href="mailto:redacted@redacted.com">Michael J. Cross</a>,
+<a href="mailto:redacted@redacted.com">John Boston</a>,
+<a href="mailto:redacted@redacted.com">Doug Lee</a>
+</td>
+<td>
+<i>Major Short Fiction Contributors</i>
+</td>
+</tr>
+
+
+</table>
+
+
+</td>
+
+<td BGCOLOR="#FFFFD0" ALIGN=LEFT VALIGN=TOP WIDTH="25%" NOSAVE>
+
+Information and statistics about the database:
+<p>
+<table BORDER=0 CELLPADDING=5 WIDTH="100%" NOSAVE >
+<tr>
+<td>
+<font size=-1>
+<a href="http://HTMLBASE/whatsnew.html">What's New</a> with
+the ISFDB (as of DBASEWHATSNEW).
+</font>
+</td>
+</tr>
+
+<tr>
+<td>
+<font size=-1>
+List of
+<a href="http://HTMLBASE/faqlist.html">FAQs</a>
+residing with the ISFDB.
+</font>
+</td>
+</tr>
+
+<tr>
+<td>
+<font size=-1>
+<a href="http://HTMLBASE/stats.html">Numerical</a> statistics,
+displaying the total number of novels, shortfiction entries, etc...
+</font>
+</td>
+</tr>
+
+<tr>
+<td>
+<font size=-1>
+<a href="http://HTMLBASE/stats2.html">Graphed</a> statistics,
+with totals graphed by category and year.
+</font>
+</td>
+</tr>
+
+</table>
+
+<hr>
+<font size=+2>Other
+</font><font size=+0>SF bibliographic
+sites of interest:</font>
+<ol>
+<li>
+<font size=-1>The <a href="http://www.locusmag.com/index">Science
+Fiction, Fantasy, &amp; Horror: 1984-1998</a> by William G. Contento and
+Charles N. Brown.&nbsp;</font></li>
+
+<li>
+<font size=-1>William G. Contento's <a href="http://www.best.com/~contento/">Index
+to Science Fiction Anthologies and Collections</a>.&nbsp;</font></li>
+
+<li>
+<font size=-1>An extensive list of Australian SF
+<a href="http://www.midnight.com.au/eidolon/biblios.htm">bibliographies</a>
+has been compiled by Sean McMullen.&nbsp;</font></li>
+
+<li>
+<font size=-1>The Locus Index to Science Fiction
+<a href="http://www.locusmag.com/SFAwards/">Awards</a> compiled by Mark
+R. Kelly.&nbsp;</font></li>
+
+<li>
+<font size=-1>The Usenet <a href="http://www.uchronia.net/">Alternate
+History</a> List. maintained by Robert B. Schmunk.&nbsp;</font></li>
+
+<li>
+<font size=-1>The BSFA Magazine <a href="http://www.mjckeh.demon.co.uk">Index</a>
+maintained by Michael J. Cross.</font></li>
+
+<li>
+<a href="http://sflovers.rutgers.edu/Web/SFRG/">
+<img SRC="sfrg2.gif" ALT="[SFRG]" BORDER=0 height=31 width=88 align=LEFT></a>
+</li>
+
+</ol>
+
+</td>
+</tr>
+</table></center>
+
+<p>
+<center>
+<i>COPYRIGHT</i>
+</center>
+
+</body>
+</html>

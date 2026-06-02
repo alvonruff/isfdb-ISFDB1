@@ -1,0 +1,970 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)STURGEON	1.8	12/29/98 ISFDB";
+##
+Surviving {
+	AE=|Judith Moffett|
+	AS=|Sturgeon|
+	YR=|1987|
+	TG=|8434|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|1|
+}
+Grave Angels {
+	AE=|Richard Kearns|
+	AS=|Sturgeon|
+	YR=|1987|
+	TG=|6364|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|2|
+}
+Elephant {
+	AE=|Susan Palwick|
+	AS=|Sturgeon|
+	YR=|1987|
+	TG=|9018|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|2|
+}
+Pretty Boy Crossover {
+	AE=|Pat Cadigan|
+	AS=|Sturgeon|
+	YR=|1987|
+	TG=|2118|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+The Lions Are Asleep This Night {
+	AE=|Howard Waldrop|
+	AS=|Sturgeon|
+	YR=|1987|
+	TG=|12848|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Rachel in Love {
+	AE=|Pat Murphy|
+	AS=|Sturgeon|
+	YR=|1988|
+	TG=|8654|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|1|
+}
+The Evening and the Morning and the Night {
+	AE=|Octavia E. Butler|
+	AS=|Sturgeon|
+	YR=|1988|
+	TG=|2056|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|2|
+}
+Buffalo Gals, Won't You Come Out Tonight {
+	AE=|Ursula K. Le Guin|
+	AS=|Sturgeon|
+	YR=|1988|
+	TG=|7117|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|2|
+}
+The Gift {
+	AE=|Pat Forde|
+	AS=|Sturgeon|
+	YR=|1988|
+	TG=|4583|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Heroics {
+	AE=|James Patrick Kelly|
+	AS=|Sturgeon|
+	YR=|1988|
+	TG=|6392|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Dinosaurs {
+	AE=|Walter Jon Williams|
+	AS=|Sturgeon|
+	YR=|1988|
+	TG=|13297|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Schrödinger's Kitten {
+	AE=|George Alec Effinger|
+	AS=|Sturgeon|
+	YR=|1989|
+	TG=|3977|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|1|
+}
+Do Ya, Do Ya, Wanna Dance {
+	AE=|Howard Waldrop|
+	AS=|Sturgeon|
+	YR=|1989|
+	TG=|12825|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|2|
+}
+Stairs {
+	AE=|Neal Barrett, Jr.|
+	AS=|Sturgeon|
+	YR=|1989|
+	TG=|877|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|3|
+}
+Mrs. Shummel Exits a Winner {
+	AE=|John Kessel|
+	AS=|Sturgeon|
+	YR=|1989|
+	TG=|6463|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+The Color Winter {
+	AE=|Steven Popkes|
+	AS=|Sturgeon|
+	YR=|1989|
+	TG=|9290|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+The Edge of the World {
+	AE=|Michael Swanwick|
+	AS=|Sturgeon|
+	YR=|1990|
+	TG=|11742|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|1|
+}
+Silver Lady and the Fortyish Man {
+	AE=|Megan Lindholm|
+	AS=|Sturgeon|
+	YR=|1990|
+	TG=|7505|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|2|
+}
+Dori Bangs {
+	AE=|Bruce Sterling|
+	AS=|Sturgeon|
+	YR=|1990|
+	TG=|11458|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|3|
+}
+Dancing with the Chairs {
+	AE=|James Patrick Kelly|
+	AS=|Sturgeon|
+	YR=|1990|
+	TG=|6385|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Faith {
+	AE=|James Patrick Kelly|
+	AS=|Sturgeon|
+	YR=|1990|
+	TG=|6387|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Bears Discover Fire {
+	AE=|Terry Bisson|
+	AS=|Sturgeon|
+	YR=|1991|
+	TG=|1321|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|1|
+}
+My Advice to the Civilized {
+	AE=|John Barnes|
+	AS=|Sturgeon|
+	YR=|1991|
+	TG=|843|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|2|
+}
+Episodes of the Argo {
+	AE=|R. A. Lafferty|
+	AS=|Sturgeon|
+	YR=|1991|
+	TG=|6889|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|2|
+}
+Buffalo {
+	AE=|John Kessel|
+	AS=|Sturgeon|
+	YR=|1992|
+	TG=|6451|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|1|
+}
+Ma Qui {
+	AE=|Alan Brennert|
+	AS=|Sturgeon|
+	YR=|1992|
+	TG=|1637|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|2|
+}
+The Happy Man {
+	AE=|Jonathan Lethem|
+	AS=|Sturgeon|
+	YR=|1992|
+	TG=|7434|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|3|
+}
+This Year's Class Picture {
+	AE=|Dan Simmons|
+	AS=|Sturgeon|
+	YR=|1993|
+	TG=|11021|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|1|
+}
+Death and the Lady {
+	AE=|Judith Tarr|
+	AS=|Sturgeon|
+	YR=|1993|
+	TG=|11813|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|2|
+}
+Danny Goes to Mars {
+	AE=|Pamela Sargent|
+	AS=|Sturgeon|
+	YR=|1993|
+	TG=|10219|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|3|
+}
+Fox Magic {
+	AE=|Kij Johnson|
+	AS=|Sturgeon|
+	YR=|1994|
+	TG=|6208|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|1|
+}
+At the Shadow of a Dream {
+	AE=|Howard V. Hendrix|
+	AS=|Sturgeon|
+	YR=|1994|
+	TG=|5845|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|2|
+}
+The Story So Far {
+	AE=|Martha Soukup|
+	AS=|Sturgeon|
+	YR=|1994|
+	TG=|11190|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|3|
+}
+Forgiveness Day {
+	AE=|Ursula K. Le Guin|
+	AS=|Sturgeon|
+	YR=|1995|
+	TG=|7154|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nv|
+	LV=|1|
+}
+Nekropolis {
+	AE=|Maureen F. McHugh|
+	AS=|Sturgeon|
+	YR=|1995|
+	TG=|8207|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|2|
+}
+Cri de Coeur {
+	AE=|Michael Bishop|
+	AS=|Sturgeon|
+	YR=|1995|
+	TG=|1242|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nv|
+	LV=|3|
+}
+Jigoku No Mokushiroku^The Symbolic Revelation of the Apocalypse {
+	AE=|John G. McDaid|
+	AS=|Sturgeon|
+	YR=|1996|
+	TG=|8105|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|1|
+}
+The Age of Innocence {
+	AE=|Brian Stableford|
+	AS=|Sturgeon|
+	YR=|1996|
+	TG=|11284|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|2|
+}
+The Spine Divers {
+	AE=|Ray Aldridge|
+	AS=|Sturgeon|
+	YR=|1996|
+	TG=|296|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|3|
+}
+I, Iscariot {
+	AE=|Michael Bishop|
+	AS=|Sturgeon|
+	YR=|1996|
+	TG=|1263|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+The Wellness Plague {
+	AE=|Robert R. Chase|
+	AS=|Sturgeon|
+	YR=|1996|
+	TG=|2622|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Home for Christmas {
+	AE=|Nina Kiriki Hoffman|
+	AS=|Sturgeon|
+	YR=|1996|
+	TG=|5972|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Fault Lines {
+	AE=|Nancy Kress|
+	AS=|Sturgeon|
+	YR=|1996|
+	TG=|6788|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nv|
+	LV=|9|
+}
+The Chronology Protection Case {
+	AE=|Paul Levinson|
+	AS=|Sturgeon|
+	YR=|1996|
+	TG=|7449|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+We Were Out of Our Minds with Joy {
+	AE=|David Marusek|
+	AS=|Sturgeon|
+	YR=|1996|
+	TG=|7901|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nv|
+	LV=|9|
+}
+Diamonds Aren't Forever {
+	AE=|S. P. Somtow|
+	AS=|Sturgeon|
+	YR=|1996|
+	TG=|11160|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Mortimer Gray's "History of Death" {
+	AE=|Brian Stableford|
+	AS=|Sturgeon|
+	YR=|1996|
+	TG=|11309|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nv|
+	LV=|9|
+}
+The Flowers of Aulit Prison {
+	AE=|Nancy Kress|
+	AS=|Sturgeon|
+	YR=|1997|
+	TG=|15400|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|1|
+}
+Age of Aquarius {
+	AE=|William Barton|
+	AS=|Sturgeon|
+	YR=|1997|
+	TG=|14448|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|2|
+}
+The Weighing of Ayre {
+	AE=|Gregory Feeley|
+	AS=|Sturgeon|
+	YR=|1997|
+	TG=|14449|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|3|
+}
+Thirteen Phantasms {
+	AE=|James P. Blaylock|
+	AS=|Sturgeon|
+	YR=|1997|
+	TG=|15384|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Beauty and the Opéra or The Phantom Beast {
+	AE=|Suzy McKee Charnas|
+	AS=|Sturgeon|
+	YR=|1997|
+	TG=|15387|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Gone {
+	AE=|John Crowley|
+	AS=|Sturgeon|
+	YR=|1997|
+	TG=|15389|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Erase/Record/Play: A Drama for Print {
+	AE=|John M. Ford|
+	AS=|Sturgeon|
+	YR=|1997|
+	TG=|15392|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+The Elizabeth Complex {
+	AE=|Karen Joy Fowler|
+	AS=|Sturgeon|
+	YR=|1997|
+	TG=|15393|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Marigold Outlet {
+	AE=|Nancy Kress|
+	AS=|Sturgeon|
+	YR=|1997|
+	TG=|15401|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|sf|
+	LV=|9|
+}
+Radio Waves {
+	AE=|Michael Swanwick|
+	AS=|Sturgeon|
+	YR=|1997|
+	TG=|15409|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Dradin, in Love {
+	AE=|Jeff VanderMeer|
+	AS=|Sturgeon|
+	YR=|1997|
+	TG=|15414|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|sf|
+	LV=|9|
+}
+House of Dreams {
+	AE=|Michael F. Flynn|
+	AS=|Sturgeon|
+	YR=|1998|
+	TG=|18241|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|1|
+}
+"...Where Angels Fear to Tread" {
+	AE=|Allen Steele|
+	AS=|Sturgeon|
+	YR=|1998|
+	TG=|18251|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nv|
+	LV=|2|
+}
+Coming to Grips with the Great Plague {
+	AE=|Brian Stableford|
+	AS=|Sturgeon|
+	YR=|1998|
+	TG=|18250|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|sf|
+	LV=|3|
+}
+Echoes {
+	AE=|Alan Brennert|
+	AS=|Sturgeon|
+	YR=|1998|
+	TG=|18239|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Itsy Bitsy Spider {
+	AE=|James Patrick Kelly|
+	AS=|Sturgeon|
+	YR=|1998|
+	TG=|18243|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Universal Grammar {
+	AE=|Mary Soon Lee|
+	AS=|Sturgeon|
+	YR=|1998|
+	TG=|18244|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Loose Ends {
+	AE=|Paul Levinson|
+	AS=|Sturgeon|
+	YR=|1998|
+	TG=|18245|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nv|
+	LV=|9|
+}
+Get a Grip {
+	AE=|Paul Park|
+	AS=|Sturgeon|
+	YR=|1998|
+	TG=|18246|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+The 43 Antarean Dynasties {
+	AE=|Mike Resnick|
+	AS=|Sturgeon|
+	YR=|1998|
+	TG=|18247|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+One Good Juror {
+	AE=|Mary Rosenblum+James Sarafin|
+	AS=|Sturgeon|
+	YR=|1998|
+	TG=|18249|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+The Undiscovered {
+	AE=|William Sanders|
+	AS=|Sturgeon|
+	YR=|1998|
+	TG=|18248|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Lethe {
+	AE=|Walter Jon Williams|
+	AS=|Sturgeon|
+	YR=|1998|
+	TG=|18253|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Story of Your Life {
+	AE=|Ted Chiang|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19674|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nv|
+	LV=|1|
+}
+Wading River Dogs and More {
+	AE=|Michael Kandel|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19738|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|sf|
+	LV=|2|
+}
+The Summer Isles {
+	AE=|Ian R. MacLeod|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19768|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nv|
+	LV=|3|
+}
+Radio Praha {
+	AE=|Tony Daniel|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19683|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Craphound {
+	AE=|Cory Doctorow|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19693|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Dance at the Edge {
+	AE=|L. Timmel Duchamp|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19695|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|sf|
+	LV=|9|
+}
+Lovestory {
+	AE=|James Patrick Kelly|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19741|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Love of the True God {
+	AE=|Uncle River|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19796|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Echea {
+	AE=|Kristine Kathryn Rusch|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19802|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Maneki Neko {
+	AE=|Bruce Sterling|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19819|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Wild Minds {
+	AE=|Michael Swanwick|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19829|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|20170|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|x|
+	LV=|90|
+}
+Congenital Agenesis of Gender Ideation by K. N. Sirsi and Sandra Botkin {
+	AE=|Raphael Carter|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19669|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|92|
+}
+The Planck Dive {
+	AE=|Greg Egan|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19701|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|92|
+}
+Animae Celestes {
+	AE=|Gregory Feeley|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19705|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|92|
+}
+Crane Fly {
+	AE=|Eliot Fintushel|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19707|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|sf|
+	LV=|92|
+}
+How Meersh the Bedeviler Lost His Toes {
+	AE=|Gregory Frost|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19712|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|sf|
+	LV=|92|
+}
+Advantage, Bellarmine {
+	AE=|Paul Levinson|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19761|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|92|
+}
+A Princess of Helium {
+	AE=|R. Garcia y Robertson|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19797|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nv|
+	LV=|92|
+}
+Radiant Doors {
+	AE=|Michael Swanwick|
+	AS=|Sturgeon|
+	YR=|1999|
+	TG=|19826|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|92|
+}
+The Wedding Album {
+	AE=|David Marusek|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|19929|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nv|
+	LV=|1|
+}
+Dapple: A Hwarhath Historical Romance {
+	AE=|Eleanor Arnason|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21123|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nv|
+	LV=|2|
+}
+The Window {
+	AE=|Judith Berman|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21130|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|3|
+}
+macs {
+	AE=|Terry Bisson|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21131|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Reality Check {
+	AE=|Michael A. Burstein|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21134|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nv|
+	LV=|9|
+}
+Suicide Coast {
+	AE=|M. John Harrison|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21144|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Five Days in April {
+	AE=|Brian A. Hopkins|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21145|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+The Chop Girl {
+	AE=|Ian R. MacLeod|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21148|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Once Upon a Matter Crushed {
+	AE=|Wil McCarthy|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21151|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nv|
+	LV=|9|
+}
+Winemaster {
+	AE=|Robert Reed|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21152|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Everywhere {
+	AE=|Geoff Ryman|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21156|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Jennifer, Just Before Midnight {
+	AE=|William Sanders|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21158|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|ss|
+	LV=|9|
+}
+Green Tea {
+	AE=|Richard Wadholm|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21163|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Daddy's World {
+	AE=|Walter Jon Williams|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21166|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|9|
+}
+Rank 83 = Withdrawn - Conflict of Interest {
+	AE=|(********)|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21121|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|x|
+	LV=|80|
+}
+The Giftie {
+	AE=|James E. Gunn^James Gunn|
+	AS=|Sturgeon|
+	YR=|2000|
+	TG=|21143|
+	TA=|Theodore Sturgeon Memorial Short Story Award|
+	TP=|nt|
+	LV=|83|
+}

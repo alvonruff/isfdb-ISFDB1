@@ -1,0 +1,10 @@
+
+[1] Create the following directories in the cgi bin:
+
+	a] checkins
+	b] checkouts
+	c] awdb
+
+[2] Set the directory mods to 777
+
+[3] Move sccs files into awdb

@@ -1,0 +1,178 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)IFA	1.4	11/11/97 ISFDB";
+##
+Earth Abides {
+	AE=|George R. Stewart|
+	AS=|IFAF|
+	YR=|1951|
+	TG=|11520|
+	TA=|Fiction|
+	TP=|n|
+	LV=|1|
+}
+Fancies and Goodnights {
+	AE=|John Collier|
+	AS=|IFAF|
+	YR=|1952|
+	TG=|2887|
+	TA=|Fiction|
+	TP=|c|
+	LV=|1|
+}
+The Day of the Triffids^Revolt of the Triffids {
+	AE=|John Wyndham|
+	AS=|IFAF|
+	YR=|1952|
+	TG=|13754|
+	TA=|Fiction|
+	TP=|n|
+	LV=|2|
+}
+The Illustrated Man {
+	AE=|Ray Bradbury|
+	AS=|IFAF|
+	YR=|1952|
+	TG=|1569|
+	TA=|Fiction|
+	TP=|c|
+	LV=|3|
+}
+City {
+	AE=|Clifford D. Simak|
+	AS=|IFAF|
+	YR=|1953|
+	TG=|10956|
+	TA=|Fiction|
+	TP=|c|
+	LV=|1|
+}
+Takeoff {
+	AE=|C. M. Kornbluth|
+	AS=|IFAF|
+	YR=|1953|
+	TG=|6738|
+	TA=|Fiction|
+	TP=|n|
+	LV=|2|
+}
+Player Piano {
+	AE=|Kurt Vonnegut, Jr.|
+	AS=|IFAF|
+	YR=|1953|
+	TG=|12767|
+	TA=|Fiction|
+	TP=|n|
+	LV=|3|
+}
+More Than Human {
+	AE=|Theodore Sturgeon|
+	AS=|IFAF|
+	YR=|1954|
+	TG=|11649|
+	TA=|Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Demolished Man {
+	AE=|Alfred Bester|
+	AS=|IFAF|
+	YR=|1954|
+	TG=|1166|
+	TA=|Fiction|
+	TP=|n|
+	LV=|2|
+}
+A Mirror for Observers {
+	AE=|Edgar Pangborn|
+	AS=|IFAF|
+	YR=|1955|
+	TG=|9030|
+	TA=|Fiction|
+	TP=|n|
+	LV=|1|
+}
+Mission of Gravity {
+	AE=|Hal Clement|
+	AS=|IFAF|
+	YR=|1955|
+	TG=|2847|
+	TA=|Fiction|
+	TP=|n|
+	LV=|2|
+}
+No Award Given This Year {
+	AE=|(********)|
+	AS=|IFAF|
+	YR=|1956|
+	TG=|30|
+	TA=|Fiction|
+	TP=|x|
+	LV=|73|
+}
+The Lord of the Rings {
+	AE=|J. R. R. Tolkien|
+	AS=|IFAF|
+	YR=|1957|
+	TG=|12017|
+	TA=|Fiction|
+	TP=|ob|
+	LV=|1|
+}
+The Conquest of Space {
+	AE=|Willy Ley+Chesley Bonestell|
+	AS=|IFAN|
+	YR=|1951|
+	TG=|7466|
+	TA=|Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+The Exploration of Space {
+	AE=|Arthur C. Clarke|
+	AS=|IFAN|
+	YR=|1952|
+	TG=|2798|
+	TA=|Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+Dragons in Amber {
+	AE=|Willy Ley|
+	AS=|IFAN|
+	YR=|1952|
+	TG=|7464|
+	TA=|Non-Fiction|
+	TP=|nf|
+	LV=|2|
+}
+Rockets, Jets, Guided Missiles and Spaceships {
+	AE=|Jack Coggins+Fletcher Pratt|
+	AS=|IFAN|
+	YR=|1952|
+	TG=|2874|
+	TA=|Non-Fiction|
+	TP=|nf|
+	LV=|3|
+}
+Lands Beyond {
+	AE=|Willy Ley+L. Sprague de Camp|
+	AS=|IFAN|
+	YR=|1953|
+	TG=|7467|
+	TA=|Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}

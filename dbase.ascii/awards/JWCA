@@ -1,0 +1,2185 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)JWCA	1.9	12/29/98 ISFDB";
+##
+untitled {
+	AE=|Jerry Pournelle|
+	AS=|JWCA|
+	YR=|1973|
+	TG=|9360|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|George Alec Effinger|
+	AS=|JWCA|
+	YR=|1973|
+	TG=|3954|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Ruth Berman|
+	AS=|JWCA|
+	YR=|1973|
+	TG=|1151|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|George R. R. Martin|
+	AS=|JWCA|
+	YR=|1973|
+	TG=|7811|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Robert Thurston|
+	AS=|JWCA|
+	YR=|1973|
+	TG=|11938|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Lisa Tuttle|
+	AS=|JWCA|
+	YR=|1973|
+	TG=|12130|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Spider Robinson|
+	AS=|JWCA|
+	YR=|1974|
+	TG=|9856|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Lisa Tuttle|
+	AS=|JWCA|
+	YR=|1974|
+	TG=|12131|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Jesse Miller|
+	AS=|JWCA|
+	YR=|1974|
+	TG=|8405|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas F. Monteleone|
+	AS=|JWCA|
+	YR=|1974|
+	TG=|8447|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Guy Snyder|
+	AS=|JWCA|
+	YR=|1974|
+	TG=|11153|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|P. J. Plauger|
+	AS=|JWCA|
+	YR=|1975|
+	TG=|9177|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Alan Brennert|
+	AS=|JWCA|
+	YR=|1975|
+	TG=|1634|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Suzy McKee Charnas|
+	AS=|JWCA|
+	YR=|1975|
+	TG=|2592|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Felix C. Gotschalk|
+	AS=|JWCA|
+	YR=|1975|
+	TG=|5245|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Brenda Pearce|
+	AS=|JWCA|
+	YR=|1975|
+	TG=|9092|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|John Varley|
+	AS=|JWCA|
+	YR=|1975|
+	TG=|12613|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Tom Reamy|
+	AS=|JWCA|
+	YR=|1976|
+	TG=|9544|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|John Varley|
+	AS=|JWCA|
+	YR=|1976|
+	TG=|12614|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Arsen Darnay|
+	AS=|JWCA|
+	YR=|1976|
+	TG=|3194|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Joan D. Vinge|
+	AS=|JWCA|
+	YR=|1976|
+	TG=|12691|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|M. A. Foster|
+	AS=|JWCA|
+	YR=|1976|
+	TG=|4609|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1976|
+	TG=|80|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|Arthur Byron Cover|
+	AS=|JWCA|
+	YR=|1976|
+	TG=|3006|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|85|
+}
+untitled {
+	AE=|Tanith Lee|
+	AS=|JWCA|
+	YR=|1976|
+	TG=|7237|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|85|
+}
+untitled {
+	AE=|C. J. Cherryh|
+	AS=|JWCA|
+	YR=|1977|
+	TG=|2645|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Jack L. Chalker|
+	AS=|JWCA|
+	YR=|1977|
+	TG=|2534|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|M. A. Foster|
+	AS=|JWCA|
+	YR=|1977|
+	TG=|4610|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Carter Scholz|
+	AS=|JWCA|
+	YR=|1977|
+	TG=|10407|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1977|
+	TG=|81|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|Tanith Lee|
+	AS=|JWCA|
+	YR=|1977|
+	TG=|7238|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|85|
+}
+untitled {
+	AE=|John Varley|
+	AS=|JWCA|
+	YR=|1977|
+	TG=|12615|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|85|
+}
+untitled {
+	AE=|Joan D. Vinge|
+	AS=|JWCA|
+	YR=|1977|
+	TG=|12692|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|85|
+}
+untitled {
+	AE=|Orson Scott Card|
+	AS=|JWCA|
+	YR=|1978|
+	TG=|2276|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Stephen R. Donaldson|
+	AS=|JWCA|
+	YR=|1978|
+	TG=|3682|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Jack L. Chalker|
+	AS=|JWCA|
+	YR=|1978|
+	TG=|2535|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Elizabeth A. Lynn|
+	AS=|JWCA|
+	YR=|1978|
+	TG=|7644|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Bruce Sterling|
+	AS=|JWCA|
+	YR=|1978|
+	TG=|11441|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Stephen R. Donaldson|
+	AS=|JWCA|
+	YR=|1979|
+	TG=|3683|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|James P. Hogan|
+	AS=|JWCA|
+	YR=|1979|
+	TG=|5985|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Elizabeth A. Lynn|
+	AS=|JWCA|
+	YR=|1979|
+	TG=|7645|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Cynthia Felice|
+	AS=|JWCA|
+	YR=|1979|
+	TG=|4408|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Barry B. Longyear|
+	AS=|JWCA|
+	YR=|1979|
+	TG=|7562|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Charles Sheffield|
+	AS=|JWCA|
+	YR=|1979|
+	TG=|10547|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Barry B. Longyear|
+	AS=|JWCA|
+	YR=|1980|
+	TG=|7563|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|S. P. Somtow^Somtow Sucharitkul|
+	AS=|JWCA|
+	YR=|1980|
+	TG=|11660|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Diane Duane|
+	AS=|JWCA|
+	YR=|1980|
+	TG=|3848|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Lynn Abbey|
+	AS=|JWCA|
+	YR=|1980|
+	TG=|189|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Karen G. Jollie|
+	AS=|JWCA|
+	YR=|1980|
+	TG=|6218|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|Alan Ryan|
+	AS=|JWCA|
+	YR=|1980|
+	TG=|10109|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|6|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1980|
+	TG=|18852|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|Connie Willis|
+	AS=|JWCA|
+	YR=|1980|
+	TG=|18854|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|85|
+}
+untitled {
+	AE=|S. P. Somtow^Somtow Sucharitkul|
+	AS=|JWCA|
+	YR=|1981|
+	TG=|11661|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Robert L. Forward|
+	AS=|JWCA|
+	YR=|1981|
+	TG=|4584|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Susan C. Petrey|
+	AS=|JWCA|
+	YR=|1981|
+	TG=|9131|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Diane Duane|
+	AS=|JWCA|
+	YR=|1981|
+	TG=|3849|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Robert Stallman|
+	AS=|JWCA|
+	YR=|1981|
+	TG=|11320|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|Kevin Christensen|
+	AS=|JWCA|
+	YR=|1981|
+	TG=|2757|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|6|
+}
+untitled {
+	AE=|Alexis Gilliland|
+	AS=|JWCA|
+	YR=|1982|
+	TG=|5071|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Robert Stallman|
+	AS=|JWCA|
+	YR=|1982|
+	TG=|11321|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|David Brin|
+	AS=|JWCA|
+	YR=|1982|
+	TG=|1653|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Paul O. Williams|
+	AS=|JWCA|
+	YR=|1982|
+	TG=|13266|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Michael Swanwick|
+	AS=|JWCA|
+	YR=|1982|
+	TG=|11729|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|Paul O. Williams|
+	AS=|JWCA|
+	YR=|1983|
+	TG=|13267|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Lisa Goldstein|
+	AS=|JWCA|
+	YR=|1983|
+	TG=|5177|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|David R. Palmer|
+	AS=|JWCA|
+	YR=|1983|
+	TG=|9006|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Joseph H. Delaney|
+	AS=|JWCA|
+	YR=|1983|
+	TG=|3410|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Sandra Miesel|
+	AS=|JWCA|
+	YR=|1983|
+	TG=|8379|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|Warren Norwood|
+	AS=|JWCA|
+	YR=|1983|
+	TG=|8887|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|6|
+}
+untitled {
+	AE=|R. A. MacAvoy|
+	AS=|JWCA|
+	YR=|1984|
+	TG=|7665|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Joseph H. Delaney|
+	AS=|JWCA|
+	YR=|1984|
+	TG=|3411|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Lisa Goldstein|
+	AS=|JWCA|
+	YR=|1984|
+	TG=|5178|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Warren Norwood|
+	AS=|JWCA|
+	YR=|1984|
+	TG=|8888|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Sheri S. Tepper|
+	AS=|JWCA|
+	YR=|1984|
+	TG=|11874|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|Joel Rosenberg|
+	AS=|JWCA|
+	YR=|1984|
+	TG=|9920|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|6|
+}
+untitled {
+	AE=|Lucius Shepard|
+	AS=|JWCA|
+	YR=|1985|
+	TG=|10585|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Melissa Scott|
+	AS=|JWCA|
+	YR=|1985|
+	TG=|10451|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Geoffrey A. Landis|
+	AS=|JWCA|
+	YR=|1985|
+	TG=|6938|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|No Award|
+	AS=|JWCA|
+	YR=|1985|
+	TG=|8828|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Elissa Malcohn|
+	AS=|JWCA|
+	YR=|1985|
+	TG=|7767|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|Bradley Denton|
+	AS=|JWCA|
+	YR=|1985|
+	TG=|3475|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|6|
+}
+untitled {
+	AE=|Ian McDonald|
+	AS=|JWCA|
+	YR=|1985|
+	TG=|8132|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|7|
+}
+untitled {
+	AE=|Melissa Scott|
+	AS=|JWCA|
+	YR=|1986|
+	TG=|10452|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Guy Gavriel Kay|
+	AS=|JWCA|
+	YR=|1986|
+	TG=|6346|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Carl Sagan|
+	AS=|JWCA|
+	YR=|1986|
+	TG=|10165|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Karen Joy Fowler|
+	AS=|JWCA|
+	YR=|1986|
+	TG=|4617|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Tad Williams|
+	AS=|JWCA|
+	YR=|1986|
+	TG=|13283|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|David Zindell|
+	AS=|JWCA|
+	YR=|1986|
+	TG=|13943|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|6|
+}
+untitled {
+	AE=|Karen Joy Fowler|
+	AS=|JWCA|
+	YR=|1987|
+	TG=|4618|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Lois McMaster Bujold|
+	AS=|JWCA|
+	YR=|1987|
+	TG=|1923|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|No Award|
+	AS=|JWCA|
+	YR=|1987|
+	TG=|8829|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Katharine Eliska Kimbriel|
+	AS=|JWCA|
+	YR=|1987|
+	TG=|6518|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Rebecca Ore|
+	AS=|JWCA|
+	YR=|1987|
+	TG=|8942|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|Leo Frankowski|
+	AS=|JWCA|
+	YR=|1987|
+	TG=|4674|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|6|
+}
+untitled {
+	AE=|Robert Reed|
+	AS=|JWCA|
+	YR=|1987|
+	TG=|9566|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|7|
+}
+untitled {
+	AE=|Judith Moffett|
+	AS=|JWCA|
+	YR=|1988|
+	TG=|8422|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Rebecca Ore|
+	AS=|JWCA|
+	YR=|1988|
+	TG=|8943|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Martha Soukup|
+	AS=|JWCA|
+	YR=|1988|
+	TG=|11172|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|C. S. Friedman|
+	AS=|JWCA|
+	YR=|1988|
+	TG=|4750|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Loren J. MacGregor|
+	AS=|JWCA|
+	YR=|1988|
+	TG=|7687|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|Michaela Roessner|
+	AS=|JWCA|
+	YR=|1989|
+	TG=|9901|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Delia Sherman|
+	AS=|JWCA|
+	YR=|1989|
+	TG=|10676|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Christopher Hinz|
+	AS=|JWCA|
+	YR=|1989|
+	TG=|5914|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Kristine Kathryn Rusch|
+	AS=|JWCA|
+	YR=|1989|
+	TG=|10010|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Melanie Rawn|
+	AS=|JWCA|
+	YR=|1989|
+	TG=|9537|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|P. J. Beese+Todd Cameron Hamilton|
+	AS=|JWCA|
+	YR=|1989|
+	TG=|1026|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|6|
+}
+untitled {
+	AE=|William Sanders|
+	AS=|JWCA|
+	YR=|1989|
+	TG=|10204|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|7|
+}
+untitled {
+	AE=|Kristine Kathryn Rusch|
+	AS=|JWCA|
+	YR=|1990|
+	TG=|10011|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Allen Steele|
+	AS=|JWCA|
+	YR=|1990|
+	TG=|11379|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Nancy A. Collins|
+	AS=|JWCA|
+	YR=|1990|
+	TG=|2889|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|John G. Cramer^John Cramer|
+	AS=|JWCA|
+	YR=|1990|
+	TG=|3048|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Katherine Neville|
+	AS=|JWCA|
+	YR=|1990|
+	TG=|8691|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1990|
+	TG=|18865|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|Doris Egan|
+	AS=|JWCA|
+	YR=|1990|
+	TG=|18883|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|85|
+}
+untitled {
+	AE=|Julia Ecklar|
+	AS=|JWCA|
+	YR=|1991|
+	TG=|3896|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Nancy A. Collins|
+	AS=|JWCA|
+	YR=|1991|
+	TG=|2890|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|John G. Cramer^John Cramer|
+	AS=|JWCA|
+	YR=|1991|
+	TG=|3049|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Michael Kandel|
+	AS=|JWCA|
+	YR=|1991|
+	TG=|6331|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Scott Cupp|
+	AS=|JWCA|
+	YR=|1991|
+	TG=|3114|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|Ted Chiang|
+	AS=|JWCA|
+	YR=|1992|
+	TG=|2720|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Laura Resnick|
+	AS=|JWCA|
+	YR=|1992|
+	TG=|9587|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Barbara Delaplace|
+	AS=|JWCA|
+	YR=|1992|
+	TG=|3470|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Michelle West^Michelle Sagara|
+	AS=|JWCA|
+	YR=|1992|
+	TG=|10171|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Greer Ilene Gilman|
+	AS=|JWCA|
+	YR=|1992|
+	TG=|5077|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|Laura Resnick|
+	AS=|JWCA|
+	YR=|1993|
+	TG=|9588|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Nicholas A. DiChario|
+	AS=|JWCA|
+	YR=|1993|
+	TG=|3533|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Barbara Delaplace|
+	AS=|JWCA|
+	YR=|1993|
+	TG=|3471|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Michelle West^Michelle Sagara|
+	AS=|JWCA|
+	YR=|1993|
+	TG=|10172|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Holly Lisle|
+	AS=|JWCA|
+	YR=|1993|
+	TG=|7527|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+untitled {
+	AE=|Carrie Richerson|
+	AS=|JWCA|
+	YR=|1993|
+	TG=|9711|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|6|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1993|
+	TG=|18866|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|Poppy Z. Brite|
+	AS=|JWCA|
+	YR=|1993|
+	TG=|18880|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|85|
+}
+untitled {
+	AE=|Maureen F. McHugh|
+	AS=|JWCA|
+	YR=|1993|
+	TG=|8186|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|85|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1993|
+	TG=|150|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|90|
+}
+untitled {
+	AE=|Jack Nimersheim|
+	AS=|JWCA|
+	YR=|1993|
+	TG=|8722|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|93|
+}
+untitled {
+	AE=|Susan Palwick|
+	AS=|JWCA|
+	YR=|1993|
+	TG=|9017|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|93|
+}
+untitled {
+	AE=|Amy Thomson|
+	AS=|JWCA|
+	YR=|1994|
+	TG=|11929|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Holly Lisle|
+	AS=|JWCA|
+	YR=|1994|
+	TG=|7528|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Carrie Richerson|
+	AS=|JWCA|
+	YR=|1994|
+	TG=|9712|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Elizabeth Willey|
+	AS=|JWCA|
+	YR=|1994|
+	TG=|13258|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Jack Nimersheim|
+	AS=|JWCA|
+	YR=|1994|
+	TG=|8723|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1994|
+	TG=|82|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|Nicola Griffith|
+	AS=|JWCA|
+	YR=|1994|
+	TG=|5393|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|85|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1994|
+	TG=|151|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|90|
+}
+untitled {
+	AE=|Gregory Bennett|
+	AS=|JWCA|
+	YR=|1994|
+	TG=|1122|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|93|
+}
+untitled {
+	AE=|Mark Bourne|
+	AS=|JWCA|
+	YR=|1994|
+	TG=|1492|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|93|
+}
+untitled {
+	AE=|William Shunn|
+	AS=|JWCA|
+	YR=|1994|
+	TG=|10739|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|93|
+}
+untitled {
+	AE=|Sean Stewart|
+	AS=|JWCA|
+	YR=|1994|
+	TG=|11532|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|93|
+}
+untitled {
+	AE=|Jeff Noon|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|8835|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Felicity Savage|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|10241|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Linda J. Dunn|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|3873|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|David Feintuch|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|4395|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Daniel Marcus|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|7805|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|17961|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|90|
+}
+untitled {
+	AE=|Catherine Asaro|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|521|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Eric Baker|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|727|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Mark Bourne|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|1493|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Carolyn Cushman|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|3118|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|L. Timmel Duchamp|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|3853|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Eliot Fintushel|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|4510|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Maggie Furey|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|4800|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Kathleen Ann Goonan|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|5218|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Stephan Grundy|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|5413|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Denise Lopes Heald|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|5783|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Barbara Johnson-Haddad|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|6212|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Jonathan Lethem|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|7420|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Jane Lindskold|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|7520|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|William Shunn|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|10740|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|S. Swan|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|11716|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Martha Wells|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|13054|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Elizabeth Willey|
+	AS=|JWCA|
+	YR=|1995|
+	TG=|13259|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|David Feintuch|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|4396|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Felicity Savage|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|10242|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Michael A. Burstein|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|2029|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Sharon Shinn|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|10726|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Tricia Sullivan|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|11687|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|83|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|Catherine Asaro|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|522|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|85|
+}
+untitled {
+	AE=|Linda Nagata|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|8673|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|85|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|17962|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|90|
+}
+untitled {
+	AE=|Valerie J. Freireich|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|4745|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Scott G. Gier|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|5016|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Barbara Johnson-Haddad|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|6213|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|John G. McDaid|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|8102|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Lyn Nichols|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|8713|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Leah Zeldes Smith|
+	AS=|JWCA|
+	YR=|1996|
+	TG=|11117|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Michael A. Burstein|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|14384|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Sharon Shinn|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|14437|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Richard Garfinkle|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|14401|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Raphael Carter|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|14387|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Katya Reimann|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|14428|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|51|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|Sage Walker|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|15300|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|85|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|17963|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|90|
+}
+untitled {
+	AE=|Edwin E. "Buzz" Aldrin|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|15173|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Andy Duncan|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|15210|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Dominic Greene|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|15223|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Ann Harris|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|15225|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Patrick O'Leary|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|15256|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Mary Doria Russell|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|15269|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Matthew Wells|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|15304|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Sarah Zettel|
+	AS=|JWCA|
+	YR=|1997|
+	TG=|15313|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Mary Doria Russell|
+	AS=|JWCA|
+	YR=|1998|
+	TG=|18022|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Susan R. Matthews|
+	AS=|JWCA|
+	YR=|1998|
+	TG=|18013|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Andy Duncan|
+	AS=|JWCA|
+	YR=|1998|
+	TG=|17986|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Richard Garfinkle|
+	AS=|JWCA|
+	YR=|1998|
+	TG=|17993|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Raphael Carter|
+	AS=|JWCA|
+	YR=|1998|
+	TG=|17977|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1998|
+	TG=|18827|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|90|
+}
+untitled {
+	AE=|Julie E. Czerneda|
+	AS=|JWCA|
+	YR=|1998|
+	TG=|18828|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Katie Waitman|
+	AS=|JWCA|
+	YR=|1998|
+	TG=|18847|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Nalo Hopkinson|
+	AS=|JWCA|
+	YR=|1999|
+	TG=|19732|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Kage Baker|
+	AS=|JWCA|
+	YR=|1999|
+	TG=|19644|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Julie E. Czerneda|
+	AS=|JWCA|
+	YR=|1999|
+	TG=|19682|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Susan R. Matthews|
+	AS=|JWCA|
+	YR=|1999|
+	TG=|19773|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|James Van Pelt|
+	AS=|JWCA|
+	YR=|1999|
+	TG=|19839|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|1999|
+	TG=|22313|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|90|
+}
+untitled {
+	AE=|Tom Cool|
+	AS=|JWCA|
+	YR=|1999|
+	TG=|22282|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Shane Tourtellotte|
+	AS=|JWCA|
+	YR=|1999|
+	TG=|22306|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+(untitled)JWCA;1999;99 {
+	AE=|Cory Doctorow|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|19990|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Ellen Klages|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|20036|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|2|
+}
+untitled {
+	AE=|Shane Tourtellotte|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|20126|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|3|
+}
+untitled {
+	AE=|Kristine Smith|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|20109|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|4|
+}
+untitled {
+	AE=|Thomas Harlan|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|20019|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|5|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|19944|
+	TA=|John W. Campbell Award|
+	TP=|x|
+	LV=|90|
+}
+untitled {
+	AE=|Tippi N. Blevins|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|19963|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Richard Bowes|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|19965|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Keith Hartman|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|20020|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Elizabeth Haydon|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|20023|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Catherine S. McMullen|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|20059|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Lyda Morehouse|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|20062|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Scott Nicholson|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|20067|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Christopher Rowe|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|20089|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Douglas Smith|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|20107|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Diane Turnshek|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|20128|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Peter Watts|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|20155|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|Ramona Louise Wheeler|
+	AS=|JWCA|
+	YR=|2000|
+	TG=|20159|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|99|
+}
+untitled {
+	AE=|James L. Cambias|
+	AS=|JWCA|
+	YR=|2001|
+	TG=|22133|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas Harlan|
+	AS=|JWCA|
+	YR=|2001|
+	TG=|22149|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Douglas Smith|
+	AS=|JWCA|
+	YR=|2001|
+	TG=|22181|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Kristine Smith|
+	AS=|JWCA|
+	YR=|2001|
+	TG=|22182|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}
+untitled {
+	AE=|Jo Walton|
+	AS=|JWCA|
+	YR=|2001|
+	TG=|22186|
+	TA=|John W. Campbell Award|
+	TP=|au|
+	LV=|9|
+}

@@ -1,0 +1,157 @@
+<html>
+<title>What's New With The ISFDB (1998)</title>
+<body bgcolor=ffffff>
+
+<h1>What's New With The ISFDB (1998)</h1>
+
+<hr>
+
+<dl><dt><b> 8 September 1998:</b>
+<ul>
+ <font size=-1>
+ <li> Exceeded 85,000 titles.
+ <li> Forthcoming books look pretty solid through March 1999 now,
+ thanks to John Boston.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 24 August 1998:</b>
+<ul>
+ <font size=-1>
+ <li> Exceeded 80,000 titles.
+ <li> Author web pages now have their own field in the database, 
+ correctable from the author's page. This changes the data base engine
+ to version 1.11.
+ </font>
+</ul>
+<p>
+<dt><b> 10 August 1998:</b>
+<ul>
+ <font size=-1>
+ <li> Author email address now have their own field in the database, 
+ correctable from the author's page. This changes the data base engine
+ to version 1.10.
+ <li> Htmlized version of the Most-Reviewed books are now available online,
+ under DERIVED/Most-Reviewed Books.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 27 July 1998:</b>
+<ul>
+ <font size=-1>
+ <li> After a long period of inactivity, major renovations have begun. Notable
+ changes visible today:
+ <ol>
+   <li> The data submission facility has been disabled. The lack of error
+   checking in that facility, combined with the high volume of errors in the
+   data submissions, has caused the daily integration of user submissions to
+   overload time resources. This has caused other areas of the ISFDB to fall
+   fallow. The facility will be reenabled after it has been redesigned and
+   all data still in the queue has been integrated. I will most likely enable 
+   specific types of submissions as they become available.
+   <li> The html pages at this site have been partitioned for 3 years to cover
+   browsers that don't have full support for tables. Since Mosaic was the 
+   problematic browser in this area, and Mosaic is rarely used anymore, these
+   duplicate pages have been eliminated. The remaining pages have been tested with
+   Netscape, Explorer, and Lynx.
+   <li> The data submission for author information corrections has been
+   overhauled and re-enabled.
+ </ol>
+ <li> Integrated 45 user submissions.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 26 May 1998:</b>
+<ul>
+ <font size=-1>
+ <li> Integrated 786 user submissions.
+ <li> Added a page for <I>Adventures of Sword and Sorcery</i>.
+ </font>
+ </font>
+</ul>
+<p>
+<dt><b> 11 May 1998:</b>
+<ul>
+ <font size=-1>
+ <li> Integrated 458 user submissions.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 27 April 1998:</b>
+<ul>
+ <font size=-1>
+ <li> Integrated 574 user submissions.
+ <li> Added support for Chesley and Analog awards.
+ </font>
+</ul>
+<p>
+<dt><b> 13 April 1998:</b>
+<ul>
+ <font size=-1>
+ <li> Have made the source code and data files of the ISFDB available for
+ download. Look on the title page under Information/Download.
+ <li> Thanks to John Boston, forthcoming books look pretty solid again.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 16 March 1998:</b>
+<ul>
+ <font size=-1>
+ <li> I'm back; things should start progressing again. Integrated about 450 user submissions.
+ <li> Exceeded 75,000 titles.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 9 February 1998:</b>
+<ul>
+ <font size=-1>
+ <li> Integrated about 600 user submissions.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 17 January 1998:</b>
+<ul>
+ <font size=-1>
+ <li> Integrated about 350 user submissions.
+ <li> Indexed 7 issues of <i>Beyond Fantasy</i> (Data thanks to Bill Anderson).
+ </font>
+</ul>
+<p>
+<dt><b> 12 January 1998:</b>
+<ul>
+ <font size=-1>
+ <li> Added support for back cover artists. This changes the database engine to version 1.9
+ <li> Indexed 121 issues of <i>Fantastic</i> (Data thanks to Bill Anderson).
+ <li> Indexed 4 issues of <i>Asimov's SF Adventure Magazine</i> (Data thanks to Bill Anderson).
+ <li> Indexed 36 issues of <i>Fantastic Adventures</i> (Data thanks to Dan Kurdilla).
+ <li> Indexed 46 issues of <i>Amazing Stories</i> (Data thanks to Dan Kurdilla).
+ <li> Indexed 34 issues of <i>Astounding</i> (Data thanks to me). 
+ </font>
+</ul>
+<p>
+<dt><b> 5 January 1998:</b>
+<ul>
+ <font size=-1>
+ <li> Added a page for Startling Stories, which is completely indexed from 1939
+ through 1948, with good coverage elsewhere.
+ <li> Since the year has incremented, and the Top 100 lists use the current year
+ to calculate the points per title, you should see some drift in the lists.
+ </font>
+</ul>
+<p>
+</dl>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

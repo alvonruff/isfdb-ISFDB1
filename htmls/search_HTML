@@ -1,0 +1,41 @@
+<html> <head> <title>ISFDB Title/Author/Year/Series/Index Search</title></head>
+<body bgcolor="ffffff">
+<h1>ISFDB Title/Author/Year/Series/Index Search</h1>
+
+<p>
+<form method="POST" action="http://DBASELOC/search.cgi">
+
+<hr>
+Perform a database search for an <b>author</b>, <b>title</b>,
+or <b>series</b> substring. The <b>year</b> option displays
+all entries alphabetically by category for a given year. The
+<b>index</b> option displays all fiction for a given year, 
+and is sorted by author. Search matches are caseless, and 
+spaces are honored.
+<p>
+<b>
+  Enter Term:
+</b>
+
+<input name="arg">
+<select name="type">
+  <option selected>Name
+  <option>Title
+  <option>Year
+  <option>Series
+  <option>Index
+</select>
+
+<p>
+<input type="submit" value="Submit Query">
+<input type="reset" value="Clear Form"><p>
+
+</form>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>Copyright (c) 2001 Al von Ruff</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

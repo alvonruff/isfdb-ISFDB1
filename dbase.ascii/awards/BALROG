@@ -1,0 +1,4433 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)BALROG	1.6	05/01/98 ISFDB";
+##
+Blind Voices {
+	AE=|Tom Reamy|
+	AS=|BalN|
+	YR=|1979|
+	TG=|9545|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Chronicles of Thomas Covenant the Unbeliever {
+	AE=|Stephen R. Donaldson|
+	AS=|BalN|
+	YR=|1979|
+	TG=|3688|
+	TA=|Novel|
+	TP=|s|
+	LV=|9|
+}
+The Stand {
+	AE=|Stephen King|
+	AS=|BalN|
+	YR=|1979|
+	TG=|6604|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The White Dragon {
+	AE=|Anne McCaffrey|
+	AS=|BalN|
+	YR=|1979|
+	TG=|8041|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Dragondrums {
+	AE=|Anne McCaffrey|
+	AS=|BalN|
+	YR=|1980|
+	TG=|8014|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Strange Eons {
+	AE=|Robert Bloch|
+	AS=|BalN|
+	YR=|1980|
+	TG=|1430|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Fires of Azeroth {
+	AE=|C. J. Cherryh|
+	AS=|BalN|
+	YR=|1980|
+	TG=|2678|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Road to Corlay {
+	AE=|Richard Cowper|
+	AS=|BalN|
+	YR=|1980|
+	TG=|3028|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Starfollowers of Coramonde {
+	AE=|Brian Daley|
+	AS=|BalN|
+	YR=|1980|
+	TG=|3130|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dead Zone {
+	AE=|Stephen King|
+	AS=|BalN|
+	YR=|1980|
+	TG=|6556|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Stand {
+	AE=|Stephen King|
+	AS=|BalN|
+	YR=|1980|
+	TG=|6605|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Death's Master {
+	AE=|Tanith Lee|
+	AS=|BalN|
+	YR=|1980|
+	TG=|7253|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Harpist in the Wind {
+	AE=|Patricia A. McKillip|
+	AS=|BalN|
+	YR=|1980|
+	TG=|8279|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Drawing of the Dark {
+	AE=|Tim Powers|
+	AS=|BalN|
+	YR=|1980|
+	TG=|9379|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Wounded Land {
+	AE=|Stephen R. Donaldson|
+	AS=|BalN|
+	YR=|1981|
+	TG=|3709|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Parasite {
+	AE=|Ramsey Campbell|
+	AS=|BalN|
+	YR=|1981|
+	TG=|2222|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Vampire Tapestry {
+	AE=|Suzy McKee Charnas|
+	AS=|BalN|
+	YR=|1981|
+	TG=|2611|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+On Wings of Song {
+	AE=|Thomas M. Disch|
+	AS=|BalN|
+	YR=|1981|
+	TG=|3655|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Firelord {
+	AE=|Parke Godwin|
+	AS=|BalN|
+	YR=|1981|
+	TG=|5143|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Firestarter {
+	AE=|Stephen King|
+	AS=|BalN|
+	YR=|1981|
+	TG=|6565|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Kill the Dead {
+	AE=|Tanith Lee|
+	AS=|BalN|
+	YR=|1981|
+	TG=|7268|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Lost Legion {
+	AE=|H. Warner Munn|
+	AS=|BalN|
+	YR=|1981|
+	TG=|8617|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Lord Valentine's Castle {
+	AE=|Robert Silverberg|
+	AS=|BalN|
+	YR=|1981|
+	TG=|10842|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Silver Sun {
+	AE=|Nancy Springer|
+	AS=|BalN|
+	YR=|1981|
+	TG=|11274|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Orphan {
+	AE=|Robert Stallman|
+	AS=|BalN|
+	YR=|1981|
+	TG=|11323|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Shadowland {
+	AE=|Peter Straub|
+	AS=|BalN|
+	YR=|1981|
+	TG=|11619|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Snow Queen {
+	AE=|Joan D. Vinge|
+	AS=|BalN|
+	YR=|1981|
+	TG=|12707|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Shadow of the Torturer {
+	AE=|Gene Wolfe|
+	AS=|BalN|
+	YR=|1981|
+	TG=|13631|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Ariosto {
+	AE=|Chelsea Quinn Yarbro|
+	AS=|BalN|
+	YR=|1981|
+	TG=|13755|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Camber the Heretic {
+	AE=|Katherine Kurtz|
+	AS=|BalN|
+	YR=|1982|
+	TG=|6839|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Centaur Aisle {
+	AE=|Piers Anthony|
+	AS=|BalN|
+	YR=|1982|
+	TG=|460|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Little, Big {
+	AE=|John Crowley|
+	AS=|BalN|
+	YR=|1982|
+	TG=|3091|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Cujo {
+	AE=|Stephen King|
+	AS=|BalN|
+	YR=|1982|
+	TG=|6546|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Keep {
+	AE=|F. Paul Wilson|
+	AS=|BalN|
+	YR=|1982|
+	TG=|13464|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The One Tree {
+	AE=|Stephen R. Donaldson|
+	AS=|BalN|
+	YR=|1983|
+	TG=|3703|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Hawkmistress! {
+	AE=|Marion Zimmer Bradley|
+	AS=|BalN|
+	YR=|1983|
+	TG=|1592|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Crystal Singer {
+	AE=|Anne McCaffrey|
+	AS=|BalN|
+	YR=|1983|
+	TG=|8006|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Warlock Unlocked {
+	AE=|Christopher Stasheff|
+	AS=|BalN|
+	YR=|1983|
+	TG=|11359|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Citadel of the Autarch {
+	AE=|Gene Wolfe|
+	AS=|BalN|
+	YR=|1983|
+	TG=|13584|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Sword of the Lictor {
+	AE=|Gene Wolfe|
+	AS=|BalN|
+	YR=|1983|
+	TG=|13646|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Armageddon Rag {
+	AE=|George R. R. Martin|
+	AS=|BalN|
+	YR=|1984|
+	TG=|7817|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+The Practice Effect {
+	AE=|David Brin|
+	AS=|BalN|
+	YR=|1985|
+	TG=|1682|
+	TA=|Novel|
+	TP=|n|
+	LV=|1|
+}
+Death from Exposure {
+	AE=|Pat Cadigan|
+	AS=|BalS|
+	YR=|1979|
+	TG=|2091|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Jeffty is Five {
+	AE=|Harlan Ellison|
+	AS=|BalS|
+	YR=|1979|
+	TG=|4194|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Conan and the Sorcerer {
+	AE=|Andrew J. Offutt|
+	AS=|BalS|
+	YR=|1979|
+	TG=|8924|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Undertow {
+	AE=|Karl Edward Wagner|
+	AS=|BalS|
+	YR=|1979|
+	TG=|12795|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Last Defender of Camelot {
+	AE=|Roger Zelazny|
+	AS=|BalS|
+	YR=|1980|
+	TG=|13905|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Vision {
+	AE=|Ben Bova|
+	AS=|BalS|
+	YR=|1980|
+	TG=|1527|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Dreamstone {
+	AE=|C. J. Cherryh|
+	AS=|BalS|
+	YR=|1980|
+	TG=|2668|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Ocean of Souls {
+	AE=|Adrian Cole|
+	AS=|BalS|
+	YR=|1980|
+	TG=|2880|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Fane of the Grey Rose {
+	AE=|Charles de Lint|
+	AS=|BalS|
+	YR=|1980|
+	TG=|3342|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Dreams of the Dreamer {
+	AE=|Joseph Hammond|
+	AS=|BalS|
+	YR=|1980|
+	TG=|5577|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+All You Zombies {
+	AE=|Robert A. Heinlein|
+	AS=|BalS|
+	YR=|1980|
+	TG=|5794|
+	TA=|Short Fiction|
+	TP=|ss|
+	LV=|9|
+}
+Northern Chess {
+	AE=|Tanith Lee|
+	AS=|BalS|
+	YR=|1980|
+	TG=|7277|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Button Molder {
+	AE=|Fritz Leiber|
+	AS=|BalS|
+	YR=|1980|
+	TG=|7339|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Sandkings {
+	AE=|George R. R. Martin|
+	AS=|BalS|
+	YR=|1980|
+	TG=|7856|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Spareen Among the Tartars {
+	AE=|Susan C. Petrey|
+	AS=|BalS|
+	YR=|1980|
+	TG=|9132|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Well at the Half-Calf {
+	AE=|John Tibbetts|
+	AS=|BalS|
+	YR=|1980|
+	TG=|11942|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Web of the Magi {
+	AE=|Richard Cowper|
+	AS=|BalS|
+	YR=|1981|
+	TG=|3035|
+	TA=|Short Fiction|
+	TP=|nv|
+	LV=|1|
+}
+Call for the Dead {
+	AE=|Glen Cook|
+	AS=|BalS|
+	YR=|1981|
+	TG=|2955|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The Brave Little Toaster {
+	AE=|Thomas M. Disch|
+	AS=|BalS|
+	YR=|1981|
+	TG=|3638|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Nothing in the Dark {
+	AE=|George Clayton Johnson|
+	AS=|BalS|
+	YR=|1981|
+	TG=|6200|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+A Penny for Your Thoughts {
+	AE=|George Clayton Johnson|
+	AS=|BalS|
+	YR=|1981|
+	TG=|6201|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Children of the Kingdom {
+	AE=|T. E. D. Klein|
+	AS=|BalS|
+	YR=|1981|
+	TG=|6662|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+A Matter of Ceremony {
+	AE=|Sharon Lee|
+	AS=|BalS|
+	YR=|1981|
+	TG=|7236|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Feesters in the Lake {
+	AE=|Bob Leman|
+	AS=|BalS|
+	YR=|1981|
+	TG=|7411|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+The Ugly Chickens {
+	AE=|Howard Waldrop|
+	AS=|BalS|
+	YR=|1981|
+	TG=|12862|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+A Thief in Korianth {
+	AE=|C. J. Cherryh|
+	AS=|BalS|
+	YR=|1982|
+	TG=|2708|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Parting Gifts {
+	AE=|Diane Duane|
+	AS=|BalS|
+	YR=|1982|
+	TG=|3851|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Grail {
+	AE=|Harlan Ellison|
+	AS=|BalS|
+	YR=|1982|
+	TG=|4185|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Sea Change {
+	AE=|George Clayton Johnson|
+	AS=|BalS|
+	YR=|1982|
+	TG=|6202|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Because Our Skins Are Finer {
+	AE=|Tanith Lee|
+	AS=|BalS|
+	YR=|1982|
+	TG=|7242|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The River of Night's Dreaming {
+	AE=|Karl Edward Wagner|
+	AS=|BalS|
+	YR=|1982|
+	TG=|12789|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+All of Us Are Dying {
+	AE=|George Clayton Johnson|
+	AS=|BalS|
+	YR=|1983|
+	TG=|6199|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+A Pattern of Silver Strings {
+	AE=|Charles de Lint|
+	AS=|BalS|
+	YR=|1983|
+	TG=|3365|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+An Act of Faith {
+	AE=|Galad Elflandsson|
+	AS=|BalS|
+	YR=|1983|
+	TG=|4111|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+The General's Wife {
+	AE=|Peter Straub|
+	AS=|BalS|
+	YR=|1983|
+	TG=|11607|
+	TA=|Short Fiction|
+	TP=|sf|
+	LV=|9|
+}
+Fire Watch {
+	AE=|Connie Willis|
+	AS=|BalS|
+	YR=|1983|
+	TG=|13394|
+	TA=|Short Fiction|
+	TP=|nt|
+	LV=|9|
+}
+Wizard Goes A-Courtin' {
+	AE=|John Morressy|
+	AS=|BalS|
+	YR=|1984|
+	TG=|8536|
+	TA=|Short Story|
+	TP=|sf|
+	LV=|1|
+}
+A Troll and Two Roses {
+	AE=|Patricia A. McKillip|
+	AS=|BalS|
+	YR=|1985|
+	TG=|8289|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Born to Exile {
+	AE=|Phyllis Eisenstein|
+	AS=|BalC|
+	YR=|1979|
+	TG=|4093|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|1|
+}
+Strange Wine {
+	AE=|Harlan Ellison|
+	AS=|BalC|
+	YR=|1979|
+	TG=|4231|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+Night Shift {
+	AE=|Stephen King|
+	AS=|BalC|
+	YR=|1979|
+	TG=|6588|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+J. R. R. Tolkien Soundbook {
+	AE=|J. R. R. Tolkien|
+	AS=|BalC|
+	YR=|1979|
+	TG=|12015|
+	TA=|Collection/Anthology|
+	TP=|mr|
+	LV=|9|
+}
+Night Shift {
+	AE=|Stephen King|
+	AS=|BalC|
+	YR=|1980|
+	TG=|6589|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|1|
+}
+Thieves' World {
+	AE=|Robert Asprin|
+	AS=|BalC|
+	YR=|1980|
+	TG=|647|
+	TA=|Collection/Anthology|
+	TP=|sw|
+	LV=|9|
+}
+Webs of Time {
+	AE=|Joseph Payne Brennan|
+	AS=|BalC|
+	YR=|1980|
+	TG=|1633|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+The Year's Finest Fantasy, Volume 2 {
+	AE=|Terry Carr|
+	AS=|BalC|
+	YR=|1980|
+	TG=|2444|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Shadows 2 {
+	AE=|Charles L. Grant|
+	AS=|BalC|
+	YR=|1980|
+	TG=|5298|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Princess of All Lands {
+	AE=|Russell Kirk|
+	AS=|BalC|
+	YR=|1980|
+	TG=|6633|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+Champions of the Road {
+	AE=|Tanith Lee|
+	AS=|BalC|
+	YR=|1980|
+	TG=|7249|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+The Howard Collector {
+	AE=|Glenn Lord|
+	AS=|BalC|
+	YR=|1980|
+	TG=|7576|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Alchemy and Academe {
+	AE=|Anne McCaffrey|
+	AS=|BalC|
+	YR=|1980|
+	TG=|7997|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Fireflood and Other Stories {
+	AE=|Vonda N. McIntyre|
+	AS=|BalC|
+	YR=|1980|
+	TG=|8230|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+The Book of Munn {
+	AE=|H. Warner Munn|
+	AS=|BalC|
+	YR=|1980|
+	TG=|8615|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+Swords Against Darkness IV {
+	AE=|Andrew J. Offutt|
+	AS=|BalC|
+	YR=|1980|
+	TG=|8928|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Swords Against Darkness V {
+	AE=|Andrew J. Offutt|
+	AS=|BalC|
+	YR=|1980|
+	TG=|8929|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Heroic Fantasy {
+	AE=|Gerald W. Page+Hank Reinhardt|
+	AS=|BalC|
+	YR=|1980|
+	TG=|9002|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Amazons! {
+	AE=|Jessica Amanda Salmonson|
+	AS=|BalC|
+	YR=|1980|
+	TG=|10192|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Whispers II {
+	AE=|Stuart David Schiff|
+	AS=|BalC|
+	YR=|1980|
+	TG=|10333|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Green Magic {
+	AE=|Jack Vance|
+	AS=|BalC|
+	YR=|1980|
+	TG=|12589|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+Unfinished Tales {
+	AE=|J. R. R. Tolkien+Christopher Tolkien|
+	AS=|BalC|
+	YR=|1981|
+	TG=|12020|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|1|
+}
+Tales from the Vulgar Unicorn {
+	AE=|Robert Asprin^Robert Lynn Asprin|
+	AS=|BalC|
+	YR=|1981|
+	TG=|645|
+	TA=|Collection/Anthology|
+	TP=|sw|
+	LV=|9|
+}
+The Keeper's Price {
+	AE=|Marion Zimmer Bradley|
+	AS=|BalC|
+	YR=|1981|
+	TG=|1596|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+New Tales of the Cthulhu Mythos {
+	AE=|Ramsey Campbell|
+	AS=|BalC|
+	YR=|1981|
+	TG=|2219|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+New Terrors 1 {
+	AE=|Ramsey Campbell|
+	AS=|BalC|
+	YR=|1981|
+	TG=|2220|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Dragons of Light {
+	AE=|Orson Scott Card|
+	AS=|BalC|
+	YR=|1981|
+	TG=|2292|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Shadows 2 {
+	AE=|Charles L. Grant|
+	AS=|BalC|
+	YR=|1981|
+	TG=|5299|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Writing for the Twilight Zone {
+	AE=|George Clayton Johnson|
+	AS=|BalC|
+	YR=|1981|
+	TG=|6203|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+Basilisk {
+	AE=|Ellen Kushner|
+	AS=|BalC|
+	YR=|1981|
+	TG=|6851|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Writing for the Twilight Zone {
+	AE=|Frederick J. Mayer|
+	AS=|BalC|
+	YR=|1981|
+	TG=|7948|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Dark Forces {
+	AE=|Kirby McCauley|
+	AS=|BalC|
+	YR=|1981|
+	TG=|8089|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+San Diego Lightfoot Sue {
+	AE=|Tom Reamy|
+	AS=|BalC|
+	YR=|1981|
+	TG=|9555|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+Amazons! {
+	AE=|Jessica Amanda Salmonson|
+	AS=|BalC|
+	YR=|1981|
+	TG=|10193|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Heroes and Horrors {
+	AE=|Stuart David Schiff|
+	AS=|BalC|
+	YR=|1981|
+	TG=|10316|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Year's Best Horror Stories: Series VIII {
+	AE=|Karl Edward Wagner|
+	AS=|BalC|
+	YR=|1981|
+	TG=|12812|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Shadows of Sanctuary {
+	AE=|Robert Asprin^Robert Lynn Asprin|
+	AS=|BalC|
+	YR=|1982|
+	TG=|640|
+	TA=|Collection/Anthology|
+	TP=|sw|
+	LV=|1|
+}
+Mysteries of the Worm {
+	AE=|Robert Bloch|
+	AS=|BalC|
+	YR=|1982|
+	TG=|1422|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+Creep to Death {
+	AE=|Joseph Payne Brennan|
+	AS=|BalC|
+	YR=|1982|
+	TG=|1632|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+Shadows 4 {
+	AE=|Charles L. Grant|
+	AS=|BalC|
+	YR=|1982|
+	TG=|5302|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Dark Forces {
+	AE=|Kirby McCauley|
+	AS=|BalC|
+	YR=|1982|
+	TG=|8090|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Whispers III {
+	AE=|Stuart David Schiff|
+	AS=|BalC|
+	YR=|1982|
+	TG=|10336|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+City of the Singing Flame {
+	AE=|Clark Ashton Smith|
+	AS=|BalC|
+	YR=|1982|
+	TG=|11074|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+The Year's Best Horror Stories: Series IX {
+	AE=|Karl Edward Wagner|
+	AS=|BalC|
+	YR=|1982|
+	TG=|12813|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Elsewhere {
+	AE=|Terri Windling+Mark Alan Arnold|
+	AS=|BalC|
+	YR=|1982|
+	TG=|13529|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Storm Season {
+	AE=|Robert Asprin^Robert Lynn Asprin|
+	AS=|BalC|
+	YR=|1983|
+	TG=|643|
+	TA=|Collection/Anthology|
+	TP=|sw|
+	LV=|1|
+}
+Shadows of Sanctuary {
+	AE=|Robert Asprin^Robert Lynn Asprin|
+	AS=|BalC|
+	YR=|1983|
+	TG=|641|
+	TA=|Collection/Anthology|
+	TP=|sw|
+	LV=|9|
+}
+Stalking the Nightmare {
+	AE=|Harlan Ellison|
+	AS=|BalC|
+	YR=|1983|
+	TG=|4229|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+Shadows 5 {
+	AE=|Charles L. Grant|
+	AS=|BalC|
+	YR=|1983|
+	TG=|5305|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Hecate's Cauldron {
+	AE=|Susan Shwartz|
+	AS=|BalC|
+	YR=|1983|
+	TG=|10745|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Last Incantation {
+	AE=|Clark Ashton Smith|
+	AS=|BalC|
+	YR=|1983|
+	TG=|11075|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|9|
+}
+Elsewhere, Volume II {
+	AE=|Terri Windling+Mark Alan Arnold|
+	AS=|BalC|
+	YR=|1983|
+	TG=|13532|
+	TA=|Collection/Anthology|
+	TP=|a|
+	LV=|9|
+}
+Unicorn Variations {
+	AE=|Roger Zelazny|
+	AS=|BalC|
+	YR=|1984|
+	TG=|13936|
+	TA=|Collection/Anthology|
+	TP=|c|
+	LV=|1|
+}
+Daughter of Regals {
+	AE=|Stephen R. Donaldson|
+	AS=|BalC|
+	YR=|1985|
+	TG=|3693|
+	TA=|Collection|
+	TP=|c|
+	LV=|1|
+}
+untitled {
+	AE=|Ray Bradbury|
+	AS=|BalP|
+	YR=|1979|
+	TG=|1552|
+	TA=|Poet|
+	TP=|pt|
+	LV=|1|
+}
+untitled {
+	AE=|Poul Anderson|
+	AS=|BalP|
+	YR=|1979|
+	TG=|343|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Ursula K. Le Guin|
+	AS=|BalP|
+	YR=|1979|
+	TG=|7090|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Warren Zevon|
+	AS=|BalP|
+	YR=|1979|
+	TG=|13942|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|H. Warner Munn|
+	AS=|BalP|
+	YR=|1980|
+	TG=|8610|
+	TA=|Poet|
+	TP=|pt|
+	LV=|1|
+}
+untitled {
+	AE=|Wilfred Beaver|
+	AS=|BalP|
+	YR=|1980|
+	TG=|1017|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Joseph Payne Brennan|
+	AS=|BalP|
+	YR=|1980|
+	TG=|1627|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Lucile Coleman|
+	AS=|BalP|
+	YR=|1980|
+	TG=|2884|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas M. Egan|
+	AS=|BalP|
+	YR=|1980|
+	TG=|4049|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Steve Eng|
+	AS=|BalP|
+	YR=|1980|
+	TG=|4259|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Joey Froehlich|
+	AS=|BalP|
+	YR=|1980|
+	TG=|4771|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Frederick J. Mayer|
+	AS=|BalP|
+	YR=|1980|
+	TG=|7943|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|H. Warner Munn|
+	AS=|BalP|
+	YR=|1981|
+	TG=|8611|
+	TA=|Poet|
+	TP=|pt|
+	LV=|1|
+}
+untitled {
+	AE=|Joseph Payne Brennan|
+	AS=|BalP|
+	YR=|1981|
+	TG=|1628|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas M. Egan|
+	AS=|BalP|
+	YR=|1981|
+	TG=|4050|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Steve Eng|
+	AS=|BalP|
+	YR=|1981|
+	TG=|4260|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Frederick J. Mayer|
+	AS=|BalP|
+	YR=|1981|
+	TG=|7944|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Diana L. Paxson|
+	AS=|BalP|
+	YR=|1981|
+	TG=|9078|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Stephanie Stearns|
+	AS=|BalP|
+	YR=|1981|
+	TG=|11376|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Frederick J. Mayer|
+	AS=|BalP|
+	YR=|1982|
+	TG=|7945|
+	TA=|Poet|
+	TP=|pt|
+	LV=|1|
+}
+untitled {
+	AE=|Joseph Payne Brennan|
+	AS=|BalP|
+	YR=|1982|
+	TG=|1629|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas M. Egan|
+	AS=|BalP|
+	YR=|1982|
+	TG=|4051|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Steve Eng|
+	AS=|BalP|
+	YR=|1982|
+	TG=|4261|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Greg N. Gabbard|
+	AS=|BalP|
+	YR=|1982|
+	TG=|4803|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|F. Gwynplaine MacIntyre|
+	AS=|BalP|
+	YR=|1982|
+	TG=|7689|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Stephanie Stearns|
+	AS=|BalP|
+	YR=|1982|
+	TG=|11377|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Richard Tierney|
+	AS=|BalP|
+	YR=|1982|
+	TG=|11943|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Frederick J. Mayer|
+	AS=|BalP|
+	YR=|1983|
+	TG=|7946|
+	TA=|Poet|
+	TP=|pt|
+	LV=|1|
+}
+untitled {
+	AE=|Lee Barwood|
+	AS=|BalP|
+	YR=|1983|
+	TG=|899|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Steve Eng|
+	AS=|BalP|
+	YR=|1983|
+	TG=|4262|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Robert E. Howard|
+	AS=|BalP|
+	YR=|1983|
+	TG=|6050|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Stephanie Stearns|
+	AS=|BalP|
+	YR=|1983|
+	TG=|11378|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Roger Zelazny|
+	AS=|BalP|
+	YR=|1983|
+	TG=|13856|
+	TA=|Poet|
+	TP=|pt|
+	LV=|9|
+}
+untitled {
+	AE=|Frederick J. Mayer|
+	AS=|BalP|
+	YR=|1984|
+	TG=|7947|
+	TA=|Poet|
+	TP=|pt|
+	LV=|1|
+}
+untitled {
+	AE=|Ardath Mayhar|
+	AS=|BalP|
+	YR=|1985|
+	TG=|7952|
+	TA=|Poet|
+	TP=|pt|
+	LV=|1|
+}
+untitled {
+	AE=|Tim Kirk|
+	AS=|BalA|
+	YR=|1979|
+	TG=|6636|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Stephen Fabian|
+	AS=|BalA|
+	YR=|1979|
+	TG=|4308|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Robert Haas|
+	AS=|BalA|
+	YR=|1979|
+	TG=|5478|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|BalA|
+	YR=|1980|
+	TG=|13078|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Richard Corben|
+	AS=|BalA|
+	YR=|1980|
+	TG=|2979|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Gene Day|
+	AS=|BalA|
+	YR=|1980|
+	TG=|3301|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Stephen Fabian|
+	AS=|BalA|
+	YR=|1980|
+	TG=|4309|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Fernando Fernandez|
+	AS=|BalA|
+	YR=|1980|
+	TG=|4484|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Jann Frank|
+	AS=|BalA|
+	YR=|1980|
+	TG=|4671|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|The Brothers Hildebrandt|
+	AS=|BalA|
+	YR=|1980|
+	TG=|5897|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Tim Kirk|
+	AS=|BalA|
+	YR=|1980|
+	TG=|6637|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|BalA|
+	YR=|1980|
+	TG=|7724|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|BalA|
+	YR=|1980|
+	TG=|9340|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Judy King Rieniets|
+	AS=|BalA|
+	YR=|1980|
+	TG=|9718|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Barry Smith|
+	AS=|BalA|
+	YR=|1980|
+	TG=|11073|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Darrell K. Sweet|
+	AS=|BalA|
+	YR=|1980|
+	TG=|11791|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|John Tibbetts|
+	AS=|BalA|
+	YR=|1980|
+	TG=|11941|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Boris Vallejo|
+	AS=|BalA|
+	YR=|1980|
+	TG=|12527|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Charles Vess|
+	AS=|BalA|
+	YR=|1980|
+	TG=|12686|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Joseph Zucker|
+	AS=|BalA|
+	YR=|1980|
+	TG=|13953|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Frank Frazetta|
+	AS=|BalA|
+	YR=|1981|
+	TG=|4686|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Alicia Austin|
+	AS=|BalA|
+	YR=|1981|
+	TG=|690|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|BalA|
+	YR=|1981|
+	TG=|2247|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Toss Chandler|
+	AS=|BalA|
+	YR=|1981|
+	TG=|2572|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Stephen Fabian|
+	AS=|BalA|
+	YR=|1981|
+	TG=|4310|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|BalA|
+	YR=|1981|
+	TG=|7725|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Rowena Morrill|
+	AS=|BalA|
+	YR=|1981|
+	TG=|8537|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Real Musgrave|
+	AS=|BalA|
+	YR=|1981|
+	TG=|8658|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|BalA|
+	YR=|1981|
+	TG=|9341|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Judy King Rieniets|
+	AS=|BalA|
+	YR=|1981|
+	TG=|9719|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|BalA|
+	YR=|1981|
+	TG=|13079|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Bernie Wrightson|
+	AS=|BalA|
+	YR=|1981|
+	TG=|13735|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Real Musgrave|
+	AS=|BalA|
+	YR=|1982|
+	TG=|8659|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Alicia Austin|
+	AS=|BalA|
+	YR=|1982|
+	TG=|691|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|BalA|
+	YR=|1982|
+	TG=|2248|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Stephen Fabian|
+	AS=|BalA|
+	YR=|1982|
+	TG=|4311|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Robert Haas|
+	AS=|BalA|
+	YR=|1982|
+	TG=|5479|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Don Maitz|
+	AS=|BalA|
+	YR=|1982|
+	TG=|7726|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Linda Mayfield|
+	AS=|BalA|
+	YR=|1982|
+	TG=|7951|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|BalA|
+	YR=|1982|
+	TG=|13080|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Tim Hildebrandt|
+	AS=|BalA|
+	YR=|1983|
+	TG=|5898|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Thomas Canty|
+	AS=|BalA|
+	YR=|1983|
+	TG=|2249|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Brian Froud|
+	AS=|BalA|
+	YR=|1983|
+	TG=|4786|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Stephen King|
+	AS=|BalA|
+	YR=|1983|
+	TG=|6528|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Rowena Morrill|
+	AS=|BalA|
+	YR=|1983|
+	TG=|8538|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Darrell Murdock|
+	AS=|BalA|
+	YR=|1983|
+	TG=|8621|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Real Musgrave|
+	AS=|BalA|
+	YR=|1983|
+	TG=|8660|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Judy King Rieniets|
+	AS=|BalA|
+	YR=|1983|
+	TG=|9720|
+	TA=|Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Real Musgrave|
+	AS=|BalA|
+	YR=|1984|
+	TG=|8661|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Richard Pini+Wendy Pini|
+	AS=|BalA|
+	YR=|1985|
+	TG=|9155|
+	TA=|Artist|
+	TP=|ar|
+	LV=|1|
+}
+Shayol {
+	AE=|Pat Cadigan+Arnie Fenner|
+	AS=|BalZF|
+	YR=|1979|
+	TG=|2129|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|1|
+}
+Fantasy Newsletter {
+	AE=|Paul C. Allen|
+	AS=|BalZF|
+	YR=|1979|
+	TG=|308|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Whispers {
+	AE=|Stuart David Schiff|
+	AS=|BalZF|
+	YR=|1979|
+	TG=|10317|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Dragonbane {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1979|
+	TG=|12192|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Fantasy Newsletter {
+	AE=|Paul C. Allen|
+	AS=|BalZF|
+	YR=|1980|
+	TG=|309|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|1|
+}
+Shayol {
+	AE=|Pat Cadigan+Arnie Fenner|
+	AS=|BalZF|
+	YR=|1980|
+	TG=|2130|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Weirdbook {
+	AE=|W. Paul Ganley|
+	AS=|BalZF|
+	YR=|1980|
+	TG=|4820|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Whispers {
+	AE=|Stuart David Schiff|
+	AS=|BalZF|
+	YR=|1980|
+	TG=|10318|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Eldritch Tales {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1980|
+	TG=|12193|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Fantasy {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1980|
+	TG=|12198|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Night Voyages {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1980|
+	TG=|12233|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Pandora {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1980|
+	TG=|12235|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Robert E. Howard United Press Association {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1980|
+	TG=|12244|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Space & Time {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1980|
+	TG=|12248|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Fantasy Newsletter {
+	AE=|Paul C. Allen|
+	AS=|BalZF|
+	YR=|1981|
+	TG=|310|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|1|
+}
+Locus {
+	AE=|Charles N. Brown|
+	AS=|BalZF|
+	YR=|1981|
+	TG=|1747|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Shayol {
+	AE=|Pat Cadigan+Arnie Fenner|
+	AS=|BalZF|
+	YR=|1981|
+	TG=|2131|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Weirdbook {
+	AE=|W. Paul Ganley|
+	AS=|BalZF|
+	YR=|1981|
+	TG=|4821|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Science Fiction Review {
+	AE=|Richard E. Geis|
+	AS=|BalZF|
+	YR=|1981|
+	TG=|4912|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Fantasy Tales {
+	AE=|Stephen Jones+David Sutton|
+	AS=|BalZF|
+	YR=|1981|
+	TG=|6277|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Whispers {
+	AE=|Stuart David Schiff|
+	AS=|BalZF|
+	YR=|1981|
+	TG=|10319|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Dragon Fields {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1981|
+	TG=|12191|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Eldritch Tales {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1981|
+	TG=|12194|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Fantasy {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1981|
+	TG=|12199|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Lovecraft Studies {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1981|
+	TG=|12222|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Rehupa {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1981|
+	TG=|12241|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Space & Time {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1981|
+	TG=|12249|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Weird Tales Collector {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1981|
+	TG=|12262|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Eldritch Tales {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1982|
+	TG=|12195|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|1|
+}
+Fantasy Newsletter {
+	AE=|Paul C. Allen+Robert A. Collins|
+	AS=|BalZF|
+	YR=|1982|
+	TG=|316|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Shayol {
+	AE=|Pat Cadigan+Arnie Fenner|
+	AS=|BalZF|
+	YR=|1982|
+	TG=|2132|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Kadath {
+	AE=|Francesco Cova|
+	AS=|BalZF|
+	YR=|1982|
+	TG=|3003|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Fantasy Tales {
+	AE=|Stephen Jones+David Sutton|
+	AS=|BalZF|
+	YR=|1982|
+	TG=|6278|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Night Voyages {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1982|
+	TG=|12234|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Space & Time {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1982|
+	TG=|12250|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Shayol {
+	AE=|Pat Cadigan+Arnie Fenner|
+	AS=|BalZF|
+	YR=|1983|
+	TG=|2133|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|1|
+}
+Locus {
+	AE=|Charles N. Brown|
+	AS=|BalZF|
+	YR=|1983|
+	TG=|1748|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Fantasy Newsletter {
+	AE=|Robert A. Collins|
+	AS=|BalZF|
+	YR=|1983|
+	TG=|2909|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Weirdbook {
+	AE=|W. Paul Ganley|
+	AS=|BalZF|
+	YR=|1983|
+	TG=|4822|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|BalZF|
+	YR=|1983|
+	TG=|9298|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Whispers {
+	AE=|Stuart David Schiff|
+	AS=|BalZF|
+	YR=|1983|
+	TG=|10320|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Eldritch Tales {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1983|
+	TG=|12196|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Psycho II {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1983|
+	TG=|12237|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Space & Time {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1983|
+	TG=|12251|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Well of the Souls {
+	AE=|Unknown-Mags|
+	AS=|BalZF|
+	YR=|1983|
+	TG=|12263|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|9|
+}
+Fantasy Newsletter/Fantasy Review {
+	AE=|Robert A. Collins|
+	AS=|BalZF|
+	YR=|1984|
+	TG=|2911|
+	TA=|Amateur Publication|
+	TP=|sz|
+	LV=|1|
+}
+Eldritch Tales {
+	AE=|Crispin Burnham|
+	AS=|BalZF|
+	YR=|1985|
+	TG=|1987|
+	TA=|Amateur Publication|
+	TP=|fz|
+	LV=|1|
+}
+Age of Dreams {
+	AE=|Alicia Austin|
+	AS=|BalZP|
+	YR=|1979|
+	TG=|699|
+	TA=|Professional Publication|
+	TP=|ac|
+	LV=|1|
+}
+Omni {
+	AE=|Ben Bova|
+	AS=|BalZP|
+	YR=|1979|
+	TG=|1519|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Edward L. Ferman|
+	AS=|BalZP|
+	YR=|1979|
+	TG=|4455|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+Faeries {
+	AE=|Brian Froud+Alan Lee|
+	AS=|BalZP|
+	YR=|1979|
+	TG=|4796|
+	TA=|Professional Publication|
+	TP=|ac|
+	LV=|9|
+}
+Omni {
+	AE=|Ben Bova|
+	AS=|BalZP|
+	YR=|1980|
+	TG=|1520|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|1|
+}
+Lovecraft's Providence {
+	AE=|H. P. L. Beckwith|
+	AS=|BalZP|
+	YR=|1980|
+	TG=|1021|
+	TA=|Professional Publication|
+	TP=|ac|
+	LV=|9|
+}
+Locus's fantasy news and reviews {
+	AE=|Charles N. Brown|
+	AS=|BalZP|
+	YR=|1980|
+	TG=|1770|
+	TA=|Professional Publication|
+	TP=|sz|
+	LV=|9|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Edward L. Ferman|
+	AS=|BalZP|
+	YR=|1980|
+	TG=|4456|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+The Book of Munn {
+	AE=|H. Warner Munn|
+	AS=|BalZP|
+	YR=|1980|
+	TG=|8616|
+	TA=|Professional Publication|
+	TP=|c|
+	LV=|9|
+}
+Swords Against Darkness {
+	AE=|Andrew J. Offutt|
+	AS=|BalZP|
+	YR=|1980|
+	TG=|8926|
+	TA=|Professional Publication|
+	TP=|s|
+	LV=|9|
+}
+Whispers Press {
+	AE=|Stuart David Schiff|
+	AS=|BalZP|
+	YR=|1980|
+	TG=|10340|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+Asimov's Science Fiction {
+	AE=|George H. Scithers|
+	AS=|BalZP|
+	YR=|1980|
+	TG=|12184|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+Analog's fantasy contributions {
+	AE=|Unknown-Mags|
+	AS=|BalZP|
+	YR=|1980|
+	TG=|12181|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+Heavy Metal {
+	AE=|Unknown-Mags|
+	AS=|BalZP|
+	YR=|1980|
+	TG=|12216|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+Starlog {
+	AE=|Howard Zimmerman|
+	AS=|BalZP|
+	YR=|1980|
+	TG=|12253|
+	TA=|Professional Publication|
+	TP=|fz|
+	LV=|9|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Edward L. Ferman|
+	AS=|BalZP|
+	YR=|1981|
+	TG=|4457|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|1|
+}
+Omni {
+	AE=|Ben Bova|
+	AS=|BalZP|
+	YR=|1981|
+	TG=|1521|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+Writing for the Twilight Zone {
+	AE=|Frederick J. Mayer|
+	AS=|BalZP|
+	YR=|1981|
+	TG=|7949|
+	TA=|Professional Publication|
+	TP=|a|
+	LV=|9|
+}
+Whispers Press {
+	AE=|Stuart David Schiff|
+	AS=|BalZP|
+	YR=|1981|
+	TG=|10341|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+Asimov's Science Fiction {
+	AE=|George H. Scithers|
+	AS=|BalZP|
+	YR=|1981|
+	TG=|12185|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+Fangoria {
+	AE=|Unknown-Mags|
+	AS=|BalZP|
+	YR=|1981|
+	TG=|12197|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+Heavy Metal {
+	AE=|Unknown-Mags|
+	AS=|BalZP|
+	YR=|1981|
+	TG=|12217|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+Amazing Science Fiction Stories {
+	AE=|Ted White|
+	AS=|BalZP|
+	YR=|1981|
+	TG=|12176|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+Starlog {
+	AE=|Howard Zimmerman|
+	AS=|BalZP|
+	YR=|1981|
+	TG=|12254|
+	TA=|Professional Publication|
+	TP=|fz|
+	LV=|9|
+}
+Omni {
+	AE=|Ben Bova|
+	AS=|BalZP|
+	YR=|1982|
+	TG=|1522|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|1|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Edward L. Ferman|
+	AS=|BalZP|
+	YR=|1982|
+	TG=|4458|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+NY City {
+	AE=|H. R. Giger|
+	AS=|BalZP|
+	YR=|1982|
+	TG=|5024|
+	TA=|Professional Publication|
+	TP=|ac|
+	LV=|9|
+}
+Twilight Zone {
+	AE=|T. E. D. Klein|
+	AS=|BalZP|
+	YR=|1982|
+	TG=|12259|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+Science Fiction Chronicle {
+	AE=|Andrew I. Porter|
+	AS=|BalZP|
+	YR=|1982|
+	TG=|9303|
+	TA=|Professional Publication|
+	TP=|sz|
+	LV=|9|
+}
+Asimov's Science Fiction {
+	AE=|George H. Scithers|
+	AS=|BalZP|
+	YR=|1982|
+	TG=|12186|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+Amazing Science Fiction Stories {
+	AE=|Ted White|
+	AS=|BalZP|
+	YR=|1982|
+	TG=|12177|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|9|
+}
+Starlog {
+	AE=|Howard Zimmerman|
+	AS=|BalZP|
+	YR=|1982|
+	TG=|12255|
+	TA=|Professional Publication|
+	TP=|fz|
+	LV=|9|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Edward L. Ferman|
+	AS=|BalZP|
+	YR=|1983|
+	TG=|4459|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|1|
+}
+The Magazine of Fantasy & Science Fiction {
+	AE=|Edward L. Ferman|
+	AS=|BalZP|
+	YR=|1984|
+	TG=|4460|
+	TA=|Professional Publication|
+	TP=|mz|
+	LV=|1|
+}
+Masques {
+	AE=|J. N. Williamson|
+	AS=|BalZP|
+	YR=|1985|
+	TG=|13335|
+	TA=|Professional Publication|
+	TP=|a|
+	LV=|1|
+}
+for Fantasy Newsletter and Of Swords and Sorcery {
+	AE=|Paul C. Allen|
+	AS=|BalWF|
+	YR=|1979|
+	TG=|306|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|1|
+}
+for Shayol {
+	AE=|Arnie Fenner|
+	AS=|BalWF|
+	YR=|1979|
+	TG=|4411|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for Whispers {
+	AE=|Stuart David Schiff|
+	AS=|BalWF|
+	YR=|1979|
+	TG=|10314|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for Fantasy Newsletter and Of Swords and Sorcery {
+	AE=|Paul C. Allen|
+	AS=|BalWF|
+	YR=|1980|
+	TG=|307|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|1|
+}
+for Voidal tales and other fiction {
+	AE=|Adrian Cole|
+	AS=|BalWF|
+	YR=|1980|
+	TG=|2878|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for fantasy art series {
+	AE=|Gerry de la Ree|
+	AS=|BalWF|
+	YR=|1980|
+	TG=|3328|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for art contributions to various fanzines {
+	AE=|Jann Frank|
+	AS=|BalWF|
+	YR=|1980|
+	TG=|4670|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for T.A.S.P. magazine and promoting speculative fiction poetry {
+	AE=|Robert Frazier|
+	AS=|BalWF|
+	YR=|1980|
+	TG=|4694|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for ten years of publishing Space & Time {
+	AE=|Gordon Linzner|
+	AS=|BalWF|
+	YR=|1980|
+	TG=|7524|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for Lovecraft publications, Necronomicon Press {
+	AE=|Marc Michaud|
+	AS=|BalWF|
+	YR=|1980|
+	TG=|8368|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for fantasy illustration {
+	AE=|Wendy Pini|
+	AS=|BalWF|
+	YR=|1980|
+	TG=|9156|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for Whispers magazine {
+	AE=|Stuart David Schiff|
+	AS=|BalWF|
+	YR=|1980|
+	TG=|10312|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for Fantasy Newsletter {
+	AE=|Paul C. Allen+Susan Allen|
+	AS=|BalWF|
+	YR=|1981|
+	TG=|314|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|1|
+}
+for fantasy art books {
+	AE=|Gerry de la Ree|
+	AS=|BalWF|
+	YR=|1981|
+	TG=|3327|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for editing Dragonfields {
+	AE=|Charles de Lint|
+	AS=|BalWF|
+	YR=|1981|
+	TG=|3331|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for promoting sf/fantasy verse {
+	AE=|Robert Frazier|
+	AS=|BalWF|
+	YR=|1981|
+	TG=|4693|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for Fantasy Artists Network {
+	AE=|Kathy Hammel|
+	AS=|BalWF|
+	YR=|1981|
+	TG=|5573|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for Necronomicon Press {
+	AE=|Marc Michaud|
+	AS=|BalWF|
+	YR=|1981|
+	TG=|8369|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for work with Small Press Writers & Artists Organization {
+	AE=|Charles R. Saunders|
+	AS=|BalWF|
+	YR=|1981|
+	TG=|10237|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for Whispers {
+	AE=|Stuart David Schiff|
+	AS=|BalWF|
+	YR=|1981|
+	TG=|10315|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for Weird Tales Collector and Weird Menaces {
+	AE=|Robert Weinberg|
+	AS=|BalWF|
+	YR=|1981|
+	TG=|13006|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for saving Fantasy Newsletter {
+	AE=|Robert A. Collins|
+	AS=|BalWF|
+	YR=|1982|
+	TG=|2908|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|1|
+}
+for Fantasy Newsletter {
+	AE=|Paul C. Allen+Susan Allen|
+	AS=|BalWF|
+	YR=|1982|
+	TG=|315|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+Eldritch Tales {
+	AE=|Crispin Burnham|
+	AS=|BalWF|
+	YR=|1982|
+	TG=|1985|
+	TA=|Amateur Achievement|
+	TP=|fz|
+	LV=|9|
+}
+for author interviews {
+	AE=|Jeffrey Elliot|
+	AS=|BalWF|
+	YR=|1982|
+	TG=|4120|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for Fantasy Artists Network {
+	AE=|Kathy Hammel|
+	AS=|BalWF|
+	YR=|1982|
+	TG=|5574|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for British Fantasy Society, and Fantasy Tales {
+	AE=|Stephen Jones|
+	AS=|BalWF|
+	YR=|1982|
+	TG=|6258|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for Owlflight {
+	AE=|Millea Kenin|
+	AS=|BalWF|
+	YR=|1982|
+	TG=|6423|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for SPWAO {
+	AE=|Charles R. Saunders|
+	AS=|BalWF|
+	YR=|1982|
+	TG=|10236|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for SF workshops {
+	AE=|Allan Bechtold|
+	AS=|BalWF|
+	YR=|1983|
+	TG=|1019|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|1|
+}
+Eldritch Tales {
+	AE=|Crispin Burnham|
+	AS=|BalWF|
+	YR=|1983|
+	TG=|1986|
+	TA=|Amateur Achievement|
+	TP=|fz|
+	LV=|9|
+}
+for Othergates {
+	AE=|Millea Kenin|
+	AS=|BalWF|
+	YR=|1983|
+	TG=|6422|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for Space & Time {
+	AE=|Gordon Linzner|
+	AS=|BalWF|
+	YR=|1983|
+	TG=|7523|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for Crypt of Cthulhu {
+	AE=|Robert Price|
+	AS=|BalWF|
+	YR=|1983|
+	TG=|9423|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for Whispers Press {
+	AE=|Stuart David Schiff|
+	AS=|BalWF|
+	YR=|1983|
+	TG=|10313|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|9|
+}
+for saving the Balrogs {
+	AE=|Stan Gardner|
+	AS=|BalWF|
+	YR=|1984|
+	TG=|4844|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|1|
+}
+for The Horror Show {
+	AE=|David B. Silva|
+	AS=|BalWF|
+	YR=|1985|
+	TG=|10755|
+	TA=|Amateur Achievement|
+	TP=|fn|
+	LV=|1|
+}
+untitled {
+	AE=|Donald M. Grant|
+	AS=|BalWP|
+	YR=|1979|
+	TG=|5326|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|J. R. R. Tolkien|
+	AS=|BalWP|
+	YR=|1979|
+	TG=|12007|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|C. J. Cherryh|
+	AS=|BalWP|
+	YR=|1979|
+	TG=|2643|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Donald A. Wollheim|
+	AS=|BalWP|
+	YR=|1979|
+	TG=|13671|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Anne McCaffrey|
+	AS=|BalWP|
+	YR=|1980|
+	TG=|7989|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Michael Bishop|
+	AS=|BalWP|
+	YR=|1980|
+	TG=|1206|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|C. J. Cherryh|
+	AS=|BalWP|
+	YR=|1980|
+	TG=|2644|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Donald M. Grant|
+	AS=|BalWP|
+	YR=|1980|
+	TG=|5327|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Stephen King|
+	AS=|BalWP|
+	YR=|1980|
+	TG=|6529|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Ursula K. Le Guin|
+	AS=|BalWP|
+	YR=|1980|
+	TG=|7091|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Fritz Leiber|
+	AS=|BalWP|
+	YR=|1980|
+	TG=|7321|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Gerald W. Page|
+	AS=|BalWP|
+	YR=|1980|
+	TG=|8999|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Karl Edward Wagner|
+	AS=|BalWP|
+	YR=|1980|
+	TG=|12774|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Manly Wade Wellman|
+	AS=|BalWP|
+	YR=|1980|
+	TG=|13032|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Donald A. Wollheim|
+	AS=|BalWP|
+	YR=|1980|
+	TG=|13672|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for contributions, including the Star Wars saga {
+	AE=|George Lucas|
+	AS=|BalWP|
+	YR=|1981|
+	TG=|7587|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|1|
+}
+for articles and interviews {
+	AE=|Jeffrey Elliot|
+	AS=|BalWP|
+	YR=|1981|
+	TG=|4119|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for contributions to fantasy literature {
+	AE=|Harlan Ellison|
+	AS=|BalWP|
+	YR=|1981|
+	TG=|4127|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for life work in the field of fantasy {
+	AE=|Frank Kelly Freas+Polly Freas|
+	AS=|BalWP|
+	YR=|1981|
+	TG=|4727|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for publication of fine fantasy works {
+	AE=|Donald M. Grant|
+	AS=|BalWP|
+	YR=|1981|
+	TG=|5320|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for editing at Gregg Press, Pocket Books, and Simon & Schuster {
+	AE=|David G. Hartwell|
+	AS=|BalWP|
+	YR=|1981|
+	TG=|5692|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for popularizing horror/fantasy fiction {
+	AE=|Stephen King|
+	AS=|BalWP|
+	YR=|1981|
+	TG=|6527|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for a lifetime of fiction writing {
+	AE=|Fritz Leiber|
+	AS=|BalWP|
+	YR=|1981|
+	TG=|7320|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for editing Dark Forces {
+	AE=|Kirby McCauley|
+	AS=|BalWP|
+	YR=|1981|
+	TG=|8086|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for a lifetime of writing contributions {
+	AE=|H. Warner Munn|
+	AS=|BalWP|
+	YR=|1981|
+	TG=|8609|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for publishing his father's work {
+	AE=|Christopher Tolkien|
+	AS=|BalWP|
+	YR=|1981|
+	TG=|12004|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for publishing efforts {
+	AE=|Tim Underwood+Chuck Miller|
+	AS=|BalWP|
+	YR=|1981|
+	TG=|12162|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for his Kane series and editing {
+	AE=|Karl Edward Wagner|
+	AS=|BalWP|
+	YR=|1981|
+	TG=|12773|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+film-making {
+	AE=|George Lucas+Steven Spielberg|
+	AS=|BalWP|
+	YR=|1982|
+	TG=|7599|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Neil Barron|
+	AS=|BalWP|
+	YR=|1982|
+	TG=|879|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|H. R. Giger|
+	AS=|BalWP|
+	YR=|1982|
+	TG=|5018|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Donald M. Grant|
+	AS=|BalWP|
+	YR=|1982|
+	TG=|5328|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Stephen King|
+	AS=|BalWP|
+	YR=|1982|
+	TG=|6530|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|T. E. D. Klein|
+	AS=|BalWP|
+	YR=|1982|
+	TG=|6657|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Pendragon Gallery|
+	AS=|BalWP|
+	YR=|1982|
+	TG=|9110|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+untitled {
+	AE=|Tim Underwood+Chuck Miller|
+	AS=|BalWP|
+	YR=|1982|
+	TG=|12165|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for writing and editing Omni and Analog {
+	AE=|Ben Bova|
+	AS=|BalWP|
+	YR=|1983|
+	TG=|1495|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|1|
+}
+Synergy, Inc. {
+	AE=|Robert Asprin^Robert Lynn Asprin|
+	AS=|BalWP|
+	YR=|1983|
+	TG=|637|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for publishing {
+	AE=|Lester del Rey|
+	AS=|BalWP|
+	YR=|1983|
+	TG=|3398|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for writing and encouraging new writers {
+	AE=|Harlan Ellison|
+	AS=|BalWP|
+	YR=|1983|
+	TG=|4128|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for publishing {
+	AE=|Donald M. Grant|
+	AS=|BalWP|
+	YR=|1983|
+	TG=|5321|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for poetry {
+	AE=|Frederick J. Mayer|
+	AS=|BalWP|
+	YR=|1983|
+	TG=|7942|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for 50 years of writing {
+	AE=|Andre Norton|
+	AS=|BalWP|
+	YR=|1983|
+	TG=|8862|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for fantasy and art shows {
+	AE=|Pendragon Gallery|
+	AS=|BalWP|
+	YR=|1983|
+	TG=|9108|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|9|
+}
+for promoting science fiction, fantasy and horror artwork {
+	AE=|Pendragon Gallery|
+	AS=|BalWP|
+	YR=|1984|
+	TG=|9109|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|1|
+}
+for the National Science Fiction and Fantasy Hall of Fame {
+	AE=|Hap Henriksen|
+	AS=|BalWP|
+	YR=|1985|
+	TG=|5848|
+	TA=|Professional Achievement|
+	TP=|pr|
+	LV=|1|
+}
+Fantasy Crossroads {
+	AE=|Jonathan Bacon|
+	AS=|BalJ|
+	YR=|1979|
+	TG=|706|
+	TA=|Judges' Choice|
+	TP=|fz|
+	LV=|1|
+}
+for lifetime achievement {
+	AE=|Andre Norton|
+	AS=|BalJ|
+	YR=|1979|
+	TG=|8863|
+	TA=|Judges' Choice|
+	TP=|au|
+	LV=|1|
+}
+untitled {
+	AE=|Leo Dillon+Diane Dillon|
+	AS=|BalJ|
+	YR=|1982|
+	TG=|3620|
+	TA=|Judges' Choice|
+	TP=|au|
+	LV=|1|
+}
+for educating children in the field fantasy art {
+	AE=|Mercer Mayer|
+	AS=|BalJ|
+	YR=|1984|
+	TG=|7950|
+	TA=|Judges' Choice|
+	TP=|ev|
+	LV=|1|
+}
+2001: A Space Odyssey {
+	AE=|Arthur C. Clarke+Stanley Kubrick|
+	MV=|2001: A Space Odyssey (1968)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|6831|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|1|
+}
+Star Wars {
+	AE=|George Lucas|
+	MV=|Star Wars (1977)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|7589|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|1|
+}
+Forbidden Planet {
+	AE=|Alan J. Adler+Irving Block+Cyril Hume|
+	MV=|Forbidden Planet (1956)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|12353|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Black Hole {
+	AE=|Bob Barbash+Gerry Day+Richard H. Landau+Jeb Rosebrook|
+	MV=|Black Hole, The (1979)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|12291|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Day the Earth Stood Still {
+	AE=|Harry Bates+Edmund H. North|
+	MV=|Day the Earth Stood Still, The (1951)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|12320|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Silent Running {
+	AE=|Steve Bocho+Michael Cimino+Deric Washburn|
+	MV=|Silent Running (1971)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|12419|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Planet of the Apes {
+	AE=|Pierre Boulle+Rod Serling+Michael Wilson|
+	MV=|Planet of the Apes (1968)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|12401|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Thing {
+	AE=|John W. Campbell, Jr.+Ben Hecht+Charles Lederer|
+	MV=|Thing From Another World, The (1951)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|12441|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Dark Star {
+	AE=|John Carpenter+Dan O'Bannon|
+	MV=|Dark Star (1973)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|8895|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Invasion of the Body Snatchers {
+	AE=|Jack Finney+W. D. Richter|
+	MV=|Invasion of the Body Snatchers (1978)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|12365|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Star Trek: The Motion Picture {
+	AE=|Alan Dean Foster+Harold Livingston|
+	MV=|Star Trek: The Motion Picture (1979)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|11356|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Metropolis {
+	AE=|Fritz Lang+Thea von Harbou|
+	MV=|Metropolis (1926)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|12389|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+War of the Worlds {
+	AE=|Barre Lyndon+H. G. Wells|
+	MV=|War of the Worlds, The (1953)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|12461|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Alien {
+	AE=|Ronald Shusett+Dan O'Bannon+David Giler+Walter Hill|
+	MV=|Alien (1979)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|8899|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Close Encounters of the Third Kind {
+	AE=|Steven Spielberg|
+	MV=|Close Encounters of the Third Kind (1977)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|11205|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Things to Come {
+	AE=|H. G. Wells|
+	MV=|Things to Come (1936)|
+	AS=|BalMS|
+	YR=|1980|
+	TG=|12443|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Empire Strikes Back {
+	AE=|George Lucas+Leigh Brackett+Lawrence Kasdan|
+	MV=|Empire Strikes Back, The (1980)|
+	AS=|BalMS|
+	YR=|1981|
+	TG=|7594|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|1|
+}
+Forbidden Planet {
+	AE=|Alan J. Adler+Irving Block+Cyril Hume|
+	MV=|Forbidden Planet (1956)|
+	AS=|BalMS|
+	YR=|1981|
+	TG=|12354|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Day the Earth Stood Still {
+	AE=|Harry Bates+Edmund H. North|
+	MV=|Day the Earth Stood Still, The (1951)|
+	AS=|BalMS|
+	YR=|1981|
+	TG=|12321|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Silent Running {
+	AE=|Steve Bocho+Michael Cimino+Deric Washburn|
+	MV=|Silent Running (1971)|
+	AS=|BalMS|
+	YR=|1981|
+	TG=|12420|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+A Clockwork Orange {
+	AE=|Anthony Burgess+Stanley Kubrick|
+	MV=|Clockwork Orange, A (1971)|
+	AS=|BalMS|
+	YR=|1981|
+	TG=|12307|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Dark Star {
+	AE=|John Carpenter+Dan O'Bannon|
+	MV=|Dark Star (1973)|
+	AS=|BalMS|
+	YR=|1981|
+	TG=|8896|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Invasion of the Body Snatchers {
+	AE=|Jack Finney+W. D. Richter|
+	MV=|Invasion of the Body Snatchers (1978)|
+	AS=|BalMS|
+	YR=|1981|
+	TG=|12366|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Metropolis {
+	AE=|Fritz Lang+Thea von Harbou|
+	MV=|Metropolis (1926)|
+	AS=|BalMS|
+	YR=|1981|
+	TG=|12390|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Lathe of Heaven {
+	AE=|Ursula K. Le Guin|
+	MV=|Lathe of Heaven, The (1980) (TV)|
+	AS=|BalMS|
+	YR=|1981|
+	TG=|12378|
+	TA=|SF Film Hall of Fame|
+	TP=|tve|
+	LV=|9|
+}
+War of the Worlds {
+	AE=|Barre Lyndon+H. G. Wells|
+	MV=|War of the Worlds, The (1953)|
+	AS=|BalMS|
+	YR=|1981|
+	TG=|12462|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Alien {
+	AE=|Ronald Shusett+Dan O'Bannon+David Giler+Walter Hill|
+	MV=|Alien (1979)|
+	AS=|BalMS|
+	YR=|1981|
+	TG=|8900|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Superman {
+	AE=|Jerry Siegel+Joe Shuster+Mario Puzo+David Newman+Leslie Newman+Robert Benton|
+	MV=|Superman (1978)|
+	AS=|BalMS|
+	YR=|1981|
+	TG=|12431|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Close Encounters of the Third Kind {
+	AE=|Steven Spielberg|
+	MV=|Close Encounters of the Third Kind (1977)|
+	AS=|BalMS|
+	YR=|1981|
+	TG=|11206|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Things to Come {
+	AE=|H. G. Wells|
+	MV=|Things to Come (1936)|
+	AS=|BalMS|
+	YR=|1981|
+	TG=|12444|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Forbidden Planet {
+	AE=|Alan J. Adler+Irving Block+Cyril Hume|
+	MV=|Forbidden Planet (1956)|
+	AS=|BalMS|
+	YR=|1982|
+	TG=|12355|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|1|
+}
+The Day the Earth Stood Still {
+	AE=|Harry Bates+Edmund H. North|
+	MV=|Day the Earth Stood Still, The (1951)|
+	AS=|BalMS|
+	YR=|1982|
+	TG=|12322|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Silent Running {
+	AE=|Steve Bocho+Michael Cimino+Deric Washburn|
+	MV=|Silent Running (1971)|
+	AS=|BalMS|
+	YR=|1982|
+	TG=|12421|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Metropolis {
+	AE=|Fritz Lang+Thea von Harbou|
+	MV=|Metropolis (1926)|
+	AS=|BalMS|
+	YR=|1982|
+	TG=|12391|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Raiders of the Lost Ark {
+	AE=|George Lucas+Philip Kaufman+Lawrence Kasdan|
+	MV=|Raiders of the Lost Ark (1981)|
+	AS=|BalMS|
+	YR=|1982|
+	TG=|6336|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Superman II {
+	AE=|David Newman+Leslie Newman+Mario Puzo|
+	MV=|Superman II (1980)|
+	AS=|BalMS|
+	YR=|1982|
+	TG=|12435|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Alien {
+	AE=|Ronald Shusett+Dan O'Bannon+David Giler+Walter Hill|
+	MV=|Alien (1979)|
+	AS=|BalMS|
+	YR=|1982|
+	TG=|8901|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Close Encounters of the Third Kind {
+	AE=|Steven Spielberg|
+	MV=|Close Encounters of the Third Kind (1977)|
+	AS=|BalMS|
+	YR=|1982|
+	TG=|11207|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Day the Earth Stood Still {
+	AE=|Harry Bates+Edmund H. North|
+	MV=|Day the Earth Stood Still, The (1951)|
+	AS=|BalMS|
+	YR=|1983|
+	TG=|12323|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|1|
+}
+Star Trek II: The Wrath of Khan {
+	AE=|Harve Bennett+Jack B. Sowards|
+	MV=|Star Trek: The Wrath of Khan (1982)|
+	AS=|BalMS|
+	YR=|1983|
+	TG=|11350|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Thing {
+	AE=|John W. Campbell, Jr.+Ben Hecht+Charles Lederer|
+	MV=|Thing From Another World, The (1951)|
+	AS=|BalMS|
+	YR=|1983|
+	TG=|12442|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Dark Star {
+	AE=|John Carpenter+Dan O'Bannon|
+	MV=|Dark Star (1973)|
+	AS=|BalMS|
+	YR=|1983|
+	TG=|8897|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Blade Runner {
+	AE=|Philip K. Dick+Hampton Fancher+David Webb Peoples|
+	MV=|Blade Runner (1982)|
+	AS=|BalMS|
+	YR=|1983|
+	TG=|4336|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Tron {
+	AE=|Steven Lisberger+Bonnie MacBird|
+	MV=|Tron (1982)|
+	AS=|BalMS|
+	YR=|1983|
+	TG=|12454|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+E.T. the Extra-Terrestrial {
+	AE=|Melissa Mathison|
+	MV=|E.T. the Extra-Terrestrial (1982)|
+	AS=|BalMS|
+	YR=|1983|
+	TG=|11212|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Alien {
+	AE=|Ronald Shusett+Dan O'Bannon+David Giler+Walter Hill|
+	MV=|Alien (1979)|
+	AS=|BalMS|
+	YR=|1983|
+	TG=|8902|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Blade Runner {
+	AE=|Philip K. Dick+Hampton Fancher+David Webb Peoples|
+	MV=|Blade Runner (1982)|
+	AS=|BalMS|
+	YR=|1984|
+	TG=|4337|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|1|
+}
+Starman {
+	AE=|Bruce A. Evans+Raynold Gideon|
+	MV=|Starman (1984)|
+	AS=|BalMS|
+	YR=|1985|
+	TG=|12430|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|1|
+}
+E.T. the Extra-Terrestrial {
+	AE=|Melissa Mathison|
+	MV=|E.T. the Extra-Terrestrial (1982)|
+	AS=|BalMS|
+	YR=|1985|
+	TG=|11213|
+	TA=|SF Film Hall of Fame|
+	TP=|f|
+	LV=|1|
+}
+Fantasia {
+	AE=|Disney Studios|
+	MV=|Fantasia (1940)|
+	AS=|BalMF|
+	YR=|1980|
+	TG=|3670|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|1|
+}
+Watership Down {
+	AE=|Richard Adams+Martin Rosen|
+	MV=|Watership Down (1978)|
+	AS=|BalMF|
+	YR=|1980|
+	TG=|12465|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Wizards {
+	AE=|Ralph Bakshi|
+	MV=|Wizards (1977)|
+	AS=|BalMF|
+	YR=|1980|
+	TG=|740|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Lord of the Rings {
+	AE=|Peter S. Beagle+Chris Conkling+J. R. R. Tolkien|
+	MV=|Lord of the Rings, The (1978)|
+	AS=|BalMF|
+	YR=|1980|
+	TG=|735|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Thief of Bagdad {
+	AE=|Lajos Biro+Miles Malleson|
+	MV=|Thief of Bagdad, The (1940)|
+	AS=|BalMF|
+	YR=|1980|
+	TG=|12437|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+King Kong {
+	AE=|Merian C. Cooper+James Ashmore Creelman+Ruth Rose+Edgar Wallace|
+	MV=|King Kong (1933)|
+	AS=|BalMF|
+	YR=|1980|
+	TG=|12371|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Nosferatu {
+	AE=|Henrik Galeen+Bram Stoker|
+	MV=|Nosferatu, eine Symphonie des Grauens (1922)|
+	AS=|BalMF|
+	YR=|1980|
+	TG=|12397|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Hobbit {
+	AE=|Romeo Muller+J. R. R. Tolkien|
+	MV=|Hobbit, The (1978) (TV)|
+	AS=|BalMF|
+	YR=|1980|
+	TG=|12490|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|tve|
+	LV=|9|
+}
+Superman {
+	AE=|Jerry Siegel+Joe Shuster+Mario Puzo+David Newman+Leslie Newman+Robert Benton|
+	MV=|Superman (1978)|
+	AS=|BalMF|
+	YR=|1980|
+	TG=|12432|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Wizard of Oz {
+	AE=|L. Frank Baum+Noel Langley+Florence Ryerson+Edgar Allan Woolf|
+	MV=|Wizard of Oz, The (1939)|
+	AS=|BalMF|
+	YR=|1981|
+	TG=|12474|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|1|
+}
+Watership Down {
+	AE=|Richard Adams+Martin Rosen|
+	MV=|Watership Down (1978)|
+	AS=|BalMF|
+	YR=|1981|
+	TG=|12466|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Wizards {
+	AE=|Ralph Bakshi|
+	MV=|Wizards (1977)|
+	AS=|BalMF|
+	YR=|1981|
+	TG=|741|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Dracula {
+	AE=|John L. Balderston+Louis Bromfield+Hamilton Deane+Garrett Fort+Dudley,Stevens,Louis Murphy+Bram Stoker|
+	MV=|Dracula (1931/I)|
+	AS=|BalMF|
+	YR=|1981|
+	TG=|12326|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Lord of the Rings {
+	AE=|Peter S. Beagle+Chris Conkling+J. R. R. Tolkien|
+	MV=|Lord of the Rings, The (1978)|
+	AS=|BalMF|
+	YR=|1981|
+	TG=|736|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Thief of Bagdad {
+	AE=|Lajos Biro+Miles Malleson|
+	MV=|Thief of Bagdad, The (1940)|
+	AS=|BalMF|
+	YR=|1981|
+	TG=|12438|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Snow White and the Seven Dwarfs {
+	AE=|Dorothy Ann Blank+Richard Creedon+Merrill De Maris+Otto Englander+Jacob Ludwig Carl Grimm+Wilhelm Carl Grimm+Earl Hurd+Dick Rickard+Ted Sears+Webb Smith|
+	MV=|Snow White and the Seven Dwarfs (1937)|
+	AS=|BalMF|
+	YR=|1981|
+	TG=|12426|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+King Kong {
+	AE=|Merian C. Cooper+James Ashmore Creelman+Ruth Rose+Edgar Wallace|
+	MV=|King Kong (1933)|
+	AS=|BalMF|
+	YR=|1981|
+	TG=|12372|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Bambi {
+	AE=|Chuck Couch+Carl Fallbberg+Larry Morey+Felix Salten+Melvin Shaw+George Stallings+Ralph Wright|
+	MV=|Bambi (1942)|
+	AS=|BalMF|
+	YR=|1981|
+	TG=|12280|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Cabinet of Dr. Caligari {
+	AE=|Hans Janowitz+Carl Mayer|
+	MV=|Kabinett des Doktor Caligari, Das (1919)|
+	AS=|BalMF|
+	YR=|1981|
+	TG=|12302|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Empire Strikes Back {
+	AE=|George Lucas+Leigh Brackett+Lawrence Kasdan|
+	MV=|Empire Strikes Back, The (1980)|
+	AS=|BalMF|
+	YR=|1981|
+	TG=|7595|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Superman {
+	AE=|Jerry Siegel+Joe Shuster+Mario Puzo+David Newman+Leslie Newman+Robert Benton|
+	MV=|Superman (1978)|
+	AS=|BalMF|
+	YR=|1981|
+	TG=|12433|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+King Kong {
+	AE=|Merian C. Cooper+James Ashmore Creelman+Ruth Rose+Edgar Wallace|
+	MV=|King Kong (1933)|
+	AS=|BalMF|
+	YR=|1982|
+	TG=|12373|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|1|
+}
+Watership Down {
+	AE=|Richard Adams+Martin Rosen|
+	MV=|Watership Down (1978)|
+	AS=|BalMF|
+	YR=|1982|
+	TG=|12467|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Wizards {
+	AE=|Ralph Bakshi|
+	MV=|Wizards (1977)|
+	AS=|BalMF|
+	YR=|1982|
+	TG=|742|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Lord of the Rings {
+	AE=|Peter S. Beagle+Chris Conkling+J. R. R. Tolkien|
+	MV=|Lord of the Rings, The (1978)|
+	AS=|BalMF|
+	YR=|1982|
+	TG=|737|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Excalibur {
+	AE=|John Boorman+Thomas Malory+Rospo Pallenberg|
+	MV=|Excalibur (1981)|
+	AS=|BalMF|
+	YR=|1982|
+	TG=|12335|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Popeye {
+	AE=|Jules Feiffer+E. C. Segar|
+	MV=|Popeye (1980)|
+	AS=|BalMF|
+	YR=|1982|
+	TG=|12402|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Time Bandits {
+	AE=|Terry Gilliam+Michael Palin|
+	MV=|Time Bandits (1980)|
+	AS=|BalMF|
+	YR=|1982|
+	TG=|12446|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Raiders of the Lost Ark {
+	AE=|George Lucas+Philip Kaufman+Lawrence Kasdan|
+	MV=|Raiders of the Lost Ark (1981)|
+	AS=|BalMF|
+	YR=|1982|
+	TG=|6337|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Dark Crystal {
+	AE=|Jim Henson+David Odell|
+	MV=|Dark Crystal, The (1982)|
+	AS=|BalMF|
+	YR=|1983|
+	TG=|12317|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|1|
+}
+Frankenstein {
+	AE=|John L. Balderston+Francis Edward Faragoh+Robert Florey+Garrett Fort+John Russell+Mary Shelley+Peggy Webling|
+	MV=|Frankenstein (1931)|
+	AS=|BalMF|
+	YR=|1983|
+	TG=|12357|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Dragonslayer {
+	AE=|Hal Barwood+Matthew Robbins|
+	MV=|Dragonslayer (1981)|
+	AS=|BalMF|
+	YR=|1983|
+	TG=|12327|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Thief of Bagdad {
+	AE=|Lajos Biro+Miles Malleson|
+	MV=|Thief of Bagdad, The (1940)|
+	AS=|BalMF|
+	YR=|1983|
+	TG=|12439|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Quest for Fire {
+	AE=|Gérard Brach+J. H. Rosny, Sr.|
+	MV=|Guerre du feu, La (1981)|
+	AS=|BalMF|
+	YR=|1983|
+	TG=|12405|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Conan the Barbarian {
+	AE=|Robert E. Howard+John Milius+Oliver Stone|
+	MV=|Conan the Barbarian (1981)|
+	AS=|BalMF|
+	YR=|1983|
+	TG=|12314|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+The Seventh Voyage of Sinbad {
+	AE=|Ken Kolb|
+	MV=|7th Voyage of Sinbad, The (1958)|
+	AS=|BalMF|
+	YR=|1983|
+	TG=|12416|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Raiders of the Lost Ark {
+	AE=|George Lucas+Philip Kaufman+Lawrence Kasdan|
+	MV=|Raiders of the Lost Ark (1981)|
+	AS=|BalMF|
+	YR=|1983|
+	TG=|6338|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|9|
+}
+Bambi {
+	AE=|Chuck Couch+Carl Fallbberg+Larry Morey+Felix Salten+Melvin Shaw+George Stallings+Ralph Wright|
+	MV=|Bambi (1942)|
+	AS=|BalMF|
+	YR=|1984|
+	TG=|12281|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|1|
+}
+Raiders of the Lost Ark {
+	AE=|George Lucas+Philip Kaufman+Lawrence Kasdan|
+	MV=|Raiders of the Lost Ark (1981)|
+	AS=|BalMF|
+	YR=|1985|
+	TG=|6339|
+	TA=|Fantasy Film Hall of Fame|
+	TP=|f|
+	LV=|1|
+}
+untitled {
+	AE=|Ian Ballantine+Betty Ballantine|
+	AS=|BalX|
+	YR=|1980|
+	TG=|745|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Jorge Luis Borges|
+	AS=|BalX|
+	YR=|1981|
+	TG=|1465|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Fritz Leiber|
+	AS=|BalX|
+	YR=|1981|
+	TG=|7322|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+for encouragement of new talent {
+	AE=|Kirby McCauley|
+	AS=|BalX|
+	YR=|1983|
+	TG=|8087|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Lester del Rey|
+	AS=|BalX|
+	YR=|1985|
+	TG=|3399|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}

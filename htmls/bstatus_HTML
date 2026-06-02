@@ -1,0 +1,138 @@
+
+<pre>
+
+This file is used to track which bibliographic resources have
+been consulted or checked. We should have started this a long
+time ago, so it will take a while to whip it into shape.
+
+'-' indicates that the resource was used only to fill in the
+    author's working bibliography. 
+'+' indicates that the resource was used to fill in both the
+    author's working and publication bibliography. 
+'x' indicates that the resource was consulted, but contained no
+    applicable data for that author.
+
+Legend:
+---------------------------------------------------------------
+[1] - Cross-checked with the Ahasuerus Collection.
+[3] - A MELVYL search has been conducted.
+[4] - An Illinet (telnet illinet.aiss.uiuc.edu) search has
+      been conducted.
+[5] - The Library of Congress has been searched.
+[6] - Tuck's <i>Encyclopedia of Science Fiction and Fantasy</i>
+      was consulted.
+[7] - Clute & Nicholl's <i>Encyclopedia of Science Fiction</i>
+      was consulted.
+[8] - Contento & Brown's <i>Science Fiction, Fantasy, & Horror: 1984-1996</i>
+      index was consulted.
+[9] - Derek Nichols' series list was consulted.
+
+
+
+                   | 1 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
+-------------------+---+---+---+---+---+---+---+---+
+Abe, Kobo          | - |   |   |   | x |   |   |   |
+Abrashkin, Raymond | - |   |   |   | - |   |   |   |
+Ackerman, Diane    | - |   |   | - | x | x |   |   |
+Adams, Douglas     | - |   |   |   | x |   |   |   |
+Adams, Richard     | - |   |   |   | x |   |   |   |
+Aldiss, Brian W.   | - |   |   |   |   |   |   |   |
+Alexander, Karl    | - |   |   |   | x |   |   |   |
+Alexander, Lloyd   | - | + |   |   |   | x | + | x |
+Allen, L. David    | - |   |   |   |   |   |   |   |
+Allen, Roger Mac.  | - |   |   |   | x | - |   | x |
+Altov, Genrikh     | - |   |   |   | x |   |   |   |
+Ames, Mildred      |   |   |   |   | x |   |   |   |
+Amis, Kingsley     | - |   |   |   |   |   |   |   |
+Anderson, Chester  | - |   |   |   |   |   |   |   |
+Anderson, Poul     |   |   |   |   |   |   |   |   |
+Anderson, K. J.    | - |   |   |   | x |   |   |   |
+-------------------+---+---+---+---+---+---+---+---+
+Anvil, Christopher | - |   |   |   | x |   |   |   |
+Appel, Allen       | - |   |   |   |   |   |   |   |
+Arnold, Edwin L.   | - |   |   |   |   | x |   |   |
+Arnold, Frank E.   | - |   |   |   |   | x |   |   |
+Asprin, Robert     | - |   |   |   |   |   |   |   |
+Attanasio, A.A.    | - |   |   |   | x | - |   | - |
+Bach, Richard      | - |   |   |   |   |   |   |   |
+Baker, Scott       | - |   |   |   |   |   |   |   |
+Barbet, Pierre     | - |   |   |   |   |   |   |   |
+Barnes, Arthur K.  | - |   |   |   |   |   |   |   |
+Barnes, John       | - |   |   |   |   |   |   |   |
+Barnes, Steven     | - |   |   |   |   |   |   |   |
+Barrett, Neil, Jr  | - |   |   |   |   |   |   |   |
+Barringer, Leslie  | - |   |   |   |   |   |   |   |
+Bass, T. J.        | - |   |   |   |   |   |   |   |
+Baum, L. Frank     | - |   |   |   |   |   |   |   |
+-------------------+---+---+---+---+---+---+---+---+
+Baxter, John       | - |   |   |   |   |   |   |   |
+Baxter, Stephen    | - |   |   |   |   |   |   |   |
+Bayley, Barr J.    | - |   |   |   |   |   |   |   |
+Beagle, Peter. S.  | - |   |   |   |   |   |   |   |
+Bear, Greg         |   |   |   |   |   |   |   |   |
+Bell, William Dixon| - |   |   |   |   |   |   |   |
+Bellamy, Edward    | - |   |   |   |   |   |   |   |
+-------------------+---+---+---+---+---+---+---+---+
+Bethancourt, T. E. | - |   |   |   |   |   |   |   |
+Bishop, Michael    |   |   |   |   |   |   |   |   |
+Blackwood, Alg.    | - |   |   |   |   |   |   |   |
+Bond, Nelson S.    | - |   |   |   |   |   |   |   |
+Bok, Hannes        | - |   |   |   |   |   |   |   |
+Boucher, Anthony   | - |   |   |   |   |   |   |   |
+Boulle, Pierre     | - |   |   |   |   |   |   |   |
+Boyett, Steven R.  | - |   |   |   |   |   |   |   |
+Bretnor, Reginald  | - |   |   |   |   |   |   |   |
+-------------------+---+---+---+---+---+---+---+---+
+Bryant, Edward     | - |   |   |   |   |   |   |   |
+Buckner, Robert    | - |   |   |   |   |   |   |   |
+Budrick, Eugene    | - |   |   |   |   |   |   |   |
+Bujold, L. M.      | - |   |   |   |   |   |   |   |
+Bulychev, Kirill   | - |   |   |   |   |   |   |   |
+Bunch, David R.    | - |   |   |   |   |   |   |   |
+Burkett, William   | - |   |   |   |   |   |   |   |
+Card, Orson Scott  |   |   |   |   |   |   |   |   |
+Cherryh, C.J.      |   |   |   |   |   |   |   |   |
+-------------------+---+---+---+---+---+---+---+---+
+Cover, Arthur B.   | - |   |   |   |   |   |   |   |
+Dalkey, Kara       |   | + |   |   | x | x |   | - |
+Ellison, Harlan    |   |   |   |   |   |   |   |   |
+Goodkind, Terry    |   | + |   |   | x | x | + | x |
+Hambly, Barbara    |   |   |   |   | x | - |   | - |
+Harness, C.L.      | + | - | - |   | - |   |   | - |
+-------------------+---+---+---+---+---+---+---+---+
+Jones, Diana Wynne |   | + |   |   | x |   |   | x |
+Karr, Phyllis Ann  |   |   |   |   |   |   |   | - |
+King, Stephen      |   |   |   |   |   |   |   | x |
+Le Guin, Ursula K. |   |   |   |   | + |   |   | - |
+Leiber, Fritz      |   |   |   |   |   |   |   |   |
+-------------------+---+---+---+---+---+---+---+---+
+Leinster, Murray   |   |   |   |   |   |   |   |   |
+Lem, Stanislaw     |   |   |   |   |   |   |   |   |
+Levinson, Paul     |   | + |   |   | x |   | x | x |
+Marden, William    |   |   |   |   | x |   | - | x |
+McCaffrey, Anne    |   |   |   |   |   |   |   |   |
+-------------------+---+---+---+---+---+---+---+---+
+Oliver, Chad       |   |   |   |   | + |   |   |   |
+Pohl, Frederik     |   |   |   |   |   |   |   |   |
+Resnick, Mike      |   |   |   |   |   |   |   |   |
+Robinson, Kim S.   |   |   |   |   |   |   |   |   |
+Rosenberg, Joel    |   | + |   |   | x |   | + | - |
+Shepard, Lucius    |   |   |   |   |   |   |   |   |
+-------------------+---+---+---+---+---+---+---+---+
+Silverberg, Robert |   |   |   |   |   |   |   |   |
+Simmons, Dan       |   |   |   |   |   |   |   |   |
+Thomas, Thomas T.  |   |   |   |   |   | - |   |   |
+Varley, John       |   |   |   |   |   |   |   |   |
+Wheeler, Harvey    | - |   |   |   |   |   |   |   |
+Williams, Jay      |   |   |   |   | + |   |   |   |
+Willis, Connie     |   |   |   |   |   |   |   |   |
+-------------------+---+---+---+---+---+---+---+---+
+Wolfe, Gene        |   |   |   |   |   |   |   |   |
+Zelazny, Roger     |   |   |   |   |   |   |   |   |
+Zhuravlyova, Val.  | - |   |   |   |   |   |   |   |
+Zimmer, Paul Edwin |   |   |   |   | x |   |   | - |
+-------------------+---+---+---+---+---+---+---+---+
+
+XXX                |   |   |   |   |   |   |   |   |
+
+</pre>

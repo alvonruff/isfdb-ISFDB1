@@ -1,0 +1,1006 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)PKDICK	1.6	06/18/98 ISFDB";
+##
+Software {
+	AE=|Rudy Rucker|
+	AS=|PKD|
+	YR=|1982|
+	TG=|9987|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+The Prometheus Man {
+	AE=|Ray Nelson|
+	AS=|PKD|
+	YR=|1982|
+	TG=|8688|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+Waiting for the Barbarians {
+	AE=|J. M. Coetzee|
+	AS=|PKD|
+	YR=|1982|
+	TG=|20694|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Aurelia {
+	AE=|R. A. Lafferty|
+	AS=|PKD|
+	YR=|1982|
+	TG=|20698|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Roderick {
+	AE=|John Sladek|
+	AS=|PKD|
+	YR=|1982|
+	TG=|20699|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+The Umbral Anthology of Science Fiction Poetry {
+	AE=|Steve Rasnic Tem|
+	AS=|PKD|
+	YR=|1982|
+	TG=|20701|
+	TA=|Philip K. Dick Award|
+	TP=|po|
+	LV=|9|
+}
+The Anubis Gates {
+	AE=|Tim Powers|
+	AS=|PKD|
+	YR=|1983|
+	TG=|9374|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+Tea with the Black Dragon {
+	AE=|R. A. MacAvoy|
+	AS=|PKD|
+	YR=|1983|
+	TG=|7680|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+The Zen Gun {
+	AE=|Barrington J. Bayley|
+	AS=|PKD|
+	YR=|1983|
+	TG=|20692|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Benefits {
+	AE=|Zoe Fairbairns|
+	AS=|PKD|
+	YR=|1983|
+	TG=|20695|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+The Floating Gods {
+	AE=|M. John Harrison|
+	AS=|PKD|
+	YR=|1983|
+	TG=|20696|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Millennium {
+	AE=|John Varley|
+	AS=|PKD|
+	YR=|1983|
+	TG=|20703|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Neuromancer {
+	AE=|William Gibson|
+	AS=|PKD|
+	YR=|1984|
+	TG=|4995|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+The Wild Shore {
+	AE=|Kim Stanley Robinson|
+	AS=|PKD|
+	YR=|1984|
+	TG=|9852|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+Voyager in Night {
+	AE=|C. J. Cherryh|
+	AS=|PKD|
+	YR=|1984|
+	TG=|2714|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+The Alchemists {
+	AE=|Geary Gravel|
+	AS=|PKD|
+	YR=|1984|
+	TG=|5341|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Emergence {
+	AE=|David R. Palmer|
+	AS=|PKD|
+	YR=|1984|
+	TG=|9013|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Green Eyes {
+	AE=|Lucius Shepard|
+	AS=|PKD|
+	YR=|1984|
+	TG=|10616|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Frontera {
+	AE=|Lewis Shiner|
+	AS=|PKD|
+	YR=|1984|
+	TG=|10714|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Them Bones {
+	AE=|Howard Waldrop|
+	AS=|PKD|
+	YR=|1984|
+	TG=|12861|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Dinner at Deviant's Palace {
+	AE=|Tim Powers|
+	AS=|PKD|
+	YR=|1985|
+	TG=|9378|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+Saraband of Lost Time {
+	AE=|Richard Grant|
+	AS=|PKD|
+	YR=|1985|
+	TG=|5338|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+The Time Servers {
+	AE=|Russell M. Griffin|
+	AS=|PKD|
+	YR=|1985|
+	TG=|5392|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Emprise {
+	AE=|Michael P. Kube-McDowell|
+	AS=|PKD|
+	YR=|1985|
+	TG=|6821|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+The Remaking of Sigmund Freud {
+	AE=|Barry N. Malzberg|
+	AS=|PKD|
+	YR=|1985|
+	TG=|7791|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Terrarium {
+	AE=|Scott Russell Sanders|
+	AS=|PKD|
+	YR=|1985|
+	TG=|10203|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Knight Moves {
+	AE=|Walter Jon Williams|
+	AS=|PKD|
+	YR=|1985|
+	TG=|13304|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Homunculus {
+	AE=|James P. Blaylock|
+	AS=|PKD|
+	YR=|1986|
+	TG=|1376|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+The Hercules Text {
+	AE=|Jack McDevitt|
+	AS=|PKD|
+	YR=|1986|
+	TG=|8120|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+Artificial Things {
+	AE=|Karen Joy Fowler|
+	AS=|PKD|
+	YR=|1986|
+	TG=|4620|
+	TA=|Philip K. Dick Award|
+	TP=|c|
+	LV=|9|
+}
+A Hidden Place {
+	AE=|Robert Charles Wilson|
+	AS=|PKD|
+	YR=|1986|
+	TG=|13494|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Strange Toys {
+	AE=|Patricia Geary|
+	AS=|PKD|
+	YR=|1987|
+	TG=|4885|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+Memories {
+	AE=|Mike McQuay|
+	AS=|PKD|
+	YR=|1987|
+	TG=|8328|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+Dover Beach {
+	AE=|Richard Bowker|
+	AS=|PKD|
+	YR=|1987|
+	TG=|1540|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Mindplayers {
+	AE=|Pat Cadigan|
+	AS=|PKD|
+	YR=|1987|
+	TG=|2108|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Dark Seeker {
+	AE=|K. W. Jeter|
+	AS=|PKD|
+	YR=|1987|
+	TG=|6180|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Life During Wartime {
+	AE=|Lucius Shepard|
+	AS=|PKD|
+	YR=|1987|
+	TG=|10633|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Four Hundred Billion Stars {
+	AE=|Paul J. McAuley|
+	AS=|PKD|
+	YR=|1988|
+	TG=|7976|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+Wetware {
+	AE=|Rudy Rucker|
+	AS=|PKD|
+	YR=|1988|
+	TG=|9990|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+Orphan of Creation {
+	AE=|Roger MacBride Allen|
+	AS=|PKD|
+	YR=|1988|
+	TG=|321|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Neon Lotus {
+	AE=|Marc Laidlaw|
+	AS=|PKD|
+	YR=|1988|
+	TG=|6913|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Becoming Alien {
+	AE=|Rebecca Ore|
+	AS=|PKD|
+	YR=|1988|
+	TG=|8947|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Rendezvous {
+	AE=|David Alexander Smith|
+	AS=|PKD|
+	YR=|1988|
+	TG=|11093|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Subterranean Gallery {
+	AE=|Richard Paul Russo|
+	AS=|PKD|
+	YR=|1989|
+	TG=|10108|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+On My Way to Paradise {
+	AE=|Dave Wolverton|
+	AS=|PKD|
+	YR=|1989|
+	TG=|13704|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+Infinity Hold {
+	AE=|Barry B. Longyear|
+	AS=|PKD|
+	YR=|1989|
+	TG=|7570|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+A Fearful Symmetry {
+	AE=|James Luceno|
+	AS=|PKD|
+	YR=|1989|
+	TG=|7601|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Being Alien {
+	AE=|Rebecca Ore|
+	AS=|PKD|
+	YR=|1989|
+	TG=|8949|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Heritage of Flight {
+	AE=|Susan Shwartz|
+	AS=|PKD|
+	YR=|1989|
+	TG=|10747|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Points of Departure {
+	AE=|Pat Murphy|
+	AS=|PKD|
+	YR=|1990|
+	TG=|8648|
+	TA=|Philip K. Dick Award|
+	TP=|c|
+	LV=|1|
+}
+The Schizogenic Man {
+	AE=|Raymond Harris|
+	AS=|PKD|
+	YR=|1990|
+	TG=|5659|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+The Oxygen Barons {
+	AE=|Gregory Feeley|
+	AS=|PKD|
+	YR=|1990|
+	TG=|4393|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Winterlong {
+	AE=|Elizabeth Hand|
+	AS=|PKD|
+	YR=|1990|
+	TG=|5599|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Clarke County, Space {
+	AE=|Allen Steele|
+	AS=|PKD|
+	YR=|1990|
+	TG=|11381|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+King of Morning, Queen of Day {
+	AE=|Ian McDonald|
+	AS=|PKD|
+	YR=|1991|
+	TG=|8153|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+Bone Dance {
+	AE=|Emma Bull|
+	AS=|PKD|
+	YR=|1991|
+	TG=|1961|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+Mojo and the Pickle Jar {
+	AE=|Douglas Bell|
+	AS=|PKD|
+	YR=|1991|
+	TG=|1031|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+The Cipher {
+	AE=|Kathe Koja|
+	AS=|PKD|
+	YR=|1991|
+	TG=|6704|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+A Bridge of Years {
+	AE=|Robert Charles Wilson|
+	AS=|PKD|
+	YR=|1991|
+	TG=|13485|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Through the Heart {
+	AE=|Richard Grant|
+	AS=|PKD|
+	YR=|1992|
+	TG=|5339|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+Fire in the Mist {
+	AE=|Holly Lisle|
+	AS=|PKD|
+	YR=|1992|
+	TG=|7532|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+In the Mothers' Land {
+	AE=|Élisabeth Vonarburg|
+	AS=|PKD|
+	YR=|1992|
+	TG=|12756|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+Take Back Plenty {
+	AE=|Colin Greenland|
+	AS=|PKD|
+	YR=|1992|
+	TG=|5381|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Æstival Tide {
+	AE=|Elizabeth Hand|
+	AS=|PKD|
+	YR=|1992|
+	TG=|5582|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Iron Tears {
+	AE=|R. A. Lafferty|
+	AS=|PKD|
+	YR=|1992|
+	TG=|6899|
+	TA=|Philip K. Dick Award|
+	TP=|c|
+	LV=|9|
+}
+Growing Up Weightless {
+	AE=|John M. Ford|
+	AS=|PKD|
+	YR=|1993|
+	TG=|4577|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+Elvissey {
+	AE=|Jack Womack|
+	AS=|PKD|
+	YR=|1993|
+	TG=|13707|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+Crashcourse {
+	AE=|Wilhelmina Baird|
+	AS=|PKD|
+	YR=|1993|
+	TG=|725|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Bunch! {
+	AE=|David R. Bunch|
+	AS=|PKD|
+	YR=|1993|
+	TG=|1974|
+	TA=|Philip K. Dick Award|
+	TP=|c|
+	LV=|9|
+}
+Icarus Descending {
+	AE=|Elizabeth Hand|
+	AS=|PKD|
+	YR=|1993|
+	TG=|5584|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Mysterium {
+	AE=|Robert Charles Wilson|
+	AS=|PKD|
+	YR=|1994|
+	TG=|13502|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+Inagehi {
+	AE=|Jack Cady|
+	AS=|PKD|
+	YR=|1994|
+	TG=|2140|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+RIM: A Novel of Virtual Reality {
+	AE=|Alexander Besher|
+	AS=|PKD|
+	YR=|1994|
+	TG=|1154|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Summer of Love {
+	AE=|Lisa Mason|
+	AS=|PKD|
+	YR=|1994|
+	TG=|7907|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Scissors Cut Paper Wrap Stone {
+	AE=|Ian McDonald|
+	AS=|PKD|
+	YR=|1994|
+	TG=|8159|
+	TA=|Philip K. Dick Award|
+	TP=|nv|
+	LV=|9|
+}
+Tonguing the Zeitgeist {
+	AE=|Lance Olsen|
+	AS=|PKD|
+	YR=|1994|
+	TG=|8932|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Headcrash {
+	AE=|Bruce Bethke|
+	AS=|PKD|
+	YR=|1995|
+	TG=|1183|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+Carlucci's Edge {
+	AE=|Richard Paul Russo|
+	AS=|PKD|
+	YR=|1995|
+	TG=|10102|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+Virtual Death {
+	AE=|Shale Aaron|
+	AS=|PKD|
+	YR=|1995|
+	TG=|184|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Permutation City {
+	AE=|Greg Egan|
+	AS=|PKD|
+	YR=|1995|
+	TG=|4033|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+The Color of Distance^The Colour of Distance (UK) {
+	AE=|Amy Thomson|
+	AS=|PKD|
+	YR=|1995|
+	TG=|11930|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Reluctant Voyagers {
+	AE=|Élisabeth Vonarburg|
+	AS=|PKD|
+	YR=|1995|
+	TG=|12763|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+The Time Ships {
+	AE=|Stephen Baxter|
+	AS=|PKD|
+	YR=|1996|
+	TG=|944|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+At the City Limits of Fate {
+	AE=|Michael Bishop|
+	AS=|PKD|
+	YR=|1996|
+	TG=|1216|
+	TA=|Philip K. Dick Award|
+	TP=|c|
+	LV=|2|
+}
+The Transmigration of Souls {
+	AE=|William Barton|
+	AS=|PKD|
+	YR=|1996|
+	TG=|895|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+The Shift {
+	AE=|George Foy|
+	AS=|PKD|
+	YR=|1996|
+	TG=|4646|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Reclamation {
+	AE=|Sarah Zettel|
+	AS=|PKD|
+	YR=|1996|
+	TG=|13941|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+The Troika {
+	AE=|Stepan Chapman|
+	AS=|PKD|
+	YR=|1997|
+	TG=|15541|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+Acts of Conscience {
+	AE=|William Barton|
+	AS=|PKD|
+	YR=|1997|
+	TG=|15533|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+An Exchange of Hostages {
+	AE=|Susan R. Matthews|
+	AS=|PKD|
+	YR=|1997|
+	TG=|15576|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Carlucci's Heart {
+	AE=|Richard Paul Russo|
+	AS=|PKD|
+	YR=|1997|
+	TG=|15591|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Opalite Moon {
+	AE=|Denise Vitola|
+	AS=|PKD|
+	YR=|1997|
+	TG=|15599|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Mother Grimm {
+	AE=|Catherine Wells|
+	AS=|PKD|
+	YR=|1997|
+	TG=|15602|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+253: The Print Remix {
+	AE=|Geoff Ryman|
+	AS=|PKD|
+	YR=|1998|
+	TG=|19266|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+Lost Pages {
+	AE=|Paul Di Filippo|
+	AS=|PKD|
+	YR=|1998|
+	TG=|19263|
+	TA=|Philip K. Dick Award|
+	TP=|c|
+	LV=|2|
+}
+Slaughtermatic {
+	AE=|Steve Aylett|
+	AS=|PKD|
+	YR=|1998|
+	TG=|19262|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Brown Girl in the Ring {
+	AE=|Nalo Hopkinson|
+	AS=|PKD|
+	YR=|1998|
+	TG=|19264|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+The Invisible Country {
+	AE=|Paul J. McAuley|
+	AS=|PKD|
+	YR=|1998|
+	TG=|19265|
+	TA=|Philip K. Dick Award|
+	TP=|c|
+	LV=|9|
+}
+Vacuum Diagrams {
+	AE=|Stephen Baxter|
+	AS=|PKD|
+	YR=|1999|
+	TG=|19580|
+	TA=|Philip K. Dick Award|
+	TP=|c|
+	LV=|1|
+}
+Tower of Dreams {
+	AE=|Jamil Nasir|
+	AS=|PKD|
+	YR=|1999|
+	TG=|19610|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+Typhon's Children {
+	AE=|Toni Anzetti|
+	AS=|PKD|
+	YR=|1999|
+	TG=|19576|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Not of Woman Born {
+	AE=|Constance Ash|
+	AS=|PKD|
+	YR=|1999|
+	TG=|19577|
+	TA=|Philip K. Dick Award|
+	TP=|a|
+	LV=|9|
+}
+When We Were Real {
+	AE=|William Barton|
+	AS=|PKD|
+	YR=|1999|
+	TG=|19579|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Code of Conduct {
+	AE=|Kristine Smith|
+	AS=|PKD|
+	YR=|1999|
+	TG=|19622|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Only Forward {
+	AE=|Michael Marshall Smith|
+	AS=|PKD|
+	YR=|2000|
+	TG=|20700|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|1|
+}
+Evolution's Darling {
+	AE=|Scott Westerfield|
+	AS=|PKD|
+	YR=|2000|
+	TG=|20704|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|2|
+}
+Call From a Distant Shore {
+	AE=|Stephen L. Burns|
+	AS=|PKD|
+	YR=|2000|
+	TG=|20693|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Midnight Robber {
+	AE=|Nalo Hopkinson|
+	AS=|PKD|
+	YR=|2000|
+	TG=|20697|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+Broken Time {
+	AE=|Maggy Thomas|
+	AS=|PKD|
+	YR=|2000|
+	TG=|20702|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}
+The Bridge {
+	AE=|Janine Ellen Young|
+	AS=|PKD|
+	YR=|2000|
+	TG=|20705|
+	TA=|Philip K. Dick Award|
+	TP=|n|
+	LV=|9|
+}

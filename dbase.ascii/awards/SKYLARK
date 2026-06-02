@@ -1,0 +1,340 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)SKYLARK	1.5	06/18/98 ISFDB";
+##
+untitled {
+	AE=|Frederik Pohl|
+	AS=|Skylark|
+	YR=|1966|
+	TG=|9192|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Isaac Asimov|
+	AS=|Skylark|
+	YR=|1967|
+	TG=|544|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|John W. Campbell, Jr.|
+	AS=|Skylark|
+	YR=|1968|
+	TG=|2177|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Hal Clement|
+	AS=|Skylark|
+	YR=|1969|
+	TG=|2844|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Judy-Lynn del Rey^Judy-Lynn Benjamin del Rey|
+	AS=|Skylark|
+	YR=|1970|
+	TG=|3397|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|No Award Given This Year|
+	AS=|Skylark|
+	YR=|1971|
+	TG=|8832|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Lester del Rey|
+	AS=|Skylark|
+	YR=|1972|
+	TG=|3401|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Larry Niven|
+	AS=|Skylark|
+	YR=|1973|
+	TG=|8734|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Ben Bova|
+	AS=|Skylark|
+	YR=|1974|
+	TG=|1504|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Gordon R. Dickson|
+	AS=|Skylark|
+	YR=|1975|
+	TG=|3584|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Anne McCaffrey|
+	AS=|Skylark|
+	YR=|1976|
+	TG=|7996|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Jack Gaughan|
+	AS=|Skylark|
+	YR=|1977|
+	TG=|4882|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Spider Robinson|
+	AS=|Skylark|
+	YR=|1978|
+	TG=|9857|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|David Gerrold|
+	AS=|Skylark|
+	YR=|1979|
+	TG=|4940|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Jack L. Chalker|
+	AS=|Skylark|
+	YR=|1980|
+	TG=|2537|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Frank Kelly Freas|
+	AS=|Skylark|
+	YR=|1981|
+	TG=|4724|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Poul Anderson|
+	AS=|Skylark|
+	YR=|1982|
+	TG=|355|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Andre Norton|
+	AS=|Skylark|
+	YR=|1983|
+	TG=|8871|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Robert Silverberg|
+	AS=|Skylark|
+	YR=|1984|
+	TG=|10773|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Jack Williamson|
+	AS=|Skylark|
+	YR=|1985|
+	TG=|13344|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Wilson (Bob) Tucker|
+	AS=|Skylark|
+	YR=|1986|
+	TG=|12065|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Vincent Di Fate|
+	AS=|Skylark|
+	YR=|1987|
+	TG=|3516|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|C. J. Cherryh|
+	AS=|Skylark|
+	YR=|1988|
+	TG=|2650|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Gene Wolfe|
+	AS=|Skylark|
+	YR=|1989|
+	TG=|13574|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Jane Yolen|
+	AS=|Skylark|
+	YR=|1990|
+	TG=|13784|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|David A. Cherry|
+	AS=|Skylark|
+	YR=|1991|
+	TG=|2624|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Orson Scott Card|
+	AS=|Skylark|
+	YR=|1992|
+	TG=|2279|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Tom Doherty|
+	AS=|Skylark|
+	YR=|1993|
+	TG=|3676|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Esther M. Friesner|
+	AS=|Skylark|
+	YR=|1994|
+	TG=|4756|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Mike Resnick|
+	AS=|Skylark|
+	YR=|1995|
+	TG=|9597|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Joe Haldeman+Gay Haldeman|
+	AS=|Skylark|
+	YR=|1996|
+	TG=|5548|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Hal Clement|
+	AS=|Skylark|
+	YR=|1997|
+	TG=|2845|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|James White|
+	AS=|Skylark|
+	YR=|1998|
+	TG=|17899|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|Skylark|
+	YR=|1999|
+	TG=|19261|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+untitled {
+	AE=|Bruce Coville|
+	AS=|Skylark|
+	YR=|2000|
+	TG=|19865|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}
+Special Guest {
+	AE=|Ellen Asher|
+	AS=|Skylark|
+	YR=|2001|
+	TG=|22085|
+	TA=|Edward E. Smith Memorial Award for Imaginative Fiction|
+	TP=|pr|
+	LV=|1|
+}

@@ -1,0 +1,133 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)DEATHR	1.5	05/05/98 ISFDB";
+##
+The Year's Best Horror Stories: Series XXII {
+	AE=|Karl Edward Wagner|
+	AS=|DthA|
+	YR=|1995|
+	TG=|12810|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+Dark Love {
+	AE=|Nancy A. Collins+Edward E. Kramer+Martin H. Greenberg|
+	AS=|DthA|
+	YR=|1996|
+	TG=|2902|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+untitled {
+	AE=|Alan M. Clark|
+	AS=|DthP|
+	YR=|1995|
+	TG=|2770|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Chad Savage|
+	AS=|DthP|
+	YR=|1996|
+	TG=|10240|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+Bibliomen {
+	AE=|Gene Wolfe|
+	AS=|DthC|
+	YR=|1995|
+	TG=|13577|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Pentacle {
+	AE=|Tom Piccirilli|
+	AS=|DthC|
+	YR=|1996|
+	TG=|9143|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Terminal Fright {
+	AE=|Ken Abner|
+	AS=|DthMF|
+	YR=|1995|
+	TG=|194|
+	TA=|Best Fiction Magazine|
+	TP=|sz|
+	LV=|1|
+}
+Lore {
+	AE=|Rod Heather|
+	AS=|DthMF|
+	YR=|1996|
+	TG=|5785|
+	TA=|Best Fiction Magazine|
+	TP=|sz|
+	LV=|1|
+}
+The Scream Factory {
+	AE=|Peter Enfantino+Robert Morrish|
+	AS=|DthMN|
+	YR=|1995|
+	TG=|4258|
+	TA=|Best Non-Fiction Magazine|
+	TP=|sz|
+	LV=|1|
+}
+Strange Angels {
+	AE=|Kathe Koja|
+	AS=|DthN|
+	YR=|1995|
+	TG=|6715|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+The Safety of Unknown Cities {
+	AE=|Lucy Taylor|
+	AS=|DthN|
+	YR=|1996|
+	TG=|11846|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Driftglider {
+	AE=|Jeffrey Osier|
+	AS=|DthS|
+	YR=|1995|
+	TG=|8979|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}
+Chatting with Anubis {
+	AE=|Harlan Ellison|
+	AS=|DthS|
+	YR=|1996|
+	TG=|4155|
+	TA=|Best Short Fiction|
+	TP=|sf|
+	LV=|1|
+}

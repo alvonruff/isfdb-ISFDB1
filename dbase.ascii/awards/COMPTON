@@ -1,0 +1,565 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)COMPTON	1.6	05/05/98 ISFDB";
+##
+Courtship Rite {
+	AE=|Donald Kingsbury|
+	AS=|CCA|
+	YR=|1983|
+	TG=|6618|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+The War for Eternity {
+	AE=|Christopher Rowley|
+	AS=|CCA|
+	YR=|1984|
+	TG=|9974|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+A Rumor of Angels {
+	AE=|Marjorie B. Kellogg^M. Bradley Kellogg|
+	AS=|CCA|
+	YR=|1984|
+	TG=|6374|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Tea with the Black Dragon {
+	AE=|R. A. MacAvoy|
+	AS=|CCA|
+	YR=|1984|
+	TG=|7675|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Helix and the Sword {
+	AE=|John C. McLoughlin|
+	AS=|CCA|
+	YR=|1984|
+	TG=|8306|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Blackcollar {
+	AE=|Timothy Zahn|
+	AS=|CCA|
+	YR=|1984|
+	TG=|13827|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Emergence {
+	AE=|David R. Palmer|
+	AS=|CCA|
+	YR=|1985|
+	TG=|9009|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+The Land Beyond the Gate {
+	AE=|Lloyd Arthur Eshbach|
+	AS=|CCA|
+	YR=|1985|
+	TG=|4272|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Paradise {
+	AE=|Don Henderson|
+	AS=|CCA|
+	YR=|1985|
+	TG=|5839|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Copper Crown {
+	AE=|Patricia Kennealy-Morrison^Patricia K. Morrison|
+	AS=|CCA|
+	YR=|1985|
+	TG=|8566|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Game Beyond {
+	AE=|Melissa Scott|
+	AS=|CCA|
+	YR=|1985|
+	TG=|10456|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Them Bones {
+	AE=|Howard Waldrop|
+	AS=|CCA|
+	YR=|1985|
+	TG=|12858|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Aubade for Gamelon {
+	AE=|John Willett|
+	AS=|CCA|
+	YR=|1985|
+	TG=|13256|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Infinity's Web {
+	AE=|Sheila Finch|
+	AS=|CCA|
+	YR=|1986|
+	TG=|4493|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+The Doomsday Effect {
+	AE=|Thomas T. Thomas^Thomas Wren|
+	AS=|CCA|
+	YR=|1987|
+	TG=|13731|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+Shards of Honor {
+	AE=|Lois McMaster Bujold|
+	AS=|CCA|
+	YR=|1987|
+	TG=|1947|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Game of Fox and Lion {
+	AE=|Robert R. Chase|
+	AS=|CCA|
+	YR=|1987|
+	TG=|2620|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Cross-Time Engineer {
+	AE=|Leo Frankowski|
+	AS=|CCA|
+	YR=|1987|
+	TG=|4675|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+A Hidden Place {
+	AE=|Robert Charles Wilson|
+	AS=|CCA|
+	YR=|1987|
+	TG=|13492|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Liege-Killer {
+	AE=|Christopher Hinz|
+	AS=|CCA|
+	YR=|1988|
+	TG=|5915|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+After the Zap {
+	AE=|Michael Armstrong|
+	AS=|CCA|
+	YR=|1988|
+	TG=|490|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+War for the Oaks {
+	AE=|Emma Bull|
+	AS=|CCA|
+	YR=|1988|
+	TG=|1969|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+In Conquest Born {
+	AE=|C. S. Friedman|
+	AS=|CCA|
+	YR=|1988|
+	TG=|4752|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Sheepfarmer's Daughter {
+	AE=|Elizabeth Moon|
+	AS=|CCA|
+	YR=|1989|
+	TG=|8465|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+Dragon Prince {
+	AE=|Melanie Rawn|
+	AS=|CCA|
+	YR=|1989|
+	TG=|9538|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Leaves of October {
+	AE=|Don Sakers|
+	AS=|CCA|
+	YR=|1989|
+	TG=|10183|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Heavenly Horse from the Outermost West {
+	AE=|Mary Stanton|
+	AS=|CCA|
+	YR=|1989|
+	TG=|11330|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Shining Falcon {
+	AE=|Josepha Sherman|
+	AS=|CCA|
+	YR=|1990|
+	TG=|10684|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+Sunglasses After Dark {
+	AE=|Nancy A. Collins|
+	AS=|CCA|
+	YR=|1990|
+	TG=|2895|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Twistor {
+	AE=|John G. Cramer^John Cramer|
+	AS=|CCA|
+	YR=|1990|
+	TG=|3050|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Child of Saturn {
+	AE=|Teresa Edgerton|
+	AS=|CCA|
+	YR=|1990|
+	TG=|3926|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Gate of Ivory {
+	AE=|Doris Egan|
+	AS=|CCA|
+	YR=|1990|
+	TG=|3988|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Steerswoman {
+	AE=|Rosemary Kirstein|
+	AS=|CCA|
+	YR=|1990|
+	TG=|6652|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+In the Country of the Blind {
+	AE=|Michael F. Flynn|
+	AS=|CCA|
+	YR=|1991|
+	TG=|4537|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+The Interior Life {
+	AE=|Dorothy J. Heydt^Katherine Blake|
+	AS=|CCA|
+	YR=|1991|
+	TG=|1367|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+In the Net of Dreams {
+	AE=|Wm. Mark Simmons|
+	AS=|CCA|
+	YR=|1991|
+	TG=|11023|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Reefsong {
+	AE=|Carol Severance|
+	AS=|CCA|
+	YR=|1992|
+	TG=|10486|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+Ground Ties {
+	AE=|Jane S. Fancher|
+	AS=|CCA|
+	YR=|1992|
+	TG=|4342|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Into the Dark Lands {
+	AE=|Michelle West^Michelle Sagara|
+	AS=|CCA|
+	YR=|1992|
+	TG=|10173|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Fire in the Mist {
+	AE=|Holly Lisle|
+	AS=|CCA|
+	YR=|1993|
+	TG=|7530|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+Jumper {
+	AE=|Steven Gould|
+	AS=|CCA|
+	YR=|1993|
+	TG=|5251|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Drylands {
+	AE=|Mary Rosenblum|
+	AS=|CCA|
+	YR=|1994|
+	TG=|9925|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+Cold Allies {
+	AE=|Patricia Anthony|
+	AS=|CCA|
+	YR=|1994|
+	TG=|443|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The Element of Fire {
+	AE=|Martha Wells|
+	AS=|CCA|
+	YR=|1994|
+	TG=|13056|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|CCA|
+	YR=|1994|
+	TG=|74|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|x|
+	LV=|80|
+}
+Chiller {
+	AE=|Gregory Benford^Sterling Blake|
+	AS=|CCA|
+	YR=|1994|
+	TG=|1370|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|85|
+}
+Dun Lady's Jess {
+	AE=|Doranna Durgin|
+	AS=|CCA|
+	YR=|1995|
+	TG=|3878|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+The Gatekeepers {
+	AE=|Daniel Graham, Jr.|
+	AS=|CCA|
+	YR=|1996|
+	TG=|5262|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+Primary Inversion {
+	AE=|Catherine Asaro|
+	AS=|CCA|
+	YR=|1996|
+	TG=|523|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Becoming Human {
+	AE=|Valerie J. Freireich|
+	AS=|CCA|
+	YR=|1996|
+	TG=|4746|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Assassin's Apprentice {
+	AE=|Megan Lindholm^Robin Hobb|
+	AS=|CCA|
+	YR=|1996|
+	TG=|5943|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The End of the Age {
+	AE=|Pat Robertson|
+	AS=|CCA|
+	YR=|1996|
+	TG=|9748|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Celestial Matters {
+	AE=|Richard Garfinkle|
+	AS=|CCA|
+	YR=|1997|
+	TG=|19140|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+The Merro Tree {
+	AE=|Katie Waitman|
+	AS=|CCA|
+	YR=|1998|
+	TG=|19178|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+The High House {
+	AE=|James Stoddard|
+	AS=|CCA|
+	YR=|1999|
+	TG=|19822|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+Flesh and Silver {
+	AE=|Stephen L. Burns|
+	AS=|CCA|
+	YR=|2000|
+	TG=|21115|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|1|
+}
+Transformation {
+	AE=|Carol Berg|
+	AS=|CCA|
+	YR=|2001|
+	TG=|22080|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Storm Front {
+	AE=|Jim Butcher|
+	AS=|CCA|
+	YR=|2001|
+	TG=|22081|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Dykstra's War {
+	AE=|Jeffery D. Kooistra|
+	AS=|CCA|
+	YR=|2001|
+	TG=|22082|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+Mars Crossing {
+	AE=|Geoffrey A. Landis|
+	AS=|CCA|
+	YR=|2001|
+	TG=|22083|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}
+The King's Peace {
+	AE=|Jo Walton|
+	AS=|CCA|
+	YR=|2001|
+	TG=|22084|
+	TA=|Compton Crook Award (Balticon - Best 1st Novel)|
+	TP=|n|
+	LV=|9|
+}

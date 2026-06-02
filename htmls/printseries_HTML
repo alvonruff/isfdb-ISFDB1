@@ -1,0 +1,28 @@
+<html> <head> <title>ISFDB Print Series Menu</title></head>
+<body bgcolor="#ffffff">
+<h1>ISFDB Print Series Menu</h1>
+
+<hr>
+
+<h2>Print Series</h2>
+<ol>
+  <li> <a href="http://HTMLBASE/acedoubles.html">Ace Doubles</a>. (1953-1961)
+  <li> Ace Specials:
+  <ul> 
+    <li> <a href="http://HTMLBASE/acespec1.html">Ace Science Fiction Specials #1</a> (Terry Carr. 1968-1969)
+    <li> <a href="http://HTMLBASE/acespec2.html">Ace Science Fiction Specials #2</a> (1975-1976).
+    <li> <a href="http://HTMLBASE/acespec3.html">New Ace Science Fiction Specials</a>. (Terry Carr. <b>Complete</b> 1984-1990)
+    <li> <a href="http://HTMLBASE/acespec4.html">Ace Fantasy Specials</a>.
+  </ul>
+  <li> <a href="http://HTMLBASE/tordoubles.html">Tor Doubles</a>. (<b>Complete</b> 1988-1991)
+</ol>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" alt="ISFDB Logo" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.
+</body>
+</html>

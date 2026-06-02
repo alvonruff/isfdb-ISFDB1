@@ -1,0 +1,1309 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)RETROH	1.6	06/18/98 ISFDB";
+##
+The Mule {
+	AE=|Isaac Asimov|
+	AS=|RHugN|
+	YR=|1996|
+	TG=|597|
+	TA=|Novel|
+	TP=|nv|
+	LV=|1|
+}
+The World of Null-A {
+	AE=|A. E. van Vogt|
+	AS=|RHugN|
+	YR=|1996|
+	TG=|12556|
+	TA=|Novel|
+	TP=|n|
+	LV=|2|
+}
+That Hideous Strength^The Tortured Planet (1958 US) {
+	AE=|C. S. Lewis|
+	AS=|RHugN|
+	YR=|1996|
+	TG=|7458|
+	TA=|Novel|
+	TP=|n|
+	LV=|3|
+}
+Destiny Times Three {
+	AE=|Fritz Leiber|
+	AS=|RHugN|
+	YR=|1996|
+	TG=|7353|
+	TA=|Novel|
+	TP=|n|
+	LV=|4|
+}
+Red Sun of Danger^Danger Planet {
+	AE=|Edmond Hamilton^Brett Sterling|
+	AS=|RHugN|
+	YR=|1996|
+	TG=|11440|
+	TA=|Novel|
+	TP=|n|
+	LV=|5|
+}
+Pebble in the Sky {
+	AE=|Isaac Asimov|
+	AS=|RHugN|
+	YR=|2001|
+	TG=|22351|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+Farmer in the Sky {
+	AE=|Robert A. Heinlein|
+	AS=|RHugN|
+	YR=|2001|
+	TG=|22418|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Lion, the Witch, and the Wardrobe {
+	AE=|C. S. Lewis|
+	AS=|RHugN|
+	YR=|2001|
+	TG=|22444|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+First Lensman {
+	AE=|E. E. Smith|
+	AS=|RHugN|
+	YR=|2001|
+	TG=|22505|
+	TA=|Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dying Earth {
+	AE=|Jack Vance|
+	AS=|RHugN|
+	YR=|2001|
+	TG=|22534|
+	TA=|Novel|
+	TP=|c|
+	LV=|9|
+}
+Animal Farm {
+	AE=|George Orwell|
+	AS=|RHugL|
+	YR=|1996|
+	TG=|8975|
+	TA=|Novella|
+	TP=|n|
+	LV=|1|
+}
+Dead Hand {
+	AE=|Isaac Asimov|
+	AS=|RHugL|
+	YR=|1996|
+	TG=|566|
+	TA=|Novella|
+	TP=|nv|
+	LV=|2|
+}
+Giant Killer {
+	AE=|A. Bertram Chandler|
+	AS=|RHugL|
+	YR=|1996|
+	TG=|2562|
+	TA=|Novella|
+	TP=|nv|
+	LV=|3|
+}
+I Remember Lemuria {
+	AE=|Richard S. Shaver|
+	AS=|RHugL|
+	YR=|1996|
+	TG=|10494|
+	TA=|Novella|
+	TP=|nv|
+	LV=|4|
+}
+...And Now You Don't {
+	AE=|Isaac Asimov|
+	AS=|RHugL|
+	YR=|2001|
+	TG=|22350|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Man Who Sold the Moon {
+	AE=|Robert A. Heinlein|
+	AS=|RHugL|
+	YR=|2001|
+	TG=|22419|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+To the Stars {
+	AE=|L. Ron Hubbard|
+	AS=|RHugL|
+	YR=|2001|
+	TG=|22428|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Last Enemy {
+	AE=|H. Beam Piper|
+	AS=|RHugL|
+	YR=|2001|
+	TG=|22474|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+The Dreaming Jewels {
+	AE=|Theodore Sturgeon|
+	AS=|RHugL|
+	YR=|2001|
+	TG=|22521|
+	TA=|Novella|
+	TP=|nv|
+	LV=|9|
+}
+First Contact {
+	AE=|Murray Leinster|
+	AS=|RHugT|
+	YR=|1996|
+	TG=|7401|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Pi in the Sky {
+	AE=|Fredric Brown|
+	AS=|RHugT|
+	YR=|1996|
+	TG=|1796|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Into Thy Hands {
+	AE=|Lester del Rey|
+	AS=|RHugT|
+	YR=|1996|
+	TG=|3407|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|3|
+}
+The Mixed Men^Mission to the Stars {
+	AE=|A. E. van Vogt|
+	AS=|RHugT|
+	YR=|1996|
+	TG=|12554|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|4|
+}
+The Piper's Son {
+	AE=|(Henry Kuttner+C. L. Moore)^Lewis Padgett|
+	AS=|RHugT|
+	YR=|1996|
+	TG=|8996|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|RHugT|
+	YR=|1996|
+	TG=|182|
+	TA=|Novelette|
+	TP=|x|
+	LV=|90|
+}
+Things Pass By {
+	AE=|Murray Leinster|
+	AS=|RHugT|
+	YR=|1996|
+	TG=|7404|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|99|
+}
+Beggars in Velvet {
+	AE=|(Henry Kuttner+C. L. Moore)^Lewis Padgett|
+	AS=|RHugT|
+	YR=|1996|
+	TG=|8993|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|99|
+}
+The Lion and the Unicorn {
+	AE=|(Henry Kuttner+C. L. Moore)^Lewis Padgett|
+	AS=|RHugT|
+	YR=|1996|
+	TG=|8995|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|99|
+}
+Three Blind Mice {
+	AE=|(Henry Kuttner+C. L. Moore)^Lewis Padgett|
+	AS=|RHugT|
+	YR=|1996|
+	TG=|8997|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|99|
+}
+Pandora's Millions {
+	AE=|George O. Smith|
+	AS=|RHugT|
+	YR=|1996|
+	TG=|11110|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|99|
+}
+Special Delivery {
+	AE=|George O. Smith|
+	AS=|RHugT|
+	YR=|1996|
+	TG=|11111|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|99|
+}
+The Helping Hand {
+	AE=|Poul Anderson|
+	AS=|RHugT|
+	YR=|2001|
+	TG=|22343|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Okie {
+	AE=|James Blish|
+	AS=|RHugT|
+	YR=|2001|
+	TG=|22361|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+The Little Black Bag {
+	AE=|C. M. Kornbluth|
+	AS=|RHugT|
+	YR=|2001|
+	TG=|22436|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Dear Devil {
+	AE=|Eric Frank Russell|
+	AS=|RHugT|
+	YR=|2001|
+	TG=|22493|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Scanners Live in Vain {
+	AE=|Cordwainer Smith|
+	AS=|RHugT|
+	YR=|2001|
+	TG=|22504|
+	TA=|Novelette|
+	TP=|nt|
+	LV=|9|
+}
+Uncommon Sense {
+	AE=|Hal Clement|
+	AS=|RHugS|
+	YR=|1996|
+	TG=|2853|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Ethical Equations {
+	AE=|Murray Leinster|
+	AS=|RHugS|
+	YR=|1996|
+	TG=|7399|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|2|
+}
+The Waveries {
+	AE=|Fredric Brown|
+	AS=|RHugS|
+	YR=|1996|
+	TG=|1797|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|3|
+}
+What You Need {
+	AE=|(Henry Kuttner+C. L. Moore)^Lewis Padgett|
+	AS=|RHugS|
+	YR=|1996|
+	TG=|8998|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Correspondence Course {
+	AE=|Raymond F. Jones|
+	AS=|RHugS|
+	YR=|1996|
+	TG=|6255|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|RHugS|
+	YR=|1996|
+	TG=|181|
+	TA=|Short Story|
+	TP=|x|
+	LV=|90|
+}
+Blind Alley {
+	AE=|Isaac Asimov|
+	AS=|RHugS|
+	YR=|1996|
+	TG=|554|
+	TA=|Short Story|
+	TP=|nt|
+	LV=|99|
+}
+Paradoxical Escape {
+	AE=|Isaac Asimov|
+	AS=|RHugS|
+	YR=|1996|
+	TG=|599|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|99|
+}
+Lefty Feep Gets Henpecked {
+	AE=|Robert Bloch|
+	AS=|RHugS|
+	YR=|1996|
+	TG=|1420|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|99|
+}
+De Profundis {
+	AE=|Murray Leinster|
+	AS=|RHugS|
+	YR=|1996|
+	TG=|7398|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|99|
+}
+The Power {
+	AE=|Murray Leinster|
+	AS=|RHugS|
+	YR=|1996|
+	TG=|7403|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|99|
+}
+Line to Tomorrow {
+	AE=|(Henry Kuttner+C. L. Moore)^Lewis Padgett|
+	AS=|RHugS|
+	YR=|1996|
+	TG=|8994|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|99|
+}
+The World-Thinker {
+	AE=|Jack Vance|
+	AS=|RHugS|
+	YR=|1996|
+	TG=|12609|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|99|
+}
+The Gnurrs Come from the Voodvork Out {
+	AE=|Reginald Bretnor|
+	AS=|RHugS|
+	YR=|2001|
+	TG=|22370|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+A Subway Named Mobius {
+	AE=|A. J. Deutsch|
+	AS=|RHugS|
+	YR=|2001|
+	TG=|22391|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+To Serve Man {
+	AE=|Damon Knight|
+	AS=|RHugS|
+	YR=|2001|
+	TG=|22435|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Coming Attraction {
+	AE=|Fritz Leiber|
+	AS=|RHugS|
+	YR=|2001|
+	TG=|22441|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Born of Man and Woman {
+	AE=|Richard Matheson|
+	AS=|RHugS|
+	YR=|2001|
+	TG=|22453|
+	TA=|Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Insufficient Nominations - Not on ballot {
+	AE=|(********)|
+	AS=|RHugR|
+	YR=|2001|
+	TG=|22333|
+	TA=|Related Book|
+	TP=|x|
+	LV=|72|
+}
+The Picture of Dorian Gray {
+	AE=|Albert Lewin+Oscar Wilde|
+	MV=|Picture of Dorian Gray, The (1945)|
+	AS=|RHugD|
+	YR=|1996|
+	TG=|1149|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|1|
+}
+Blithe Spirit {
+	AE=|Noël Coward|
+	MV=|Blithe Spirit (1946)|
+	AS=|RHugD|
+	YR=|1996|
+	TG=|3010|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|2|
+}
+The Body Snatcher {
+	AE=|Val Lewton+Philip MacDonald+Robert Louis Stevenson|
+	MV=|Body Snatcher, The (1945)|
+	AS=|RHugD|
+	YR=|1996|
+	TG=|7462|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|3|
+}
+House of Dracula {
+	AE=|Edward T. Lowe, Jr.|
+	MV=|House of Dracula (1945)|
+	AS=|RHugD|
+	YR=|1996|
+	TG=|7770|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|4|
+}
+The Horn Blows at Midnight {
+	AE=|Sam Hellman+James V. Kern|
+	MV=|Horn Blows at Midnight, The (1945)|
+	AS=|RHugD|
+	YR=|1996|
+	TG=|5838|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|5|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|RHugD|
+	YR=|1996|
+	TG=|179|
+	TA=|Dramatic Presentation|
+	TP=|x|
+	LV=|90|
+}
+Dead of Night {
+	AE=|John Baines+E. F. Benson+T. E. B. Clarke+Angus MacPhail+H. G. Wells|
+	MV=|Dead of Night (1945)|
+	AS=|RHugD|
+	YR=|1996|
+	TG=|12324|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|99|
+}
+The Road to Utopia {
+	AE=|Melvin Frank+Norman Panama|
+	MV=|Road to Utopia (1945)|
+	AS=|RHugD|
+	YR=|1996|
+	TG=|12408|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|99|
+}
+Wonder Man {
+	AE=|Don Hardman+Jack Jevne+Eddie Moran+Philip Rapp+Melville Shavelson+Arthur Sheekman|
+	MV=|Wonder Man (1945)|
+	AS=|RHugD|
+	YR=|1996|
+	TG=|12475|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|99|
+}
+Isle of the Dead {
+	AE=|Josef Mischel+Ardel Wray|
+	MV=|Isle of the Dead (1945)|
+	AS=|RHugD|
+	YR=|1996|
+	TG=|12368|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|99|
+}
+House of Frankenstein {
+	AE=|Curt Siodmak+Edward T. Lowe, Jr.|
+	MV=|House of Frankenstein (1944)|
+	AS=|RHugD|
+	YR=|1996|
+	TG=|12362|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|99|
+}
+Cinderella {
+	AE=|Ken Anderson+Homer Brightman|
+	MV=|Cinderella (1950)|
+	AS=|RHugD|
+	YR=|2001|
+	TG=|22342|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Harvey {
+	AE=|Mary Chase+Oscar Brodney|
+	MV=|Harvey (1950)|
+	AS=|RHugD|
+	YR=|2001|
+	TG=|22382|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Destination Moon {
+	AE=|Robert A. Heinlein+Alfort Van Ronkel+James O'Hanlon|
+	MV=|Destination Moon (1950)|
+	AS=|RHugD|
+	YR=|2001|
+	TG=|22420|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Rabbit of Seville {
+	AE=|Chuck Jones+Michael Maltese|
+	MV=|Rabbit of Seville (1950)|
+	AS=|RHugD|
+	YR=|2001|
+	TG=|22430|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+Rocketship X-M {
+	AE=|Kurt Neumann+Dalton Trumbo|
+	MV=|Rocketship X-M (1950)|
+	AS=|RHugD|
+	YR=|2001|
+	TG=|22464|
+	TA=|Dramatic Presentation|
+	TP=|f|
+	LV=|9|
+}
+untitled {
+	AE=|John W. Campbell, Jr.|
+	AS=|RHugE|
+	YR=|1996|
+	TG=|2176|
+	TA=|Best Professional Editor|
+	TP=|ed|
+	LV=|1|
+}
+untitled {
+	AE=|Donald A. Wollheim|
+	AS=|RHugE|
+	YR=|1996|
+	TG=|13676|
+	TA=|Best Professional Editor|
+	TP=|ed|
+	LV=|2|
+}
+untitled {
+	AE=|Raymond A. Palmer|
+	AS=|RHugE|
+	YR=|1996|
+	TG=|9016|
+	TA=|Best Professional Editor|
+	TP=|ed|
+	LV=|3|
+}
+untitled {
+	AE=|Sam Merwin, Jr.|
+	AS=|RHugE|
+	YR=|1996|
+	TG=|8351|
+	TA=|Best Professional Editor|
+	TP=|ed|
+	LV=|4|
+}
+untitled {
+	AE=|Anthony Boucher|
+	AS=|RHugE|
+	YR=|2001|
+	TG=|22364|
+	TA=|Best Professional Editor|
+	TP=|ed|
+	LV=|9|
+}
+untitled {
+	AE=|John W. Campbell, Jr.|
+	AS=|RHugE|
+	YR=|2001|
+	TG=|22376|
+	TA=|Best Professional Editor|
+	TP=|ed|
+	LV=|9|
+}
+untitled {
+	AE=|Groff Conklin|
+	AS=|RHugE|
+	YR=|2001|
+	TG=|22385|
+	TA=|Best Professional Editor|
+	TP=|ed|
+	LV=|9|
+}
+untitled {
+	AE=|H. L. Gold|
+	AS=|RHugE|
+	YR=|2001|
+	TG=|22411|
+	TA=|Best Professional Editor|
+	TP=|ed|
+	LV=|9|
+}
+untitled {
+	AE=|J. Francis McComas|
+	AS=|RHugE|
+	YR=|2001|
+	TG=|22454|
+	TA=|Best Professional Editor|
+	TP=|ed|
+	LV=|9|
+}
+untitled {
+	AE=|Virgil Finlay|
+	AS=|RHugA|
+	YR=|1996|
+	TG=|4503|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Hannes Bok|
+	AS=|RHugA|
+	YR=|1996|
+	TG=|1453|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Frank R. Paul|
+	AS=|RHugA|
+	YR=|1996|
+	TG=|9075|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|3|
+}
+untitled {
+	AE=|Edd Cartier|
+	AS=|RHugA|
+	YR=|1996|
+	TG=|2496|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|4|
+}
+untitled {
+	AE=|Earle K. Bergey|
+	AS=|RHugA|
+	YR=|1996|
+	TG=|1146|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|5|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|RHugA|
+	YR=|1996|
+	TG=|152|
+	TA=|Best Professional Artist|
+	TP=|x|
+	LV=|90|
+}
+untitled {
+	AE=|Chesley Bonestell|
+	AS=|RHugA|
+	YR=|1996|
+	TG=|1462|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|93|
+}
+untitled {
+	AE=|Ed Emshwiller|
+	AS=|RHugA|
+	YR=|1996|
+	TG=|4256|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|93|
+}
+untitled {
+	AE=|Paul Orban|
+	AS=|RHugA|
+	YR=|1996|
+	TG=|8941|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|93|
+}
+untitled {
+	AE=|Alex Schomburg|
+	AS=|RHugA|
+	YR=|1996|
+	TG=|10418|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|93|
+}
+untitled {
+	AE=|William Timmins|
+	AS=|RHugA|
+	YR=|1996|
+	TG=|11944|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|93|
+}
+untitled {
+	AE=|Hannes Bok|
+	AS=|RHugA|
+	YR=|2001|
+	TG=|22362|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Chesley Bonestell|
+	AS=|RHugA|
+	YR=|2001|
+	TG=|22363|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Edd Cartier|
+	AS=|RHugA|
+	YR=|2001|
+	TG=|22380|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Virgil Finlay|
+	AS=|RHugA|
+	YR=|2001|
+	TG=|22399|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Frank Kelly Freas|
+	AS=|RHugA|
+	YR=|2001|
+	TG=|22403|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|9|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|RHugA|
+	YR=|2001|
+	TG=|22335|
+	TA=|Best Professional Artist|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|Ed Emshwiller|
+	AS=|RHugA|
+	YR=|2001|
+	TG=|22396|
+	TA=|Best Professional Artist|
+	TP=|ar|
+	LV=|85|
+}
+Insufficient Nominations - Not on ballot {
+	AE=|(********)|
+	AS=|RHugPZ|
+	YR=|2001|
+	TG=|22334|
+	TA=|Semi-Prozine|
+	TP=|x|
+	LV=|72|
+}
+Voice of the Imagi-Nation {
+	AE=|Forrest J Ackerman|
+	AS=|RHugFZ|
+	YR=|1996|
+	TG=|199|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|1|
+}
+Chanticleer {
+	AE=|Walt Liebscher|
+	AS=|RHugFZ|
+	YR=|1996|
+	TG=|7475|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|2|
+}
+Shangri L'Affaires {
+	AE=|Charles E. Burbee+Gerald Hewitt|
+	AS=|RHugFZ|
+	YR=|1996|
+	TG=|1977|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|3|
+}
+The Acolyte {
+	AE=|Francis Towner Laney|
+	AS=|RHugFZ|
+	YR=|1996|
+	TG=|6982|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|4|
+}
+Fantasy Commentator {
+	AE=|A. Langley Searles|
+	AS=|RHugFZ|
+	YR=|1996|
+	TG=|10465|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|5|
+}
+Rank 99 = Nomination Below Cutoff {
+	AE=|(********)|
+	AS=|RHugFZ|
+	YR=|1996|
+	TG=|180|
+	TA=|Fanzine|
+	TP=|x|
+	LV=|90|
+}
+Le Zombie {
+	AE=|Unknown-Mags|
+	AS=|RHugFZ|
+	YR=|1996|
+	TG=|12221|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|99|
+}
+YHOS {
+	AE=|Unknown-Mags|
+	AS=|RHugFZ|
+	YR=|1996|
+	TG=|12267|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|99|
+}
+The Fanscient {
+	AE=|Donald B. Day|
+	AS=|RHugFZ|
+	YR=|2001|
+	TG=|22388|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Quandry {
+	AE=|Lee Hoffman|
+	AS=|RHugFZ|
+	YR=|2001|
+	TG=|22423|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Science Fiction Newsletter {
+	AE=|Wilson Tucker^Bob Tucker|
+	AS=|RHugFZ|
+	YR=|2001|
+	TG=|22527|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Skyhook {
+	AE=|Unknown-Mags|
+	AS=|RHugFZ|
+	YR=|2001|
+	TG=|22530|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Spacewarp {
+	AE=|Unknown-Mags|
+	AS=|RHugFZ|
+	YR=|2001|
+	TG=|22531|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+Slant {
+	AE=|Walter A. Willis|
+	AS=|RHugFZ|
+	YR=|2001|
+	TG=|22417|
+	TA=|Fanzine|
+	TP=|fz|
+	LV=|9|
+}
+untitled {
+	AE=|Forrest J Ackerman|
+	AS=|RHugFW|
+	YR=|1996|
+	TG=|198|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|1|
+}
+untitled {
+	AE=|Wilson Tucker|
+	AS=|RHugFW|
+	YR=|1996|
+	TG=|12060|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|2|
+}
+untitled {
+	AE=|Charles E. Burbee|
+	AS=|RHugFW|
+	YR=|1996|
+	TG=|1976|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|3|
+}
+untitled {
+	AE=|Art Widner|
+	AS=|RHugFW|
+	YR=|1996|
+	TG=|13180|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|4|
+}
+untitled {
+	AE=|Francis Towner Laney|
+	AS=|RHugFW|
+	YR=|1996|
+	TG=|6981|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|5|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|RHugFW|
+	YR=|1996|
+	TG=|153|
+	TA=|Fan Writer|
+	TP=|x|
+	LV=|90|
+}
+untitled {
+	AE=|Robert Bloch|
+	AS=|RHugFW|
+	YR=|1996|
+	TG=|1414|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|93|
+}
+untitled {
+	AE=|Joe Kennedy|
+	AS=|RHugFW|
+	YR=|1996|
+	TG=|6424|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|93|
+}
+untitled {
+	AE=|Jack Speer|
+	AS=|RHugFW|
+	YR=|1996|
+	TG=|11194|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|93|
+}
+untitled {
+	AE=|Lee Hoffman|
+	AS=|RHugFW|
+	YR=|2001|
+	TG=|22422|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Robert Silverberg|
+	AS=|RHugFW|
+	YR=|2001|
+	TG=|22503|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Wilson Tucker^Bob Tucker|
+	AS=|RHugFW|
+	YR=|2001|
+	TG=|22526|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|James White|
+	AS=|RHugFW|
+	YR=|2001|
+	TG=|22537|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+untitled {
+	AE=|Walter A. Willis^Walt Willis|
+	AS=|RHugFW|
+	YR=|2001|
+	TG=|22408|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|9|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|RHugFW|
+	YR=|2001|
+	TG=|22337|
+	TA=|Fan Writer|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|Harlan Ellison|
+	AS=|RHugFW|
+	YR=|2001|
+	TG=|22394|
+	TA=|Fan Writer|
+	TP=|fw|
+	LV=|85|
+}
+untitled {
+	AE=|William Rotsler|
+	AS=|RHugFA|
+	YR=|1996|
+	TG=|9967|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|1|
+}
+untitled {
+	AE=|Alva Rogers|
+	AS=|RHugFA|
+	YR=|1996|
+	TG=|9906|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|2|
+}
+untitled {
+	AE=|Joe Gibson|
+	AS=|RHugFA|
+	YR=|1996|
+	TG=|4967|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|3|
+}
+untitled {
+	AE=|Lou Goldstone, Jr.|
+	AS=|RHugFA|
+	YR=|1996|
+	TG=|5206|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|4|
+}
+untitled {
+	AE=|Jack Wiedenbeck|
+	AS=|RHugFA|
+	YR=|1996|
+	TG=|13181|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|5|
+}
+untitled {
+	AE=|Jack Gaughan|
+	AS=|RHugFA|
+	YR=|2001|
+	TG=|22404|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Lee Hoffman|
+	AS=|RHugFA|
+	YR=|2001|
+	TG=|22421|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|Ray Nelson|
+	AS=|RHugFA|
+	YR=|2001|
+	TG=|22463|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|William Rotsler|
+	AS=|RHugFA|
+	YR=|2001|
+	TG=|22491|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+untitled {
+	AE=|James White|
+	AS=|RHugFA|
+	YR=|2001|
+	TG=|22536|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|9|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|RHugFA|
+	YR=|2001|
+	TG=|22336|
+	TA=|Fan Artist|
+	TP=|x|
+	LV=|80|
+}
+untitled {
+	AE=|David A. Kyle|
+	AS=|RHugFA|
+	YR=|2001|
+	TG=|22439|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|85|
+}
+untitled {
+	AE=|Bjo Trimble|
+	AS=|RHugFA|
+	YR=|2001|
+	TG=|22523|
+	TA=|Fan Artist|
+	TP=|fa|
+	LV=|85|
+}

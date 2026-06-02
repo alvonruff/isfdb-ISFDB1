@@ -1,0 +1,699 @@
+<html>
+<title>What's New With The ISFDB (1996)</title>
+<body bgcolor=ffffff>
+<h1>What's New With The ISFDB (1996)</h1>
+
+<hr>
+<dt><b> 20 December 1996:</b>
+<ul>
+ <font size=-1>
+ <li> I'm out of here for 2 weeks; there may or may not be any updates
+ to the ISFDB during this time.
+ </font>
+</ul>
+<p>
+<dt><b> 09 December 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added all of the NESFA entries for <i>Omni</i> magazine and
+ <i>Rod Serling's Twilight Zone Magazine</i>.
+ </font>
+</ul>
+<p>
+<dt><b> 02 December 1996:</b>
+<ul>
+ <font size=-1>
+ <li> All of the collections in the NESFA database have been added to
+ the ISFDB. There were 605 collections, 337 of them new; there were
+ 5592 short stories, 2343 of them new. Next up: the 1623 anthologies
+ (with roughly 15,000 short stories) in the NESFA database.
+ <li> Exceeded 40,000 titles.
+ <li> Added the IFA awards.
+ <li> Finally added the page which describes how to do bulk data submissions.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 12 November 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added a new field to the awards database which allows film entries
+ to link to the IMDB (Internet Movie DataBase). This makes the database
+ incompatible with version 1.4 of the ISFDB, so the Rev Number has been
+ changed to 1.5. I put in a fair number of the new film links, but there 
+ are still a lot missing.
+ </font>
+</ul>
+<p>
+
+<dt><b> 04 November 1996:</b>
+<ul>
+ <font size=-1>
+ <li> The first massive change to the awards has been integrated.
+ About two thousand new entries have been added, mostly missing
+ nominations from existing awards. Expect some flux in the
+ way awards are displayed over the next week or so. Some winners
+ and nominees may not display an award citation on the author's
+ bibliography until the title database and the awards database are
+ in agreement.
+ <li> Tracked down and killed several hundred short fiction duplicates.
+ These were titles with slight lexical differences (spelling, capitalization,
+ dropped articles).
+ <li> Rewrote the semantic parser to handle additional title characters
+ in the new awards data as well as the NESFA database.
+ </font>
+</ul>
+<p>
+<hr>
+
+<dl><dt><b> 29 October 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added the BSFA awards.
+ <li> Updated the front page of the ISFDB.
+ </font>
+</ul>
+<p>
+
+<dt><b> 28 October 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added a massive number of Locus awards (up from 1219 to 4476 award entries).
+ The data was machine-generated from David G. Grubbs database, so there may be 
+ a "period of adjustment" over the next few days.
+ <li> Added the Ditmar Awards (517 entries).
+ <li> There will be a lot of awards activity over the next 2 weeks, so expect some
+ flux.
+ <li> Altered the AwYear application such that award levels are sorted before
+ presentation.
+ <li> Work has begun on merging the NESFA database (about 49,000 short fiction
+ titles) into the ISFDB.
+ </font>
+</ul>
+<p>
+
+<dt><b> 25 October 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added a page for <i>Fantastic</i> and <i>Fantastic Adventures</i>, and
+ put selected issues from 1961 and 1962 online.
+ <li> The database is now large enough that it takes more than 30 minutes
+ to compile. In order to decrease the amount of time lost through building
+ the database, and to accommodate the increase in user-submitted data, I'm
+ going to schedule an official build once a week, instead of nearly daily.
+ The new database will be put online every Monday morning. The next release 
+ date will be displayed next to the current build time on the title page.
+ Hopefully, I can stop making the Excuse of the Week as to why I'm not caught 
+ up with all of the new data.
+ <li> Excuse of the Week: I'm still trying to recover after my house suffered 
+ "The Lightning Incident" last week. I will try <i>real</i> hard to catch up this 
+ weekend.
+ </font>
+</ul>
+<p>
+<dt><b> 23 October 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added several years (1961-1966) of Amazing Stories and made a first pass
+ at completing the Amazing Stories publication table.
+ </font>
+</ul>
+<p>
+<dt><b> 16 October 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added the British Fantasy Awards. This data altered the top 100 lists.
+ <li> Added White Knuckles magazine issues.
+ <li> Added several years of Amazing Stories.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 26 September 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added the 'F' html directive. If used in any notes or synopsis area,
+ it will generate a link to the Internet Movie Database. Example:
+ %%F,Star Wars (1977)%%.
+ </font>
+</ul>
+<p>
+<dt><b> 09 September 1996:</b>
+<ul>
+ <font size=-1>
+ <li> To make up for the ISFDB being down all weekend, I've added two new 
+ award-based features: The Top Novels of the Year listing, and The Top
+ Short Stories of the Year listing. Like the Top 100 lists, these are
+ constructed from the awards database; all works scoring at least 50
+ points are displayed and sorted on a per year basis. The new lists
+ can be found on the Top 100 Lists page.
+ </font>
+</ul>
+<p>
+<dt><b> 05 September 1996:</b>
+<ul>
+ <font size=-1>
+ <li> The 1996 WFA nominees are now online. The Prometheus and
+ Hall of Fame awards have been updated as well.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 26 August 1996:</b>
+<ul>
+ <font size=-1>
+ <li> My mailbox disappeared while I was away; if you sent me email in the
+ last 2 weeks and I haven't responded, please resend.
+ </font>
+</ul>
+<p>
+<dt><b> 16 August 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Exceeded 35,000 titles.
+ <li> There have been a lot of data submissions recently which required 
+ manual handling, so things are a bit behind. I'll be away next week as 
+ well, so it my take some time to catch up.
+ </font>
+</ul>
+<p>
+<dt><b> 7 August 1996:</b>
+<ul>
+ <font size=-1>
+ <li> The new Locus Poll results are now online (just the fiction entries).
+ <li> The John Boston database is merged.
+ </font>
+</ul>
+<p>
+<hr>
+<dt><b> 29 July 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Exceeded 30,000 titles.
+ <li> Merged in 14 years of Analog/Astounding data from Cary Thomas'
+ database. This completes the Analog run, and puts a big dent on the
+ remaining Astounding issues.
+ <li> Ahasuerus punched in 22 more issues of <i>Galaxy</i>
+ <li> Added several Top 100 lists.
+ <li> Merging of John Boston's short story data begins this week.
+ </font>
+</ul>
+<p>
+<dt><b> 22 July 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Took the first steps in merging John Boston's database into the ISFDB.
+ The Anthology and Collection titles have been added to the ISFDB, but the
+ merge isn't complete, so there are still some duplicates and "unknown"
+ dates. The associated short story data (about 7500 entries) has not been
+ added, as it is still under construction.
+ <li> Added 8 issues of Galaxy (1950-1951)
+ </font>
+</ul>
+<p>
+<dt><b> 15 July 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added 4 years of Amazing Stories (1926-1929)
+ <li> Added 6 years of Amazing Stories Quarterly (1928-1934)
+ <li> Added 4 issues of New Worlds (1959)
+ </font>
+</ul>
+<p>
+<dt><b> 8 July 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added 10 years of Worlds of If (1965-1974)
+ <li> Added 6 issues of Worlds of Tomorrow (1965-1966)
+ <li> Added the SF Chronicle awards.
+ </font>
+</ul>
+<p>
+<dt> <b> 1 July 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Finally added the 1965-1968 issues of F&SF.
+ <li> Added the Hall of Fame awards.
+ <li> Added the Prometheus awards.
+ <li> Added the SFBC awards.
+ <li> Updated the Stoker award winners for 1996.
+ </font>
+</ul>
+<hr>
+<p>
+<dt> <b> 3 June 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Brought 2 more years of F&SF online. 
+ </font>
+</ul>
+<hr>
+<p>
+<dt> <b>31 May 1996:</b>
+<ul>
+ <font size=-1>
+ <li> After exchanging some email with Élisabeth Vonarburg and
+ some users in France, it became apparent that something needed
+ to be done about the foreign language character problem. The
+ old 7-bit ASCII, lex-based parser has been jettisoned, replaced 
+ by a shiny new hand-tooled parser which doesn't care what character
+ set is in use. In <i>theory</i>, this should also handle ISO 
+ character sets as well. Non-8-bit character sets might mess up
+ tab and column calculations, but we'll handle that as need arises.
+ Actually getting the characters into the database is a bitch since
+ my keyboard doesn't support most of these characters, even using
+ bizarre control-alt-shift-tab-option chords (Thank God for
+ cut-n-paste).
+ </font>
+</ul>
+<p>
+<dt> <b>30 May 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Finally added the series number field to all of the entry 
+ forms. Knock yourselves out.
+ <li> Some users have requested that the "Check Data" facility be
+ linked to time in some way, so that they can see how old the data
+ is, or how long it has been since the last 'culling'. Each entry
+ is now timestamped - to the second.
+ <li> Fixed the C4 form so that it preserves all title types.
+ </font>
+</ul>
+<p>
+<dt> <b>29 May 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added support for the HOMer awards.
+ <li> Made several fixes to the "Add Title" feature, which
+ caused lost data.
+ </font>
+</ul>
+<p>
+<dt> <b>28 May 1996:</b>
+<ul>
+ <font size=-1>
+ <li> The number of database queries has finally exceeded the
+ number of titles in the database. This doesn't really mean anything -
+ just threw that out for you numerology buffs.
+ <li> After almost a week away, have caught up on user-submitted data.
+ <li> Fixed a problem with the Notes section on new magazines.
+ <li> Fixed title searching so that Essays. Articles, 
+ Reviews, and Interviews show up.
+ </font>
+</ul>
+<p>
+<dt> <b>20 May 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added support for interview data. The interview should show up
+ in the content listing of the publication it appeared in, and on
+ the target author's bibliography near the bio.
+ </font>
+</ul>
+<p>
+<dt> <b>15 May 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added Lamba award winners relevant to SF.
+ <li> Exceeded 25,000 titles.
+ </font>
+</ul>
+<p>
+<dt> <b>14 May 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added a facility such that users can check to see if submitted
+ data actually made it into the data file okay.
+ <li> Increased the default number of entries for new anthologies and
+ collections to 30.
+ <li> Decreased the default number of entries for new magazines to 15,
+ and added a year field to handle reprints.
+ <li> Added automatic creation of publication tags for data entries.
+ </font>
+</ul>
+<p>
+<dt> <b>13 May 1996:</b>
+<ul>
+ <li>
+ <font size=-1>
+ Focus for the week was primarily on review magazines, which take a
+ bit more work to enter, so progress was slower. Magazines brought online: 
+ Space Science Fiction Magazine (1957), 2 more years of the New 
+ York Review of Science Fiction (1990-1991), 3 issues of Locus (Mar-May 96).
+ A great deal of data was submitted by readers as well.
+ </font>
+</ul>
+<p>
+<dt> <b>11 May 1996:</b>
+<ul>
+ <font size=-1>
+ <li> The ISFDB was offline for about 10 hours on Saturday morning/afternoon
+ after CU-Online suddenly changed Operating Systems. The move from Solaris
+ to SunOS induced a few seconds of panic when it became obvious that
+ the Sun compiler didn't support ANSI prototyping; fortunately the gcc
+ compiler was present, saving several hours of work. All of the file
+ permissions were completely hosed up during the move, resulting in
+ permission errors. All should be working except for research requests,
+ but normal submissions seem to function.
+ </font>
+</ul>
+<p>
+<dt> <b>06 May 1996:</b>
+<ul>
+ <font size=-1>
+ <li> The first experiment in translating the NESFA shortfiction
+ index database into ISFDB format was performed on the 1953-1958
+ Galaxy data (about 500 titles). The final merge hasn't been polished 
+ yet, so there may be some duplicate titles in the 53-58 era.
+ <li> After going three 3 different operating systems in 2 weeks,
+ the submission of data via email appears to be unreliable. Data
+ is now submitted locally (as it used to originally, before CU-Online
+ began to mount the directories via NFS). The Lost Squadron of email
+ submissions have also been tracked down.
+ <li> Magazines brought online: 5 years of Galaxy (1965-1969), 8
+ issues of the new Galaxy (1994-1995), 6 years of Eidolon (1990-1995), 
+ 15 issues of Astounding (1948-1950), 1 year of Unknown (1939), the 
+ complete line of Avon Science Fiction and Fantasy Readers (2 issues),
+ 2 years of The New York Review of Science Fiction (1988-1989).
+ </font>
+</ul>
+<p>
+<dt> <b>03 May 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Revamped the review printing mechanism such that reviews are
+ printed in blocks, grouped by reviewer, as suggested by Michael J.
+ Cross. This seems to look a bit more attractive.
+ <li> Added a boatload of new award types, which show up in the WFA
+ as well as the Hugo 1996 award listings.
+ <li> Dumped in the Tiptree awards from Paul Cardinal. There may be
+ some orphaned author links.
+ </font>
+</ul>
+<p>
+<hr>
+<p>
+<dt> <b>29 Apr 1996:</b>
+<ul>
+ <font size=-1>
+ <li> A first pass at tracking print reviews is now online (for books
+ only). If a book has a review associated with it, a [Reviews]
+ label will appear next to the work. The review will also show up on
+ the reviewer's bibliography summary, as well as the publication in
+ which the review was printed in.
+ <li> More magazines were brought online this week:
+ 5 years of Analog (1969-1973), 10 years of Galaxy (1970-1979),
+ 1 year of F&SF (1972), 19 issues of Astounding (1945-1947).
+ </font>
+</ul>
+<p>
+<dt> <b>26 Apr 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Rolled over 20,000 titles.
+ <li> Created a new title page, and cleaned up some of the larger magazine pages 
+ with tables, but left pointers to the old pages for the sake of bad browsers.
+ </font>
+</ul>
+<p>
+<dt> <b>22 Apr 1996:</b>
+<ul>
+ <font size=-1>
+ <li> More magazines were brought online this week:
+ 7 years of ON SPEC (1989-1995), 7 years of Analog (1967-1968,1974-1978),
+ and 5 years of F&SF (1973-1977).
+ <li> About 650 new WFA award entries were entered.
+ <li> The 1996 Hugo nominations were entered.
+ </font>
+</ul>
+<p>
+<dt> <b>15 Apr 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Stop playing with the database and do your taxes. Now!
+ <li> The ISFDB moved Friday to a new system.
+ <li> Again, many more magazines were brought online this week:
+ 11 years of Analog (1965-1966, 1979-1983, 1987);
+ and 9 years of F&SF (1978-1984,1987-1988).
+ </font>
+</ul>
+<p>
+<dt> <b>08 Apr 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Due to its immense size, the author directory has been split
+ apart on a lastname basis.
+ <li> Many more magazines were brought online this week: 5 more years of 
+ Astounding (1934-1938); 10 years of Analog (1984-1986,1988-1994); and 7 
+ years of F&SF (1985-1986,1989-1993).
+ </font>
+</ul>
+<p>
+<dt> <b>01 Apr 1996:</b>
+<ul>
+ <font size=-1>
+ <li> About half-finished with yet another revamp of the data submission
+ pages. The new pages have context-sensitive help buttons, the text areas
+ can edit old notes and synopsis, and the actual submissions will have
+ a bit more feedback.
+ </font>
+</ul>
+<p>
+<hr>
+<p>
+<dt> <b>26 Mar 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Exceeded 15,000 titles.
+ </font>
+</ul>
+<p>
+<dt> <b>25 Mar 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Serial numbering is now supported, although I haven't gone back
+ and numbered all of the series currently entered. This is supported
+ via the new SN attribute. This altered the database layout, moving the
+ ISFDB engine rev to 1.4.
+ <li> A large number of magazines were brought online this week: 7 years of
+ Astounding (1939-1945), and 9 years of Interzone (1982-1990). All of
+ the ON SPEC and Science Fiction Age issues are to arrive soon.
+ <li> A large number of Stoker awards were entered; these were in
+ shortfiction, collection, and lifetime achievement categories. 
+ </font>
+</ul>
+<p>
+<dt> <b>15 Mar 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Although it makes no difference to the user, a number of internal changes
+ were made to free-form notes (biographies, synopsis, title notes, and publication
+ notes). These are now all unified into a single notes file. In support of this,
+ several new html directives were added: %%M,address%% will generate a mailto
+ html link, and %%H,label##url%% generates an html hotlink to the given url with
+ the given label. This should allow editing of notes on the data entry forms
+ (embedded html directives within a text area confuses all browers).
+ <li> These changes moved the database engine to rev 1.3.
+ </font>
+</ul>
+<p>
+<dt> <b>12 Mar 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Exceeded 14,000 titles.
+ </font>
+</ul>
+<p>
+<dt> <b>11 Mar 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Revamped the way forthcoming books are generated and displayed.
+ Previously, the list was actually forthcoming <i>titles</i>, which
+ limited forthcoming books to those which had <b>never</b> been 
+ previously published. Now the list is generated from the publication
+ database, allowing US, UK, and reprints to show up in the list.  
+ The way in which the list is displayed has also been changed, printing 
+ publisher, format, and location of the forthcoming title.
+ </font>
+</ul>
+<p>
+<hr>
+<p>
+<dt> <b>26 Feb 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Completely and utterly revamped all of the data entry pages. We
+ can now add/change author info; add/change summary info; add/change
+ publication info; and add titles to anthologies, collections, 
+ and magazines. There is not as yet any capability of editing notes
+ or synopsis online, since the forms attempt to interpret any
+ embedded html directives. Changes can still be entered as fresh
+ data.
+<li> Updated version to 1.2.
+ </font>
+</ul>
+<p>
+<dt> <b>20 Feb 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Exceeded 13,000 titles.
+ <li> Fixed the new data page so that publication format, notes, and story
+      synopsis can be entered.
+ <li> Fixed the corrections page so that publication data, notes, and story
+      synopsis can be entered.
+ <li> Divided the notes into two specific sections: notes and synopsis. Notes 
+      deal with general publication information, and is displayed directly on
+      the author's bibliography. Synopsis summaries are not printed on the
+      bibliography, but a [Synopsis] button is - if a synopsis is present. 
+      When selected, the synopsis is displayed.
+ <li> The new database field requires updating the version level to 1.1.
+ </font>
+</ul>
+<p>
+<dt> <b>16 Feb 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Presorted the new series database file, so that match listings
+ are presented in book-sorted order.
+ <li> Added the author directory.
+ </font>
+</ul>
+<p>
+<dt> <b>15 Feb 1996:</b>
+<ul>
+ <font size=-1>
+ <li> After some lengthy discussions, have changed the way series searches
+ are performed and displayed. A series  search will now result in a list of
+ matching series. If selected, a new display application handles displaying
+ the contents of the selected series. This will allow a series written by 
+ multiple authors to be displayed in its entirety. Additionally, the series 
+ banner on the author bibliography page is now a hotlink to the series listing.
+ </font>
+</ul>
+<p>
+<dt> <b>13 Feb 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Fixed the author search so that listings are presented in
+      alphabetical order (sorted by lastname).
+ </font>
+</ul>
+<p>
+<dt> <b>11 Feb 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added the English language Aurora awards.
+ <li> Finally added the synopsis/notes feature to the database. This 
+ allows 8k of free-form text to be appended to an entry to briefly
+ describe the synopsis or added notes of interest. Internal hotlinks
+ to the database are indicated with %%directive,argument%% strings,
+ which means that hard-coded links aren't necessary.  The only 
+ directive supported at present is the 'A' or author directive,
+ such as %%A,Dan Simmons%%.
+ <li> Updated the version level to 1.0.
+ </font>
+</ul>
+<p>
+<dt> <b>05 Feb 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Rolled over the 12,000 title mark.
+ <li> Added the recent P. K. Dick and A. C. Clarke award nominations.
+ </font>
+</ul>
+<p>
+<dt> <b>02 Feb 1996:</b>
+<ul>
+ <font size=-1>
+ <li> The new author searching algorithm is online. Performance seems
+ adequate.
+ <li> The "New Data" bug which occurs when using Lynx has been fixed.
+ <li> Data-entry submissions are now functional.
+ </font>
+</ul>
+<p>
+<dt> <b>01 Feb 1996:</b>
+<ul>
+ <font size=-1>
+ <li> The ISFDB is now fully online on the new system. Searches are a bit slow
+ here, since the cgi binaries are run on the http server which mounts the 
+ binaries and data via NFS. This means that searches are going across the network as
+ well, slowing things down.  This is irritating enough that I'll have to
+ examine a new search algorithm.
+ The NFS mounting also complicates things when it comes to writing data on
+ the server side, so data submissions will be a while still.
+ </font>
+</ul>
+<p>
+<hr>
+<p>
+<dt> <b>29 Jan 1996:</b>
+<br>
+ <font size=-1>
+ Made a number of changes to bring the database online on the
+ new system. Aside from porting differences, there were a couple of
+ other changes due to the peculiarities of this system:
+<ul>
+ <li>The new system doesn't have enough memory to compile the database
+ data, so some tweaks were made so that the entries can be compiled 
+ elsewhere, imported, and then installed.
+ <li>The new system is rebooted fairly often, so a hypertext daemon
+ diagnostic program was written. This runs every 10 minutes, checking
+ the health of hyperd, restarting it if necessary.
+ <li> Altered the search engine such that if only 1 publication
+ citation is available for a specific work, then instead of listing
+ publication summary, a content listing is displayed instead.
+ <li> Added the alphabetical listing option as requested. This feature
+ is found on the button menu at the top of the summary bibliography.
+ If the alphabetical summary bibliography is being displayed, then
+ a chronological option button can be found.
+ <li>The version of the database engine is now 0.9
+</ul>
+ </font>
+<p>
+<dt> <b>22 Jan 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Added support for Essays. Essay data has been present in the database 
+ since entering Ellison's infamous <i>Xenogenesis</i>, but haven't been 
+ displayed until now. An essay is <b>not</b> the same as a column.
+ </font>
+</ul>
+<p>
+<dt> <b>15 Jan 1996:</b>
+<ul>
+ <font size=-1>
+ <li> As requested, altered the search engine such that if only 1
+ author match is made on a search request, then we immediately display
+ that author's summary bibliography, instead of the single match results.
+ <li> Updated the search and AwGen binaries to use the http GET method instead
+ of the POST method, as the POST method induces some peculiarities in
+ some browsers that use a proxy host.
+ </font>
+</ul>
+<p>
+<dt> <b>08 Jan 1996:</b>
+<ul>
+ <font size=-1>
+ <li> Finally added support for biographical data. This is a completely
+ free-format area, so any kind of text can be put here, including URLs
+ to fan-based or author-supported web pages. There isn't very much actual
+ biographic data as yet, although I have punched in my collection of
+ email addresses. Also added a statistical gadget, which graphs the
+ number of database entries by year, and a facility which displays the
+ number of database queries served in the postamble to each page. 
+ These features push the database 
+ engine to version 0.8.
+ </font>
+</ul>
+<p>
+<hr>
+</dl>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

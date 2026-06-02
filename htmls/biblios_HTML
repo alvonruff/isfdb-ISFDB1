@@ -1,0 +1,280 @@
+<html>
+<head>
+<title>ISFDB Bibliographic Sources</title>
+</head>
+<body bgcolor="#ffffff" text="#000000" link="#155BF0" vlink="#309372">
+
+<h1>ISFDB Bibliographic Sources</h1>
+
+<hr>
+The ISFDB is fortunate in that readers directly enter data from primary
+sources, usually from their own libraries. However, a reader's library
+may be incomplete, or typographic errors may have been introduced when
+submitting data to the ISFDB. For this reason, it is important to
+consult other bibliographic resources for both completeness and accuracy.
+<p>
+Bibliographic sources are used here in two distinct ways. The first way
+in which a source might be used is to bring a book to our attention. For
+instance, a book review in a magazine, or an award nomination may put a
+spotlight on a book that had not previously been entered into the database.
+The second way that a source would be used to to verify or expand details
+on a specific book. For instance, a review source might bring to light a 
+specific anthology, but another bibliographic source might be used to detail
+the stories contained within that anthology.
+<p>
+After using a variety of sources, it becomes clear that each source has
+it own particular strengths and weaknesses. What follows is an annotated
+list of resources used by the ISFDB, how each resource is used, and what the
+strengths and weaknesses of that particular resource are (from the
+perspective of the ISFDB). It should be noted that almost all of the "weaknesses"
+are deliberate on the part of the resource - after all, in order to fit the data
+into some finite page space, something had to go. They shouldn't be considered
+failings of the resource.
+<ol>
+  <li> <i>The Encyclopedia of Science Fiction</i> (1993, <i>St. Martin's Press</i>,
+       xxxvi+1370pp, ISBN 0-312-09618-6)
+       by 
+       <a href="http://DBASELOC/exact_author.cgi?John_Clute">John Clute</a>
+       and
+       <a href="http://DBASELOC/exact_author.cgi?Peter_Nichols">Peter Nichols</a>,
+       and
+       <i>The Encyclopedia of Fantasy</i> (1997, <i>St. Martin's Press</i>,
+       xvi+1049pp, ISBN 0-312-15897-1)
+       by 
+       <a href="http://DBASELOC/exact_author.cgi?John_Clute">John Clute</a>
+       and
+       <a href="http://DBASELOC/exact_author.cgi?Paul_Le_Page_Barnett">John_Grant</a>,
+       Both of these encyclopedias follow the same format: they give a brief
+       biography of an author, followed by a fairly detailed listing of novels,
+       collections, and anthologies that the author wrote or edited. There is
+       typically some critical evaluation of the author's work, an attempt is
+       made to organize the work into known series, and occasionally a magazine
+       serialization is cited.
+       <br>
+       <b>Strengths</b>: The bibliographies are, in general, quite complete and
+       usually accurate. Typically, an author will be "discovered" in the ISFDB
+       either through an award citation, or by repeated sightings in some magazine 
+       over a short period of time. Both the <i>The Encyclopedia of Science Fiction</i>
+       and <i>The Encyclopedia of Fantasy</i> are invaluable for filling in such
+       an author's summary bibliography. Additionally, these encyclopedias give
+       a brief history and perspective on genre magazines, which augments information
+       found in other bibliographic sources.
+       <br>
+       <b>Weaknesses</b>: There is no publication data whatsoever, contents of 
+       anthologies and collections are not listed, and its concentration on the
+       long form ignores authors who are only known through their short fiction.
+       There are generally few entries on personalities from fandom, even those
+       who have won major awards.
+  <p>
+  <li> <i>The Encyclopedia of Science Fiction and Fantasy</i> 
+       by 
+       <a href="http://DBASELOC/exact_author.cgi?Donald_Tuck">Donald Tuck</a>.
+       This three-volume encyclopedia was published across 1974, 1978, and
+       1983 (<i>Volume 1: Who's Who, A-L</i>, 1974, <i>Advent</i>, xii+286,
+       ISBN 0-911682-20-1; <i>Volume 2: Who's Who, M-Z</i>, 1978, <i>Advent</i>,
+       xx+(287-530), ISBN 0-911682-22-8; <i>Volume 3: Miscellaneous</i>, 1984, 
+       <i>Advent</i>, xxvii+(532-920), ISBN 0-911682-26-0), and was intended to
+       cover the genre through 1968.  The look and feel is very different than
+       the Clute & Nichols & Grant encyclopedias. Biographies are more in-depth,
+       publication data is always given, series information is extended to short
+       fiction, writers who specialized in short fiction are listed, and there
+       is particular depth in Tuck's knowledge of fandom.
+       <br>
+       <b>Strengths</b>: When trying to verify the content of an anthology or
+       collection, this is the source to turn to. The biographies are very detailed,
+       including place of birth, education, jobs held, and various residences of
+       the authors. Volume 3 is absolutely required in trying to construct the 
+       ISFDB magazine roadmaps; reproducing these tables for post-1969 magazines
+       has been very trying. Includes a section on pseudonyms, publishing houses,
+       and contains extensive paperback catalogs for roughly 1950-1970.
+       <br>
+       <b>Weaknesses</b>: Content listings of anthologies and collections do not
+       list date of first publication, and nearly all such listings abbreviate the
+       author's first name. Although published across some 10 years to 1984, it's
+       usefulness is restricted to pre-1970.
+  <p>
+  <li> <I>The Checklist of Fantastic Literature</i>
+	by
+	<a href="http://DBASELOC/exact_author.cgi?Everett_F._Bleiler">Everett F. Bleiler</a>
+	(<i>Chicago: Shasta</i>, 1948, xvii+455, cover by Hannes Bok). The first
+	serious and important bibliographic attempt in the field, listing over 5,000 titles.
+	Especially useful in those places where Tuck states "Incomplete - other titles in 
+	Bleiler checklist".  The two major sections of the book are the Listing by Author, 
+	and the Listing by Title. 
+       <br>
+	<b>Strengths</b>: Extremely broad coverage of the Fantasy genre.
+       <br>
+	<b>Weaknesses</b>: Contents of anthologies and collections are not listed,
+	and acknowledged to contain some inaccuracies. The inaccuracies were corrected
+	in the 1978 edition of the book, and category codings of the titles were supplied
+	as well.
+  <p>
+  <li> <i>Index to the Science-Fiction Magazines (1926-1950)</i> 
+       by 
+       <a href="http://DBASELOC/exact_author.cgi?Donald_B._Day">Donald B. Day</a>.
+       Useful for finding where a specific story was published (prior to 1951), or
+       for finding all of the short fiction published by an author (again prior to
+       1951).
+       <br>
+       <b>Strengths</b>: It's a simple index, by title and by author. When looking
+       for a particular title or a particular author, it just couldn't be any
+       simpler. Includes a particularly helpful appendix which lists <i>every</i> magazine,
+       publication date, price, page count, and cover artist (when known).
+       <br>
+       <b>Weaknesses</b>: There is no coalation by magazine issue. This makes the
+       reconstruction of a particular issue extremely difficult.
+  <p>
+  <li> <i>Index to Science Fiction Anthologies and Collections</i>
+       by
+       <a href="http://DBASELOC/exact_author.cgi?William_Contento">William G. Contento</a>.
+       This is a top-flight bibliography which not only supplies an index, but also
+       collates that data into per-book listings.
+       <br>
+       <b>Strengths</b>: Date of first publication, page numbers, and the sheer
+       volume of information. All pre-1984 collections and anthologies submitted
+       to the ISFDB are cross-checked with this index.
+       <br>
+       <b>Weaknesses</b>: There's no attempt to organize each author's bibliography.
+       Much short fiction is marked with series information, but there is no consise
+       listings of series (ala Tuck) nor any implied order. Although quite comprehensive,
+       some books covered by Tuck are missing. Publication data on many items is limited
+       to the publisher, date, and format of the book (hardcover or paperback); most
+       catalog numbers, page counts, and prices are missing. As it concentrates on 
+       content, publications which differ in content are included, but the various
+       printings of books are not otherwise noted.
+  <p>
+  <li> <i>Science Fiction, Fantasy, & Horror: 1984-1996</i>
+       by
+       <a href="http://DBASELOC/exact_author.cgi?William_Contento">William G. Contento</a> and
+       <a href="http://DBASELOC/exact_author.cgi?Charles_N._Brown">Charles N. Brown</a>.
+       Armed with just this reference, every facet of genre publishing is covered from
+       1984 through the present. 
+       <br>
+       <b>Strengths</b>: Contains the same information as Contento's <i>Index to Science
+       Fiction Anthologies and Collections</i>, but also covers novels and magazines.
+       Brief synopsis, detailed publication data, some series information, various printings
+       - it's all here. All post-1983 collections and anthologies submitted
+       to the ISFDB are cross-checked with this index, as well as post-1983 novel data.
+       <br>
+       <b>Weaknesses</b>: Not much. Some magazine runs are incomplete. Again, no attempt
+       is made to organize each author's bibliography. Basically its only weakness is
+       that it succeeds brilliantly at exactly what it's trying to be: an index. Because
+       of this, it can't fill every need, such as biographies, awards data, and criticism.
+  <p>
+  <li> <i>Infinite Worlds: The Fantastic Visions of Science Fiction Art</i>
+       by
+       <a href="http://DBASELOC/exact_author.cgi?Vincent_Di_Fate">Vincent Di Fate</a>.
+       The Clute & Nichols & Grant encyclopedias have very little coverage of genre
+       artists, with what there is mostly limited to the cover artist superstars. 
+       Tuck has more, but not alot more. <i>Infinite Worlds</i> contains entries on more
+       than 200 artists. 
+       <br>
+       <b>Strengths</b>: Birthdates, deathdates, scarce biographic information, and 
+       glorious illustrations.
+       <br>
+       <b>Weaknesses</b>: Still concentrates mostly on cover artists, although it does
+       have entries on interior art superstars like Virgil Finlay. While cover art
+       sells the magazines and books, most genre art was interior illustrations by 
+       lesser-known (and often lesser-talented) artists. These are the artists that 
+       almost nothing is known about.
+  <p>
+  <li> <I>Science-Fiction: The Gernsback Years</i>
+	by
+	<a href="http://DBASELOC/exact_author.cgi?Everett_F._Bleiler">Everett F. Bleiler</a>
+	with assistance from Richard J. Bleiler (<i>Kent State University Press</i>, 1998, 
+	xxx+730, 0-87338-604-3). Hugo nominated survey of the genre magazines from 1926 through 1936.
+       <br>
+	<b>Strengths</b>: Extremely detailed story synopsis, an index of motifs and themes (did
+	you know that there were 7 stories dealing with lightning guns?), as well as content
+	listings of the magazines covered. Provides valuable author biographic material not
+	covered elsewhere - Clute & Nichols didn't cover short fiction authors; while Tuck
+	covered the more important ones, this volume provides a needed update and attempts
+	to cover minor authors as well. Going back to the primary sources, it corrects numerous
+	errors found in Day and elsewhere. Pretty much replaces the Day Index for entries from
+	1926 through 1936.
+       <br>
+	<b>Weaknesses</b>: Only covers short fiction which appeared in the target magazines.
+	No coverage of any other material published during those years.
+  <p>
+  <li> <I>Science-Fiction: The Early Years</i>
+	by
+	<a href="http://DBASELOC/exact_author.cgi?Everett_F._Bleiler">Everett F. Bleiler</a>
+	with assistance from Richard J. Bleiler (<i>Kent State University Press</i>, 1990, 
+	xxiii+998, 0-87338-416-4). Covers science fiction prose from the earliest times to 1930.
+	Best source for locating long-form science fiction prior to 1930.
+       <br>
+	<b>Strengths</b>: As with <i>The Gernsback Years</i>, this publication contains extremely
+	detailed synopsis for each entry (some spanning multiple pages), an index of motifs and 
+	themes, a date index, title index, and author index.
+       <br>
+	<b>Weaknesses</b>: None.
+  <p>
+</ol>
+Additionally, the ISFDB relies on the following non-book resources:
+<ol>
+  <li> The University of California Z39.50
+       <a href="http://lcweb.loc.gov/cgi-bin/zgate?ACTION=INIT&FORM_HOST_PORT=/prod/www/data/z3950/melvyl.html,melvyl.ucop.edu,210&CI=132153">Server</a>.
+       No - Z3950 isn't a grunge-rock radio station; it's an ANSI/NISO national
+       standard that defines a computer information retrieval protocol.
+       There are several dozen Z39.50 servers, including the Library
+       of Congress
+       <a href="http://lcweb.loc.gov/z3950/">gateway</a>,
+       but none of them have a selection of SF-related works as excellent 
+       as that present at the University of California. 
+       <br>
+       <b>Strengths</b>: Currently the best method for covering novels through the
+       years after Tuck (1970) up until the Locus Index (1984). Usually has cover
+       artist information.
+       <br>
+       <b>Weaknesses</b>: Inaccuracies during data entry, spotty coverage, and lack of
+       series information.
+  <p>
+  <li> Magazine Book Reviews. The basic philosophy here is: if we catalog every
+       book reviewed by the genre magazines, we'll pretty much have catalogued
+       all of the important books in the genre. By cross-referencing book reviews,
+       we've found a number of books not covered by <i>any</i> of the above-listed
+       references.
+       <br>
+       <b>Strengths</b>: None really, just a good way to find additional books.
+       <br>
+       <b>Weaknesses</b>: Notorious for inaccuracies due to the use of proofs or
+       review copies which don't match the actual publications. Many reviews don't
+       publish complete publication information. Almost no one lists the cover artist,
+       few list ISBNs, and most-infuriating: the lack of publication dates. Most get the
+       publisher right.
+  <p>
+  <li> Awards Data. The philosophy behind this one is similar to that of using book
+       reviews. <b>Weaknesses</b>: There are many steps to collecting awards information
+       where errors can creep in. The award administrators can make typos while creating the 
+       shortlist; errors can be made in the press release when the award is presented; and 
+       errors can be made when transcribing the press release. Sometimes we transcribe award
+       data from old magazines, which is yet another way to generate errors. Fortunately,
+       we've started to cross-reference the awards data with the bibliographic data, which
+       helps us to find those errors.
+  <p>
+  <li> <a href="http://www.amazin.com">Amazon.com</a>
+       is very useful for tracking down series that are.... well, ignored
+       elsewhere. For instance, R. L. Stine's <i>Goosebumps</i> series was reconstructed 
+       with only minor difficulty using the amazon.com search engine. Also helpful in
+       constructing the forthcoming books list.
+       <br>
+       <b>Weaknesses</b>: Do not, under any circumstance, trust the publication data
+       of any book listed. The purpose of the amazon.com database is to sell you a
+       book - nothing else.  I have seen a GIF of a book's cover displayed next to
+       the data for a book, and the book's title data or author data is different
+       than that displayed in glorious color in the GIF only 2 inches away. A book
+       may be entered several different times, all with slightly variant tiles, but with
+       the same ISBN.
+  <p>
+  <li> Construction of series information was aided and abetted by Derek Nichols' massive
+       series list, which has been bouncing around the net for some time.
+  <p>
+</ol>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

@@ -1,0 +1,4255 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##	                ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)ANALOGAW	1.4	12/29/98 ISFDB";
+##
+Titan {
+	AE=|John Varley|
+	AS=|AnaN|
+	YR=|1979|
+	TG=|18058|
+	TA=|Best Serial Novel or Novella|
+	TP=|n|
+	LV=|1|
+}
+Class Six Climb {
+	AE=|William E. Cochrane|
+	AS=|AnaN|
+	YR=|1979|
+	TG=|18043|
+	TA=|Best Serial Novel or Novella|
+	TP=|nv|
+	LV=|2|
+}
+The Visitors {
+	AE=|Clifford D. Simak|
+	AS=|AnaN|
+	YR=|1979|
+	TG=|18055|
+	TA=|Best Serial Novel or Novella|
+	TP=|nv|
+	LV=|3|
+}
+One-Wing {
+	AE=|Lisa Tuttle+George R. R. Martin|
+	AS=|AnaN|
+	YR=|1980|
+	TG=|15073|
+	TA=|Best Serial Novel or Novella|
+	TP=|nv|
+	LV=|1|
+}
+Anasazi {
+	AE=|Dean Ing|
+	AS=|AnaN|
+	YR=|1980|
+	TG=|14919|
+	TA=|Best Serial Novel or Novella|
+	TP=|nv|
+	LV=|2|
+}
+World in the Clouds {
+	AE=|Bob Buckley|
+	AS=|AnaN|
+	YR=|1980|
+	TG=|14772|
+	TA=|Best Serial Novel or Novella|
+	TP=|n|
+	LV=|3|
+}
+Dawn {
+	AE=|Dean McLaughlin|
+	AS=|AnaN|
+	YR=|1981|
+	TG=|14982|
+	TA=|Best Serial Novel or Novella|
+	TP=|n|
+	LV=|1|
+}
+Shuttle Down {
+	AE=|G. Harry Stine^Lee Correy|
+	AS=|AnaN|
+	YR=|1981|
+	TG=|14811|
+	TA=|Best Serial Novel or Novella|
+	TP=|n|
+	LV=|2|
+}
+Dragonstar {
+	AE=|David Bischoff+Thomas F. Monteleone|
+	AS=|AnaN|
+	YR=|1981|
+	TG=|14757|
+	TA=|Best Serial Novel or Novella|
+	TP=|n|
+	LV=|3|
+}
+Rocheworld {
+	AE=|Robert L. Forward|
+	AS=|AnaN|
+	YR=|1983|
+	TG=|14869|
+	TA=|Best Serial Novel or Novella|
+	TP=|n|
+	LV=|1|
+}
+Manna {
+	AE=|G. Harry Stine^Lee Correy|
+	AS=|AnaN|
+	YR=|1983|
+	TG=|14810|
+	TA=|Best Serial Novel or Novella|
+	TP=|n|
+	LV=|2|
+}
+The New Untouchables {
+	AE=|Joseph H. Delaney|
+	AS=|AnaN|
+	YR=|1983|
+	TG=|14819|
+	TA=|Best Serial Novel or Novella|
+	TP=|n|
+	LV=|3|
+}
+Spinneret {
+	AE=|Timothy Zahn|
+	AS=|AnaN|
+	YR=|1985|
+	TG=|15095|
+	TA=|Best Serial Novel or Novella|
+	TP=|n|
+	LV=|1|
+}
+Between the Strokes of Night {
+	AE=|Charles Sheffield|
+	AS=|AnaN|
+	YR=|1985|
+	TG=|15027|
+	TA=|Best Serial Novel or Novella|
+	TP=|n|
+	LV=|2|
+}
+The Plague Star {
+	AE=|George R. R. Martin|
+	AS=|AnaN|
+	YR=|1985|
+	TG=|14974|
+	TA=|Best Serial Novel or Novella|
+	TP=|nv|
+	LV=|3|
+}
+Songhouse {
+	AE=|Orson Scott Card|
+	AS=|AnaV|
+	YR=|1979|
+	TG=|18041|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|1|
+}
+The Locusts {
+	AE=|Larry Niven+Steven Barnes|
+	AS=|AnaV|
+	YR=|1979|
+	TG=|18051|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|2|
+}
+The Moon Goddess and the Son {
+	AE=|Donald Kingsbury|
+	AS=|AnaV|
+	YR=|1979|
+	TG=|18046|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|3|
+}
+Beer Run {
+	AE=|Michael A. McCollum|
+	AS=|AnaV|
+	YR=|1979|
+	TG=|18049|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|4|
+}
+Duty, Honor, Planet {
+	AE=|Michael A. McCollum|
+	AS=|AnaV|
+	YR=|1979|
+	TG=|18050|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|5|
+}
+Nightflyers {
+	AE=|George R. R. Martin|
+	AS=|AnaV|
+	YR=|1980|
+	TG=|14973|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|1|
+}
+The Cloak and the Staff {
+	AE=|Gordon R. Dickson|
+	AS=|AnaV|
+	YR=|1980|
+	TG=|14836|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Savage Planet {
+	AE=|Barry B. Longyear|
+	AS=|AnaV|
+	YR=|1980|
+	TG=|14963|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Scholar's Cluster {
+	AE=|George O. Smith|
+	AS=|AnaV|
+	YR=|1980|
+	TG=|15038|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|4|
+}
+Have You Heard the One...? {
+	AE=|Spider Robinson|
+	AS=|AnaV|
+	YR=|1980|
+	TG=|15014|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Emergence {
+	AE=|David R. Palmer|
+	AS=|AnaV|
+	YR=|1981|
+	TG=|15001|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|1|
+}
+Petals of Rose {
+	AE=|Marc Stiegler|
+	AS=|AnaV|
+	YR=|1981|
+	TG=|15054|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|2|
+}
+The Saturn Game {
+	AE=|Poul Anderson|
+	AS=|AnaV|
+	YR=|1981|
+	TG=|14732|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|3|
+}
+Guardians {
+	AE=|George R. R. Martin|
+	AS=|AnaV|
+	YR=|1981|
+	TG=|14970|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|4|
+}
+The Tides of Kithrup {
+	AE=|David Brin|
+	AS=|AnaV|
+	YR=|1981|
+	TG=|14769|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|5|
+}
+Pawn's Gambit {
+	AE=|Timothy Zahn|
+	AS=|AnaV|
+	YR=|1982|
+	TG=|15093|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Collaboration {
+	AE=|Mark C. Jarvis|
+	AS=|AnaV|
+	YR=|1982|
+	TG=|14928|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|2|
+}
+Green-Eyed Lady, Laughing Lady {
+	AE=|Alison Tellure|
+	AS=|AnaV|
+	YR=|1982|
+	TG=|15066|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|3|
+}
+Brainchild {
+	AE=|Joseph H. Delaney|
+	AS=|AnaV|
+	YR=|1982|
+	TG=|14817|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|4|
+}
+The Scourge {
+	AE=|James White|
+	AS=|AnaV|
+	YR=|1982|
+	TG=|15083|
+	TA=|Best Novella/Novelette|
+	TP=|ss|
+	LV=|4|
+}
+My Brother's Keeper {
+	AE=|Joseph H. Delaney|
+	AS=|AnaV|
+	YR=|1982|
+	TG=|14818|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|5|
+}
+Seeking {
+	AE=|David R. Palmer|
+	AS=|AnaV|
+	YR=|1983|
+	TG=|15002|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|1|
+}
+Cascade Point {
+	AE=|Timothy Zahn|
+	AS=|AnaV|
+	YR=|1983|
+	TG=|15090|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|2|
+}
+The Leaves of October {
+	AE=|Don Sakers|
+	AS=|AnaV|
+	YR=|1983|
+	TG=|15023|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|3|
+}
+The Final Report on the Lifeline Experiment {
+	AE=|Timothy Zahn|
+	AS=|AnaV|
+	YR=|1983|
+	TG=|15092|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Warlord {
+	AE=|Timothy Zahn|
+	AS=|AnaV|
+	YR=|1983|
+	TG=|15097|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|5|
+}
+Valentina {
+	AE=|Joseph H. Delaney+Marc Stiegler|
+	AS=|AnaV|
+	YR=|1984|
+	TG=|14821|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|1|
+}
+The Weigher {
+	AE=|Eric Vinicoff+Marcia Martin|
+	AS=|AnaV|
+	YR=|1984|
+	TG=|15076|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Summer Solstice {
+	AE=|Charles L. Harness|
+	AS=|AnaV|
+	YR=|1984|
+	TG=|14909|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|3|
+}
+Floodtide {
+	AE=|Ben Bova|
+	AS=|AnaV|
+	YR=|1984|
+	TG=|14764|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|4|
+}
+Return to the Fold {
+	AE=|Timothy Zahn|
+	AS=|AnaV|
+	YR=|1984|
+	TG=|15094|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Loaves and Fishes {
+	AE=|George R. R. Martin|
+	AS=|AnaV|
+	YR=|1985|
+	TG=|14971|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|1|
+}
+Manna from Heaven {
+	AE=|George R. R. Martin|
+	AS=|AnaV|
+	YR=|1985|
+	TG=|14972|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|2|
+}
+World of Crystal, Sky of Fire {
+	AE=|Bob Buckley|
+	AS=|AnaV|
+	YR=|1985|
+	TG=|14773|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|3|
+}
+The Road Not Taken {
+	AE=|Harry Turtledove|
+	AS=|AnaV|
+	YR=|1985|
+	TG=|15072|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Rockabye Baby {
+	AE=|S. C. Sykes|
+	AS=|AnaV|
+	YR=|1985|
+	TG=|15064|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Eifelheim {
+	AE=|Michael F. Flynn|
+	AS=|AnaV|
+	YR=|1986|
+	TG=|14854|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|1|
+}
+The Mick of Time {
+	AE=|Spider Robinson|
+	AS=|AnaV|
+	YR=|1986|
+	TG=|15016|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|2|
+}
+The Evidence of Things Not Seen {
+	AE=|Timothy Zahn|
+	AS=|AnaV|
+	YR=|1986|
+	TG=|15091|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|3|
+}
+The Picture by Dora Gray {
+	AE=|Charles L. Harness|
+	AS=|AnaV|
+	YR=|1986|
+	TG=|14908|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|4|
+}
+The Big Dish {
+	AE=|John Berryman|
+	AS=|AnaV|
+	YR=|1986|
+	TG=|14755|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|5|
+}
+The Gift {
+	AE=|Pat Forde|
+	AS=|AnaV|
+	YR=|1987|
+	TG=|14866|
+	TA=|Best Novella/Novelette|
+	TP=|ss|
+	LV=|1|
+}
+The Forest of Time {
+	AE=|Michael F. Flynn^Michael Flynn|
+	AS=|AnaV|
+	YR=|1987|
+	TG=|14856|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|2|
+}
+Candle in a Cosmic Wind {
+	AE=|Joseph Manzione|
+	AS=|AnaV|
+	YR=|1987|
+	TG=|14969|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|3|
+}
+In the Kingdom at Morning {
+	AE=|Stephen L. Burns|
+	AS=|AnaV|
+	YR=|1987|
+	TG=|14785|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|4|
+}
+Banshee {
+	AE=|Timothy Zahn|
+	AS=|AnaV|
+	YR=|1987|
+	TG=|15089|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|4|
+}
+Cobwebs {
+	AE=|Ray Brown|
+	AS=|AnaV|
+	YR=|1987|
+	TG=|14771|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|5|
+}
+Sanctuary {
+	AE=|James White|
+	AS=|AnaV|
+	YR=|1988|
+	TG=|15082|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Peaches for Mad Molly {
+	AE=|Steven Gould|
+	AS=|AnaV|
+	YR=|1988|
+	TG=|14886|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Guz's Place {
+	AE=|Timothy Perper+Martha Cornog|
+	AS=|AnaV|
+	YR=|1988|
+	TG=|15006|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|3|
+}
+Remember'd Kisses {
+	AE=|Michael F. Flynn|
+	AS=|AnaV|
+	YR=|1988|
+	TG=|14860|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|4|
+}
+The Reading Lesson {
+	AE=|Stephen L. Burns|
+	AS=|AnaV|
+	YR=|1988|
+	TG=|14788|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|5|
+}
+Labyrinth {
+	AE=|Lois McMaster Bujold|
+	AS=|AnaV|
+	YR=|1989|
+	TG=|14774|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|1|
+}
+Humanity Test {
+	AE=|Charles Sheffield|
+	AS=|AnaV|
+	YR=|1989|
+	TG=|15032|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|2|
+}
+The Mountains of Mourning {
+	AE=|Lois McMaster Bujold|
+	AS=|AnaV|
+	YR=|1989|
+	TG=|14775|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|3|
+}
+The Gentle Seduction {
+	AE=|Marc Stiegler|
+	AS=|AnaV|
+	YR=|1989|
+	TG=|15051|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|4|
+}
+The Nearly Infinite Possibilities of Junk {
+	AE=|Stephen L. Burns|
+	AS=|AnaV|
+	YR=|1989|
+	TG=|14787|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|5|
+}
+Weatherman {
+	AE=|Lois McMaster Bujold|
+	AS=|AnaV|
+	YR=|1990|
+	TG=|14776|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|1|
+}
+Shaman {
+	AE=|Maya Kaathryn Bohnhoff|
+	AS=|AnaV|
+	YR=|1990|
+	TG=|14761|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|2|
+}
+Naught for Hire {
+	AE=|John E. Stith|
+	AS=|AnaV|
+	YR=|1990|
+	TG=|15059|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|3|
+}
+Funnel Hawk {
+	AE=|Tom Ligon|
+	AS=|AnaV|
+	YR=|1990|
+	TG=|14957|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|4|
+}
+The Hornless Ones {
+	AE=|Pauline Ashwell^Paul Ash|
+	AS=|AnaV|
+	YR=|1990|
+	TG=|14737|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|5|
+}
+Ode to Joy {
+	AE=|Dean McLaughlin|
+	AS=|AnaV|
+	YR=|1991|
+	TG=|14983|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|1|
+}
+Home is Where... {
+	AE=|Maya Kaathryn Bohnhoff|
+	AS=|AnaV|
+	YR=|1991|
+	TG=|14759|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|2|
+}
+Contact {
+	AE=|Jerry Oltion+Lee Goodloe|
+	AS=|AnaV|
+	YR=|1991|
+	TG=|14999|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|3|
+}
+Rescue Run {
+	AE=|Anne McCaffrey|
+	AS=|AnaV|
+	YR=|1991|
+	TG=|14976|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|4|
+}
+Gold {
+	AE=|Isaac Asimov|
+	AS=|AnaV|
+	YR=|1991|
+	TG=|14738|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Poles Apart {
+	AE=|G. David Nordley|
+	AS=|AnaV|
+	YR=|1992|
+	TG=|14993|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|1|
+}
+Captive Dreams {
+	AE=|Michael F. Flynn|
+	AS=|AnaV|
+	YR=|1992|
+	TG=|14853|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|2|
+}
+Blood Relations {
+	AE=|Julia Ecklar|
+	AS=|AnaV|
+	YR=|1992|
+	TG=|14841|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|3|
+}
+The Walking Hills {
+	AE=|William E. Cochrane|
+	AS=|AnaV|
+	YR=|1992|
+	TG=|14805|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|4|
+}
+Because It's There {
+	AE=|Rick Shelley+Lee Goodloe|
+	AS=|AnaV|
+	YR=|1992|
+	TG=|15034|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|4|
+}
+Tranquillity Rose {
+	AE=|Stephen L. Burns|
+	AS=|AnaV|
+	YR=|1992|
+	TG=|14792|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|5|
+}
+Into the Miranda Rift {
+	AE=|G. David Nordley|
+	AS=|AnaV|
+	YR=|1993|
+	TG=|14990|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|1|
+}
+Young Again {
+	AE=|Jeffery D. Kooistra|
+	AS=|AnaV|
+	YR=|1993|
+	TG=|14939|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|2|
+}
+The Carhart Shale {
+	AE=|Grant Callin|
+	AS=|AnaV|
+	YR=|1993|
+	TG=|14796|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|3|
+}
+With Time Comes Concord {
+	AE=|Duncan Lunan|
+	AS=|AnaV|
+	YR=|1993|
+	TG=|14965|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|4|
+}
+Down in the Bottomlands {
+	AE=|Harry Turtledove|
+	AS=|AnaV|
+	YR=|1993|
+	TG=|15071|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|5|
+}
+Melodies of the Heart {
+	AE=|Michael F. Flynn|
+	AS=|AnaV|
+	YR=|1994|
+	TG=|14859|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|1|
+}
+Symphony for Skyfall {
+	AE=|Rick Cook+Peter L. Manly|
+	AS=|AnaV|
+	YR=|1994|
+	TG=|14808|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|2|
+}
+Song from a Broken Instrument {
+	AE=|Stephen L. Burns|
+	AS=|AnaV|
+	YR=|1994|
+	TG=|14790|
+	TA=|Best Novella/Novelette|
+	TP=|nv|
+	LV=|3|
+}
+Karl's Marine and Spacecraft Repair {
+	AE=|G. David Nordley|
+	AS=|AnaV|
+	YR=|1994|
+	TG=|14991|
+	TA=|Best Novella/Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Evolution {
+	AE=|Grey Rollins|
+	AS=|AnaV|
+	YR=|1994|
+	TG=|15017|
+	TA=|Best Novella/Novelette|
+	TP=|sf|
+	LV=|5|
+}
+Fish Tank {
+	AE=|Gregory Bennett|
+	AS=|AnaL|
+	YR=|1995|
+	TG=|14754|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+In Forests Afloat Upon the Sea {
+	AE=|Daniel Hatch|
+	AS=|AnaL|
+	YR=|1995|
+	TG=|14913|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|2|
+}
+The Human Animal {
+	AE=|Julia Ecklar|
+	AS=|AnaL|
+	YR=|1995|
+	TG=|14842|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|3|
+}
+Touchdown, Touchdown, Rah, Rah, Rah! {
+	AE=|W. R. Thompson|
+	AS=|AnaL|
+	YR=|1995|
+	TG=|15069|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|4|
+}
+The Secret Life of Gods {
+	AE=|Maya Kaathryn Bohnhoff|
+	AS=|AnaL|
+	YR=|1995|
+	TG=|14760|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|5|
+}
+Primrose and Thorn {
+	AE=|Bud Sparhawk|
+	AS=|AnaL|
+	YR=|1996|
+	TG=|15041|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+Symphony in a Minor Key {
+	AE=|H. G. Stratmann|
+	AS=|AnaL|
+	YR=|1996|
+	TG=|15060|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|2|
+}
+Fugue on a Sunken Continent {
+	AE=|G. David Nordley|
+	AS=|AnaL|
+	YR=|1996|
+	TG=|14988|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|3|
+}
+A Pillar of Stars By Night {
+	AE=|Alexis Glynn Latner|
+	AS=|AnaL|
+	YR=|1996|
+	TG=|14950|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|4|
+}
+Starsong {
+	AE=|Timothy Zahn|
+	AS=|AnaL|
+	YR=|1997|
+	TG=|18237|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+Loose Ends {
+	AE=|Paul Levinson|
+	AS=|AnaL|
+	YR=|1997|
+	TG=|19211|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|2|
+}
+Billy's Bunter {
+	AE=|Walter F. Cuirle|
+	AS=|AnaL|
+	YR=|1997|
+	TG=|19188|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|3|
+}
+The Flowers That Bloom in the Spring {
+	AE=|Wolf Read|
+	AS=|AnaL|
+	YR=|1997|
+	TG=|19220|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|4|
+}
+Aurora in Four Voices {
+	AE=|Catherine Asaro|
+	AS=|AnaL|
+	YR=|1998|
+	TG=|19909|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+The Ice Dragon's Song {
+	AE=|Bud Sparhawk|
+	AS=|AnaL|
+	YR=|1998|
+	TG=|22511|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|2|
+}
+Wrench and Claw {
+	AE=|S. D. Howe|
+	AS=|AnaL|
+	YR=|1998|
+	TG=|22427|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|3|
+}
+Tourist Sam {
+	AE=|Ben Bova|
+	AS=|AnaL|
+	YR=|1998|
+	TG=|22366|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|4|
+}
+Ashes to Ashes {
+	AE=|Grey Rollins|
+	AS=|AnaL|
+	YR=|1998|
+	TG=|22490|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|5|
+}
+The Astronaut from Wyoming {
+	AE=|Adam-Troy Castro+Jerry Oltion|
+	AS=|AnaL|
+	YR=|1999|
+	TG=|21513|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|1|
+}
+Twenty-One, Counting Up {
+	AE=|Harry Turtledove|
+	AS=|AnaL|
+	YR=|1999|
+	TG=|22528|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|2|
+}
+Reality Check {
+	AE=|Michael A. Burstein|
+	AS=|AnaL|
+	YR=|1999|
+	TG=|22375|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|3|
+}
+Elephants' Graveyard {
+	AE=|David Alexander+Hayford Peirce|
+	AS=|AnaL|
+	YR=|1999|
+	TG=|22341|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|4|
+}
+The Trees of Verità {
+	AE=|Wolf Read|
+	AS=|AnaL|
+	YR=|1999|
+	TG=|22482|
+	TA=|Best Novella|
+	TP=|nv|
+	LV=|5|
+}
+A Portrait of My Grandfather {
+	AE=|Doug Larsen|
+	AS=|AnaT|
+	YR=|1995|
+	TG=|14949|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Capra's Keyhole {
+	AE=|Stephen L. Burns|
+	AS=|AnaT|
+	YR=|1995|
+	TG=|14783|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Unfinished Symphony {
+	AE=|Rick Cook+Peter L. Manly|
+	AS=|AnaT|
+	YR=|1995|
+	TG=|14809|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Down Under Crater Billy {
+	AE=|Stephen L. Burns|
+	AS=|AnaT|
+	YR=|1995|
+	TG=|14784|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|4|
+}
+The Good Rat {
+	AE=|Allen Steele|
+	AS=|AnaT|
+	YR=|1995|
+	TG=|15044|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|5|
+}
+The Three Labors of Bubba {
+	AE=|Bud Webster|
+	AS=|AnaT|
+	YR=|1996|
+	TG=|15080|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Amateurs {
+	AE=|Tom Ligon|
+	AS=|AnaT|
+	YR=|1996|
+	TG=|14956|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Gerry Boomers {
+	AE=|A. J. Austin+Daniel Hatch|
+	AS=|AnaT|
+	YR=|1996|
+	TG=|14741|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Martian Valkyrie {
+	AE=|G. David Nordley|
+	AS=|AnaT|
+	YR=|1996|
+	TG=|14992|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Alexandrian Librarians {
+	AE=|Stephen L. Burns|
+	AS=|AnaT|
+	YR=|1996|
+	TG=|14782|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Trial by Ordeal {
+	AE=|Grey Rollins|
+	AS=|AnaT|
+	YR=|1997|
+	TG=|18212|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Ask Arlen {
+	AE=|Maya Kaathryn Bohnhoff|
+	AS=|AnaT|
+	YR=|1997|
+	TG=|19185|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Easter Egg Hunt: A Christmas Story {
+	AE=|Jeffery D. Kooistra|
+	AS=|AnaT|
+	YR=|1997|
+	TG=|19202|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Gideon {
+	AE=|Michael F. Flynn|
+	AS=|AnaT|
+	YR=|1997|
+	TG=|19196|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Variations in Dreampaint {
+	AE=|Marc Stiegler|
+	AS=|AnaT|
+	YR=|1997|
+	TG=|19226|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|4|
+}
+Zwarte Piet's Tale {
+	AE=|Allen Steele|
+	AS=|AnaT|
+	YR=|1998|
+	TG=|19921|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|1|
+}
+Olympus Mons! {
+	AE=|Bud Sparhawk|
+	AS=|AnaT|
+	YR=|1998|
+	TG=|22512|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Trade Warriors {
+	AE=|F. Alexander Brejcha|
+	AS=|AnaT|
+	YR=|1998|
+	TG=|22369|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|3|
+}
+The Question {
+	AE=|Ben Bova|
+	AS=|AnaT|
+	YR=|1998|
+	TG=|22365|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|4|
+}
+A Life on Mars {
+	AE=|G. David Nordley|
+	AS=|AnaT|
+	YR=|1998|
+	TG=|22466|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|5|
+}
+The Giftie {
+	AE=|James E. Gunn^James Gunn|
+	AS=|AnaT|
+	YR=|1999|
+	TG=|21515|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|1|
+}
+As Time Goes By {
+	AE=|Amy Bechtel|
+	AS=|AnaT|
+	YR=|1999|
+	TG=|22354|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|2|
+}
+Emperor Penguins {
+	AE=|F. Alexander Brejcha|
+	AS=|AnaT|
+	YR=|1999|
+	TG=|22368|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|3|
+}
+Vultures {
+	AE=|Stephen L. Burns|
+	AS=|AnaT|
+	YR=|1999|
+	TG=|22372|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|4|
+}
+McAndrew and the Fifth Commandment {
+	AE=|Charles Sheffield|
+	AS=|AnaT|
+	YR=|1999|
+	TG=|22500|
+	TA=|Best Novelette|
+	TP=|nt|
+	LV=|5|
+}
+Can These Bones Live? {
+	AE=|Ted Reynolds|
+	AS=|AnaS|
+	YR=|1979|
+	TG=|18053|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Breaking the Game {
+	AE=|Orson Scott Card|
+	AS=|AnaS|
+	YR=|1979|
+	TG=|18040|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+In Adam's Fall {
+	AE=|Jayge Carr|
+	AS=|AnaS|
+	YR=|1979|
+	TG=|18042|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Old Friends {
+	AE=|Kevin O'Donnell, Jr.|
+	AS=|AnaS|
+	YR=|1979|
+	TG=|18052|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+...And Master of One {
+	AE=|Ian Stewart|
+	AS=|AnaS|
+	YR=|1979|
+	TG=|18056|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Grotto of the Dancing Deer {
+	AE=|Clifford D. Simak|
+	AS=|AnaS|
+	YR=|1980|
+	TG=|15036|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Touch of Their Eyes {
+	AE=|Steven Gould|
+	AS=|AnaS|
+	YR=|1980|
+	TG=|14888|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+The Bully and the Crazy Boy {
+	AE=|Marc Stiegler|
+	AS=|AnaS|
+	YR=|1980|
+	TG=|15050|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Meeting of Minds {
+	AE=|Ted Reynolds|
+	AS=|AnaS|
+	YR=|1980|
+	TG=|15013|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Scrooge in Space {
+	AE=|Sam Nicholson|
+	AS=|AnaS|
+	YR=|1980|
+	TG=|14987|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Green Winter {
+	AE=|F. Paul Wilson|
+	AS=|AnaS|
+	YR=|1981|
+	TG=|15084|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Absent Thee from Felicity Awhile... {
+	AE=|S. P. Somtow^Somtow Sucharitkul|
+	AS=|AnaS|
+	YR=|1981|
+	TG=|15063|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Collector's Item {
+	AE=|Barry B. Longyear|
+	AS=|AnaS|
+	YR=|1981|
+	TG=|14962|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+The Pacifists {
+	AE=|Jayge Carr|
+	AS=|AnaS|
+	YR=|1981|
+	TG=|14801|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Misfits {
+	AE=|Edward A. Byers|
+	AS=|AnaS|
+	YR=|1981|
+	TG=|14795|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Melancholy Elephants {
+	AE=|Spider Robinson|
+	AS=|AnaS|
+	YR=|1982|
+	TG=|15015|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Garden of the Cognoscenti {
+	AE=|Michael P. Kube-McDowell|
+	AS=|AnaS|
+	YR=|1982|
+	TG=|14944|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Walk with Me {
+	AE=|Rob Chilson|
+	AS=|AnaS|
+	YR=|1982|
+	TG=|14803|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Schrödinger's Plague {
+	AE=|Greg Bear|
+	AS=|AnaS|
+	YR=|1982|
+	TG=|14742|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Who Will Guard the Guardians? {
+	AE=|Catherine McCollum+Michael A. McCollum|
+	AS=|AnaS|
+	YR=|1982|
+	TG=|14978|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Deborah's Children {
+	AE=|Grant Callin^Grant D. Callin|
+	AS=|AnaS|
+	YR=|1983|
+	TG=|14797|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Reluctant Torturer {
+	AE=|Hayford Peirce|
+	AS=|AnaS|
+	YR=|1983|
+	TG=|15008|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+We, the People {
+	AE=|Jack C. Haldeman II|
+	AS=|AnaS|
+	YR=|1983|
+	TG=|14896|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+The Geometry of Narrative {
+	AE=|Hilbert Schenck|
+	AS=|AnaS|
+	YR=|1983|
+	TG=|15026|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Sandcastles {
+	AE=|Mary Caraker|
+	AS=|AnaS|
+	YR=|1983|
+	TG=|14798|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+The Crystal Spheres {
+	AE=|David Brin|
+	AS=|AnaS|
+	YR=|1984|
+	TG=|14766|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+A Thrrup for Teacher {
+	AE=|Mary Caraker|
+	AS=|AnaS|
+	YR=|1984|
+	TG=|14799|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Symphony for a Lost Traveler {
+	AE=|Lee Killough|
+	AS=|AnaS|
+	YR=|1984|
+	TG=|14934|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Winter Snow {
+	AE=|Eric Vinicoff+Marcia Martin|
+	AS=|AnaS|
+	YR=|1984|
+	TG=|15077|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Teamwork {
+	AE=|Timothy Zahn|
+	AS=|AnaS|
+	YR=|1984|
+	TG=|15096|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Low Midnight {
+	AE=|Alison Tellure|
+	AS=|AnaS|
+	YR=|1984|
+	TG=|15067|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Slan Libh {
+	AE=|Michael F. Flynn|
+	AS=|AnaS|
+	YR=|1984|
+	TG=|14862|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Rory {
+	AE=|Steven Gould|
+	AS=|AnaS|
+	YR=|1984|
+	TG=|14887|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+A Touch Beyond {
+	AE=|Stephen L. Burns|
+	AS=|AnaS|
+	YR=|1985|
+	TG=|14791|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Gertrude {
+	AE=|P. M. Fergusson|
+	AS=|AnaS|
+	YR=|1985|
+	TG=|14850|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Cycles {
+	AE=|Don Sakers|
+	AS=|AnaS|
+	YR=|1985|
+	TG=|15022|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+The R Strain {
+	AE=|Harry Turtledove^Eric G. Iverson|
+	AS=|AnaS|
+	YR=|1985|
+	TG=|14920|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+The Man of Peace {
+	AE=|Stephen L. Burns|
+	AS=|AnaS|
+	YR=|1985|
+	TG=|14786|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Phreak Encounter {
+	AE=|Roger MacBride Allen|
+	AS=|AnaS|
+	YR=|1986|
+	TG=|14731|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Godkiller {
+	AE=|P. M. Fergusson|
+	AS=|AnaS|
+	YR=|1986|
+	TG=|14851|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Brain in a Pocket {
+	AE=|Rob Chilson|
+	AS=|AnaS|
+	YR=|1986|
+	TG=|14802|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Relics {
+	AE=|Janet Asimov^J. O. Jeppson|
+	AS=|AnaS|
+	YR=|1986|
+	TG=|14930|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+To Fit the Crime {
+	AE=|Joseph H. Delaney|
+	AS=|AnaS|
+	YR=|1986|
+	TG=|14820|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+The Love Song of Laura Morrison {
+	AE=|Jerry Oltion|
+	AS=|AnaS|
+	YR=|1987|
+	TG=|14996|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Grand Tour {
+	AE=|Charles Sheffield|
+	AS=|AnaS|
+	YR=|1987|
+	TG=|15030|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Neither Rain nor Sleet nor Weirdness {
+	AE=|Jerry Oltion|
+	AS=|AnaS|
+	YR=|1987|
+	TG=|14997|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Mortality {
+	AE=|Rick Cook|
+	AS=|AnaS|
+	YR=|1987|
+	TG=|14807|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Independents {
+	AE=|Eric Vinicoff|
+	AS=|AnaS|
+	YR=|1987|
+	TG=|15075|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+The Circus Horse {
+	AE=|Amy Bechtel|
+	AS=|AnaS|
+	YR=|1988|
+	TG=|14744|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Frame of Reference {
+	AE=|Stephen Kraus|
+	AS=|AnaS|
+	YR=|1988|
+	TG=|14940|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Siren {
+	AE=|A. J. Austin|
+	AS=|AnaS|
+	YR=|1988|
+	TG=|14740|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+If You Wish Upon a Star... {
+	AE=|Jerry Oltion|
+	AS=|AnaS|
+	YR=|1988|
+	TG=|14995|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+User Friendly {
+	AE=|Alice Laurance|
+	AS=|AnaS|
+	YR=|1988|
+	TG=|14951|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+The Happy Dead {
+	AE=|Amy Bechtel|
+	AS=|AnaS|
+	YR=|1989|
+	TG=|14745|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Soul of the City {
+	AE=|Michael F. Flynn|
+	AS=|AnaS|
+	YR=|1989|
+	TG=|14863|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+The Best Is Yet to Be {
+	AE=|Lyn Murray|
+	AS=|AnaS|
+	YR=|1989|
+	TG=|14986|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Little Monsters {
+	AE=|Amy Bechtel|
+	AS=|AnaS|
+	YR=|1989|
+	TG=|14746|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Gridlock {
+	AE=|Michael A. McCollum|
+	AS=|AnaS|
+	YR=|1989|
+	TG=|14980|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+VRM-547 {
+	AE=|W. R. Thompson|
+	AS=|AnaS|
+	YR=|1990|
+	TG=|15070|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+To Victor Go the Spoils {
+	AE=|Grey Rollins|
+	AS=|AnaS|
+	YR=|1990|
+	TG=|15018|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Godspeed {
+	AE=|Charles Sheffield|
+	AS=|AnaS|
+	YR=|1990|
+	TG=|15029|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+To Tame a Tiger {
+	AE=|Mary Caraker|
+	AS=|AnaS|
+	YR=|1990|
+	TG=|14800|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Look Closer {
+	AE=|Amy Bechtel|
+	AS=|AnaS|
+	YR=|1990|
+	TG=|14747|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+The Double Spiral Staircase {
+	AE=|Charles Sheffield|
+	AS=|AnaS|
+	YR=|1990|
+	TG=|15028|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+The Feeders {
+	AE=|Michael F. Flynn|
+	AS=|AnaS|
+	YR=|1990|
+	TG=|14855|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+The Cold Solution {
+	AE=|Don Sakers|
+	AS=|AnaS|
+	YR=|1991|
+	TG=|15021|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+A Roll of Round Dice {
+	AE=|Stephen L. Burns|
+	AS=|AnaS|
+	YR=|1991|
+	TG=|14789|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Enemy of the State {
+	AE=|Jack C. Haldeman II|
+	AS=|AnaS|
+	YR=|1991|
+	TG=|14895|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Business As Usual {
+	AE=|Amy Bechtel|
+	AS=|AnaS|
+	YR=|1991|
+	TG=|14743|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Driven By Moonlight {
+	AE=|Sarah Zettel|
+	AS=|AnaS|
+	YR=|1991|
+	TG=|15098|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Love, Dad {
+	AE=|Jeffery D. Kooistra|
+	AS=|AnaS|
+	YR=|1992|
+	TG=|14936|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Stranger Things {
+	AE=|Amy Bechtel|
+	AS=|AnaS|
+	YR=|1992|
+	TG=|14748|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Bushido {
+	AE=|Ben Bova|
+	AS=|AnaS|
+	YR=|1992|
+	TG=|14763|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Steelcollar Worker {
+	AE=|Vonda N. McIntyre|
+	AS=|AnaS|
+	YR=|1992|
+	TG=|14981|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Change of Life {
+	AE=|L. A. Taylor|
+	AS=|AnaS|
+	YR=|1992|
+	TG=|15065|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+White Room {
+	AE=|Stephen L. Burns|
+	AS=|AnaS|
+	YR=|1993|
+	TG=|14793|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Puff {
+	AE=|Jeffery D. Kooistra|
+	AS=|AnaS|
+	YR=|1993|
+	TG=|14937|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Spcpt. Vu {
+	AE=|Jeffery D. Kooistra|
+	AS=|AnaS|
+	YR=|1993|
+	TG=|14938|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Defend with the Utmost Endeavor {
+	AE=|Kent Patterson|
+	AS=|AnaS|
+	YR=|1993|
+	TG=|15004|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+From the Corner of the Eye {
+	AE=|Michael F. Flynn|
+	AS=|AnaS|
+	YR=|1993|
+	TG=|14857|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Jake's Gift {
+	AE=|Bud Sparhawk|
+	AS=|AnaS|
+	YR=|1993|
+	TG=|15039|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Bubba Pritchert and the Space Aliens {
+	AE=|Bud Webster|
+	AS=|AnaS|
+	YR=|1994|
+	TG=|15079|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+His Father's Voice {
+	AE=|G. David Nordley|
+	AS=|AnaS|
+	YR=|1994|
+	TG=|14989|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Negative Feedback {
+	AE=|Christopher Anvil|
+	AS=|AnaS|
+	YR=|1994|
+	TG=|14736|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+Persistence {
+	AE=|Bud Sparhawk|
+	AS=|AnaS|
+	YR=|1994|
+	TG=|15040|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+The Pandora Probe {
+	AE=|Jerry Oltion|
+	AS=|AnaS|
+	YR=|1994|
+	TG=|14998|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+TeleAbsence {
+	AE=|Michael A. Burstein|
+	AS=|AnaS|
+	YR=|1995|
+	TG=|14794|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Walking the Virtch {
+	AE=|J. Steven York|
+	AS=|AnaS|
+	YR=|1995|
+	TG=|15087|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Kath in Winter {
+	AE=|Marc Stiegler|
+	AS=|AnaS|
+	YR=|1995|
+	TG=|15053|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+The Dream of Houses {
+	AE=|Wil McCarthy|
+	AS=|AnaS|
+	YR=|1995|
+	TG=|14977|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+The Void {
+	AE=|Michael A. McCollum^Michael McCollum|
+	AS=|AnaS|
+	YR=|1995|
+	TG=|14979|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Living It Is the Best Revenge {
+	AE=|Ian Randal Strock|
+	AS=|AnaS|
+	YR=|1996|
+	TG=|15062|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+The Content of Their Character {
+	AE=|Doug Larsen|
+	AS=|AnaS|
+	YR=|1996|
+	TG=|14948|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Fluffy {
+	AE=|Jeffery D. Kooistra|
+	AS=|AnaS|
+	YR=|1996|
+	TG=|14935|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+When There's a Will, There's a Way {
+	AE=|Grey Rollins|
+	AS=|AnaS|
+	YR=|1996|
+	TG=|15019|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Appointment in Sinai {
+	AE=|Ben Bova|
+	AS=|AnaS|
+	YR=|1996|
+	TG=|14762|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+A Replant Day Carol {
+	AE=|John Vester|
+	AS=|AnaS|
+	YR=|1996|
+	TG=|15074|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Already in Heaven {
+	AE=|Brian Plante|
+	AS=|AnaS|
+	YR=|1997|
+	TG=|18204|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+On the Application of Quantum Probability Tunneling to Improve Manufacturability of Printed Circuit Board Designs: A Case Study {
+	AE=|Rick Cook+Peter L. Manly|
+	AS=|AnaS|
+	YR=|1997|
+	TG=|19187|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Waiting for the Riddlers {
+	AE=|Charles Sheffield|
+	AS=|AnaS|
+	YR=|1997|
+	TG=|19224|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Last Exit Before the Final Frontier {
+	AE=|Jeffery D. Kooistra|
+	AS=|AnaS|
+	YR=|1997|
+	TG=|19203|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+The Big One {
+	AE=|James Van Pelt|
+	AS=|AnaS|
+	YR=|1997|
+	TG=|19227|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Moon-Calf {
+	AE=|Stephen Baxter|
+	AS=|AnaS|
+	YR=|1998|
+	TG=|19910|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+In Space, No One Can Hear {
+	AE=|Michael A. Burstein|
+	AS=|AnaS|
+	YR=|1998|
+	TG=|22374|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Spindown {
+	AE=|Wolf Read|
+	AS=|AnaS|
+	YR=|1998|
+	TG=|22481|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Nor Through Inaction {
+	AE=|Charles Ardai+Michael A. Burstein|
+	AS=|AnaS|
+	YR=|1998|
+	TG=|22347|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Artifacts {
+	AE=|Jerry Oltion|
+	AS=|AnaS|
+	YR=|1998|
+	TG=|22467|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Sam Boone and the Teacup Conundrum {
+	AE=|Bud Sparhawk|
+	AS=|AnaS|
+	YR=|1998|
+	TG=|22513|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+Democritus' Violin {
+	AE=|G. David Nordley|
+	AS=|AnaS|
+	YR=|1999|
+	TG=|21518|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Nor a Lender Be {
+	AE=|James Van Pelt|
+	AS=|AnaS|
+	YR=|1999|
+	TG=|22533|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Ark Ascension {
+	AE=|James Van Pelt|
+	AS=|AnaS|
+	YR=|1999|
+	TG=|22532|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|3|
+}
+You May Already Be a Winner {
+	AE=|Stephen L. Burns|
+	AS=|AnaS|
+	YR=|1999|
+	TG=|22373|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|4|
+}
+The Dashing About Flying Box People {
+	AE=|Uncle River|
+	AS=|AnaS|
+	YR=|1999|
+	TG=|22488|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|5|
+}
+Build Your Own A-Bomb and Wake Up the Neighborhood {
+	AE=|George W. Harper|
+	AS=|AnaF|
+	YR=|1979|
+	TG=|18045|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+The Spaceport {
+	AE=|Roger Arnold+Donald Kingsbury|
+	AS=|AnaF|
+	YR=|1979|
+	TG=|18038|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Funding the Future {
+	AE=|M. David Stone|
+	AS=|AnaF|
+	YR=|1979|
+	TG=|18057|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Future Food {
+	AE=|David Ritchie|
+	AS=|AnaF|
+	YR=|1979|
+	TG=|18054|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+American Enthusiasm for Spaceflight {
+	AE=|William Sims Bainbridge+Richard Wyckoff|
+	AS=|AnaF|
+	YR=|1979|
+	TG=|18039|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+Demythologizing the Black Hole {
+	AE=|Richard Matner+Tsi Piran+Tony Rothman|
+	AS=|AnaF|
+	YR=|1980|
+	TG=|14975|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+A Taste of Dragon's Egg {
+	AE=|Robert L. Forward|
+	AS=|AnaF|
+	YR=|1980|
+	TG=|14870|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Death Risk {
+	AE=|Milton A. Rothman|
+	AS=|AnaF|
+	YR=|1980|
+	TG=|15020|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Man's Biological Future {
+	AE=|L. Sprague de Camp|
+	AS=|AnaF|
+	YR=|1980|
+	TG=|14816|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Steamer Time (Again?) {
+	AE=|Wallace West|
+	AS=|AnaF|
+	YR=|1980|
+	TG=|15081|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+Extraterrestrial Zoology {
+	AE=|Robert A. Freitas, Jr.|
+	AS=|AnaF|
+	YR=|1981|
+	TG=|14878|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Base Eight Arithmetic, Meteors, and Man {
+	AE=|John Gribbin|
+	AS=|AnaF|
+	YR=|1981|
+	TG=|14889|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Mars in 1995! {
+	AE=|Bob Parkinson+David Hardy|
+	AS=|AnaF|
+	YR=|1981|
+	TG=|15003|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Mercury's Missing Divot {
+	AE=|J. E. Enever|
+	AS=|AnaF|
+	YR=|1981|
+	TG=|14849|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+New Communications Technologies and the Developing World {
+	AE=|Arthur C. Clarke|
+	AS=|AnaF|
+	YR=|1982|
+	TG=|14804|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Exploring the Asteroids {
+	AE=|Joel A. Davis|
+	AS=|AnaF|
+	YR=|1982|
+	TG=|14813|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Alien Sex {
+	AE=|Robert A. Freitas, Jr.|
+	AS=|AnaF|
+	YR=|1982|
+	TG=|14877|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Space Transportation: You Can Get There From Here! {
+	AE=|Gordon R. Woodcock|
+	AS=|AnaF|
+	YR=|1982|
+	TG=|15085|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+The Inner Five {
+	AE=|George W. Harper|
+	AS=|AnaF|
+	YR=|1982|
+	TG=|14910|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+The Blivit in the B-Ring {
+	AE=|Richard C. Hoagland|
+	AS=|AnaF|
+	YR=|1983|
+	TG=|14916|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Xenology: The New Science of Asking, 'Who's Out There?' {
+	AE=|David Brin|
+	AS=|AnaF|
+	YR=|1983|
+	TG=|14770|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+To the Stars! {
+	AE=|Gordon R. Woodcock|
+	AS=|AnaF|
+	YR=|1983|
+	TG=|15086|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Science and Creation {
+	AE=|Poul Anderson|
+	AS=|AnaF|
+	YR=|1983|
+	TG=|14733|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+Flattening Spacetime {
+	AE=|Robert L. Forward|
+	AS=|AnaF|
+	YR=|1983|
+	TG=|14868|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+The Deadly Thing at 2.4 Kiloparsecs {
+	AE=|David Brin|
+	AS=|AnaF|
+	YR=|1984|
+	TG=|14767|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Advanced Machines in Ancient Egypt {
+	AE=|Christopher P. Dunn|
+	AS=|AnaF|
+	YR=|1984|
+	TG=|14839|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Axes, Saws, and Alphabets {
+	AE=|Margaret M. Bishop|
+	AS=|AnaF|
+	YR=|1984|
+	TG=|14758|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Xenopsychology {
+	AE=|Robert M. Freitas|
+	AS=|AnaF|
+	YR=|1984|
+	TG=|14880|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+The Galaxy Before Man {
+	AE=|Thomas Donaldson|
+	AS=|AnaF|
+	YR=|1984|
+	TG=|14838|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+Just How Dangerous is the Galaxy? {
+	AE=|David Brin|
+	AS=|AnaF|
+	YR=|1985|
+	TG=|14768|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+The Postdiluvian World {
+	AE=|Stephen L. Gillett, Ph.D.|
+	AS=|AnaF|
+	YR=|1985|
+	TG=|14885|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Russians to Mars {
+	AE=|James E. Oberg|
+	AS=|AnaF|
+	YR=|1985|
+	TG=|14994|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+The Lost Dimensions of Reality {
+	AE=|John Gribbin|
+	AS=|AnaF|
+	YR=|1985|
+	TG=|14890|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+Hot Rocks and Water {
+	AE=|Richard Patrik Terra|
+	AS=|AnaF|
+	YR=|1985|
+	TG=|15068|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+The Long Stern Chase: A Speculative Exercise {
+	AE=|Rick Cook|
+	AS=|AnaF|
+	YR=|1986|
+	TG=|14806|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+The Curious Case of the Humanoid Face--On Mars {
+	AE=|Richard C. Hoagland|
+	AS=|AnaF|
+	YR=|1986|
+	TG=|14917|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+A Little More Pollution, Please! {
+	AE=|George W. Harper|
+	AS=|AnaF|
+	YR=|1986|
+	TG=|14911|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Making Star Trek Real {
+	AE=|James R. Powell+Charles Pellegrino|
+	AS=|AnaF|
+	YR=|1986|
+	TG=|15009|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+Fermi Paradox--The Final Solution? {
+	AE=|Duncan Lunan|
+	AS=|AnaF|
+	YR=|1986|
+	TG=|14964|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+Nanotechnology {
+	AE=|Chris Peterson+K. Eric Drexler|
+	AS=|AnaF|
+	YR=|1987|
+	TG=|15007|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Memetics and the Modular Mind {
+	AE=|H. Keith Henson|
+	AS=|AnaF|
+	YR=|1987|
+	TG=|14915|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Moonbase Orientation Manual {
+	AE=|Ben Bova|
+	AS=|AnaF|
+	YR=|1987|
+	TG=|14765|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Universe - The Ultimate Artifact? {
+	AE=|Richard D. Meisner|
+	AS=|AnaF|
+	YR=|1987|
+	TG=|14984|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+Cheap but not Dirty: Proposal for a Spaceplane {
+	AE=|Tom Pace+Dan DeLong|
+	AS=|AnaF|
+	YR=|1987|
+	TG=|15000|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+An Introduction to Psychohistory {
+	AE=|Michael F. Flynn|
+	AS=|AnaF|
+	YR=|1988|
+	TG=|14858|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Extraterrestrial Intelligence and the Interdict Hypothesis {
+	AE=|Martyn J. Fogg|
+	AS=|AnaF|
+	YR=|1988|
+	TG=|14865|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+24th Century Medicine {
+	AE=|Thomas Donaldson|
+	AS=|AnaF|
+	YR=|1988|
+	TG=|14837|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Building a Better Biosphere {
+	AE=|Greg Stec|
+	AS=|AnaF|
+	YR=|1988|
+	TG=|15043|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+Laughing All the Way to Orbit {
+	AE=|G. Harry Stine+Wilfred C. Smith|
+	AS=|AnaF|
+	YR=|1988|
+	TG=|15058|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+The Ape-Man Within Us {
+	AE=|L. Sprague de Camp|
+	AS=|AnaF|
+	YR=|1989|
+	TG=|14814|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Zero Gravity and the Immune System: A Challenge to Man's Survival in Space {
+	AE=|J. Kevin Steele|
+	AS=|AnaF|
+	YR=|1989|
+	TG=|15046|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+On Building an Earth-Like Planet {
+	AE=|Stephen L. Gillett, Ph.D.|
+	AS=|AnaF|
+	YR=|1989|
+	TG=|14884|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Hypermedia and the Singularity {
+	AE=|Marc Stiegler|
+	AS=|AnaF|
+	YR=|1989|
+	TG=|15052|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+The Economics of Interstellar Commerce {
+	AE=|Warren Salomon|
+	AS=|AnaF|
+	YR=|1989|
+	TG=|15024|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+Sixty Astounding Years {
+	AE=|Michael F. Flynn|
+	AS=|AnaF|
+	YR=|1990|
+	TG=|14861|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Where Buffalo Roam... {
+	AE=|John Gribbin+Mary Gribbin|
+	AS=|AnaF|
+	YR=|1990|
+	TG=|14892|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+New Hopes for a Very Old Disease: Cancer Therapies for the 1990s {
+	AE=|Kevin J. Steele|
+	AS=|AnaF|
+	YR=|1990|
+	TG=|15047|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Scientific Diversions {
+	AE=|Margaret L. Silbar|
+	AS=|AnaF|
+	YR=|1990|
+	TG=|15035|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Nuclear Rocketry Using Indigenous Propellants: The key to the Solar System {
+	AE=|Robert M. Zubrin|
+	AS=|AnaF|
+	YR=|1990|
+	TG=|15102|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Taking the Shuttle to the Moon {
+	AE=|Chris Vuille|
+	AS=|AnaF|
+	YR=|1990|
+	TG=|15078|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+Fire, Brimstone -- And Maybe Life? {
+	AE=|Stephen L. Gillett, Ph.D.|
+	AS=|AnaF|
+	YR=|1990|
+	TG=|14883|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+The Mote in NASA's Eye {
+	AE=|Charles Sheffield|
+	AS=|AnaF|
+	YR=|1991|
+	TG=|15033|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Mars Direct: A Proposal for the Rapid Exploration and Colonization of the Red Planet {
+	AE=|Robert M. Zubrin+David A. Baker|
+	AS=|AnaF|
+	YR=|1991|
+	TG=|15103|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Global Catastrophes and Mass Extinctions {
+	AE=|Jeff Hecht|
+	AS=|AnaF|
+	YR=|1991|
+	TG=|14914|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Hydrogen Time {
+	AE=|Marc Davenport|
+	AS=|AnaF|
+	YR=|1991|
+	TG=|14812|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+Whatever Happened to the Little Ice Age? {
+	AE=|John Gribbin|
+	AS=|AnaF|
+	YR=|1991|
+	TG=|14891|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+Once and Future Mars {
+	AE=|Martyn J. Fogg|
+	AS=|AnaF|
+	YR=|1991|
+	TG=|14864|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+The Demon Under Hawaii {
+	AE=|Geoffrey A. Landis|
+	AS=|AnaF|
+	YR=|1992|
+	TG=|14947|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Manufacturing Magic {
+	AE=|Arlan Andrews|
+	AS=|AnaF|
+	YR=|1992|
+	TG=|14734|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Chicxulub: The Smoking K-T Gun? {
+	AE=|Stephen L. Gillett, Ph.D.|
+	AS=|AnaF|
+	YR=|1992|
+	TG=|14882|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+The Magnetic Sail {
+	AE=|Robert M. Zubrin|
+	AS=|AnaF|
+	YR=|1992|
+	TG=|15100|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+A Visit to Suprajupiter {
+	AE=|Paul Birch|
+	AS=|AnaF|
+	YR=|1992|
+	TG=|14756|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+Single Stage to Infinity! {
+	AE=|Arlan Andrews|
+	AS=|AnaF|
+	YR=|1993|
+	TG=|14735|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+FAT-Eating Logic Bombs and the Vampire Worm {
+	AE=|Edward Reitman+Michael F. Flynn|
+	AS=|AnaF|
+	YR=|1993|
+	TG=|15012|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Comes the Revolution... {
+	AE=|G. Harry Stine|
+	AS=|AnaF|
+	YR=|1993|
+	TG=|15055|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Goat Island {
+	AE=|L. Sprague de Camp|
+	AS=|AnaF|
+	YR=|1993|
+	TG=|14815|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+Is AIDS an Autoimmune Disease? {
+	AE=|J. Kevin Steele|
+	AS=|AnaF|
+	YR=|1993|
+	TG=|15045|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+The Rooster Crows at White Sands {
+	AE=|G. Harry Stine|
+	AS=|AnaF|
+	YR=|1994|
+	TG=|15056|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+The Bug, the Moose, and Chapter 24 {
+	AE=|Charles L. Harness|
+	AS=|AnaF|
+	YR=|1994|
+	TG=|14907|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Return to the Moon {
+	AE=|Edwin E. "Buzz" Aldrin+Aleta Jackson|
+	AS=|AnaF|
+	YR=|1994|
+	TG=|14730|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+How to Find a Starship {
+	AE=|Robert M. Zubrin|
+	AS=|AnaF|
+	YR=|1994|
+	TG=|15099|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+Multiple Comet Strikes on Jupiter {
+	AE=|Peter L. Manly|
+	AS=|AnaF|
+	YR=|1994|
+	TG=|14968|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+A Handful of Heresies {
+	AE=|Charles Sheffield|
+	AS=|AnaF|
+	YR=|1995|
+	TG=|15031|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Fact-Free Science {
+	AE=|James P. Hogan|
+	AS=|AnaF|
+	YR=|1995|
+	TG=|14918|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+The Martian Frontier {
+	AE=|Robert M. Zubrin|
+	AS=|AnaF|
+	YR=|1995|
+	TG=|15101|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Faster-Than-Light {
+	AE=|Robert L. Forward|
+	AS=|AnaF|
+	YR=|1995|
+	TG=|14867|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+The Artemis Project: Selling the Moon {
+	AE=|Gregory Bennett|
+	AS=|AnaF|
+	YR=|1995|
+	TG=|14753|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+Black Horse: One Stop To Orbit {
+	AE=|Robert M. Zubrin+Mitchell Burnside-Clapp|
+	AS=|AnaF|
+	YR=|1995|
+	TG=|15104|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+The Coming of the Money Card: Boon or Bane? {
+	AE=|Ian Randal Strock|
+	AS=|AnaF|
+	YR=|1996|
+	TG=|15061|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Prospectus {
+	AE=|Tom Ligon|
+	AS=|AnaF|
+	YR=|1996|
+	TG=|14958|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Population and the Future {
+	AE=|Thomas A. Easton+Stephen L. Gillett, Ph.D.|
+	AS=|AnaF|
+	YR=|1996|
+	TG=|14840|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Will They Let the Spaceships Fly? {
+	AE=|G. Harry Stine|
+	AS=|AnaF|
+	YR=|1996|
+	TG=|15057|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+The Future of Computers {
+	AE=|Robert A. Freitas, Jr.|
+	AS=|AnaF|
+	YR=|1996|
+	TG=|14879|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+Cosmological Darwinism {
+	AE=|Richard D. Meisner|
+	AS=|AnaF|
+	YR=|1997|
+	TG=|18192|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Science Fact: Paradigm Shifty Things {
+	AE=|Jeffery D. Kooistra|
+	AS=|AnaF|
+	YR=|1997|
+	TG=|19204|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Just How "Average" is the Solar System? {
+	AE=|Stephen L. Gillett, Ph.D.|
+	AS=|AnaF|
+	YR=|1997|
+	TG=|19199|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Biology at the Extremes {
+	AE=|Mark S. Lesney|
+	AS=|AnaF|
+	YR=|1997|
+	TG=|19210|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+Cold Fusion: The "Miracle" is no Mistake {
+	AE=|Dr. Eugene F. Mallove|
+	AS=|AnaF|
+	YR=|1997|
+	TG=|19214|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+The World's Simplest Fusion Reactor {
+	AE=|Tom Ligon|
+	AS=|AnaF|
+	YR=|1998|
+	TG=|19917|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Pathfinder Journal: Adventures in the Mars Business {
+	AE=|Geoffrey A. Landis|
+	AS=|AnaF|
+	YR=|1998|
+	TG=|22440|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Near-Term Nanotechnology {
+	AE=|Stephen L. Gillett, Ph.D.|
+	AS=|AnaF|
+	YR=|1998|
+	TG=|22409|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Sex in Space: The Fantasy and the Reality {
+	AE=|H. G. Stratmann|
+	AS=|AnaF|
+	YR=|1998|
+	TG=|22519|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+Biological Hazards and Medical Care in Space {
+	AE=|H. G. Stratmann+G. David Nordley|
+	AS=|AnaF|
+	YR=|1998|
+	TG=|22520|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|5|
+}
+Planets X {
+	AE=|Stephen L. Gillett, Ph.D.|
+	AS=|AnaF|
+	YR=|1999|
+	TG=|21514|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Beamriders {
+	AE=|G. David Nordley|
+	AS=|AnaF|
+	YR=|1999|
+	TG=|21517|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|1|
+}
+Unresources {
+	AE=|Stephen L. Gillett, Ph.D.|
+	AS=|AnaF|
+	YR=|1999|
+	TG=|22407|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|2|
+}
+Diamond Ether, Nanotechnology - And Venus {
+	AE=|Stephen L. Gillett, Ph.D.|
+	AS=|AnaF|
+	YR=|1999|
+	TG=|22406|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|3|
+}
+Tricorders, Yactograms, and the Future of Analytical Chemistry {
+	AE=|Richard A. Lovett|
+	AS=|AnaF|
+	YR=|1999|
+	TG=|22447|
+	TA=|Best Fact Article|
+	TP=|e|
+	LV=|4|
+}
+Cover (Analog Jan 1979) [Titan by John Varley] {
+	AE=|Paul Lehr|
+	AS=|AnaC|
+	YR=|1979|
+	TG=|18047|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Dec 1979) [The Moon Goddess and the Son by Donald Kingsbury] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1979|
+	TG=|18044|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Jul 1979) [Apollo 11 Anniversary] {
+	AE=|Robert McCall|
+	AS=|AnaC|
+	YR=|1979|
+	TG=|18048|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Jan 1980) [One-Wing by Lisa Tuttle & George R. R. Martin] {
+	AE=|Paul Lehr|
+	AS=|AnaC|
+	YR=|1980|
+	TG=|14953|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Feb 1980) [Savage Planet by Barry B. Longyear] {
+	AE=|Frank Kelly Freas|
+	AS=|AnaC|
+	YR=|1980|
+	TG=|14873|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Mar 1980) [World in the Clouds by Bob Buckley] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1980|
+	TG=|14831|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Apr 1980) [Nightflyers by George R. R. Marting] {
+	AE=|Paul Lehr|
+	AS=|AnaC|
+	YR=|1980|
+	TG=|14952|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Feb 1981) [The Saturn Game by Poul Anderson] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1981|
+	TG=|14824|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Jun 1981) [Mars in 1995! by Bob Parkinson & David Hardy] {
+	AE=|David Hardy|
+	AS=|AnaC|
+	YR=|1981|
+	TG=|14902|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Mar 1981) [Paradise Misplaced] {
+	AE=|Paul Lehr|
+	AS=|AnaC|
+	YR=|1981|
+	TG=|14954|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Jan 1981) [Mercury's Missing Divot by J. E. Enever] {
+	AE=|Rick Sternbach|
+	AS=|AnaC|
+	YR=|1981|
+	TG=|15048|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Jul 1982) [Rings of Glory] {
+	AE=|Rick Sternbach|
+	AS=|AnaC|
+	YR=|1982|
+	TG=|15049|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Feb 1982) [Courtship Rite by Donald Kingsbury] {
+	AE=|Val Lakey Lindahn|
+	AS=|AnaC|
+	YR=|1982|
+	TG=|14946|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Aug 1982) [Rails Across the Galaxy] {
+	AE=|Frank Kelly Freas|
+	AS=|AnaC|
+	YR=|1982|
+	TG=|14871|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Mid-Sep 1982) [He Who Fights and Runs Away] {
+	AE=|Paul Lehr|
+	AS=|AnaC|
+	YR=|1982|
+	TG=|14955|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Sep 1982) [The Manna Hunt] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1982|
+	TG=|14835|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Jun 1983) [To the Stars! by Gordon R. Woodcock] {
+	AE=|David Hardy|
+	AS=|AnaC|
+	YR=|1983|
+	TG=|14903|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Feb 1983) [Seeking by David R. Palmer] {
+	AE=|Val Lakey Lindahn|
+	AS=|AnaC|
+	YR=|1983|
+	TG=|14945|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Oct 1983) [The Integral Trees by Larry Niven] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1983|
+	TG=|14834|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Nov 1983) [Deathwomb] {
+	AE=|Tom Kidd|
+	AS=|AnaC|
+	YR=|1983|
+	TG=|14933|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Dec 1983) [Cascade Point by Timothy Zahn] {
+	AE=|Doug Beekman|
+	AS=|AnaC|
+	YR=|1983|
+	TG=|14749|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog May 1984) [The Peace War by Vernor Vinge] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1984|
+	TG=|14833|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Mar 1984) [Floodtide] {
+	AE=|Tom Kidd|
+	AS=|AnaC|
+	YR=|1984|
+	TG=|14931|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Jul 1984) [Saturn Alia] {
+	AE=|David Hardy|
+	AS=|AnaC|
+	YR=|1984|
+	TG=|14901|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Oct 1984) [The Weigher by Eric Vinicoff & Marcia Martin] {
+	AE=|Doug Beekman|
+	AS=|AnaC|
+	YR=|1984|
+	TG=|14752|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Dec 1984) [Elemental by Geoffrey A. Landis] {
+	AE=|Jack Gaughan|
+	AS=|AnaC|
+	YR=|1984|
+	TG=|14881|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Nov 1985) [The Postdiluvian World by Stephen L. Gillett, Ph.D.] {
+	AE=|David Hardy|
+	AS=|AnaC|
+	YR=|1985|
+	TG=|14905|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Oct 1985) [World of Crystal, Sky of Fire by Bob Buckley] {
+	AE=|David Hardy|
+	AS=|AnaC|
+	YR=|1985|
+	TG=|14906|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Mar 1985) [Between the Strokes of Night by Charles Sheffield] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1985|
+	TG=|14832|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Jun 1985) [Between the Strokes of Night by Charles Sheffield] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1985|
+	TG=|14829|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Jul 1985) [Spinneret by Timothy Zahn] {
+	AE=|Doug Beekman|
+	AS=|AnaC|
+	YR=|1985|
+	TG=|14750|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog May 1986) [Marooned in Real Time] {
+	AE=|Tom Kidd|
+	AS=|AnaC|
+	YR=|1986|
+	TG=|14932|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Nov 1986) [The Big Dish by John Berryman] {
+	AE=|Pat Rawlings|
+	AS=|AnaC|
+	YR=|1986|
+	TG=|15010|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Jul 1986) [Red Wolf] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1986|
+	TG=|14828|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Feb 1986) [Survivor Guilt] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1986|
+	TG=|14825|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Jun 1986) [The Evidence of Things Not Seen by Timothy Zahn] {
+	AE=|Doug Beekman|
+	AS=|AnaC|
+	YR=|1986|
+	TG=|14751|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Jan 1987) [The Smoke Ring by Larry Niven] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1987|
+	TG=|14827|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Nov 1987) [Nanny] {
+	AE=|Todd Cameron Hamilton|
+	AS=|AnaC|
+	YR=|1987|
+	TG=|14899|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Feb 1987) [In the Kingdom at Morning by Stephen L. Burns] {
+	AE=|Alan Gutierrez|
+	AS=|AnaC|
+	YR=|1987|
+	TG=|14893|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Apr 1987) [A Hole in the Sun by Roger MacBride Allen] {
+	AE=|David Hardy|
+	AS=|AnaC|
+	YR=|1987|
+	TG=|14900|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Jul 1987) [The Changeling Hunt] {
+	AE=|Dell Harris|
+	AS=|AnaC|
+	YR=|1987|
+	TG=|14912|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Feb 1988) [Falling Free by Lois McMaster Bujold] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1988|
+	TG=|14826|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Dec 1988) [Sanctuary by James White] {
+	AE=|Ron Lindahn+Val Lakey Lindahn|
+	AS=|AnaC|
+	YR=|1988|
+	TG=|14959|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Mid-Dec 1988) [Guz's Place by Timothy Perper & Martha Cornog] {
+	AE=|Alan Gutierrez|
+	AS=|AnaC|
+	YR=|1988|
+	TG=|14894|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog May 1988) [Hunting Rights] {
+	AE=|Janet Aulisio|
+	AS=|AnaC|
+	YR=|1988|
+	TG=|14739|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Aug 1988) [Proteus Unbound by Charles Sheffield] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1988|
+	TG=|14822|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Apr 1989) [The Gentle Seduction by Marc Stiegler] {
+	AE=|Todd Cameron Hamilton|
+	AS=|AnaC|
+	YR=|1989|
+	TG=|14897|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Mar 1989) [Nothing in the Night-Time] {
+	AE=|Nicholas Jainschigg|
+	AS=|AnaC|
+	YR=|1989|
+	TG=|14923|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Jul 1989) [Cold War] {
+	AE=|Frank Kelly Freas|
+	AS=|AnaC|
+	YR=|1989|
+	TG=|14875|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Oct 1989) [Sparrowhawk] {
+	AE=|Nicholas Jainschigg|
+	AS=|AnaC|
+	YR=|1989|
+	TG=|14926|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Aug 1989) [Labyrinth by Lois McMaster Bujold] {
+	AE=|Frank Kelly Freas|
+	AS=|AnaC|
+	YR=|1989|
+	TG=|14872|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Dec 1990) [Glorystar] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1990|
+	TG=|14823|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Jan 1990) [Sixtieth Anniversary Issue] {
+	AE=|Frank Kelly Freas|
+	AS=|AnaC|
+	YR=|1990|
+	TG=|14874|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Mid-Dec 1990) [Shaman by Maya Kaathryn Bohnhoff] {
+	AE=|Nicholas Jainschigg|
+	AS=|AnaC|
+	YR=|1990|
+	TG=|14925|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Aug 1990) [The Hornless Ones by Paul Ash] {
+	AE=|Todd Cameron Hamilton|
+	AS=|AnaC|
+	YR=|1990|
+	TG=|14898|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Jun 1990) [Funnel Hawk by Tom Ligon] {
+	AE=|Vincent Di Fate|
+	AS=|AnaC|
+	YR=|1990|
+	TG=|14830|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Mid-Dec 1991) [Try a Light Touch] {
+	AE=|Frank Kelly Freas|
+	AS=|AnaC|
+	YR=|1991|
+	TG=|14876|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Dec 1991) [Glass Houses by Laura J. Mixon] {
+	AE=|Nicholas Jainschigg|
+	AS=|AnaC|
+	YR=|1991|
+	TG=|14922|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Jul 1991) [Barrayar by Lois McMaster Bujold] {
+	AE=|Val Lakey Lindahn+Sean Lakey|
+	AS=|AnaC|
+	YR=|1991|
+	TG=|14960|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Mar 1991) [Den of Sorrow] {
+	AE=|Nicholas Jainschigg|
+	AS=|AnaC|
+	YR=|1991|
+	TG=|14924|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Jan 1991) [Gloriously Bright] {
+	AE=|Broeck Steadman|
+	AS=|AnaC|
+	YR=|1991|
+	TG=|15042|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Apr 1991) [The Great Unknown] {
+	AE=|Nicholas Jainschigg|
+	AS=|AnaC|
+	YR=|1991|
+	TG=|14921|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Jul 1992) [Because It's There by Rick Shelley & Lee Goodloe] {
+	AE=|Bob Eggleton|
+	AS=|AnaC|
+	YR=|1992|
+	TG=|14845|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Mid-Dec 1992) [Poles Apart by G. David Nordley] {
+	AE=|Jim Burns|
+	AS=|AnaC|
+	YR=|1992|
+	TG=|14780|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Oct 1992) [Ice Nights] {
+	AE=|Nicholas Jainschigg|
+	AS=|AnaC|
+	YR=|1992|
+	TG=|14927|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Nov 1992) [Embracing the Alien by Geoffrey A. Landis] {
+	AE=|Bob Eggleton|
+	AS=|AnaC|
+	YR=|1992|
+	TG=|14848|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Mar 1992) [Landfall] {
+	AE=|David Hardy|
+	AS=|AnaC|
+	YR=|1992|
+	TG=|14904|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Oct 1993) [The Carhart Shale by Grant Callin] {
+	AE=|John Maggard|
+	AS=|AnaC|
+	YR=|1993|
+	TG=|14966|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Jul 1993) [The Man Who Stayed Behind] {
+	AE=|Stephen Youll|
+	AS=|AnaC|
+	YR=|1993|
+	TG=|15088|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Jun 1993) {
+	AE=|Bob Eggleton|
+	AS=|AnaC|
+	YR=|1993|
+	TG=|14846|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Aug 1993) {
+	AE=|Bob Eggleton|
+	AS=|AnaC|
+	YR=|1993|
+	TG=|14843|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Dec 1993) [Young Again by Jeffery D. Kooistra] {
+	AE=|Jim Burns|
+	AS=|AnaC|
+	YR=|1993|
+	TG=|14777|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog May 1993) {
+	AE=|Jim Burns|
+	AS=|AnaC|
+	YR=|1993|
+	TG=|14779|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Mar 1994) [Waterworld] {
+	AE=|Bob Eggleton|
+	AS=|AnaC|
+	YR=|1994|
+	TG=|14847|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog May 1994) {
+	AE=|George H. Krauter|
+	AS=|AnaC|
+	YR=|1994|
+	TG=|14942|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Sep 1994) [Hurricane!] {
+	AE=|John Maggard|
+	AS=|AnaC|
+	YR=|1994|
+	TG=|14967|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Oct 1994) [Starmind Part 3 by Spider & Jeanne Robinson] {
+	AE=|Chris Moore|
+	AS=|AnaC|
+	YR=|1994|
+	TG=|14985|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Dec 1994) {
+	AE=|Wojtek Siudmak|
+	AS=|AnaC|
+	YR=|1994|
+	TG=|15037|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Mid-Dec 1995) [Unfinished Symphony by Rick Cook & Peter L. Manly] {
+	AE=|Bruce Jensen|
+	AS=|AnaC|
+	YR=|1995|
+	TG=|14929|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Jan 1995) [Tide of Stars by Julia Ecklar] {
+	AE=|Bob Eggleton|
+	AS=|AnaC|
+	YR=|1995|
+	TG=|14844|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Mar 1995) [Renascence by Poul Anderson] {
+	AE=|George H. Krauter|
+	AS=|AnaC|
+	YR=|1995|
+	TG=|14941|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Jul 1995) [Final Review by G. David Nordley] {
+	AE=|Jim Burns|
+	AS=|AnaC|
+	YR=|1995|
+	TG=|14778|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Jun 1995) [Black Horse: One Stop To Orbit by Robert M. Zubrin & Mitchell Burnside-Clapp] {
+	AE=|Ron Fleming|
+	AS=|AnaC|
+	YR=|1995|
+	TG=|14852|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Apr 1995) [The Human Animal by Julia Ecklar] {
+	AE=|Peter Peebles|
+	AS=|AnaC|
+	YR=|1995|
+	TG=|15005|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog May 1996) [Primrose and Thorn by Bud Sparhawk] {
+	AE=|George H. Krauter|
+	AS=|AnaC|
+	YR=|1996|
+	TG=|14943|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Nov 1996) [Fugue on a Sunken Continent by G. David Nordley] {
+	AE=|Wolf Read|
+	AS=|AnaC|
+	YR=|1996|
+	TG=|15011|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Aug 1996) {
+	AE=|Keith Scaife|
+	AS=|AnaC|
+	YR=|1996|
+	TG=|15025|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Jun 1996) [The Three Labors of Bubba by Bud Webster] {
+	AE=|Todd Lockwood|
+	AS=|AnaC|
+	YR=|1996|
+	TG=|14961|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Oct 1996) [Starplex by Robert J. Sawyer] {
+	AE=|Jim Burns|
+	AS=|AnaC|
+	YR=|1996|
+	TG=|14781|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Jan 1997) Hubble Space Telescope photo {
+	AE=|J. Hester+P. Scowen|
+	AS=|AnaC|
+	YR=|1997|
+	TG=|18173|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Oct 1997) [O Pioneer! by Frederik Pohl] {
+	AE=|Bob Eggleton|
+	AS=|AnaC|
+	YR=|1997|
+	TG=|19192|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Dec 1997) [Crossing Chao Meng Fu by G. David Nordley] {
+	AE=|George H. Krauter|
+	AS=|AnaC|
+	YR=|1997|
+	TG=|19205|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog May 1997) {
+	AE=|John Berkey|
+	AS=|AnaC|
+	YR=|1997|
+	TG=|22356|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog Nov 1997) {
+	AE=|Ron Walotsky|
+	AS=|AnaC|
+	YR=|1997|
+	TG=|19228|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Jul/Aug 1998) [The Ice Dragon's Song by Bud Sparhawk] {
+	AE=|Bob Eggleton|
+	AS=|AnaC|
+	YR=|1998|
+	TG=|19914|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Oct 1998) {
+	AE=|Michael Carroll^Mike Carroll|
+	AS=|AnaC|
+	YR=|1998|
+	TG=|22379|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog May 1998) {
+	AE=|Ron Walotsky|
+	AS=|AnaC|
+	YR=|1998|
+	TG=|22535|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Dec 1998) [Aurora in Four Voices by Catherine Asaro) {
+	AE=|George H. Krauter|
+	AS=|AnaC|
+	YR=|1998|
+	TG=|22437|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}
+Cover (Analog June 1998) [Spindown by Wolf Read] {
+	AE=|Wolf Read|
+	AS=|AnaC|
+	YR=|1998|
+	TG=|22480|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|5|
+}
+Cover (Analog Dec 1999) [Heat by Robert R. Chase] {
+	AE=|Ron Miller|
+	AS=|AnaC|
+	YR=|1999|
+	TG=|21516|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|1|
+}
+Cover (Analog Jul/Aug 1999) [The Astronaut from Wyoming by Adam Troy-Castro & Jerry Oltion] {
+	AE=|Nicholas Jainschigg|
+	AS=|AnaC|
+	YR=|1999|
+	TG=|22429|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Mar 1999) {
+	AE=|George H. Krauter|
+	AS=|AnaC|
+	YR=|1999|
+	TG=|22438|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|2|
+}
+Cover (Analog Nov 1999) {
+	AE=|Kim Poor|
+	AS=|AnaC|
+	YR=|1999|
+	TG=|22475|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|3|
+}
+Cover (Analog Sep 1999) {
+	AE=|Kim Poor|
+	AS=|AnaC|
+	YR=|1999|
+	TG=|22476|
+	TA=|Best Cover|
+	TP=|aw|
+	LV=|4|
+}

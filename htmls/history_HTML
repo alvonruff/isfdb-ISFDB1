@@ -1,0 +1,188 @@
+<html><head>
+<title>Prehistory of the ISFDB</title></head>
+<body bgcolor=ffffff>
+<h1>The Prehistory of the ISFDB</h1>
+
+This is only of marginal interest to anyone
+If you're reading this page you really need to re-evalute your life.
+
+Hobbes' Internet Timeline
+http://info.isoc.org/guest/zakon/Internet/History/HIT.html
+
+
+<pre>
+77-80 = Omni
+84-86 - Writing.
+89 - Graduated in May. Twilight Zone folds with Jun issue.
+
+89-91 - Pretty much devoted a bazillion hours a week to job.
+
+90 = Testing
+
+91 = Networking. Dozois 8th Annual Collection. After 15 years
+of subscribing to Rolling Stone, dropped and started reading SF.
+Began with Dozois' Eigth Annual in 1 Oct 91.
+
+Spring 92 - Product support. Lightweight task, nothing to really
+put a lot of hours in on. Started to do a lot of reading again.
+
+92 = Product Support. Had time, started thinking about writing again.
+
+93 = 197
+Nov 93 - Started buying/reading old Hugo-winning novels.
+Dec 93 - Started buying copies of Analog, Asimov's, and F&SF.
+         Started reading all 1993 Hugo-nominated novels 
+	 (published in 1992).
+94 = Performance. Read Hyperion.
+95 = Simulation
+95 - Omni dies.
+</pre>
+
+<UL>
+<LI>
+<b>Background.</b> Non-fiction. Asimov. Period of sci-fi in the late 60s. Clarke
+2001. Greatest Hits reader.
+<LI>
+<b>Oct 91</b> I was spending a great deal of time at work and started to worry
+about my health. I started riding an exercize bicycle at night, and while
+riding I would read. Switch between magazines and shortfiction.
+<LI>
+<b>Spring 92</b> First the first time since graduation, I had free time.
+<LI>
+<b>Oct 93 - Put the list of Hugo winners in a word processing document
+with the intention of using it as a shopping list</b>. 
+<p>
+This began one Sunday
+afternoon when the Chicago Bears were losing yet another football game, and I 
+flipped over to the Sci-Fi Channel, where they were showing the director's 
+cut of <i>Dune</i>. <i>Dune</i> isn't the greatest SF movie ever made, but 
+for some inexplicable reason I can't stop watching it if it just happens to
+come on the tube. At any rate, afterwards I felt a sudden urge to pick up the 
+novel and read it again.
+<p>
+I had been side-tracked into "literature" and wasn't reading a lot of SF at
+the time, but I thought that <i>Dune</i> stood up pretty well since my last 
+reading. I knew that <i>Dune</i> was a Hugo winner, and feeling a little 
+wanderlust at the time, thought that I might run into some more good SF 
+if I tried reading other Hugo-winning novels (Like, I'm sure no one has ever
+thought of this before).  I had most (volumes 1 thru 4) of Asimov's 
+<i>The Hugo Winners</i> volumes already on hand, so I typed in the Hugo 
+winning novels listed in those anthologies into a word processor.  Although 
+I prefer short fiction, I didn't put those in the list because, obviously, I 
+already had those stories on hand in the anthologies. So I started cruising 
+the used book stores, buying and reading Hugo winners. 
+<p>
+At this point, I essentially had a database with 23 titles in it.
+<p>
+<LI>
+<b>Feb 94 - Downloaded a list of Hugo and Nebula nominees and winners from
+an ftp site, and converted the list into an awards database</b>.
+<p>
+After reading a few dozen short stories, as well as finding and reading
+<i>The Demolished Man</i>, <i>Starship Troopers</i>, the revised
+<i>Stranger in a Strange Land</i>, <i>The Man in the High Castle</i>,
+<i>The Wanderer</i>, <i>The Moon is a Harsh Mistress</i>, <i>The Forever War</i>,
+and <i>Gateway</i>, I ran into a problem: I couldn't find most of the other books
+in local bookstores. Additionally, I had been away from SF for a long time;
+<i>The Hugo Winner's,  Vol 4</i> didn't list any Hugo winners, and Volume 3
+only covered winners up to 1975. I was missing almost 20 years of winners.
+<p>
+The Web was still a fledgling at this point; the explosion of new Internet
+sites began in August 1994, WWW traffic first surpased FTP traffic in March 1995,
+and the boom in WWW servers began about December of 1995.  Most WWW pages
+on the Net at this time were from ftp archives, and there were no search engines.
+There were, however, some gopher search engines, 
+and it was pretty easy to find an ftp site that had both the Hugos <i>and</i> 
+the Nebulas - winners <i>and</i> nominees. By this point, I was well aware
+of the voting mechanism behind both awards, and knowing that only a couple of
+points could separate a winner from a nominee, I thought that it would be
+valuable to read not just the winners, but the nominees as well. I converted
+the list into database format suitable for my UNIX system at work, as well as
+my Windows system at home.
+<p>
+I now had an awards database with about 350 novel entries and 1000 short story 
+entries.
+<p>
+<LI>
+<b>Mar 94 - Downloaded the NESFA reading list, and converted it into a
+searchable database.</b>
+<p>
+I found the NESFA reading list tucked away in some corner of a listing of
+online resources.
+<p>
+<LI>
+Apr 94    - Wrote a tool to find errors between the Hugo/Nebula list and
+	    the NESFA reading list. Began feeding errors back to the owner
+	    of the Hugo/Nebula list.
+<p>
+
+<LI>
+<b>May 94 - Constructed a tool which created a reading list based on a point system.</b>
+<p>
+
+<LI>
+Jun 94    - Fueled by the reading list, began acquiring additional awards.
+<p>
+<LI>
+Sep 94    - Got a dump of David G. Grubbs awards files.
+<p>
+<LI>
+Jan 95    - Combined the reading list and awards databases into a single database
+	    that could be queried via the web.
+<p>
+<LI>
+<b>Spring 95</b> - In 1995, the best SF portal (before they started calling them that) was
+	<i>The SF Clearing House</i>, edited by John R. R. Leavitt. John was looking for 
+	some sort of searchable awards database. I sent him a copy of my tool. Although it 
+	would work, he was looking for something a little more "integrated". The Clearing
+	House was trying to get magazine table of contents online (constructed manually), 
+	and already had listings of awards, and he wanted to somehow link all these 
+	together. Neither of us had any good ideas about how to do that at the time,
+	because we were thinking in the reference of the SF Clearing House.
+<p>
+<LI>
+<b>Summer 95</b> - I had come across the Internet Movie Database files in previous years,
+        and in July found the webized version. This site blew me away for a number of
+	reasons; aside from having useful content (which was previously available in a
+	non-web version), I was impressed by two things:
+	<p>
+	<ol>
+	<li> Results from a search displayed pages that were created by a machine.
+	Since the pages were created when the user clicked on a link, it didn't
+	require an army of error-prone people to write those pages (It still took
+	an army of people to enter the data into the database, but that's a different
+	problem). It also meant that disk storage (still at a premium) was only
+	limited by the size of the database. It didn't matter if you could generate
+	gigabytes of data in html pages - since they were created on demand, they didn't
+	take up any space.
+	<p>
+	<li> The links didn't follow some predetermined topology. Most web pages at the
+	time followed a strict hierarchy of a front page, which was like the root of a tree,
+	which then branched of to leaf pages. Once you started searching in the IMDB,
+	however, you could go in any number of directions (following genres, years,
+	directors, actors, writers, awards, and so on).
+	</ol>
+	<p>
+	At the same time I was cruising the IMDB, I also found a repository of John Wenn 
+	bibliographies available via ftp. Someone else probably knows the history of
+	the John Wenn bibliography format, but I got the impression that the layout was
+	hammered out either in the SF newsgroups or in the SF Lovers newsletter. Most
+	of the layout was pretty straightforward, although I particularly liked the
+	way series were organized in a sort of outline format. 
+	<p>
+	Since I was playing with database tools, surfing the IMDB, and reading John
+	Wenn bibliographies all at the same time, it wasn't much of a leap to go from 
+	the IMDB to a version of an SF database that could output bibliographies in a 
+	John Wenn-type format, that had links to awards, collaborators, publication data, 
+	etc.  In fact, it only took a couple of hours to modify my current set of tools to
+	output the information into the desired format. I took the output from
+	one of these bibliographies and emailed it to Ahausrus to get his opinion. 
+	He sent back about a dozen problems with it.  This started a lengthy cycle of
+	modification/review over the course of the Summer, and into the Fall.
+<p>
+<LI>
+<b>September 95</b> - ISFDB goes online.
+<UL>
+
+</body>
+</html>

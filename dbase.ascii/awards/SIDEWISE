@@ -1,0 +1,799 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)SIDEWISE	1.9	12/29/98 ISFDB";
+##
+Pasquale's Angel {
+	AE=|Paul J. McAuley|
+	AS=|SideL|
+	YR=|1995|
+	TG=|7981|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|1|
+}
+The Two Georges {
+	AE=|Richard Dreyfuss+Harry Turtledove|
+	AS=|SideL|
+	YR=|1995|
+	TG=|3847|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|9|
+}
+The Bloody Red Baron {
+	AE=|Kim Newman|
+	AS=|SideL|
+	YR=|1995|
+	TG=|8700|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|9|
+}
+Voyage {
+	AE=|Stephen Baxter|
+	AS=|SideL|
+	YR=|1996|
+	TG=|14469|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|1|
+}
+Pastwatch: The Redemption of Christopher Columbus {
+	AE=|Orson Scott Card|
+	AS=|SideL|
+	YR=|1996|
+	TG=|14495|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|9|
+}
+The Hammer and the Cross Trilogy (The Hammer and the Cross, One King's Way, King and Emperor) {
+	AE=|Harry Harrison+John Holm|
+	AS=|SideL|
+	YR=|1996|
+	TG=|14535|
+	TA=|Best Long Form Alternate History|
+	TP=|ob|
+	LV=|9|
+}
+Worldwar Series (In the Balance, Tilting the Balance, Upsetting the Balance, Striking the Balance) {
+	AE=|Harry Turtledove|
+	AS=|SideL|
+	YR=|1996|
+	TG=|14692|
+	TA=|Best Long Form Alternate History|
+	TP=|s|
+	LV=|9|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|SideL|
+	YR=|1996|
+	TG=|15531|
+	TA=|Best Long Form Alternate History|
+	TP=|x|
+	LV=|80|
+}
+Two Crowns for America {
+	AE=|David Drake|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17630|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|85|
+}
+Shade and Shadow {
+	AE=|Francine G. Woodbury|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17685|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|85|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17610|
+	TA=|Best Long Form Alternate History|
+	TP=|x|
+	LV=|90|
+}
+Milton in America {
+	AE=|Peter Ackroyd|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17614|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+Cold Shoulder Road {
+	AE=|Joan Aiken|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17615|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+Too Many Notes, Mr. Mozart {
+	AE=|Robert Barnard|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17619|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+The Transmigration of Souls {
+	AE=|William Barton|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17620|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+Water! (O Greenest Branch!, The Dove Looked In, Branch and Crown) {
+	AE=|Gaèl Baudino|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17621|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+Branch Point {
+	AE=|Mona Clee|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17627|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+Music, in a Foreign Language {
+	AE=|Andrew Crumey|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17628|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+ARC Riders: The Fourth Rome {
+	AE=|David Drake+Janet Morris|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17631|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+Child of the Eagle: A Myth of Rome {
+	AE=|Esther M. Friesner^Esther Friesner|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17636|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+Making History {
+	AE=|Stephen Fry|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17637|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+Celestial Matters {
+	AE=|Richard Garfinkle|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17639|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+Wildside {
+	AE=|Steven Gould|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17641|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+'48 {
+	AE=|James Herbert|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17642|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+A Land Fit for Heroes (Escape to the Wild Wood, Stand Alone Stan, The Dragon Wakes, The Burning Forest) {
+	AE=|Phillip Mann|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17657|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+Shatterhand {
+	AE=|Jake Page|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17666|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+The Tranquillity Alternative {
+	AE=|Allen Steele|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17672|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+Drakon {
+	AE=|S. M. Stirling|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17673|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+Devil's Tower {
+	AE=|Mark Sumner|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17675|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|92|
+}
+This is My Blood {
+	AE=|David Niall Wilson|
+	AS=|SideL|
+	YR=|1996|
+	TG=|17684|
+	TA=|Best Long Form Alternate History|
+	TP=|nv|
+	LV=|92|
+}
+How Few Remain {
+	AE=|Harry Turtledove|
+	AS=|SideL|
+	YR=|1997|
+	TG=|18225|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|1|
+}
+Time on My Hands: A Novel with Photographs {
+	AE=|Peter Delacorte|
+	AS=|SideL|
+	YR=|1997|
+	TG=|18160|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|9|
+}
+Jack Faust {
+	AE=|Michael Swanwick|
+	AS=|SideL|
+	YR=|1997|
+	TG=|18222|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|9|
+}
+Making History {
+	AE=|Stephen Fry|
+	AS=|SideL|
+	YR=|1998|
+	TG=|19810|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|1|
+}
+Dinosaur Summer {
+	AE=|Greg Bear|
+	AS=|SideL|
+	YR=|1998|
+	TG=|19912|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|9|
+}
+Climb the Wind {
+	AE=|Pamela Sargent|
+	AS=|SideL|
+	YR=|1998|
+	TG=|19919|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|9|
+}
+Resurrection Day {
+	AE=|Brendan DuBois|
+	AS=|SideL|
+	YR=|1999|
+	TG=|19993|
+	TA=|Best Long Form Alternate History|
+	TP=|n|
+	LV=|1|
+}
+Only One Shortlisted Novel {
+	AE=|(********)|
+	AS=|SideL|
+	YR=|1999|
+	TG=|19931|
+	TA=|Best Long Form Alternate History|
+	TP=|x|
+	LV=|9|
+}
+Brigantia's Angels {
+	AE=|Stephen Baxter|
+	AS=|SideS|
+	YR=|1995|
+	TG=|927|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|1|
+}
+From Whom All Blessings Flow {
+	AE=|Stephen Dedman|
+	AS=|SideS|
+	YR=|1995|
+	TG=|3383|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|9|
+}
+Brute Skill {
+	AE=|David Garnett|
+	AS=|SideS|
+	YR=|1995|
+	TG=|4849|
+	TA=|Best Short Form Alternate History|
+	TP=|nt|
+	LV=|9|
+}
+Receding Horizon {
+	AE=|Jonathan Lethem+Carter Scholz|
+	AS=|SideS|
+	YR=|1995|
+	TG=|7441|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|9|
+}
+The Lincoln Train {
+	AE=|Maureen F. McHugh|
+	AS=|SideS|
+	YR=|1995|
+	TG=|8201|
+	TA=|Best Short Form Alternate History|
+	TP=|ss|
+	LV=|9|
+}
+Must and Shall {
+	AE=|Harry Turtledove|
+	AS=|SideS|
+	YR=|1995|
+	TG=|12116|
+	TA=|Best Short Form Alternate History|
+	TP=|nt|
+	LV=|9|
+}
+You *Could* Go Home Again {
+	AE=|Howard Waldrop|
+	AS=|SideS|
+	YR=|1995|
+	TG=|12869|
+	TA=|Best Short Form Alternate History|
+	TP=|nv|
+	LV=|9|
+}
+Foreign Devils {
+	AE=|Walter Jon Williams|
+	AS=|SideS|
+	YR=|1996|
+	TG=|14712|
+	TA=|Best Short Form Alternate History|
+	TP=|nt|
+	LV=|1|
+}
+Age of Aquarius {
+	AE=|William Barton|
+	AS=|SideS|
+	YR=|1996|
+	TG=|14464|
+	TA=|Best Short Form Alternate History|
+	TP=|nt|
+	LV=|9|
+}
+The Miracle of Ivar Avenue {
+	AE=|John Kessel|
+	AS=|SideS|
+	YR=|1996|
+	TG=|14561|
+	TA=|Best Short Form Alternate History|
+	TP=|nt|
+	LV=|9|
+}
+Abdication Street {
+	AE=|Kim Newman+Eugene Byrne|
+	AS=|SideS|
+	YR=|1996|
+	TG=|14601|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|9|
+}
+Resurrection {
+	AE=|Mark W. Tiedemann|
+	AS=|SideS|
+	YR=|1996|
+	TG=|14689|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|9|
+}
+Rank 85 = Withdrawn - Ineligible {
+	AE=|(********)|
+	AS=|SideS|
+	YR=|1996|
+	TG=|54|
+	TA=|Best Short Form Alternate History|
+	TP=|x|
+	LV=|80|
+}
+Columbiad {
+	AE=|Stephen Baxter|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17622|
+	TA=|Best Short Form Alternate History|
+	TP=|ss|
+	LV=|85|
+}
+To Bring the Light {
+	AE=|David Drake|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17629|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|85|
+}
+Flatfeet! {
+	AE=|Howard Waldrop|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17677|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|85|
+}
+Bloody Knife & Morning Star {
+	AE=|David Niall Wilson|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17682|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|85|
+}
+The Death-Sweet Scent of Lilies {
+	AE=|David Niall Wilson|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17683|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|85|
+}
+Rank 92 = Preliminary Nominee {
+	AE=|(********)|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17611|
+	TA=|Best Short Form Alternate History|
+	TP=|x|
+	LV=|90|
+}
+Canals in the Sand {
+	AE=|Kevin J. Anderson|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17616|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|92|
+}
+The Politics of Pneumatic Times {
+	AE=|Erik T. Baker|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17618|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|92|
+}
+Prospero One {
+	AE=|Stephen Baxter+Simon Bradshaw|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17623|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|92|
+}
+To See the World End {
+	AE=|M. Shayne Bell|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17624|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|92|
+}
+Ezcalli {
+	AE=|Kenneth Hite+Craig Neumeier+Michael Schiffer|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17643|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|92|
+}
+Gernsback {
+	AE=|Kenneth Hite+Craig Neumeier+Michael Schiffer|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17644|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|92|
+}
+Shikaku-mon {
+	AE=|Kenneth Hite+Craig Neumeier+Michael Schiffer|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17645|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|92|
+}
+Flashed Shadows {
+	AE=|Morgan Hua|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17646|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|92|
+}
+The Spear of the Sun {
+	AE=|David Langford|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17652|
+	TA=|Best Short Form Alternate History|
+	TP=|ss|
+	LV=|92|
+}
+Letters in the Wall {
+	AE=|Barry Malzberg+Batya Swift|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17656|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|92|
+}
+Spelunking at the Cavern {
+	AE=|Michael A. Martin|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17659|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|92|
+}
+The Temptation of Dr. Stein {
+	AE=|Paul J. McAuley|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17660|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|92|
+}
+Nixon in Space {
+	AE=|Rob McCleary|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17661|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|92|
+}
+Citizen Ed {
+	AE=|Kim Newman+Eugene Byrne|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17664|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|92|
+}
+Symphony in a Minor Key {
+	AE=|H. G. Stratmann|
+	AS=|SideS|
+	YR=|1996|
+	TG=|17674|
+	TA=|Best Short Form Alternate History|
+	TP=|nv|
+	LV=|92|
+}
+The Undiscovered {
+	AE=|William Sanders|
+	AS=|SideS|
+	YR=|1997|
+	TG=|18214|
+	TA=|Best Short Form Alternate History|
+	TP=|nt|
+	LV=|1|
+}
+For the Strength of the Hills {
+	AE=|Lee Allred|
+	AS=|SideS|
+	YR=|1997|
+	TG=|18143|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|9|
+}
+The King of Poland's Foot Cavalry {
+	AE=|Roland J. Green|
+	AS=|SideS|
+	YR=|1997|
+	TG=|18171|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|9|
+}
+Teddy Bears' Picnic {
+	AE=|Kim Newman+Eugene Byrne|
+	AS=|SideS|
+	YR=|1997|
+	TG=|18151|
+	TA=|Best Short Form Alternate History|
+	TP=|sf|
+	LV=|9|
+}
+The Summer Isles {
+	AE=|Ian R. MacLeod|
+	AS=|SideS|
+	YR=|1998|
+	TG=|19696|
+	TA=|Best Short Form Alternate History|
+	TP=|nv|
+	LV=|1|
+}
+The Wire Continuum {
+	AE=|Stephen Baxter+Arthur C. Clarke|
+	AS=|SideS|
+	YR=|1998|
+	TG=|19911|
+	TA=|Best Short Form Alternate History|
+	TP=|ss|
+	LV=|9|
+}
+Waiting for the End {
+	AE=|Robert Silverberg|
+	AS=|SideS|
+	YR=|1998|
+	TG=|19920|
+	TA=|Best Short Form Alternate History|
+	TP=|nt|
+	LV=|9|
+}
+US {
+	AE=|Howard Waldrop|
+	AS=|SideS|
+	YR=|1998|
+	TG=|19923|
+	TA=|Best Short Form Alternate History|
+	TP=|ss|
+	LV=|9|
+}
+The Eighth Register^Le huithème registre {
+	AE=|Alain Bergeron|
+	AS=|SideS|
+	YR=|1999|
+	TG=|19958|
+	TA=|Best Short Form Alternate History|
+	TP=|n|
+	LV=|1|
+}
+The Secret History of the Ornithopter {
+	AE=|Jan Lars Jensen|
+	AS=|SideS|
+	YR=|1999|
+	TG=|20030|
+	TA=|Best Short Form Alternate History|
+	TP=|nt|
+	LV=|9|
+}
+Getting to Know the Dragon {
+	AE=|Robert Silverberg|
+	AS=|SideS|
+	YR=|1999|
+	TG=|20103|
+	TA=|Best Short Form Alternate History|
+	TP=|nt|
+	LV=|9|
+}
+A Hero of the Empire {
+	AE=|Robert Silverberg|
+	AS=|SideS|
+	YR=|1999|
+	TG=|20104|
+	TA=|Best Short Form Alternate History|
+	TP=|nt|
+	LV=|9|
+}
+untitled {
+	AE=|L. Sprague de Camp|
+	AS=|SideX|
+	YR=|1995|
+	TG=|3308|
+	TA=|Special Achievement in Alternate History|
+	TP=|au|
+	LV=|1|
+}
+For Want of a Nail...; If Burgoyne Had Won at Saratoga {
+	AE=|Robert J. Sobel|
+	AS=|SideX|
+	YR=|1997|
+	TG=|18217|
+	TA=|Special Achievement in Alternate History|
+	TP=|n|
+	LV=|1|
+}
+untitled {
+	AE=|Randall Garrett|
+	AS=|SideX|
+	YR=|1999|
+	TG=|20010|
+	TA=|Special Achievement in Alternate History|
+	TP=|au|
+	LV=|1|
+}

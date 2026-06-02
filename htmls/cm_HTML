@@ -1,0 +1,23 @@
+<html> <head> <title>ISFDB CM Page</title></head>
+<body bgcolor="ffffff">
+<h1>ISFDB Award File Configuration Management</h1>
+
+This page is not intended for public consumption. The ability
+to checkout/checkin files is password protected.
+<p>
+The following pages can be found here:
+<ol>
+  <li> <a href="http://HTMLBASE/checkout.html">Checkout an Award File</a>. 
+  <p>
+  <li> <a href="http://HTMLBASE/checkin.html">Checkin an Award File</a>. 
+</ol>
+
+<p>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

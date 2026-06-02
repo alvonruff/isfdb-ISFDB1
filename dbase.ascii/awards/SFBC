@@ -1,0 +1,313 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)SFBC	1.6	06/18/98 ISFDB";
+##
+Killashandra {
+	AE=|Anne McCaffrey|
+	AS=|SFBC|
+	YR=|1986|
+	TG=|8030|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|1|
+}
+Ender's War {
+	AE=|Orson Scott Card|
+	AS=|SFBC|
+	YR=|1986|
+	TG=|2301|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|c|
+	LV=|2|
+}
+The Summer Tree {
+	AE=|Guy Gavriel Kay|
+	AS=|SFBC|
+	YR=|1986|
+	TG=|6357|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|3|
+}
+The Mirror of Her Dreams {
+	AE=|Stephen R. Donaldson|
+	AS=|SFBC|
+	YR=|1987|
+	TG=|3702|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|1|
+}
+Blood of Amber {
+	AE=|Roger Zelazny|
+	AS=|SFBC|
+	YR=|1987|
+	TG=|13871|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|2|
+}
+Myth Alliances {
+	AE=|Robert Asprin^Robert Lynn Asprin|
+	AS=|SFBC|
+	YR=|1987|
+	TG=|639|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|c|
+	LV=|3|
+}
+A Man Rides Through {
+	AE=|Stephen R. Donaldson|
+	AS=|SFBC|
+	YR=|1988|
+	TG=|3700|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|1|
+}
+Prelude to Foundation {
+	AE=|Isaac Asimov|
+	AS=|SFBC|
+	YR=|1988|
+	TG=|602|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|2|
+}
+Darkmage {
+	AE=|Barbara Hambly|
+	AS=|SFBC|
+	YR=|1988|
+	TG=|5557|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|c|
+	LV=|3|
+}
+Dragonsdawn {
+	AE=|Anne McCaffrey|
+	AS=|SFBC|
+	YR=|1989|
+	TG=|8024|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|1|
+}
+The Dragonbone Chair {
+	AE=|Tad Williams|
+	AS=|SFBC|
+	YR=|1989|
+	TG=|13285|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|2|
+}
+Hatrack River {
+	AE=|Orson Scott Card|
+	AS=|SFBC|
+	YR=|1989|
+	TG=|2316|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|c|
+	LV=|3|
+}
+The Renegades of Pern {
+	AE=|Anne McCaffrey|
+	AS=|SFBC|
+	YR=|1990|
+	TG=|8036|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|1|
+}
+Stranger in a Strange Land {
+	AE=|Robert A. Heinlein|
+	AS=|SFBC|
+	YR=|1990|
+	TG=|5831|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|2|
+}
+The Rowan {
+	AE=|Anne McCaffrey|
+	AS=|SFBC|
+	YR=|1990|
+	TG=|8038|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|3|
+}
+The Elvenbane {
+	AE=|Andre Norton+Mercedes Lackey|
+	AS=|SFBC|
+	YR=|1991|
+	TG=|8885|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|1|
+}
+Heir to the Empire {
+	AE=|Timothy Zahn|
+	AS=|SFBC|
+	YR=|1991|
+	TG=|13834|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|2|
+}
+Wings of Pegasus {
+	AE=|Anne McCaffrey|
+	AS=|SFBC|
+	YR=|1991|
+	TG=|8047|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|c|
+	LV=|3|
+}
+All the Weyrs of Pern {
+	AE=|Anne McCaffrey|
+	AS=|SFBC|
+	YR=|1992|
+	TG=|8001|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|1|
+}
+Damia {
+	AE=|Anne McCaffrey|
+	AS=|SFBC|
+	YR=|1992|
+	TG=|8008|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|2|
+}
+The Dragon Reborn {
+	AE=|Robert Jordan|
+	AS=|SFBC|
+	YR=|1992|
+	TG=|6290|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|3|
+}
+Damia's Children {
+	AE=|Anne McCaffrey|
+	AS=|SFBC|
+	YR=|1993|
+	TG=|8009|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|1|
+}
+Crystal Line {
+	AE=|Anne McCaffrey|
+	AS=|SFBC|
+	YR=|1993|
+	TG=|8005|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|2|
+}
+The Last Command {
+	AE=|Timothy Zahn|
+	AS=|SFBC|
+	YR=|1993|
+	TG=|13835|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|3|
+}
+The Dolphins of Pern {
+	AE=|Anne McCaffrey|
+	AS=|SFBC|
+	YR=|1994|
+	TG=|8013|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|1|
+}
+The Black Gryphon {
+	AE=|Mercedes Lackey+Larry Dixon|
+	AS=|SFBC|
+	YR=|1994|
+	TG=|6873|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|2|
+}
+The Fires of Heaven {
+	AE=|Robert Jordan|
+	AS=|SFBC|
+	YR=|1994|
+	TG=|6293|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|3|
+}
+Lord of Chaos {
+	AE=|Robert Jordan|
+	AS=|SFBC|
+	YR=|1995|
+	TG=|6295|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|1|
+}
+The White Gryphon {
+	AE=|Mercedes Lackey+Larry Dixon|
+	AS=|SFBC|
+	YR=|1995|
+	TG=|6874|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|2|
+}
+Elvenblood {
+	AE=|Andre Norton+Mercedes Lackey|
+	AS=|SFBC|
+	YR=|1995|
+	TG=|8886|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|3|
+}
+A Crown of Swords {
+	AE=|Robert Jordan|
+	AS=|SFBC|
+	YR=|1996|
+	TG=|17648|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|1|
+}
+Stone of Tears {
+	AE=|Terry Goodkind|
+	AS=|SFBC|
+	YR=|1996|
+	TG=|17640|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|2|
+}
+Star Wars: Shadows of the Empire {
+	AE=|Steve Perry|
+	AS=|SFBC|
+	YR=|1996|
+	TG=|17667|
+	TA=|The Science Fiction Book Club's Book of the Year Award|
+	TP=|n|
+	LV=|3|
+}

@@ -1,0 +1,129 @@
+<html>
+<head>
+<title>ISFDB FAQ</title>
+</head>
+<body bgcolor="#ffffff" text="#000000" >
+
+<h1>ISFDB Frequently Asked Questions</h1>
+<hr>
+
+<h2>Internet Speculative Fiction Database FAQ</h2>
+This is the user, developer, and data-entry guide to the Internet 
+Speculative Fiction Database (<b>ISFDB</b>).  The general topics 
+covered by this FAQ are:
+<ol>
+
+  <li><a href="http://HTMLBASE/faq1.html">The Design Philosophy Behind the ISFDB</a>
+  <li><a href="http://HTMLBASE/faq2.html">What is the ISFDB?</a>
+  <ul>
+    <li><a href="http://HTMLBASE/faq2.html#1A">The Summary Bibliography</a>
+    <li><a href="http://HTMLBASE/faq2.html#1B">The Yearly Awards Page</a>
+    <li><a href="http://HTMLBASE/faq2.html#1C">The Publication History</a>
+    <li><a href="http://HTMLBASE/faq2.html#1D">The Publication Bibliography</a>
+    <li><a href="http://HTMLBASE/faq2.html#1E">The Content Listing</a>
+    <li><a href="http://HTMLBASE/faq2.html#1H">Forthcoming Titles Page</a>
+    <li><a href="http://HTMLBASE/faq2.html#1I">Fiction Index Page</a>
+  </ul>
+  <li><a href="http://HTMLBASE/faq6.html">Common Misconceptions of the ISFDB</a>
+  <li><a href="http://HTMLBASE/faq3.html">Searching the ISFDB</a>
+  <ul>
+    <li><a href="http://HTMLBASE/faq3.html#2A">By Name</a>
+    <li><a href="http://HTMLBASE/faq3.html#2B">By Title</a>
+    <li><a href="http://HTMLBASE/faq3.html#2C">By Year</a>
+    <li><a href="http://HTMLBASE/faq3.html#2D">By Series</a>
+  </ul>
+  <li><a href="http://HTMLBASE/faq4.html">How is the ISFDB organized?</a>
+  <ul>
+    <li><a href="http://HTMLBASE/faq4.html#3A">Raw Database Files</a>
+    <ul>
+        <li><a href="http://HTMLBASE/faq4.html#3A1">Title Entries</a>
+        <li><a href="http://HTMLBASE/faq4.html#3A2">Author Entries</a>
+        <li><a href="http://HTMLBASE/faq4.html#3A3">Publication Entries</a>
+        <li><a href="http://HTMLBASE/faq4.html#3A4">Awards Entries</a>
+        <li><a href="http://HTMLBASE/faq4.html#3A6">Biographic Entries</a>
+        <li><a href="http://HTMLBASE/faq4.html#3A5">Entry Conventions</a>
+    </ul>
+    <li><a href="http://HTMLBASE/faq4.html#3B">Database Compilers</a>
+    <ul>
+        <li><a href="http://HTMLBASE/faq4.html#3B1">cctitles</a>
+        <li><a href="http://HTMLBASE/faq4.html#3B2">ccauthors</a>
+        <li><a href="http://HTMLBASE/faq4.html#3B3">ccpubs</a>
+        <li><a href="http://HTMLBASE/faq4.html#3B4">ccawards</a>
+        <li><a href="http://HTMLBASE/faq4.html#3B5">ccinterv</a>
+        <li><a href="http://HTMLBASE/faq4.html#3B6">ccreviews</a>
+    </ul>
+    <li><a href="http://HTMLBASE/faq4.html#3C">Compiled Database Files</a>
+    <ul>
+        <li><a href="http://HTMLBASE/faq4.html#3C1">titles.dbase</a>
+        <li><a href="http://HTMLBASE/faq4.html#3C2">titles.xba</a>
+        <li><a href="http://HTMLBASE/faq4.html#3C3">authors.dbase</a>
+        <li><a href="http://HTMLBASE/faq4.html#3C4">awards.dbase</a>
+        <li><a href="http://HTMLBASE/faq4.html#3C5">awards.xba</a>
+        <li><a href="http://HTMLBASE/faq4.html#3C6">awards.xby</a>
+        <li><a href="http://HTMLBASE/faq4.html#3C7">pubs.dbase</a>
+    </ul>
+    <li><a href="http://HTMLBASE/faq4.html#3D">Database Engine Binaries</a>
+    <ul>
+        <li><a href="http://HTMLBASE/faq4.html#3D1">search</a>
+        <li><a href="http://HTMLBASE/faq4.html#3D2">AwGen</a>
+        <li><a href="http://HTMLBASE/faq4.html#3D3">submit</a>
+        <li><a href="http://HTMLBASE/faq4.html#3D4">exact_author</a>
+        <li><a href="http://HTMLBASE/faq4.html#3D4A">a_exact_author</a>
+        <li><a href="http://HTMLBASE/faq4.html#3D5">pbiblio</a>
+        <li><a href="http://HTMLBASE/faq4.html#3D6">cinfo</a>
+        <li><a href="http://HTMLBASE/faq4.html#3D7">ninfo</a>
+        <li><a href="http://HTMLBASE/faq4.html#3D8">pwork</a>
+        <li><a href="http://HTMLBASE/faq4.html#3D9">plist.cgi</a>
+        <li><a href="http://HTMLBASE/faq4.html#3D10">AwYear</a>
+        <li><a href="http://HTMLBASE/faq4.html#3D11">forthcoming</a>
+        <li><a href="http://HTMLBASE/faq4.html#3D12">cwork</a>
+    </ul>
+  </ul>
+  <li><a href="http://HTMLBASE/howto.html">Bulk Data Submissions</a>
+  <ul>
+    <li><a href="http://HTMLBASE/howto.html#PREPARE0">General Rules</a>
+      <ol>
+      <li><a href="http://HTMLBASE/howto.html#PREPARE0A">Data Entry Rules</a>
+      <li><a href="http://HTMLBASE/howto.html#PREPARE0B">Publication Keys or Tags</a>
+      <li><a href="http://HTMLBASE/howto.html#PREPARE0C">Capitalization Rules</a>
+      </ol>
+    <li><a href="http://HTMLBASE/howto.html#PREPARE1">Novels</a>
+      <ol>
+      <li><a href="http://HTMLBASE/howto.html#PREPARE1A">Introductions, Forwards, and Prefaces</a>
+      <li><a href="http://HTMLBASE/howto.html#PREPARE1B">The Omnibus</a>
+      </ol>
+    <li><a href="http://HTMLBASE/howto.html#PREPARE2">Collections and Anthologies</a>
+    <li><a href="http://HTMLBASE/howto.html#PREPARE3">Magazines</a>
+      <ol>
+      <li><a href="http://HTMLBASE/howto.html#PREPARE3A">Essays</a>
+      <li><a href="http://HTMLBASE/howto.html#PREPARE3B">Interior Artists</a>
+      <li><a href="http://HTMLBASE/howto.html#PREPARE3C">Book Reviews</a>
+      <li><a href="http://HTMLBASE/howto.html#PREPARE3D">Interviews</a>
+      <li><a href="http://HTMLBASE/howto.html#PREPARE3E">Magazine Page</a>
+      </ol>
+  </ul>
+  <li><a href="http://HTMLBASE/howto.html#RECEIVED">Bulk Data Merging Procedures</a>.
+  <ul>
+    <li><a href="http://HTMLBASE/howto.html#RECEIVED1">Check the Veracity</a>
+    <li><a href="http://HTMLBASE/howto.html#RECEIVED2">Locating Internal Lexical Inconsistencies</a>
+    <li><a href="http://HTMLBASE/howto.html#RECEIVED3">Collapsing the Records</a>
+    <li><a href="http://HTMLBASE/howto.html#RECEIVED4">Locating Internal External Inconsistencies</a>
+    <li><a href="http://HTMLBASE/howto.html#RECEIVED5">Merging Publication data</a>
+    <li><a href="http://HTMLBASE/howto.html#RECEIVED6">Merging content</a>
+    <li><a href="http://HTMLBASE/howto.html#RECEIVED7">Merging Non-Intersecting Data</a>
+  </ul>
+  <li><a href="http://HTMLBASE/faq5.html#4">Why Isn't My Favorite Author/Book Here?</a></li>
+  <li><a href="http://HTMLBASE/faq5.html#5">Why Is This Author Here?</a></li>
+  <li><a href="http://HTMLBASE/faq5.html#6">The ISFDB Team</a></li>
+  <li><a href="http://HTMLBASE/biblios.html">Bibliographic sources</a></li>
+  <li><a href="http://HTMLBASE/faq5.html#8">Diskspace Requirements</a></li>
+</ol>
+
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

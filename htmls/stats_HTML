@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>ISFDB Statistics</title>
+</head>
+<body bgcolor="#ffffff" text="#000000" >
+<h1>ISFDB Statistics</h1>
+<hr>
+<pre>
+<b> 21041</b> Authors
+<b>104422</b> Titles
+</pre>
+<hr>
+<dl>
+<dt><b>127448</b> Work Entries:<ul>
+<li>Novels:        <b>21891</b>
+<li>Short Fiction: <b>76994</b> (Total citations)
+<li>Short Fiction: <b>52991</b> (Unique titles)
+<li>Collections:   <b>2677</b>
+<li>Anthologies:   <b>2247</b>
+<li>Non-Fiction:   <b>1210</b>
+<li>Poems:         <b>5420</b>
+<li>Non-Genre:     <b>301</b>
+<li>Cover Artwork: <b>11963</b>
+<li>Omnibus:       <b>247</b>
+<li>Int. Artwork:  <b>1114</b>
+<li>Serials:       <b>2268</b>
+<li>Essays:        <b>17438</b>
+<li>Reviews:       <b>7066</b>
+<li>Interviews:    <b>615</b>
+</ul>
+<hr>
+<dt><b>22469</b> Award Entries:
+<ul>
+<li>Analog:        <b>471</b>
+<li>Apollo:        <b>19</b>
+<li>Asimov's Poll: <b>888</b>
+<li>Asimov's Ugrad <b>56</b>
+<li>Aurealis:      <b>221</b>
+<li>Aurora:        <b>628</b>
+<li>Balrog:        <b>481</b>
+<li>BFA:           <b>512</b>
+<li>BSFA:          <b>413</b>
+<li>Campbell:      <b>93</b>
+<li>Chesley:       <b>493</b>
+<li>Clarke:        <b>150</b>
+<li>Compton Crook: <b>61</b>
+<li>Deathrealm:    <b>13</b>
+<li>Ditmar:        <b>884</b>
+<li>Gandalf:       <b>50</b>
+<li>Gaughan:       <b>16</b>
+<li>HOMer:         <b>202</b>
+<li>Hugos:         <b>3414</b>
+<li>IFA:           <b>18</b>
+<li>IHG:           <b>245</b>
+<li>Imaginaire:    <b>76</b>
+<li>JWCA:          <b>241</b>
+<li>Lambda:        <b>90</b>
+<li>Locus Poll:    <b>7455</b>
+<li>Mythopoeic:    <b>280</b>
+<li>Nebulas:       <b>1436</b>
+<li>P.K. Dick:     <b>110</b>
+<li>Prometheus:    <b>480</b>
+<li>Retro Hugo:    <b>142</b>
+<li>Rhysling:      <b>92</b>
+<li>SFBC:          <b>33</b>
+<li>SF Chronicle:  <b>278</b>
+<li>Skylark:       <b>36</b>
+<li>Sidewise:      <b>87</b>
+<li>Stoker:        <b>1096</b>
+<li>Sturgeon:      <b>106</b>
+<li>Tiptree:       <b>288</b>
+<li>WFA:           <b>1049</b>
+</ul>
+</dl>
+<hr>
+<center>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+</center>
+<hr>
+</pre>
+</body>
+</html>

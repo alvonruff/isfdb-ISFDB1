@@ -1,0 +1,275 @@
+<html>
+<head>
+<title>ISFDB FAQ: What is the ISFDB?</title>
+</head>
+<body bgcolor="#ffffff" text="#000000" >
+
+<h2>What is the ISFDB?</h2>
+The ISFDB is a continuous, ongoing effort to catalog works of Speculative 
+Fiction, and to make that information freely available to the public.
+It consists of a database compiler, a database engine, and the actual data 
+files themselves.  The database contains (as of this writing) about 100000 
+titles (with about 21000 novels, 50000 short stories, with the rest 
+miscellaneous), 20000 authors, and roughly 18000 award entries.
+<p>
+The ISFDB engine is a collection of run-time binaries which produce htmls
+upon request. While most web sites have web pages spinning on a disk somewhere,
+the ISFDB constructs web pages on demand from a database. It has the ability 
+to search the database via author, title, year, or series name. It can also 
+be used to generate a yearly fiction index, view the contents of a specific 
+magazine, or generate an awards page for a given award and given year.  Searches 
+lead to a list of author anchors, each of which are hot-links to a specific 
+author's bibliography. The various page types available from the ISFDB engine 
+are:
+<ol>
+  <li><i><a name="1A">The Summary Bibliography</a></i>.
+  This lists the author's legal name, 
+  birthplace, date-of-birth, date-of-death, an awards summary, and a 
+  listing of the author's works by the following categories: series,
+  novels, collections, anthology series, stand-alone anthologies, works
+  of non-fiction, and short fiction. An example layout of the author
+  information is:
+  <pre>
+    <i>Working Name</i> - Bibliography Summary
+    -------------------------------------------------------
+    [<b>Pub Biblio</b>][<b>Alpha</b>][<b>Main Menu</b>][<b>Search</b>][<b>Correct Author Info</b>] 
+    -------------------------------------------------------
+    <i>Legal Name</i>  (<i>Birthplace</i>;<i>Residence</i>, <i>Birthdate</i>-<i>Deathdate</i>)
+
+    {<i>Pseudonym listings</i>}
+    {<i>Awards Summary</i>}
+    {<i>Bibliographic Data</i>}
+  </pre>
+  The <i>Pub Biblio</i> hotlink leads to the publication bibliography, while
+  the <i>Alpha</i> button creates a summary bibliography with the entries sorted 
+  in alphabetical order. The <i>Main Menu</i> button brings up the top-level 
+  page of the database. <i>Search</i> takes you to the main search page. The
+  <i>Correct Author Info</i> allows you to update the author's recorded legal name,
+  birthplace, birthyear, deathyear, pseudonyms, email addresses, and web page
+  addresses.
+  <p>
+  An actual example:
+  <pre>
+    Cordwainer Smith - Bibliography Summary
+    -------------------------------------------------------
+    [<b>Pub Biblio</b>][<b>Alpha</b>][<b>Main Menu</b>][<b>Search</b>][<b>Correct Author Info</b>] 
+    -------------------------------------------------------
+    Linebarger, Paul Myron Anthony  (USA, 1913-1966)
+
+    (pseudonyms: Karloman Jungahr; Carmichael Smith) 
+  </pre>
+  The author data is followed by the following bibliographic sections 
+  (in this order): Series, Novels, Collections, Anthology Series, 
+  Anthologies, Non-Fiction, Short Fiction, Poems, Non-Genre, Artwork, 
+  and Serials.
+  <p>
+  Each work has a date of first 
+  publication citation. Works for which dates are not currently known 
+  will list the date as (<i>unknown</i>), dates for books which will 
+  soon be published list the date as (<i>forthcoming</i>), while dates
+  for famous works which, for various reasons, have never been seen in
+  public list the date as (<i>unpublished</i>).
+  If the work has a collaborator, a collaboration citation is listed as 
+  <i>with</i> <b>author</b>, where <b>author</b> is a hot-link to the 
+  collaborator's Summary Bibliography.
+  If the work received an award nomination or win, an award citation of
+  the form <b>[AwYear]</b> is listed, where Aw is the award abbreviation. 
+  Keys to award abbreviations are listed with the award summary at the top
+  of the author's Summary Bibliography. Award nominees that did not win 
+  are denoted by the citation <b>[AwYear n]</b>.  If the database has
+  publication data for a particular title, the title will then be a
+  hot-link to the publication data. A partial example citation (with
+  hot-links in bold) from Ellen Datlow's bibliography:
+  <pre>
+ Anthologies
+     <b>Alien Sex</b> (1990)
+     <b>Black Thorn, White Rose</b> (1994) with <b>Terri Windling</b> [<b>Wf1995 n</b>]
+     <b>Little Deaths</b> (1994)[<b>Wf1995</b>]
+     Snow White, Blood Red (1994) with <b>Terri Windling</b> [<b>Wf1994 n</b>]
+  </pre>
+  If the work was written under a pseudonym, a pseudonym citation is listed
+  <i>[as author]</i>. An example from Joe Haldeman's bibliography:
+  <pre>
+ Series
+    Attar
+        War of Nerves (1975) [as Robert Graham]
+        Attar's Revenge (1975) [as Robert Graham]
+  </pre>
+  Pseudonym citations are not hot-links. Award citations are hot-links to:
+  <p>
+  <li><i><a name="1B">The Yearly Awards Page</a></i>.
+  This page lists all of the nominees
+  for a specific award for a specific year. The nominees are listed by category
+  (<i>Novels</i>, <i>Novellas</i>, etc...), with the winner annotated with
+  an <b>o</b>. The Locus Poll Award differs in that nominees are numbered and
+  presented in their poll order, with the poll winner marked with a bold <b>1</b>.
+  Nominees and winners are listed as title/author pairs, where the author is
+  a hot-link to a Summary Bibliography. Awards currently supported are: 
+  <i>Aurora</i>,
+  <i>Bram Stoker</i>,
+  <i>Campbell</i>,
+  <i>Clarke</i>,
+  <i>Hugo</i>,
+  <i>James Tiptree, Jr.</i>,
+  <i>Locus Poll</i>,
+  <i>Nebula</i>,
+  <i>P. K. Dick</i>, and
+  <i>WFA</i>.
+  There are two additional anchors at the bottom of each yearly award page:
+  <b>[Previous Year]</b> and <b>[Next Year]</b>, which do exactly what you think
+  they might do. Partial example from the 1995 Hugo Award page:
+<pre>
+Novel
+o  Mirror Dance                    <b>Lois McMaster Bujold</b>
+   Towing Jehovah                  <b>James Morrow</b>
+   Mother of Storms                <b>John Barnes</b>
+   Brittle Innings                 <b>Michael Bishop</b>
+   Beggars and Choosers            <b>Nancy Kress</b>
+</pre>
+  <p>
+  <li><i><a name="1C">The Publication History</a></i>.
+  If a title on the Bibliography Summary has publication data entered into the
+  database, the title will appear as a hotlink to its publication history.
+  If this link is selected, all publication data for that title will be 
+  displayed, but for that title only. 
+  The form of each publication citation
+  is [title]/listed author/[publication summary]. For instance, the publication
+  citations for Brin's <i>Startide Rising</i> are:
+
+<pre>
+For: Startide Rising
+
+    1. <b>Startide Rising</b>, David Brin, 1985, Phantasia Press, 0932096387, $18.00, hc
+    2. <b>Startide Rising</b>, David Brin, 1985, Phantasia Press, 0-932096-38-7, $45.00
+    3. <b>Earthclan</b>, David Brin, 1987, Doubleday, 1-56865-037-X, hc
+    4. <b>Startide Rising</b>, David Brin, 1991, Bantam UK, 0-553-17170-4, £4.99, pb
+    5. <b>Startide Rising</b>, David Brin, 1993, Bantam Spectra, 0-553-27418-X, $5.99, pb
+    6. <b>Startide Rising</b>, David Brin, 1996, Orbit, 1-85723-372-7, £5.99, pb 
+</pre>
+
+  The titles in the publication citations are hot-links to <i>A
+  Content Listing</i> for the specific publication selected.
+  A complete publication bibliography can be generated by selecting:
+  <p>
+  <li><i><a name="1D">The Publication Bibliography</a></i>.
+  For each author work, all 
+  publication information is displayed. This page is reached from the 
+  <b>[Pub Biblio]</b> anchor on the author's Summary Bibliography.
+  The entries on the page are in a format identical to the Publication
+  History above.
+  <p>
+  <li><i><a name="1E">A Content Listing</a></i>.
+  This page displays all publication
+  data (such as cover artist and notes), as well as a content listing of 
+  the publication. For an omnibus, the content listing will be the novels 
+  contained within the omnibus; for a short
+  story collection, anthology, or zine, the content listing will be the story
+  titles found within the publication. The author anchor of each title/author
+  pair found in the content listing is a hot-link to the author's Summary 
+  Bibliography. An example content listing of the Jan 86 issue of Asimov's
+  Science Fiction:
+
+<pre>
+For: <i>Isaac Asimov's Science Fiction Magazine, Jan 1986</i>
+
+  Auth/Ed: Gardner Dozois
+  Year: 1986
+  Price: $2.00
+  Cover: <b>Hisaki Yasuda</b>  for "Count Zero"
+  Notes: Vol. 10 No 1 (Whole Number 100)
+
+Contains the following works:
+
+<i>Serials</i>
+Count Zero (Part I)                               <b>William Gibson</b> 
+
+<i>Short Stories</i>
+The Eye of the Beholder                           <b>Isaac Asimov</b> 
+Jeff Beck                                         <b>Lewis Shiner</b> 
+Pretty Boy Crossover                              <b>Pat Cadigan</b> 
+Reduction                                         <b>John Kessel</b> and
+                                                  <b>Gregory Frost</b> 
+Special Education                                 <b>Tim Sullivan</b> 
+
+<i>Poems</i>
+Harmony of the Sphere at Spion Kop                <b>Roger Meador</b> 
+Interstellar Dust                                 <b>Peter Payack</b> 
+Moonburn                                          <b>Peter Payack</b> 
+A Quotella For Ted Sturgeon                       <b>Robert Frazier</b> 
+A Trivial Matter                                  <b>Peter Payack</b> 
+Why There Is Now (And Most Probably Always Will
+  Be) A Shortage of Subatomic Physicists          <b>Peter Payack</b> 
+</pre>
+
+  <p>
+  <li><i><a name="1H">Forthcoming Titles</a></i>.
+  This page lists all known forthcoming
+  titles, sorted by month. An entry in the left-hand margin indicates whether
+  the title is a Novel, Collection, Anthology, or work of Non-fiction. Again,
+  author anchors are hot-links to the author's Summary Bibliography.
+
+  <p>
+  <li><i><a name="1I">Fiction Index</a></i>.
+   This feature creates a fiction index in a format similar to Dozois' or
+   Datlow's Honorable Mentions in their yearly Best-Of anthologies. Titles
+   are collated by author; authors are sorted by last name, novels are in
+   italics; shortfiction is double-quoted with the location of its 
+   publication (if known). The authors are hot-links to bibliographies;
+   the publication date is a hot-link to a content listing for that
+   publication. Publications which are collections or anthologies are
+   enclosed in brackets. A partial example from the 1995 fiction index:
+
+<pre>
+<b>George Alec Effinger</b> 
+    "Maureen Birmbaum at the Looming Awfulness", F&SF, <b>March</b> 
+    "One", [<b>New Legends</b>] (Tor, hc)
+<b>Greg Egan</b> 
+    Distress, (Millennium, hc)
+    "A Kidnapping", [<b>Axiomatic</b>] (Orion Books, pb)
+    "Luminous", Asimov's, <b>September</b> 
+    "Mister Volition", Interzone, <b>October</b> 
+    "Mitochondrial Eve", Interzone, <b>February</b> 
+    "Seeing", [<b>Axiomatic</b>] (Orion Books, pb)
+    "Silver Fire", Interzone, <b>December</b> 
+    "TAP", Asimov's, <b>November</b> 
+    "Wang's Carpets", [<b>New Legends</b>] (Tor, hc)
+<b>Suzette Haden Elgin</b> 
+    "Only a Housewife", F&SF, <b>September</b> 
+<b>Kandis Elliot</b> 
+    "The Androgyne Murders", SF Age, <b>November</b> 
+    "Mother Nature Visits the Zoo", Tomorrow, <b>October</b> 
+    "Road Kills", Asimov's, <b>February</b> 
+    "Sith Season", Asimov's, <b>May</b> 
+</pre>
+</ol>
+
+Additionally there are a number of useful top-level htmls;
+
+<ol>
+  <li> A Forms Page to query the ISFDB for an awards page for a
+       specific year.
+  <li> A Magazine page, which leads to a month-by-month listing of
+       Magazine contents. Currently tracked magazines are: Absolute
+       Magnitude, Analog Science Fiction and Fact, Asimov's Science 
+       Fiction, Century, Crank!, Fantasy & Science Fiction, 
+       Interzone Science Fiction and Fantasy, Marion Zimmer Bradley's Fantasy,
+       Omni Online, Pirate Writings, Realms of Fantasy, Science Fiction 
+       Age, and Tomorrow Speculative Fiction.
+  <li> The latest features of the ISFDB engine.
+  <li> The FAQ for the ISFDB.
+  <li> The Bibliographic Sources used for the ISFDB.
+  <li> Some statistics pages.
+</ol>
+
+<hr>
+<a href="http://HTMLBASE/faq1.html">[Previous FAQ Page]</a>
+<a href="http://HTMLBASE/faq.html">[Main FAQ Page]</a>
+<a href="http://HTMLBASE/faq6.html">[Next FAQ Page]</a>
+<hr>
+
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

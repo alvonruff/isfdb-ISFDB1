@@ -1,0 +1,370 @@
+<html> <head> <title>ISFDB Award Listings</title></head>
+<body bgcolor="#ffffff">
+<h1>ISFDB Award Listings</h1>
+
+<p>
+<form method="POST" action="http://DBASELOC/AwGen.cgi">
+
+<hr>
+Generate an award listing for a specific award and year. The year
+should be a fully-qualified 4-digit numeral, as: "1992". The 
+award can be selected via one of the radio buttons below.
+<p>
+<B>
+  Enter Year:
+</b>
+<input name="year">
+<pre>
+<input TYPE="radio" NAME="award" VALUE="Analog"      >......Analog <input TYPE="radio" NAME="award" VALUE="Apollo"      >......Apollo <input TYPE="radio" NAME="award" VALUE="AsimovR"     >.....AsimovR <input TYPE="radio" NAME="award" VALUE="AsimovU"     >.....AsimovU <input TYPE="radio" NAME="award" VALUE="Aurealis"    >....Aurealis 
+<br>
+<input TYPE="radio" NAME="award" VALUE="Aurora"      >......Aurora <input TYPE="radio" NAME="award" VALUE="Balrog"      >......Balrog <input TYPE="radio" NAME="award" VALUE="BFA"         >.........BFA <input TYPE="radio" NAME="award" VALUE="BSFA"        >........BSFA <input TYPE="radio" NAME="award" VALUE="Campbell"    >....Campbell 
+<br>
+<input TYPE="radio" NAME="award" VALUE="Chesley"     >.....Chesley <input TYPE="radio" NAME="award" VALUE="Clarke"      >......Clarke <input TYPE="radio" NAME="award" VALUE="ComptonCrook">ComptonCrook <input TYPE="radio" NAME="award" VALUE="Deathrealm"  >..Deathrealm <input TYPE="radio" NAME="award" VALUE="Ditmar"      >......Ditmar 
+<br>
+<input TYPE="radio" NAME="award" VALUE="Gandalf"     >.....Gandalf <input TYPE="radio" NAME="award" VALUE="Gaughan"     >.....Gaughan <input TYPE="radio" NAME="award" VALUE="HOMer"       >.......HOMer <input TYPE="radio" NAME="award" VALUE="Hugo"        >........Hugo <input TYPE="radio" NAME="award" VALUE="IFA"         >.........IFA 
+<br>
+<input TYPE="radio" NAME="award" VALUE="IHG"         >.........IHG <input TYPE="radio" NAME="award" VALUE="Imaginaire"  >..Imaginaire <input TYPE="radio" NAME="award" VALUE="JWCA"        >........JWCA <input TYPE="radio" NAME="award" VALUE="Lambda"      >......Lambda <input TYPE="radio" NAME="award" VALUE="Locus Poll"  >..Locus Poll 
+<br>
+<input TYPE="radio" NAME="award" VALUE="Mythopoeic"  >..Mythopoeic <input TYPE="radio" NAME="award" VALUE="Nebula"      >......Nebula <input TYPE="radio" NAME="award" VALUE="Prometheus"  >..Prometheus <input TYPE="radio" NAME="award" VALUE="PK Dick"     >.....PK Dick <input TYPE="radio" NAME="award" VALUE="RetroHugo"   >...RetroHugo 
+<br>
+<input TYPE="radio" NAME="award" VALUE="Rhysling"    >....Rhysling <input TYPE="radio" NAME="award" VALUE="SFBC"        >........SFBC <input TYPE="radio" NAME="award" VALUE="SF Chronicle">SF Chronicle <input TYPE="radio" NAME="award" VALUE="Skylark"     >.....Skylark <input TYPE="radio" NAME="award" VALUE="Sidewise"    >....Sidewise 
+<br>
+<input TYPE="radio" NAME="award" VALUE="Stoker"      >......Stoker <input TYPE="radio" NAME="award" VALUE="Sturgeon"    >....Sturgeon <input TYPE="radio" NAME="award" VALUE="Tiptree"     >.....Tiptree <input TYPE="radio" NAME="award" VALUE="WFA"         >.........WFA
+</pre>
+<input type="submit" value="Submit Query">
+<input type="reset" value="Clear Form">
+</form>
+
+<P>
+<HR>
+<OL>
+<LI>
+<B>Apollo</B> [1972 - 1990] - Prix annuel &agrave; l'initiative de Jacques
+Sadoul d&eacute;cern&eacute; depuis 1972 et jusqu'en 1990 par un jury.&nbsp;
+The <I>Prix Apollo</I> was founded by writer, publisher and critic Jacques
+Sadoul in 1972.&nbsp; A rotating panel of three judges selected from the
+leading French writers and critics, votes on the best science fiction novel&nbsp;
+novel to have been published in the French language (original or translated)
+during the cource of the preceding year.</LI>
+<LI>
+<B>AsimovR</B> [1987 - Present] - The readers of <I>Asimov's Science Fiction</I>,
+published since 1977, make their choices for the best of the previous year,
+in a variety of categories. The <I>Asimov's Science Fiction Annual Readers'
+Poll Awards</I> are usually presented by a representative of Dell Magazine
+during the SFWA's Nebula Banquet weekend.</LI>
+
+<LI>
+<B>AsimovU</B> [1994 - Present] - The <I>Isaac Asimov Award for Undergraduate
+Excellence in Science Fiction and Fantasy</I> is co-sponsered by Asimov's
+Science Fiction magazine and the International Association for the Fantastic
+in the Arts. Full-time undergraduate students attending any accredited
+university of college are eligible. The winners are selected by jury, and
+the prizes are presented at the annual Conference on the Fantastic.</LI>
+
+<LI>
+<B>Aurealis</B> [1995 - Present] - The <I>Aurealis Award</I> is presented
+by Chimaera Publications for excellence in Australian Speculative Fiction
+as determined by a panel of judges for works published in the previous
+year.</LI>
+
+<LI>
+<B>Aurora</B> [1982 - Present] - The <I>Aurora Award</I> (known as the
+<I>Casper</I> prior to 1991), is presented by the Canadian Science Fiction
+and Fantasy Association to the best SF works written by Canadians in the
+previous year. The award is very similar to the Hugo with respect to categories
+and voting procedures.</LI>
+
+<LI>
+<B>Balrog</B> [1979 - 1985] - The short lived <I>Coveted Balrog Award</I>
+was presented by the International Fantasy Gamers Society to the best in
+a variety of predominantly fantasy categories.</LI>
+
+<LI>
+<B>BFA</B> [1972 - Present] - The <I>British Fantasy Awards</I> are presented
+annually by the <A HREF="http://www.djb.u-net.com/">British Fantasy Society</A>
+(formed in 1971), usually at FantasyCon (1975 - present), to the best fantasy
+of the year. The award was established in memory of August Derleth and
+the the novel category is still often referred to as the <I>August Derleth
+Award</I>. The membership of the British Fantasy Society, and attendees
+to the annual FantasyCon, are eligible to vote for the British Fantasy
+Awards. The Awards are awarded on a simple majority vote system.</LI>
+
+<LI>
+<B>BSFA</B> [1966 - Present] - The <I><A HREF="http://members.aol.com/tamaranth/awards.html">British
+Science Fiction Awards</A></I> are presented annually by the <A HREF="http://members.aol.com/tamaranth/">British
+Science Fiction Association</A> (formed in 1958), usually at EasterCon.
+This award started as the British Fantasy Award in 1966 and became the
+British Science Fiction Award in 1970.</LI>
+
+<LI>
+<B>Campbell</B> [1973 - Present] - The <I>John W. Campbell Jr. Memorial
+Award</I> is awarded to the best SF novel published in English in the previous
+year, by the University of Kansas' <A HREF="http://falcon.cc.ukans.edu/~sfcenter/">Center
+for the Study of Science Fiction</A>, at the annual Campbell Conference.
+This award should not be confused with the <I>John W. Campbell Award (JWCA)
+</I>for best new writer (although it often is), which is traditionally
+handed out at the Hugo award ceremony.&nbsp; The winner is selected by
+a jury comprised of critics and SF writers.&nbsp; This award is presented
+in conjunction with the Theodore Sturgeon Memorial Award, and since 1996,
+the Hall of Fame Award</LI>
+
+<LI>
+<B>Clarke</B> [1987 - Present] - The <I>Arthur C. Clarke Award</I> is awarded
+to the best SF novel published in the UK in the previous year. The publication
+must be a UK first edition.&nbsp; The winner is chosen by a jury of six,
+consisting of two members from each of the following organizations: The
+Science Fiction Foundation, the British Science Fiction Association, and
+the International Science Policy Foundation.</LI>
+
+<LI>
+<B>ComptonCrook</B> [1983 - Present] - The <I><A HREF="http://www.bsfs.org/crooks.html">Compton
+Crook Award</A></I> is voted upon, and given by, the <A HREF="http://www.bsfs.org/">Baltimore
+Science Fiction Society</A> (BSFS) at the annual Balticon, for the best
+first novel of science fiction published during the previous year. The
+name honors the memory of the late SF writer Compton Newby Crook (1908
+- 1981), who wrote under the name Stephen Tall.</LI>
+
+<LI>
+<B>Deathrealm</B> [1995 - 1996] - The readers of <A HREF="http://www.sff.net/people/LWE/personal/dr/realm.htm">Deathrealm</A>
+(published from 1987 to 1997) made their choices for the best of the previous
+year, in a variety of categories. The <I>Deathrealm Awards</I> were presented
+annually during the World Horror Convention. (The nominations were never
+made public and never will be as they have been discarded).</LI>
+
+<LI>
+<B>Ditmar</B> [ 1969 - present] - The <I><A HREF="http://home.vicnet.net.au/~sfoz/dityear.htm">Australian
+Science Fiction Awards (Ditmars)</A></I> were created in 1969 by the committee
+of that year's Australian National Science Fiction Convention. The award
+was named after Martin James (Ditmar) Jenssen, a founding member of the
+Melbourne Science Fiction Club, who financially supported the award until
+about 1975.&nbsp; The awards are given out at the Australian National Science
+Fiction Convention. While nominations are open to fandom in general, only
+members of the national convention may vote for the award.</LI>
+
+<LI>
+<B>Gandalf</B> [ 1974 - 1981] - The <I>Gandalf Award</I> was an award which
+was administered by the Worldcon Committee and determined by the Hugo nomination
+and voting mechanism. It was sponsored by Lin Carter and S.A.G.A (The Swordsmen
+and Sorcerers Guild of America, Ltd.). The Gandalf Grand Master Award was
+presented in all years, while the Gandalf Book-Length Fantasy Award was
+presented only in 1978 and 1979.</LI>
+
+<LI>
+<B>Gaughan</B> [1986 - present] - The <I><A HREF="http://www.panix.com/NESFA/gaughan.html">Jack
+Gaughan Award for Best Emerging Artist</A></I> is awarded at the annual
+Boskone convention by the New England Science Fiction Association <A HREF="http://www.panix.com/NESFA/home.html">(NESFA)</A>
+to an artist who has become an SF professional in the past five years.
+The award is chosen by a panel of three judges. The name honors the memory
+of the late SF artist Jack Gaughan (1930 - 1985).</LI>
+
+<LI>
+<B>HOMer</B> [1990 - Present] - The <I><A HREF="http://ourworld.compuserve.com/homepages/adrienne/homer.htm">HOMer
+Awards</A></I> were founded in 1991 by Jim Schneider, one of the system
+operators of the Science Fiction and Fantasy Literature Forum on the CompuServe
+Information Service. The award's name recalls both the ancient Greek epic
+poet and the CompuServe code-page for this forum, HOM-9. All members of
+the SF&amp;F Forum are eligible to nominate for, and vote on the final
+ballot, for the awards.</LI>
+
+<LI>
+<B>Hugo</B> [1954 - Present] - The <I>Science Fiction Achievement Award</I>,
+commonly called the <I><A HREF="http://wsfs.org/hugos.html">Hugo</A> </I>(after
+Hugo Gernsback), is awarded in a variety of categories at the annual World
+SF Convention (WorldCon) by the <A HREF="http://www.wsfs.org/">World Science
+Fiction Society (WSFS)</A>, which is usually held over the Labor Day weekend.
+The awards are voted upon by fans holding membership in either the current
+or preceding WorldCon.</LI>
+
+<LI>
+<B>IFA</B> [1951 - 1957, excluding 1956] - The <I>International Fantasy
+Awards</I> were created by four British enthusiasts, including John Beynon
+Harris (John Wyndham), and first presented at the 1951 British Science
+Fiction Convention. The IFAs were presented to the author(s) of the best
+speculative fiction book of the year, with a second category for the best
+nonfiction book related to the genre. The nonfiction class was dropped
+after 1953. Winners were selected by a panel of prominent personalities,
+with the panel going international after 1951. Once the Hugos had been
+successfully launched, some of the raison d'etre for the IFAs was gone.
+The last IFA was presented at the London Worldcon in 1957.</LI>
+
+<LI>
+<B>IHG</B> [ 1995 - present] - The <A HREF="http://www.taoweb.com/ihg/#awards">International
+Horror Guild</A> (formerly known as the International Horror Critics Guild),
+presents annual awards, in a variety of categories, to recognize the achievements
+of those who toil in the Horror/Dark Fantasy field. Nominations can be
+submitted by anyone via e-mail.</LI>
+
+<LI>
+<B>Imaginaire</B> [ 1992 - present] - <I>le Grand Prix de l'Imaginaire</I>
+est d&eacute;cern&eacute; annuellement depuis 1992 par un jury de sp&eacute;cialistes
+(&eacute;crivains, critiques, directeurs de collections). En 1991, afin
+de pallier &agrave; la disparition du Prix Apollo (qui r&eacute;compensait
+des romans de SF de toutes nationalit&eacute;s) et aussi afin de s'ouvrir
+&agrave; des genres voisins tels que le Fantastique, l'Horreur, l'Insolite
+et la Fantaisie de toutes nationalit&eacute;s, le Grand Prix de la Science-Fiction
+a chang&eacute; de peau et s'est transform&eacute; en Grand Prix de l'Imaginaire.
+Le vote se d&eacute;roule en deux tours, le premier, par correspondance,
+jouant le r&ocirc;le de pr&eacute;s&eacute;lection, le second &agrave;
+Paris chez Jacques Goimard. Il est d&eacute;cern&eacute; en novembre et
+donne lieu &agrave; un cocktail offert par les maisons d'&eacute;dition
+laur&eacute;ates. / <I>le Grand Prix de l'Imaginaire</I> is awarded annually
+since 1992 by a jury of specialist in the field (writers, critics and editors).
+In 1991, after the disappearance of the Prix Apollo (which honored SF novels
+of any nationality) and also in broadening the definition of SF to include
+Fantasy and Horror of any nationality, le Grand Prix de la Science Fiction
+transformed into le Grand Prix de l'Imaginaire. Voting takes place in 2
+stages, the first, by correspondence, performs the role of preselection;
+the second, in Paris at Jacques Goimard's. The results are announced in
+November at a cocktail party hosted by the award winner's publishing houses.</LI>
+
+<LI>
+<B>JWCA</B> [1973 - Present] - The <I>John W. Campbell Award</I> is awarded
+to the best new SF writer of the year. It is administered by the Worldcon
+Committee, determined by the Hugo nomination and voting mechanism, and
+presented at the annual World SF Convention (WorldCon) during the Hugo
+ceremony by the <A HREF="http://www.wsfs.org/">World Science Fiction Society
+(WSFS)</A>.&nbsp; Sponsored by Conde-Nast, publishers of Analog, the award
+was created in 1972 as a tribute to John W. Campbell Jr, its celebrated
+editor, who died in 1971. Over the years, sponsorhip changed hands as Analog
+was sold to Davis Publications in 1979, then to Dell Magazines in 1993
+and finally to Penny Press in 1996. It is no longer considered part of
+the Hugo Awards.</LI>
+
+<LI>
+<B>Lambda</B> [1989 - Present] - The <I>Lambda Literary Award</I> has been
+awarded annually, since 1989, by the Lambda Book Report to recognize excellence
+in gay and lesbian writing and publishing in the U.S.during the preceding
+year. The awards are given in numerous categories but only the speculative
+fiction categories have been included here.&nbsp; Final nominees are announced
+by the Lambda Book Report staff, and the final voting is done by a small
+group of volunteer judges in each category.</LI>
+
+<LI>
+<B>Locus Poll</B> [1971 - Present] - <A HREF="http://www.locusmag.com/">Locus
+Magazine</A> conducts an <I><A HREF="http://www.sff.net/locus/poll/index.html">annual
+readership poll</A></I>, with the results published in the August issue.
+The poll is valuable in helping to construct reading lists, since as many
+as 2 dozens books may appear in each of the final ordinal lists. Since
+the <I>Locus</I> readership consists of professional writers, would-be
+writers, and hard-core fans, it presents an interesting middle ground between
+the Hugo (fan-voted) and the Nebula (writer-voted) awards.</LI>
+
+<LI>
+<B>Mythopoeic</B> [1971-Present] - The <I><A HREF="http://home.earthlink.net/~emfarrell/mythsoc/awards.html">Mythopoeic
+Awards</A></I> are chosen each year by committees composed of volunteer
+<A HREF="http://home.earthlink.net/~emfarrell/mythsoc/mythsoc.html">Mythopoeic
+Society</A> members, and presented at the annual Mythcon (there was only
+one award for each of 1975, 1976 and 1981, and no awards between 1977 -
+1980). The Society is a non-profit organization devoted to the study, discussion
+and enjoyment of myth and fantasy literature, especially the works of J.R.R.
+Tolkien, C.S. Lewis and Charles Williams, known as the "Inklings".</LI>
+
+<LI>
+<B>Nebula</B> [1965 - Present] - The <I><A HREF="http://www.sfwa.org/awards/Nebula.htm">Nebula</A></I>
+is a writing award given in several categories (based on length) by the
+<A HREF="http://www.sfwa.org">Science Fiction and Fantasy Writers of America</A>.
+The awards are voted upon by members of the SFFWA. This is a peer system,
+as membership in the SFFWA requires publication of at least 3 short stories,
+or 1 full-length book, in a professional market.</LI>
+
+<LI>
+<B>PK Dick</B> [1982 - Present] - The <I>Philip K. Dick Award</I> is awarded
+to the best science fiction or fantasy work first published in paperback
+in the previous year. The award is chosen by a jury of writers and critics.</LI>
+
+<LI>
+<B>Prometheus</B> [1979; 1982 - present] - The <A HREF="http://www.libertarian.com/LFS/awards.html">Libertarian
+Futurist Society</A>, presents the annual <A HREF="http://www.libertarian.com/LFS/awards.html#prometheus">Prometheus
+Award</A> for best libertarian SF novel and the <A HREF="http://www.libertarian.com/LFS/awards.html#fame">Hall
+of Fame Award</A> for best classic libertarian SF novel. The Prometheus
+Award was created in 1979 by L. Neil Smith to honor libertarian speculative
+fiction. It fell into limbo the next year. The LFS, founded in 1982, revived
+the award and created The Hall of Fame Award the same year to honor classic
+libertarian fiction. The Hall of Fame Award is open to any work of fiction
+over five years old. Books for both awards are nominated by, and the winner
+chosen, by all members of the LFS.</LI>
+
+<LI>
+<B>RetroHugo</B> [1996,2001] - <I>Retrospective Hugos</I> may be given
+to works which could have been nominated at a Worldcon which was held 50,
+75, or 100 years prior to the current Worldcon. Note that the award is
+optional, that a Worldcon must have been held in the target year, that
+neither Hugos nor Retro Hugos were awarded during that year, and that the
+voting rules are precisely the same as the Hugo awards.</LI>
+
+<LI>
+<B>Rhysling</B> [1978 - present] - An award given by the Science Fiction
+Poetry Association, founded by Suzette Haden Elgin. Nominees are selected
+by the SFPA in two categories: short poem (less than 50 lines in length),
+and long poem.</LI>
+
+<LI>
+<B>SFBC</B> [1987 - present] - The Book of the Year Award is given, and
+voted upon, by members of the<A HREF="http://www.sfbc.com/">Science Fiction
+Book Club</A>, honoring the Best Main Selection of the previous year.</LI>
+
+<LI>
+<B>SF Chronicle</B> [1982 - Present] - The readers of the Science Fiction
+Chronicle, published since 1979, make their choices for the Best of the
+previous year, in categories which closely parallel those offered by the
+World Science Fiction Convention's Hugo Awards. SFC's award voting is by
+a weighted voting method, which gives 1st choice 3 points, 2nd 2 and 3rd
+1.</LI>
+
+<LI>
+<B>Sidewise</B> [1995 - Present] - The <A HREF="http://www.skatecity.com/ah/sidewise/"><I>Sidewise
+Awards for Alternate History</I> </A>were conceived in late 1995 to honor
+the best "genre" publications of the year. The award takes its name from
+Murray Leinster's 1934 short story "Sidewise In Time" Two awards will be
+given each year: The Long Form Award (60,000 words or more), and the Short
+form Award. The awards are decided by jury.</LI>
+
+<LI>
+<B>Skylark</B> [1966 - present] - The <I>Edward E. Smith Memorial Award
+for Imaginative Fiction</I> (commonly referred to as the <A HREF="http://www.panix.com/NESFA/skylark.html">Skylark</A>)
+is awarded at the annual Boskone convention by the New England Science
+Fiction <A HREF="http://www.panix.com/NESFA/home.html">(NESFA)</A> to someone
+who has contributed significantly to science fiction. The award is voted
+on by the NESFA membership. The name honors the memory of the late SF writer
+Edward E. "Doc" Smith (1890 - 1965).</LI>
+
+<LI>
+<B>Stoker</B> [1983 - Present] - The <I><A HREF="http://www.horror.org/stoker.htm">Bram
+Stoker Awards</A></I> are given in several categories (based on length)
+by the <A HREF="http://www.horror.org/">Horror Writers Association</A>.</LI>
+
+<LI>
+<B>Sturgeon</B> [1987 - Present] The <I>Theodore Sturgeon Memorial Award</I>
+for best science fiction short fiction (under 17,500 words) published in
+English in the previous year, by the University of Kansas' <A HREF="http://falcon.cc.ukans.edu/~sfcenter/">Center
+for the Study of Science Fiction</A>, at the annual Campbell Conference.
+The winner is selected by a jury comprised of critics and SF writers. This
+award is presented in conjunction with the John W. Campbell Jr., Memorial
+Award, and since 1996, the Hall of Fame Award.</LI>
+
+<LI>
+<B>Tiptree</B> [1992 - Present] - The <I>James Tiptree, Jr. Award</I> is
+awarded annually to "science fiction or fantasy that explores and expands
+the roles of women and men." Wiscon supports a <A HREF="http://www.sf3.org/tiptree/index.html">web
+page</A> devoted to the award.</LI>
+
+<LI>
+<B>WFA</B> [1975 - Present] - The <I>World Fantasy Awards</I> (sometimes
+referred to as the Howard Awards, after H. (Howard) P. Lovecraft) are presented
+at the World Fantasy Convention. Attending and supporting members of the
+convention are eligible to nominate potential winners (only living persons
+are eligible), however, the final decisions are made by a panel of judges.
+The World Fantasy Convention keeps information on upcoming convention sites
+and award nominees on their <A HREF="http://www.worldfantasy.org">web
+page</A>.</LI>
+</OL>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" alt="ISFDB Logo" border=2 align=middle></a>
+<i>Copyright (c) 2001 Al von Ruff</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.
+</body>
+</html>

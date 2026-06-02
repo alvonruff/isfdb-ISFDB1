@@ -1,0 +1,2244 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)IHG	1.7	06/18/98 ISFDB";
+##
+Anno Dracula {
+	AE=|Kim Newman|
+	AS=|IHGN|
+	YR=|1994|
+	TG=|8695|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Résumé with Monsters {
+	AE=|William Browning Spencer|
+	AS=|IHGN|
+	YR=|1995|
+	TG=|11201|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+The 37th Mandala {
+	AE=|Marc Laidlaw|
+	AS=|IHGN|
+	YR=|1996|
+	TG=|15461|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+Yestern {
+	AE=|S. P. Somtow|
+	AS=|IHGN|
+	YR=|1996|
+	TG=|17771|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|2|
+}
+Sacrament {
+	AE=|Clive Barker|
+	AS=|IHGN|
+	YR=|1996|
+	TG=|17726|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Drawing Blood {
+	AE=|Poppy Z. Brite|
+	AS=|IHGN|
+	YR=|1996|
+	TG=|17728|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Exquisite Corpse {
+	AE=|Poppy Z. Brite|
+	AS=|IHGN|
+	YR=|1996|
+	TG=|17729|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Scavenger Reef {
+	AE=|Lawrence Chames|
+	AS=|IHGN|
+	YR=|1996|
+	TG=|17733|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Bloody Bones {
+	AE=|Laurell K. Hamilton|
+	AS=|IHGN|
+	YR=|1996|
+	TG=|17745|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Desperation {
+	AE=|Stephen King|
+	AS=|IHGN|
+	YR=|1996|
+	TG=|17754|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Spares {
+	AE=|Michael Marshall Smith|
+	AS=|IHGN|
+	YR=|1996|
+	TG=|17769|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Zod Wallop {
+	AE=|William Browning Spencer|
+	AS=|IHGN|
+	YR=|1996|
+	TG=|17772|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Pillow Friend {
+	AE=|Lisa Tuttle|
+	AS=|IHGN|
+	YR=|1996|
+	TG=|17773|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The House on Nazareth Hill^Nazareth Hill {
+	AE=|Ramsey Campbell|
+	AS=|IHGN|
+	YR=|1997|
+	TG=|19128|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+My Soul to Keep {
+	AE=|Tananarive Due|
+	AS=|IHGN|
+	YR=|1997|
+	TG=|19135|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Dark Tower IV: Wizard and Glass {
+	AE=|Stephen King|
+	AS=|IHGN|
+	YR=|1997|
+	TG=|19154|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Ignored {
+	AE=|Bentley Little|
+	AS=|IHGN|
+	YR=|1997|
+	TG=|19158|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Fog Heart {
+	AE=|Thomas Tessier|
+	AS=|IHGN|
+	YR=|1998|
+	TG=|19366|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+The Halloween Man {
+	AE=|Douglas Clegg|
+	AS=|IHGN|
+	YR=|1998|
+	TG=|19297|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+The Tooth Fairy {
+	AE=|Graham Joyce|
+	AS=|IHGN|
+	YR=|1998|
+	TG=|19321|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Wildest Dreams {
+	AE=|Norman Partridge|
+	AS=|IHGN|
+	YR=|1998|
+	TG=|19345|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Darker Angels {
+	AE=|S. P. Somtow|
+	AS=|IHGN|
+	YR=|1998|
+	TG=|19357|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Irrational Fears {
+	AE=|William Browning Spencer|
+	AS=|IHGN|
+	YR=|1998|
+	TG=|19358|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+A Prayer for the Dying {
+	AE=|Stewart O'Nan|
+	AS=|IHGN|
+	YR=|1999|
+	TG=|22238|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|1|
+}
+The Talisman {
+	AE=|Jonathan Aycliffe|
+	AS=|IHGN|
+	YR=|1999|
+	TG=|22192|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Minions of the Moon {
+	AE=|Richard Bowes|
+	AS=|IHGN|
+	YR=|1999|
+	TG=|22195|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Seven Stars {
+	AE=|Kim Newman|
+	AS=|IHGN|
+	YR=|1999|
+	TG=|22237|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Mr. X {
+	AE=|Peter Straub|
+	AS=|IHGN|
+	YR=|1999|
+	TG=|22252|
+	TA=|Best Novel|
+	TP=|n|
+	LV=|9|
+}
+Grave Markings {
+	AE=|Michael A. Arnzen|
+	AS=|IHG1|
+	YR=|1994|
+	TG=|510|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|1|
+}
+The Safety of Unknown Cities {
+	AE=|Lucy Taylor|
+	AS=|IHG1|
+	YR=|1995|
+	TG=|11847|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|1|
+}
+Dead Heat {
+	AE=|Del Stone, Jr.|
+	AS=|IHG1|
+	YR=|1996|
+	TG=|15488|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|1|
+}
+Celestial Dogs {
+	AE=|Jay Russell|
+	AS=|IHG1|
+	YR=|1996|
+	TG=|17765|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|2|
+}
+Drawn to the Grave {
+	AE=|Mary Ann Mitchell|
+	AS=|IHG1|
+	YR=|1997|
+	TG=|19166|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|1|
+}
+Lives of the Monster Dogs {
+	AE=|Kirsten Bakis|
+	AS=|IHG1|
+	YR=|1997|
+	TG=|19115|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|9|
+}
+Dream Thieves {
+	AE=|Steven Lee Climer|
+	AS=|IHG1|
+	YR=|1997|
+	TG=|19130|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|9|
+}
+Hungry Eyes {
+	AE=|Barry Hoffman|
+	AS=|IHG1|
+	YR=|1997|
+	TG=|19148|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|9|
+}
+Silk {
+	AE=|Caitlín R. Kiernan|
+	AS=|IHG1|
+	YR=|1998|
+	TG=|19323|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|1|
+}
+Dawn Song {
+	AE=|Michael Marano|
+	AS=|IHG1|
+	YR=|1998|
+	TG=|19331|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|1|
+}
+The Queen of Darkness {
+	AE=|Miguel Conner|
+	AS=|IHG1|
+	YR=|1998|
+	TG=|19299|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|9|
+}
+The Symbiotic Fascination {
+	AE=|Charlee Jacob|
+	AS=|IHG1|
+	YR=|1998|
+	TG=|19319|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|9|
+}
+Carmilla: The Return {
+	AE=|Kyle Marffin|
+	AS=|IHG1|
+	YR=|1998|
+	TG=|19332|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|9|
+}
+The Divinity Student {
+	AE=|Michael Cisco|
+	AS=|IHG1|
+	YR=|1999|
+	TG=|22205|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|1|
+}
+Dragonfly {
+	AE=|Fred Durbin|
+	AS=|IHG1|
+	YR=|1999|
+	TG=|22213|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|9|
+}
+Collectors {
+	AE=|Paul Griner|
+	AS=|IHG1|
+	YR=|1999|
+	TG=|22216|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|9|
+}
+King Rat {
+	AE=|China Miéville|
+	AS=|IHG1|
+	YR=|1999|
+	TG=|22232|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|9|
+}
+Wither {
+	AE=|(John Passarella+Joe Gangemi)^J. G. Passarella|
+	AS=|IHG1|
+	YR=|1999|
+	TG=|22240|
+	TA=|Best First Novel|
+	TP=|n|
+	LV=|9|
+}
+Black Sun {
+	AE=|Douglas E. Winter|
+	AS=|IHGLF|
+	YR=|1994|
+	TG=|13542|
+	TA=|Best Long Form|
+	TP=|sf|
+	LV=|1|
+}
+The Bars on Satan's Jailhouse {
+	AE=|Norman Partridge|
+	AS=|IHGLF|
+	YR=|1995|
+	TG=|9063|
+	TA=|Best Long Form|
+	TP=|sf|
+	LV=|1|
+}
+Brimstone and Salt {
+	AE=|S. P. Somtow|
+	AS=|IHGLF|
+	YR=|1996|
+	TG=|15485|
+	TA=|Best Long Form|
+	TP=|sf|
+	LV=|1|
+}
+La Belle Dame Sans Merci {
+	AE=|David Niall Wilson+Brian A. Hopkins|
+	AS=|IHGLF|
+	YR=|1996|
+	TG=|17781|
+	TA=|Best Long Form|
+	TP=|sf|
+	LV=|2|
+}
+Liturgical Music for Nihilists {
+	AE=|Brian Hodge|
+	AS=|IHGLF|
+	YR=|1996|
+	TG=|17746|
+	TA=|Best Long Form|
+	TP=|sf|
+	LV=|9|
+}
+59 Frankenstein {
+	AE=|Norman Partridge|
+	AS=|IHGLF|
+	YR=|1996|
+	TG=|17760|
+	TA=|Best Long Form|
+	TP=|sf|
+	LV=|9|
+}
+Coppola's Dracula {
+	AE=|Kim Newman|
+	AS=|IHGLF|
+	YR=|1997|
+	TG=|19167|
+	TA=|Best Long Form|
+	TP=|nv|
+	LV=|1|
+}
+The Word {
+	AE=|Ramsey Campbell|
+	AS=|IHGLF|
+	YR=|1997|
+	TG=|19129|
+	TA=|Best Long Form|
+	TP=|sf|
+	LV=|9|
+}
+Everything's Eventual {
+	AE=|Stephen King|
+	AS=|IHGLF|
+	YR=|1997|
+	TG=|19153|
+	TA=|Best Long Form|
+	TP=|nv|
+	LV=|9|
+}
+Recovery {
+	AE=|Tom Piccirilli|
+	AS=|IHGLF|
+	YR=|1997|
+	TG=|19169|
+	TA=|Best Long Form|
+	TP=|sf|
+	LV=|9|
+}
+Mr. Clubb and Mr. Cuff {
+	AE=|Peter Straub|
+	AS=|IHGLF|
+	YR=|1998|
+	TG=|19362|
+	TA=|Best Long Form|
+	TP=|nv|
+	LV=|1|
+}
+Blackburn Bakes Cookies {
+	AE=|Bradley Denton|
+	AS=|IHGLF|
+	YR=|1998|
+	TG=|19304|
+	TA=|Best Long Form|
+	TP=|sf|
+	LV=|9|
+}
+The Sweet of Bitter Bark and Burning Clove {
+	AE=|Doris Egan|
+	AS=|IHGLF|
+	YR=|1998|
+	TG=|19306|
+	TA=|Best Long Form|
+	TP=|sf|
+	LV=|9|
+}
+As Above, So Below {
+	AE=|Brian Hodge|
+	AS=|IHGLF|
+	YR=|1998|
+	TG=|19316|
+	TA=|Best Long Form|
+	TP=|sf|
+	LV=|9|
+}
+What Would You Do for Love {
+	AE=|John Shirley|
+	AS=|IHGLF|
+	YR=|1998|
+	TG=|19354|
+	TA=|Best Long Form|
+	TP=|sf|
+	LV=|9|
+}
+Crocodile Rock {
+	AE=|Lucius Shepard|
+	AS=|IHGLF|
+	YR=|1999|
+	TG=|22248|
+	TA=|Best Long Form|
+	TP=|nv|
+	LV=|1|
+}
+The Executioners' Guild {
+	AE=|Andy Duncan|
+	AS=|IHGLF|
+	YR=|1999|
+	TG=|22212|
+	TA=|Best Long Form|
+	TP=|nv|
+	LV=|9|
+}
+Leningrad Nights {
+	AE=|Graham Joyce|
+	AS=|IHGLF|
+	YR=|1999|
+	TG=|22224|
+	TA=|Best Long Form|
+	TP=|nv|
+	LV=|9|
+}
+White {
+	AE=|Tim Lebbon|
+	AS=|IHGLF|
+	YR=|1999|
+	TG=|22229|
+	TA=|Best Long Form|
+	TP=|nv|
+	LV=|9|
+}
+Andy Warhol's Dracula {
+	AE=|Kim Newman|
+	AS=|IHGLF|
+	YR=|1999|
+	TG=|22236|
+	TA=|Best Long Form|
+	TP=|nv|
+	LV=|9|
+}
+The Safety of Unknown Cities {
+	AE=|Lucy Taylor|
+	AS=|IHGSS|
+	YR=|1994|
+	TG=|11845|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Loop {
+	AE=|Douglas E. Winter|
+	AS=|IHGSS|
+	YR=|1995|
+	TG=|13547|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Underbed {
+	AE=|Graham Masterton|
+	AS=|IHGSS|
+	YR=|1996|
+	TG=|15470|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Metlaika {
+	AE=|P. D. Cacek|
+	AS=|IHGSS|
+	YR=|1996|
+	TG=|17732|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Dead Art {
+	AE=|Brian A. Hopkins|
+	AS=|IHGSS|
+	YR=|1996|
+	TG=|17748|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|2|
+}
+Wormwood {
+	AE=|Poppy Z. Brite|
+	AS=|IHGSS|
+	YR=|1996|
+	TG=|17731|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Crank & Deceit {
+	AE=|Del James|
+	AS=|IHGSS|
+	YR=|1996|
+	TG=|17750|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Skin Writers {
+	AE=|Robert Levy|
+	AS=|IHGSS|
+	YR=|1996|
+	TG=|17757|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Lily's Whisper {
+	AE=|Jay Russell|
+	AS=|IHGSS|
+	YR=|1996|
+	TG=|17766|
+	TA=|Best Short Story|
+	TP=|nt|
+	LV=|9|
+}
+Surf City {
+	AE=|Robert Schadt|
+	AS=|IHGSS|
+	YR=|1996|
+	TG=|17768|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Cram {
+	AE=|John Shirley|
+	AS=|IHGSS|
+	YR=|1997|
+	TG=|19172|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Dust Motes {
+	AE=|P. D. Cacek|
+	AS=|IHGSS|
+	YR=|1997|
+	TG=|19126|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Get a Grip {
+	AE=|Paul Park|
+	AS=|IHGSS|
+	YR=|1997|
+	TG=|19168|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|9|
+}
+The Night Out {
+	AE=|Terry M. West|
+	AS=|IHGSS|
+	YR=|1997|
+	TG=|19181|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Dead Blue {
+	AE=|Lucy Taylor|
+	AS=|IHGSS|
+	YR=|1998|
+	TG=|19365|
+	TA=|Best Short Form|
+	TP=|ss|
+	LV=|1|
+}
+Inside the Cackle Factory {
+	AE=|Dennis Etchison|
+	AS=|IHGSS|
+	YR=|1998|
+	TG=|19309|
+	TA=|Best Short Form|
+	TP=|nt|
+	LV=|9|
+}
+Four of a Kind {
+	AE=|Bryn Kanar|
+	AS=|IHGSS|
+	YR=|1998|
+	TG=|19322|
+	TA=|Best Short Form|
+	TP=|ss|
+	LV=|9|
+}
+Blackbirds {
+	AE=|Norman Partridge|
+	AS=|IHGSS|
+	YR=|1998|
+	TG=|19344|
+	TA=|Best Short Form|
+	TP=|ss|
+	LV=|9|
+}
+Lighting the Corpses {
+	AE=|Del Stone, Jr.|
+	AS=|IHGSS|
+	YR=|1998|
+	TG=|19360|
+	TA=|Best Short Form|
+	TP=|ss|
+	LV=|9|
+}
+The Emperor's Old Bones {
+	AE=|Gemma Files|
+	AS=|IHGSS|
+	YR=|1999|
+	TG=|22215|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|1|
+}
+Impakto {
+	AE=|Richard Calder|
+	AS=|IHGSS|
+	YR=|1999|
+	TG=|22198|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Amerikanski Dead at the Moscow Morgue {
+	AE=|Kim Newman|
+	AS=|IHGSS|
+	YR=|1999|
+	TG=|22235|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|9|
+}
+What You Make It {
+	AE=|Michael Marshall Smith|
+	AS=|IHGSS|
+	YR=|1999|
+	TG=|22250|
+	TA=|Best Short Story|
+	TP=|nt|
+	LV=|9|
+}
+Halloween Street {
+	AE=|Steve Rasnic Tem|
+	AS=|IHGSS|
+	YR=|1999|
+	TG=|22253|
+	TA=|Best Short Story|
+	TP=|ss|
+	LV=|9|
+}
+Angels and Visitations: A Miscellany {
+	AE=|Neil Gaiman|
+	AS=|IHGC|
+	YR=|1994|
+	TG=|4805|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Cages {
+	AE=|Ed Gorman|
+	AS=|IHGC|
+	YR=|1995|
+	TG=|5235|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Conference with the Dead {
+	AE=|Terry Lamsley|
+	AS=|IHGC|
+	YR=|1996|
+	TG=|15463|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+The Pavilion of Frozen Women {
+	AE=|S. P. Somtow|
+	AS=|IHGC|
+	YR=|1996|
+	TG=|17770|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|2|
+}
+Love in Vein {
+	AE=|Poppy Z. Brite|
+	AS=|IHGC|
+	YR=|1996|
+	TG=|17730|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Bad Intentions {
+	AE=|Norman Partridge|
+	AS=|IHGC|
+	YR=|1996|
+	TG=|17761|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Throne of Bones {
+	AE=|Brian McNaughton|
+	AS=|IHGC|
+	YR=|1997|
+	TG=|19164|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Things Left Behind {
+	AE=|Gary A. Braunbeck|
+	AS=|IHGC|
+	YR=|1997|
+	TG=|19121|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Distorture {
+	AE=|Rob Hardin|
+	AS=|IHGC|
+	YR=|1997|
+	TG=|19144|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Evenings with Demons {
+	AE=|Whitley Strieber|
+	AS=|IHGC|
+	YR=|1997|
+	TG=|19174|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Exorcisms and Ecstasies {
+	AE=|Karl Edward Wagner|
+	AS=|IHGC|
+	YR=|1997|
+	TG=|19177|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Black Butterflies: A Flock on the Dark Side {
+	AE=|John Shirley|
+	AS=|IHGC|
+	YR=|1998|
+	TG=|19353|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Falling Idols {
+	AE=|Brian Hodge|
+	AS=|IHGC|
+	YR=|1998|
+	TG=|19317|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Extremities {
+	AE=|Kathe Koja|
+	AS=|IHGC|
+	YR=|1998|
+	TG=|19324|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Collector of Hearts: New Tales of the Grotesque {
+	AE=|Joyce Carol Oates|
+	AS=|IHGC|
+	YR=|1998|
+	TG=|19341|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Crypt Orchids {
+	AE=|David J. Schow|
+	AS=|IHGC|
+	YR=|1998|
+	TG=|19352|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+The Nightmare Chronicles {
+	AE=|Douglas Clegg|
+	AS=|IHGC|
+	YR=|1999|
+	TG=|22206|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|1|
+}
+Brotherly Love and Other Tales of Faith and Knowledge {
+	AE=|David Case|
+	AS=|IHGC|
+	YR=|1999|
+	TG=|22201|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+My Private Spectres {
+	AE=|Jean Ray|
+	AS=|IHGC|
+	YR=|1999|
+	TG=|22244|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Waltzes and Whispers {
+	AE=|Jay Russell|
+	AS=|IHGC|
+	YR=|1999|
+	TG=|22246|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+What You Make It {
+	AE=|Michael Marshall Smith|
+	AS=|IHGC|
+	YR=|1999|
+	TG=|22251|
+	TA=|Best Collection|
+	TP=|c|
+	LV=|9|
+}
+Love in Vein {
+	AE=|Poppy Z. Brite+Martin H. Greenberg|
+	AS=|IHGA|
+	YR=|1994|
+	TG=|1711|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+Best New Horror 6 {
+	AE=|Stephen Jones|
+	AS=|IHGA|
+	YR=|1995|
+	TG=|6273|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+Darkside: Horror for the New Millennium {
+	AE=|John Pelan|
+	AS=|IHGA|
+	YR=|1996|
+	TG=|15477|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+Dark Terrors 2: The Gollancz Book of Horror {
+	AE=|Stephen Jones+David Sutton|
+	AS=|IHGA|
+	YR=|1996|
+	TG=|17751|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|2|
+}
+The Sandman: Book of Dreams {
+	AE=|Neil Gaiman+Edward E. Kramer|
+	AS=|IHGA|
+	YR=|1996|
+	TG=|17743|
+	TA=|Best Anthology|
+	TP=|co|
+	LV=|9|
+}
+Hotter Blood 7^Hot Blood 7: Fear the Fever {
+	AE=|Michael Garrett+Jeff Gelb|
+	AS=|IHGA|
+	YR=|1996|
+	TG=|17722|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Noirotica {
+	AE=|Thomas S. Roche|
+	AS=|IHGA|
+	YR=|1996|
+	TG=|17723|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Vampires, Wine & Roses {
+	AE=|John Richard Stephens|
+	AS=|IHGA|
+	YR=|1996|
+	TG=|17724|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Revelations {
+	AE=|Douglas E. Winter|
+	AS=|IHGA|
+	YR=|1997|
+	TG=|19183|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+Dark of the Night {
+	AE=|Stephen Jones|
+	AS=|IHGA|
+	YR=|1997|
+	TG=|19151|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Gothic Ghosts {
+	AE=|Wendy Webb+Charles L. Grant|
+	AS=|IHGA|
+	YR=|1997|
+	TG=|19180|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Dark Terrors 4 {
+	AE=|Stephen Jones+David Sutton|
+	AS=|IHGA|
+	YR=|1998|
+	TG=|19320|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+The Best of Cemetery Dance {
+	AE=|Richard Chizmar|
+	AS=|IHGA|
+	YR=|1998|
+	TG=|19295|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Imagination Fully Dilated {
+	AE=|Alan M. Clark+Elizabeth Engstrom|
+	AS=|IHGA|
+	YR=|1998|
+	TG=|19296|
+	TA=|Best Anthology|
+	TP=|ac|
+	LV=|9|
+}
+Sirens and Other Daemon Lovers {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|IHGA|
+	YR=|1998|
+	TG=|19301|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Crow: Shattered Lives and Broken Dreams {
+	AE=|James O'Barr+Ed Kramer|
+	AS=|IHGA|
+	YR=|1998|
+	TG=|19340|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Subterranean Gallery {
+	AE=|Richard Chizmar+William Schafer|
+	AS=|IHGA|
+	YR=|1999|
+	TG=|22204|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|1|
+}
+The Year's Best Fantasy and Horror: Twelfth Annual Collection {
+	AE=|Ellen Datlow+Terri Windling|
+	AS=|IHGA|
+	YR=|1999|
+	TG=|22209|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+Northern Frights 5 {
+	AE=|Don Hutchison|
+	AS=|IHGA|
+	YR=|1999|
+	TG=|22218|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+The Mammoth Book of Best New Horror, vol. 10 {
+	AE=|Stephen Jones|
+	AS=|IHGA|
+	YR=|1999|
+	TG=|22221|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+White of the Moon: New Tales of Madness and Dread {
+	AE=|Stephen Jones|
+	AS=|IHGA|
+	YR=|1999|
+	TG=|22222|
+	TA=|Best Anthology|
+	TP=|a|
+	LV=|9|
+}
+St. James Guide to Horror, Ghost & Gothic Writers {
+	AE=|David Pringle|
+	AS=|IHGR|
+	YR=|1998|
+	TG=|19346|
+	TA=|Best Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+Gothic Horror: A Reader's Guide from Poe to King and Beyond {
+	AE=|Clive Bloom|
+	AS=|IHGR|
+	YR=|1998|
+	TG=|19293|
+	TA=|Best Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+A Writer's Tale {
+	AE=|Richard Laymon|
+	AS=|IHGR|
+	YR=|1998|
+	TG=|19326|
+	TA=|Best Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Screams of Reason: Mad Science and Popular Culture {
+	AE=|David J. Skal|
+	AS=|IHGR|
+	YR=|1998|
+	TG=|19355|
+	TA=|Best Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Mondo Macabro: Weird and Wonderful Cinema Around the World {
+	AE=|Pete Tombs|
+	AS=|IHGR|
+	YR=|1998|
+	TG=|19367|
+	TA=|Best Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Fantasy and Horror: A Critical and Historical Guide to Literature, Illustration, Film, TV, Radio, and the Internet {
+	AE=|Neil Barron|
+	AS=|IHGR|
+	YR=|1999|
+	TG=|22193|
+	TA=|Best Non-Fiction|
+	TP=|nf|
+	LV=|1|
+}
+Gothic: Four Hundred Years of Excess, Horror, Evil and Ruin {
+	AE=|Richard Davenport-Hines|
+	AS=|IHGR|
+	YR=|1999|
+	TG=|22210|
+	TA=|Best Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+A Cthulhu Mythos: Bibliography and Concordance {
+	AE=|Chris Jarocha-Ernst|
+	AS=|IHGR|
+	YR=|1999|
+	TG=|22220|
+	TA=|Best Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Sixty Years of Arkham House {
+	AE=|S. T. Joshi|
+	AS=|IHGR|
+	YR=|1999|
+	TG=|22223|
+	TA=|Best Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Vincent Price: A Daughter's Biography {
+	AE=|Victoria Price|
+	AS=|IHGR|
+	YR=|1999|
+	TG=|22241|
+	TA=|Best Non-Fiction|
+	TP=|nf|
+	LV=|9|
+}
+Jonah Hex: Two Gun Mojo {
+	AE=|Joe R. Lansdale+Tim Truman|
+	AS=|IHGGN|
+	YR=|1994|
+	TG=|7048|
+	TA=|Best Graphic Novel|
+	TP=|co|
+	LV=|1|
+}
+From Hell {
+	AE=|Alan Moore+Eddie Campbell|
+	AS=|IHGGN|
+	YR=|1995|
+	TG=|8507|
+	TA=|Best Graphic Novel|
+	TP=|co|
+	LV=|1|
+}
+Hellboy: Wake the Devil {
+	AE=|Mike Mignola|
+	AS=|IHGGN|
+	YR=|1996|
+	TG=|17759|
+	TA=|Best Graphic Story|
+	TP=|co|
+	LV=|1|
+}
+Preacher: Gone to Texas {
+	AE=|??? Ennis+??? Dillon|
+	AS=|IHGGN|
+	YR=|1996|
+	TG=|17741|
+	TA=|Best Graphic Story|
+	TP=|co|
+	LV=|9|
+}
+Superman Returns {
+	AE=|??? Jurgens|
+	AS=|IHGGN|
+	YR=|1996|
+	TG=|17752|
+	TA=|Best Graphic Story|
+	TP=|co|
+	LV=|9|
+}
+Atomic Chili: The Illustrated Joe Lansdale {
+	AE=|Joe R. Lansdale|
+	AS=|IHGGN|
+	YR=|1996|
+	TG=|17756|
+	TA=|Best Graphic Story|
+	TP=|co|
+	LV=|9|
+}
+Starman: Sins of the Fathers {
+	AE=|??? Robinson+???,von Growbager,??? Harris|
+	AS=|IHGGN|
+	YR=|1996|
+	TG=|17764|
+	TA=|Best Graphic Story|
+	TP=|co|
+	LV=|9|
+}
+Preacher: Proud Americans {
+	AE=|Garth Ennis+Steve Dillon|
+	AS=|IHGGN|
+	YR=|1997|
+	TG=|19137|
+	TA=|Best Graphic Story|
+	TP=|co|
+	LV=|1|
+}
+Black Hole {
+	AE=|Charles Burns|
+	AS=|IHGGN|
+	YR=|1997|
+	TG=|19124|
+	TA=|Best Graphic Story|
+	TP=|co|
+	LV=|9|
+}
+Essential Swamp Things {
+	AE=|Jennifer Lee|
+	AS=|IHGGN|
+	YR=|1997|
+	TG=|19155|
+	TA=|Best Graphic Story|
+	TP=|co|
+	LV=|9|
+}
+Transmetropolitan: Back on the Street {
+	AE=|Warren Ellis+Darick Robertson|
+	AS=|IHGGN|
+	YR=|1998|
+	TG=|19635|
+	TA=|Best Graphic Story|
+	TP=|co|
+	LV=|1|
+}
+Night City #1 {
+	AE=|Mort Castle+Don Kramer+Mark Nelson+Jaewon|
+	AS=|IHGGN|
+	YR=|1998|
+	TG=|22202|
+	TA=|Best Graphic Story|
+	TP=|co|
+	LV=|9|
+}
+Preacher: Ancient History {
+	AE=|Garth Ennis+Richard Case|
+	AS=|IHGGN|
+	YR=|1998|
+	TG=|22214|
+	TA=|Best Graphic Story|
+	TP=|co|
+	LV=|9|
+}
+Cages {
+	AE=|Dave McKean|
+	AS=|IHGGN|
+	YR=|1998|
+	TG=|22230|
+	TA=|Best Graphic Story|
+	TP=|co|
+	LV=|9|
+}
+Blood for the Muse: Agony, Ecstasy, Tragedy {
+	AE=|Terry M. West+Stew Noak+Glenn Chadbourne+Ryan Dunleavy|
+	AS=|IHGGN|
+	YR=|1998|
+	TG=|22259|
+	TA=|Best Graphic Story|
+	TP=|co|
+	LV=|9|
+}
+Flinch #1-7 {
+	AE=|Axel Alonso+Joan Hilty|
+	AS=|IHGGN|
+	YR=|1999|
+	TG=|22191|
+	TA=|Best Graphic Novel|
+	TP=|co|
+	LV=|1|
+}
+Torso #1 - 4 {
+	AE=|Brian Michael Bendis+Marc Andreyko|
+	AS=|IHGGN|
+	YR=|1999|
+	TG=|22194|
+	TA=|Best Graphic Novel|
+	TP=|co|
+	LV=|9|
+}
+Lenore #5 - 6 {
+	AE=|Roman Dirge|
+	AS=|IHGGN|
+	YR=|1999|
+	TG=|22211|
+	TA=|Best Graphic Novel|
+	TP=|co|
+	LV=|9|
+}
+Faust: Red Range {
+	AE=|Joe R. Lansdale+Sam Glanzman|
+	AS=|IHGGN|
+	YR=|1999|
+	TG=|22228|
+	TA=|Best Graphic Novel|
+	TP=|co|
+	LV=|9|
+}
+Faust: The Book of M #1 - 3 {
+	AE=|David Quinn+Tim Vigil|
+	AS=|IHGGN|
+	YR=|1999|
+	TG=|22243|
+	TA=|Best Graphic Novel|
+	TP=|co|
+	LV=|9|
+}
+untitled {
+	AE=|Alan M. Clark|
+	AS=|IHGAR|
+	YR=|1994|
+	TG=|2772|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|J. K. Potter|
+	AS=|IHGAR|
+	YR=|1995|
+	TG=|9348|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Timothy Bradstreet|
+	AS=|IHGAR|
+	YR=|1996|
+	TG=|15442|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Alan M. Clark|
+	AS=|IHGAR|
+	YR=|1996|
+	TG=|17735|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|2|
+}
+untitled {
+	AE=|Joe Devito|
+	AS=|IHGAR|
+	YR=|1996|
+	TG=|17736|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Dave Dorman|
+	AS=|IHGAR|
+	YR=|1996|
+	TG=|17737|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Bob Eggleton|
+	AS=|IHGAR|
+	YR=|1996|
+	TG=|17739|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Frank Forte|
+	AS=|IHGAR|
+	YR=|1996|
+	TG=|17742|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|R. H. Phister|
+	AS=|IHGAR|
+	YR=|1996|
+	TG=|17762|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Chad Savage|
+	AS=|IHGAR|
+	YR=|1996|
+	TG=|17767|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Michael Whelan|
+	AS=|IHGAR|
+	YR=|1996|
+	TG=|17778|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Stephen R. Bissette|
+	AS=|IHGAR|
+	YR=|1997|
+	TG=|19120|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Edward Gorey|
+	AS=|IHGAR|
+	YR=|1998|
+	TG=|19313|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Dave McKean|
+	AS=|IHGAR|
+	YR=|1998|
+	TG=|19336|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Lisa Snellings|
+	AS=|IHGAR|
+	YR=|1998|
+	TG=|19356|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Douglas Walters|
+	AS=|IHGAR|
+	YR=|1998|
+	TG=|19372|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Gahan Wilson|
+	AS=|IHGAR|
+	YR=|1998|
+	TG=|19376|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Charles Burns|
+	AS=|IHGAR|
+	YR=|1999|
+	TG=|22197|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|1|
+}
+untitled {
+	AE=|Sue Coe|
+	AS=|IHGAR|
+	YR=|1999|
+	TG=|22207|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Chad Savage|
+	AS=|IHGAR|
+	YR=|1999|
+	TG=|22247|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Douglas Walters|
+	AS=|IHGAR|
+	YR=|1999|
+	TG=|22258|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+untitled {
+	AE=|Kent Williams|
+	AS=|IHGAR|
+	YR=|1999|
+	TG=|22261|
+	TA=|Best Artist|
+	TP=|ar|
+	LV=|9|
+}
+Interview with the Vampire {
+	AE=|Anne Rice|
+	MV=|Interview with the Vampire (1994)|
+	AS=|IHGF|
+	YR=|1994|
+	TG=|9693|
+	TA=|Best Film|
+	TP=|f|
+	LV=|1|
+}
+The Lord of Illusions {
+	AE=|Clive Barker|
+	MV=|Lord of Illusions (1995)|
+	AS=|IHGF|
+	YR=|1995|
+	TG=|815|
+	TA=|Best Film|
+	TP=|f|
+	LV=|1|
+}
+Scream {
+	AE=|Kevin Williamson|
+	MV=|Scream (1996)|
+	AS=|IHGF|
+	YR=|1996|
+	TG=|17779|
+	TA=|Best Film|
+	TP=|f|
+	LV=|1|
+}
+The Frighteners {
+	AE=|Peter Jackson+Frances Walsh|
+	MV=|Frighteners, The (1996)|
+	AS=|IHGF|
+	YR=|1996|
+	TG=|17749|
+	TA=|Best Film|
+	TP=|f|
+	LV=|2|
+}
+Crow II: City of Angels^The Crow: City of Angels^The Crow II {
+	AE=|David S. Goyer+James O'Barr|
+	MV=|Crow: City of Angels, The (1996)|
+	AS=|IHGF|
+	YR=|1996|
+	TG=|17744|
+	TA=|Best Film|
+	TP=|f|
+	LV=|9|
+}
+From Dusk Till Dawn {
+	AE=|Robert Kurtzman+Quentin Tarantino|
+	MV=|From Dusk Till Dawn (1996)|
+	AS=|IHGF|
+	YR=|1996|
+	TG=|17755|
+	TA=|Best Film|
+	TP=|f|
+	LV=|9|
+}
+Seven^Se7en {
+	AE=|Andrew Kevin Walker|
+	MV=|Se7en (1995)|
+	AS=|IHGF|
+	YR=|1996|
+	TG=|17777|
+	TA=|Best Film|
+	TP=|f|
+	LV=|9|
+}
+No Award {
+	AE=|(********)|
+	AS=|IHGF|
+	YR=|1997|
+	TG=|19109|
+	TA=|Best Film|
+	TP=|x|
+	LV=|1|
+}
+Gods and Monsters {
+	AE=|Bill Condon+Christopher Bram|
+	MV=|Gods and Monsters (1998)|
+	AS=|IHGF|
+	YR=|1998|
+	TG=|19634|
+	TA=|Best Film|
+	TP=|sc|
+	LV=|1|
+}
+Apt Pupil {
+	AE=|Brandon Boyce+Stephen King|
+	MV=|Apt Pupil (1998)|
+	AS=|IHGF|
+	YR=|1998|
+	TG=|22196|
+	TA=|Best Film|
+	TP=|f|
+	LV=|9|
+}
+John Carpenter's Vampires {
+	AE=|Don Jakoby+John Steakley+Dan Mazur|
+	MV=|Vampires (1998)|
+	AS=|IHGF|
+	YR=|1998|
+	TG=|22219|
+	TA=|Best Film|
+	TP=|f|
+	LV=|9|
+}
+Fallen {
+	AE=|Nicholas Kazan|
+	MV=|Fallen (1998)|
+	AS=|IHGF|
+	YR=|1998|
+	TG=|22225|
+	TA=|Best Film|
+	TP=|f|
+	LV=|9|
+}
+Dark City {
+	AE=|Alex Proyas+Lem Dobbs+David S. Goyer|
+	MV=|Dark City (1998)|
+	AS=|IHGF|
+	YR=|1998|
+	TG=|22242|
+	TA=|Best Film|
+	TP=|f|
+	LV=|9|
+}
+Stir of Echoes {
+	AE=|David Koepp+Richard Matheson|
+	MV=|Stir of Echoes (1999)|
+	AS=|IHGF|
+	YR=|1999|
+	TG=|22227|
+	TA=|Best Film|
+	TP=|f|
+	LV=|1|
+}
+The Talented Mr. Ripley {
+	AE=|Anthony Minghella+Patricia Highsmith|
+	MV=|Talented Mr. Ripley, The (1999)|
+	AS=|IHGF|
+	YR=|1999|
+	TG=|22231|
+	TA=|Best Film|
+	TP=|f|
+	LV=|9|
+}
+The Blair Witch Project {
+	AE=|Daniel Myrick+Eduardo Sanchez|
+	MV=|Blair Witch Project, The (1999)|
+	AS=|IHGF|
+	YR=|1999|
+	TG=|22233|
+	TA=|Best Film|
+	TP=|f|
+	LV=|9|
+}
+The Sixth Sense {
+	AE=|M. Night Shyamalan|
+	MV=|Sixth Sense, The (1999)|
+	AS=|IHGF|
+	YR=|1999|
+	TG=|22249|
+	TA=|Best Film|
+	TP=|f|
+	LV=|9|
+}
+Sleepy Hollow {
+	AE=|Kevin Yagher+Andrew Kevin Walker+Washington Irving|
+	MV=|Sleepy Hollow (1999)|
+	AS=|IHGF|
+	YR=|1999|
+	TG=|22262|
+	TA=|Best Film|
+	TP=|f|
+	LV=|9|
+}
+Buffy the Vampire Slayer {
+	AE=|Joss Whedon|
+	MV=|"Buffy the Vampire Slayer" (1997)|
+	AS=|IHGTV|
+	YR=|1998|
+	TG=|19636|
+	TA=|Best TV|
+	TP=|tvs|
+	LV=|1|
+}
+The X-Files {
+	AE=|Chris Carter|
+	MV=|"X Files, The" (1993) (TV)|
+	AS=|IHGTV|
+	YR=|1998|
+	TG=|22199|
+	TA=|Best TV|
+	TP=|tvs|
+	LV=|9|
+}
+Brimstone {
+	AE=|Unknown-TV-Series|
+	AS=|IHGTV|
+	YR=|1998|
+	TG=|22255|
+	TA=|Best TV|
+	TP=|tvs|
+	LV=|9|
+}
+Charmed {
+	AE=|Unknown-TV-Series|
+	MV=|"Charmed" (1998)|
+	AS=|IHGTV|
+	YR=|1998|
+	TG=|22256|
+	TA=|Best TV|
+	TP=|tvs|
+	LV=|9|
+}
+Millennium {
+	AE=|Unknown-TV-Series|
+	MV=|"Millennium" (1996)|
+	AS=|IHGTV|
+	YR=|1998|
+	TG=|22257|
+	TA=|Best TV|
+	TP=|tvs|
+	LV=|9|
+}
+The Storm of the Century {
+	AE=|Stephen King+Craig E. Baxley|
+	AS=|IHGTV|
+	YR=|1999|
+	TG=|22226|
+	TA=|Best TV|
+	TP=|tp|
+	LV=|1|
+}
+The X-Files {
+	AE=|Chris Carter|
+	MV=|"X Files, The" (1993) (TV)|
+	AS=|IHGTV|
+	YR=|1999|
+	TG=|22200|
+	TA=|Best TV|
+	TP=|tvs|
+	LV=|9|
+}
+Buffy the Vampire Slayer {
+	AE=|Joss Whedon|
+	MV=|"Buffy the Vampire Slayer" (1997)|
+	AS=|IHGTV|
+	YR=|1999|
+	TG=|22260|
+	TA=|Best TV|
+	TP=|tvs|
+	LV=|9|
+}
+Answer Me! {
+	AE=|Unknown-Mags|
+	AS=|IHGP|
+	YR=|1994|
+	TG=|12183|
+	TA=|Best Publication|
+	TP=|fz|
+	LV=|1|
+}
+Deathrealm {
+	AE=|Stephen Mark Rainey|
+	AS=|IHGP|
+	YR=|1995|
+	TG=|9507|
+	TA=|Best Publication|
+	TP=|sz|
+	LV=|1|
+}
+Cemetery Dance {
+	AE=|Richard Chizmar|
+	AS=|IHGP|
+	YR=|1996|
+	TG=|15446|
+	TA=|Best Publication|
+	TP=|mz|
+	LV=|1|
+}
+Wicked Mystic {
+	AE=|Unknown-Mags|
+	AS=|IHGP|
+	YR=|1996|
+	TG=|17776|
+	TA=|Best Publication|
+	TP=|sz|
+	LV=|2|
+}
+Necrofile {
+	AE=|Stefan R. Dziemianowicz+S. T. Joshi+Michael A. Morrison|
+	AS=|IHGP|
+	YR=|1996|
+	TG=|17738|
+	TA=|Best Publication|
+	TP=|fz|
+	LV=|9|
+}
+Gauntlet {
+	AE=|Barry Hoffman|
+	AS=|IHGP|
+	YR=|1996|
+	TG=|17747|
+	TA=|Best Publication|
+	TP=|fz|
+	LV=|9|
+}
+Palace Corbie {
+	AE=|Unknown-Mags|
+	AS=|IHGP|
+	YR=|1996|
+	TG=|17774|
+	TA=|Best Publication|
+	TP=|fz|
+	LV=|9|
+}
+Propaganda {
+	AE=|Unknown-Mags|
+	AS=|IHGP|
+	YR=|1996|
+	TG=|17775|
+	TA=|Best Publication|
+	TP=|fz|
+	LV=|9|
+}
+Necrofile {
+	AE=|Stefan R. Dziemianowicz+S. T. Joshi+Michael A. Morrison|
+	AS=|IHGP|
+	YR=|1997|
+	TG=|19136|
+	TA=|Best Publication|
+	TP=|fz|
+	LV=|1|
+}
+Hellnotes {
+	AE=|David B. Silva+Paul F. Olson|
+	AS=|IHGP|
+	YR=|1998|
+	TG=|19369|
+	TA=|Best Publication|
+	TP=|sz|
+	LV=|1|
+}
+DarkEcho {
+	AE=|Paula Guran|
+	AS=|IHGP|
+	YR=|1998|
+	TG=|19315|
+	TA=|Best Publication|
+	TP=|sz|
+	LV=|9|
+}
+Carpe Noctem {
+	AE=|Unknown-Mags|
+	AS=|IHGP|
+	YR=|1998|
+	TG=|19368|
+	TA=|Best Publication|
+	TP=|sz|
+	LV=|9|
+}
+Talebones {
+	AE=|Unknown-Mags|
+	AS=|IHGP|
+	YR=|1998|
+	TG=|19370|
+	TA=|Best Publication|
+	TP=|sz|
+	LV=|9|
+}
+The Urbanite {
+	AE=|Unknown-Mags|
+	AS=|IHGP|
+	YR=|1998|
+	TG=|19371|
+	TA=|Best Publication|
+	TP=|sz|
+	LV=|9|
+}
+DarkEcho {
+	AE=|Paula Guran|
+	AS=|IHGP|
+	YR=|1999|
+	TG=|22217|
+	TA=|Best Publication|
+	TP=|sz|
+	LV=|1|
+}
+Grue {
+	AE=|Peggy Nadramia|
+	AS=|IHGP|
+	YR=|1999|
+	TG=|22234|
+	TA=|Best Publication|
+	TP=|fz|
+	LV=|9|
+}
+Ghosts and Scholars {
+	AE=|Rosemary Pardoe|
+	AS=|IHGP|
+	YR=|1999|
+	TG=|22239|
+	TA=|Best Publication|
+	TP=|fz|
+	LV=|9|
+}
+All Hallows {
+	AE=|Barbara Roden+Christopher Roden|
+	AS=|IHGP|
+	YR=|1999|
+	TG=|22245|
+	TA=|Best Publication|
+	TP=|fz|
+	LV=|9|
+}
+Enigmatic Tales {
+	AE=|Unknown-Mags|
+	AS=|IHGP|
+	YR=|1999|
+	TG=|22254|
+	TA=|Best Publication|
+	TP=|fz|
+	LV=|9|
+}
+untitled {
+	AE=|Harlan Ellison|
+	AS=|IHGLL|
+	YR=|1994|
+	TG=|4130|
+	TA=|Living Legend Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Clive Barker|
+	AS=|IHGLL|
+	YR=|1995|
+	TG=|795|
+	TA=|Living Legend Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Edward Bryant|
+	AS=|IHGLL|
+	YR=|1996|
+	TG=|15443|
+	TA=|Living Legend Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Anne Rice|
+	AS=|IHGLL|
+	YR=|1996|
+	TG=|17763|
+	TA=|Living Legend Award|
+	TP=|hu|
+	LV=|2|
+}
+untitled {
+	AE=|Clive Barker|
+	AS=|IHGLL|
+	YR=|1996|
+	TG=|17725|
+	TA=|Living Legend Award|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Ray Bradbury|
+	AS=|IHGLL|
+	YR=|1996|
+	TG=|17727|
+	TA=|Living Legend Award|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Ronald Chetwynd-Hayes|
+	AS=|IHGLL|
+	YR=|1996|
+	TG=|17734|
+	TA=|Living Legend Award|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Robert Englund|
+	AS=|IHGLL|
+	YR=|1996|
+	TG=|17740|
+	TA=|Living Legend Award|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Stephen King|
+	AS=|IHGLL|
+	YR=|1996|
+	TG=|17753|
+	TA=|Living Legend Award|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Richard Matheson|
+	AS=|IHGLL|
+	YR=|1996|
+	TG=|17758|
+	TA=|Living Legend Award|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Colin Wilson|
+	AS=|IHGLL|
+	YR=|1996|
+	TG=|17780|
+	TA=|Living Legend Award|
+	TP=|hu|
+	LV=|9|
+}
+untitled {
+	AE=|Hugh B. Cave|
+	AS=|IHGLL|
+	YR=|1997|
+	TG=|22203|
+	TA=|Living Legend Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Richard Matheson|
+	AS=|IHGLL|
+	YR=|1999|
+	TG=|19908|
+	TA=|Living Legend Award|
+	TP=|hu|
+	LV=|1|
+}
+Work on behalf of the field {
+	AE=|Cheri Lynn "Tomi" Lewis|
+	AS=|IHGX|
+	YR=|1995|
+	TG=|7459|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+untitled {
+	AE=|Lou Stathis|
+	AS=|IHGX|
+	YR=|1996|
+	TG=|15487|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}
+Leisure Books - for their mass market Horror series {
+	AE=|Don D'Auria|
+	AS=|IHGX|
+	YR=|1999|
+	TG=|22208|
+	TA=|Special Award|
+	TP=|hu|
+	LV=|1|
+}

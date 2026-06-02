@@ -1,0 +1,550 @@
+<html>
+<head>
+<title>ISFDB FAQ: How is the ISFDB organized?</title>
+</head>
+<body bgcolor="#ffffff" text="#000000" >
+
+<h2><a name="3">How is the ISFDB organized?</a></h2>
+Just a couple of comments before we get rolling here. First off, it
+should be made clear that, from a computer science point-of-view,
+this isn't <i>really</i> a database - it's a collection of lists with some
+list-processing software; there's no rocket science going on here.
+That said, nothing precludes us from building a <i>real</i> database
+system. The problem at present is that no tools exist for data entry,
+or to conduct database merges. The file formats listed below reflect
+this fact, allowing for data entry via text editors in a format
+which minimizes errors.
+<p>
+The ISFDB can be broken down into several subcomponents: the raw database files,
+where data is entered; the database compilers, which compile the raw database files
+into a format usable by the database engine; the compiled database files; and the
+executable binaries that make up the ISFDB engine.
+
+<h2><a name="3A">Raw Database Files</a></h2>
+The raw database files are located in the <i>dbase.ascii</i> directory, and
+come in four flavors: <i>titles</i>, <i>authors</i>, <i>publications</i>, 
+and <i>awards</i>. The various database files all use the same basic format 
+for an entry:
+<pre>
+    object_name {
+        attributes
+    }
+</pre>
+Where an attribute constists of a two-letter attribute code name followed by
+an assigned attribute value:
+<pre>
+    AC=|Attribute Value|
+</pre>
+An actual example of a short fiction title entry:
+<pre>
+  Even the Queen {
+    AE=|Connie Willis|
+    YR=|1992|
+    SL=|ss|
+    PB=|ASFAPR92,TYBSF10,NEAW1994A,NEAW1994B|
+  }
+</pre>
+Each object can have an arbitrary number of attributes, but the database
+engine only recognizes a predefined set of attributes. Unrecognized attribute
+types are ignored. The recognized two-letter attribute codes recognized by
+each database file type are:
+
+<h3><a name="3A1">Title Entries</a></h3>
+  There are currently nine database files that
+  use the title format: <i>NOVELS</i>, <i>SHORTFICTION</i>, <i>COLLECTIONS</i>,
+  <i>ANTHOLOGIES</i>, <i>NONFICTION</i>, <i>NONGENRE</i>, <i>POEMS</i>, 
+  <i>ARTWORK</i>, and <i>ESSAYS</i>. The recognized attribute codes for the title 
+  format are:
+<p>
+<ol>
+<li>AE = Author/Editor
+<li>YR = Year of first publication, or copyright date; whichever is more accurate.
+<li>SL = Story length. Originally intended to categorize short fiction titles, this
+	 field is now overloaded in other files as well. Since the field goes unused
+	 in the other files, it's an easy way to add some functionality without extending
+	 the database format. The various forms of use are:
+	 <ol>
+	   <li>SHORTFICTION - This field allows the contents of a magazine to be
+	   output in a manner similar to a magazine table of contents page.  The 
+	   attribute value should be one of: <i>nv</i> (novella), <i>nt</i> (novelette), 
+	   or <i>ss</i> (short story). 
+	   <li> ANTHOLOGIES, COLLECTIONS, NONGENRE, NOVELS - The field can be 
+	   utilized to indicate novelizations, which are tagged via <i>nvz</i>,
+	   and to indicate juveniles via <i>jvn</i>.
+	   <li> OMNIBUS - The field can be used to summarize the type of contents.
+	   <i>/2N</i> indicates that the omnibus contains 2 novels, while <i>/2C</i>
+	   indicates that it contains 2 collections.
+	   <li> SERIALS - An attempt is made to summarize a novel's serialized publications
+	   below the novel. This is normally done by comparing the portion of the title
+	   prior to the last left parenthesis in the title of the serial to the title of the
+	   novel. However, Serials are often published under different titles than a later
+	   novel printing. For this reason, the SL field can be used in the serial entry
+	   to indicate what the title of the later novel is.
+	</ol>
+<li>PB = Publication list. Consists of a list of comma-separated publication
+	 tags. These tags should be entered in chronological order. Publication
+	 tags are explained below under the publication entry section.
+</ol>
+<p>
+
+<h3><a name="3A2">Author Entries</a></h3>
+  There is one database file that uses the
+  author format: <i>AUTHORS</i>. The object name for this format is the
+  accepted working name of the author. The recognized attribute codes for 
+  the author format are:
+<p>
+<ol>
+<li>LN = Legal Name of the author. Should be in Lastname, Firstname format.
+<li>BP = Birthplace. Also used to denote change in citizenship, i.e.:
+	 BP=|USSR;USA|. 
+<li>BD = Year of Birth Date.
+<li>DD = Year of Date Date.
+<li>PS = List of known pseudonyms. By convention, each pseudonym is separated
+	 by a semicolon.
+<li>NT = Biographical information.
+</ol>
+<p>
+  An example author entry:
+<pre>
+  Cordwainer Smith {
+    LN=|Linebarger, Paul Myron Anthony|
+    BP=|USA|
+    BD=|1913|
+    DD=|1966|
+    PS=|Karloman Jungahr; Carmichael Smith|
+  }
+</pre>
+
+<h3><a name="3A3">Publication Entries</a></h3>
+  There are currently three database files 
+  that use the publication format: <i>BOOKS</i>, <i>ZINES</i>, and <i>ASIMOVS</i>.
+  Once a zine collects enough data, it should be broken out of the <i>ZINES</i>
+  file into a separate file for easy maintenance.  The object name is the 
+  published title as it appeared on the publication. The recognized attribute 
+  codes for the publication format are:
+<p>
+<ol>
+<li>AB = Abbreviation tag. This is a unique, short tag used to refer to the
+	 publication. Current convention for constructing the tag is to take
+	 the first letter of each word in the title, and append the year. If
+	 there are less than four words, then take four arbitrary but sensible
+	 letters from the title. If the tag still collides with a previously
+	 declared tag, append an "A", or "B", or whatever. The tags just need
+	 to be unique.
+<li>AE = Author/Editor.
+<li>YR = Year of Publication.
+<li>IS = ISBN.
+<li>PB = Publisher.
+<li>PP = Pages.
+<li>TP = Type. Should be one of <i>hc</i> (hardcover), <i>pb</i> (paperback),
+         <i>tp</i> (trade paperback).
+<li>CV = Cover Artist.
+<li>NT = Note. Can be used to indicate interesting data, such as limited editions,
+	 SFBC editions, or whatever.
+</ol>
+<p>
+  An example publication entry:
+<pre>
+  The Uplift War {
+      AB=|TUWA1987B|
+      YR=|1987|
+      PB=|Phantasia Press|
+      IS=|0-932-09644-1|
+      TP=|hc|
+      PR=|22.00|
+      PP=|506|
+      CV=|Wayne Barlowe|
+      NT=|Limited edition of 3475 signed copies|
+  }
+</pre>
+
+<h3><a name="3A4">Awards Entries</a></h3>
+  There are currently eight database files 
+  that use the awards format: <i>CAMPBELL</i>, <i>CLARKE</i>, <i>HUGOS</i>,
+  <i>LOCUS</i>, <i>NEBULAS</i>, <i>PKDICK</i>, <i>STOKER</i>, <i>AURORA</i>, and <i>WFA</i>.
+  The object name for the entry should be the title of the work nominated
+  for the award.  The recognized attribute codes for the awards format are:
+<p>
+<ol>
+<li>AE = Author/Editor.
+<li>YR = Year of award. Note that this is the year selected by the
+	 awards committee. It is not necessarily the year of publication,
+	 nor the year the award is given out. Check your local award
+	 listings.
+<li>TP = Type of award. This is the award category. Categories currently
+	 supported by the database engine are:
+<pre>
+	 <i>n</i>    [Novel]
+	 <i>lf</i>   [Long-Form Fiction]
+	 <i>nsf</i>  [Locus - Novel, Science Fiction]
+	 <i>nft</i>  [Locus - Novel, Fantasy]
+	 <i>nho</i>  [Locus - Novel, Dark Fantasy/Horror]
+	 <i>fn</i>   [First Novel]
+	 <i>nv</i>   [Novella]
+	 <i>nt</i>   [Novelette]
+	 <i>ss</i>   [Short Story]
+	 <i>sf</i>   [Short Fiction]
+	 <i>c</i>    [Collection]
+	 <i>a</i>    [Anthology]
+	 <i>om</i>   [Other Media]
+	 <i>nf</i>   [Non-Fiction]
+	 <i>ac</i>   [Anthology/Collection]
+	 <i>lfa</i>  [Lifetime Achievement]
+	 <i>lfac</i> [Lifetime Contribution]
+	 <i>at</i>   [Artist]
+	 <i>sn</i>   [Special Award (Non-Professional)]
+	 <i>sp</i>   [Special Award (Professional)]
+	 <i>dp</i>   [Dramatic Presentation]
+	 <i>ed</i>   [Professional Editor]
+	 <i>fz</i>   [Fanzine]
+	 <i>fw</i>   [Fan Writer]
+	 <i>fa</i>   [Fan Artist]
+	 <i>jc</i>   [John W. Campbell, Jr. Award (Best New Writer)]
+</pre>
+<li>LV = Level of award. The attribute value should be a single integer.
+    A level of "1" indicates an award win; a level of "2" indicates an
+    award nomination; "3" and above are used by the Locus Poll to indicate
+    the title's place on the poll. There is currently no notation for
+    Honorable Mention.
+</ol>
+<p>
+  An example awards entry from the LOCUS database:
+<pre>
+  Hyperion {
+      AE=|Dan Simmons|
+      YR=|1990|
+      TP=|nsf|
+      LV=|1|
+  }
+</pre>
+
+<h3><a name="3A6">Biographic Entries</a></h3>
+The biographic entries differ in style from the other database files. 
+The format is basically:
+<pre>
+    Author=|Biographic data|
+</pre>
+The data is completely free-form, with no restrictions other than it may 
+not contain the '|' character. There is currently a length restriction of 
+8192 bytes on this area, but we can always increase it.
+
+<h3><a name="3A5">Entry Conventions</a></h3>
+Special notations are available to indicate collaborations, variant titles,
+and pseudonyms.
+<ol>
+<li>Collaborations. The '+' operator can be used to signify a collaboration.
+For instance, the AE attribute for <i>Footfall</i> is:
+<pre>
+    AE=|Larry Niven+Jerry Pournelle|
+</pre>
+<li>Pseudonyms. The '^' operator can be used to signify a work 
+published under a pseudonym. 
+For instance, the AE attribute for <i>The Running Man</i>
+is:
+<pre>
+    AE=|Stephen King^Richard Bachman|
+</pre>
+<li>Complex Author Constructions. The '^' and '+' operators can be used
+with parenthesis to indicate more complex author situations. For instance,
+the joint pseudonym of Lewis Padgett, as used by C. L. Moore and Henry
+Kuttner, would be denoted as:
+<pre>
+    AE=|(C. L. Moore+Henry Kuttner)^Lewis Padgett|
+</pre>
+While the collaboration of a pseudonym with a nonpseudonym on 
+<i>Dark Conception</i> would be denoted as:
+<pre>
+    AE=|(Alexei Panshin^Louis J. A. Adams)+Joe L. Hensley|
+</pre>
+Self-collaborations, as on <i>Solo</i> would be denoted as:
+<pre>
+    AE=|Steve Perry+(Steve Perry^Jesse Peel)|
+</pre>
+<li>Variant Titles. Again, the '^' operator can be used to denote variant
+titles. Each title may have an unlimited number of variant titles. For 
+instance, the entry for Niven and Pournelle's <i>The Gripping Hand</i> is:
+<pre>
+    The Gripping Hand^The Moat Around Murcheson's Eye (UK)
+</pre>
+Variant titles are denoted in a bibliography as <i>[vt Variant Title]</i>.
+For instance, the bibliography for Ian McDonald shows:
+<pre>
+  Terminal Cafe
+    [vt Necroville (UK)] (1994)[<b>Lc1995 n</b>]
+</pre>
+<p>
+<li>Cover Artists. The CV attribute is used to designate the cover artists.
+Unlike the fiction data, the artwork entries are machine-generated from
+the CV data, so it needs to be in a specific format. The simpliest format
+is simply placing the artist's name in the attribute value area:
+<pre>
+    CV=|Michael Whelan|
+</pre>
+If the artwork was a magazine cover created for a specific work of fiction,
+the entry should be of the form CV=|<i>artist</i> <b>for</b> "<i>title</i>"|:
+<pre>
+    CV=|Wojtek Siudmak for "Forgiveness Day"|
+</pre>
+<hr>
+
+<h2><a name="3B">Database Compilers</a></h2>
+There are six database compilers, one for each database type:
+<i>cctitles</i>,
+<i>ccauthors</i>,
+<i>ccawards</i>,
+<i>ccpubs</i>,
+<i>ccinterv</i>, and
+<i>ccreviews</i>,
+The order in which the compilers are run is important, since some
+dependencies exist on certain database files. For this reason, the
+script <i>ccdbase</i> is provided which runs the compilers in the 
+correct order and places the output in the expected directories.
+<i>ccdbase</i> should be run be executing a <i>make dbase</i> command
+from the top-level Makefile.
+
+<ol>
+<li><a name="3B1">cctitles</a>.
+<i>cctitles</i> takes either a <i>-t</i> or <i>-y</i> option. The <i>-t</i>
+option creates the title database from those files mentioned above which
+use the title format. The output of entries is in the same order as they appear
+in the raw database files, indexed by title. The <i>ccdbase</i> script sorts 
+the title dbase before moving on to the next compile phase. This is 
+accomplished with the sort command <i>booksort</i>, which performs a book-oriented
+sort on the database by ignoring leading <i>A</i>'s, <i>An</i>'s, or <i>The</i>'s.
+<i>ccdbase</i> installs the final title database in <i>dbase.compiled/titles.dbase</i>.
+<p>
+The <i>-y</i> option creates an author-indexed version of the same database. This
+is used to speed the generation of a specific author's bibliography.
+<i>ccdbase</i> installs the author index in <i>dbase.compiled/titles.xba</i>.
+<p>
+<li><a name="3B2">ccauthors</a>.
+<i>ccauthors</i> compiles the author information into a file installed by
+<i>ccdbase</i> at <i>dbase.compiled/authors.dbase</i>.
+<p>
+<li><a name="3B3">ccpubs</a>.
+<i>ccpubs</i> takes either a <i>-a</i> or <i>-p</i> option. The <i>-a</i>
+option creates the ARTWORK database file from the CV attributes. The <i>-p</i>
+option compiles the publication information into a file installed by
+<i>ccdbase</i> at <i>dbase.compiled/pubs.dbase</i>.
+<p>
+<li><a name="3B4">ccawards</a>.
+<i>ccawards</i> takes either a <i>-t</i>, <i>-a</i>, or <i>-y</i> options.
+The <i>-t</i> option creates the awards database from those files mentioned above which
+use the awards format.  <i>ccdbase</i> installs the final awards database in 
+<i>dbase.compiled/awards.dbase</i>.
+<p>
+The <i>-y</i> option creates a year-indexed version of the same database. This
+is used to speed the generation of a specific award year listing.
+<i>ccdbase</i> installs the year index in <i>dbase.compiled/awards.xby</i>.
+<p>
+The <i>-a</i> option creates an author-indexed version of the same database. This
+is used to speed the generation of the authors bibliography.
+<i>ccdbase</i> installs the author index in <i>dbase.compiled/awards.xba</i>.
+<p>
+<li><a name="3B5">ccinterv</a>.
+<i>ccinterv</i> compiles interview information and auto-generates the file
+<i>TITLES.INTERV</i>. The first stream of output is used to construct the
+<i>interviews.dbase</i> file, which links interviews to authors and publications. The
+second stream is the <i>TITLES.INTERV</i> file, while links interviews to those
+conducting the interview.
+<p>
+<li><a name="3B6">ccreviews</a>.
+<i>ccreviews</i> compiles review information and auto-generates the file
+<i>TITLES.REVIEWS</i>. The first stream of output is used to construct the
+<i>reviews.dbase</i> file, which links reviews to authors/titles and publications. The
+second stream is the <i>TITLES.REVIEWS</i> file, while links reviews to those
+conducting the reviews.
+</ol>
+<hr>
+
+<h2><a name="3C">Compiled Database Files</a></h2>
+As described above, there is one database file for each of the
+four database types. Additionally, there are three cross-indexed
+files for improved performance. The format of these files is currently
+ascii-oriented, but may change to a binary format for efficiency as 
+the database grows in size. The internal data structures used by the
+database are not dependent on the format of these files, although the
+parsing routines are. Currently, the various formats of these files are:
+<ol>
+  <li><i><a name="3C1">titles.dbase</a></i>.
+  This file contains all of the titles in the database. Each entry
+  is separated from the next by a newline character, while each field
+  in an entry is separated by the <b>|</b> character. The format of
+  each entry (using two-letter codes) is:
+  <pre>
+  title|AE|YR|SE|PB|SL|<i>extension</i>
+  </pre>
+  Where <i>extension</i> is one of: 
+  <i>n</i> (Novel),
+  <i>a</i> (Anthology),
+  <i>c</i> (Collection),
+  <i>sf</i> (Short Fiction),
+  <i>nf</i> (Non Fiction),
+  <i>p</i> (Poem),
+  <i>ng</i> (Non Genre), or
+  <i>ar</i> (Artwork).
+  <i>se</i> (Serial).
+  <p>
+
+  <li><i><a name="3C2">titles.xba</a></i>.
+  This file contains a cross-index to <i>titles.dbase</i>. There is
+  one entry per unique author. Each entry consists of the author's list of
+  titles. To save space, each title is represented by a hexadecimal offset
+  to the entry's location in the <i>titles.dbase</i> file. The format of
+  each entry is:
+  <pre>
+  author|<i>offset_1</i>|<i>offset_2</i>|...|<i>offset_n</i>
+  </pre>
+  <p>
+  <li><i><a name="3C3">authors.dbase</a></i>.
+  This file contains all of the author data in the database. Each entry
+  is separated from the next by a newline character, while each field
+  in an entry is separated by the <b>|</b> character. The format of
+  each entry (using two-letter codes) is:
+  <pre>
+  author|LN|BP|BD|DD|PS|
+  </pre>
+  <p>
+  <li><i><a name="3C4">awards.dbase</a></i>.
+  This file contains all of the awards data in the database. Each entry
+  is separated from the next by a newline character, while each field
+  in an entry is separated by the <b>|</b> character. The format of
+  each entry (using two-letter codes) is:
+  <pre>
+  title|AE|YR|TP|LV|<i>extension</i>
+  </pre>
+  Where <i>extension</i> is one of: 
+  <i>Ca</i> (Campbell),
+  <i>Cl</i> (Clarke),
+  <i>Hu</i> (Hugo),
+  <i>Lc</i> (Locus),
+  <i>Ne</i> (Nebula),
+  <i>Pk</i> (P.K Dick),
+  <i>St</i> (Bram Stoker), or
+  <i>Wf</i> (WFA).
+  <p>
+  <li><i><a name="3C5">awards.xba</a></i>.
+  This file contains a cross-index to the <i>awards.dbase</i>. There is
+  one entry per unique author. Each entry consists of the author's list of
+  awards. To save space, each award is represented by a hexadecimal offset
+  to the entry's location in the <i>awards.dbase</i> file. The format of
+  each entry is:
+  <pre>
+  author|<i>offset_1</i>|<i>offset_2</i>|...|<i>offset_n</i>
+  </pre>
+  <p>
+  <li><i><a name="3C6">awards.xby</a></i>.
+  This file contains a cross-index to the <i>awards.dbase</i>. There is
+  one entry per unique year. Each entry consists of the year's list of
+  awards. To save space, each award is represented by a hexadecimal offset
+  to the entry's location in the <i>awards.dbase</i> file. The format of
+  each entry is:
+  <pre>
+  year|<i>offset_1</i>|<i>offset_2</i>|...|<i>offset_n</i>
+  </pre>
+  <p>
+  <li><i><a name="3C7">pubs.dbase</a></i>.
+  This file contains all of the publication data in the database. Each entry
+  is separated from the next by a newline character, while each field
+  in an entry is separated by the <b>|</b> character. The format of
+  each entry (using two-letter codes) is:
+  <pre>
+  AB|title|AE|YR|IS|PB|PR|PP|TP|CV|NT|
+  </pre>
+  </ol>
+
+
+<h2><a name="3D">Database Engine Binaries</a></h2>
+The ISFDB engine is actually divided into twelve separate binaries. The first
+set of binaries are used to accept input from a FORMS-based html page. These
+three binaries must be referenced with an http METHOD of POST:
+<ol>
+  <li><i><a name="3D1">search</a></i>. This binary is capable of performing
+  four different types of searches on the database: by author, by title, by
+  year, and by series. The <i>search</i> application uses two posted variables:
+  <i>arg</i>, and <i>type</i>. The <i>type</i> variable controls the search
+  type, and must be set to one of: <i>Name</i>, <i>Title</i>, <i>Series</i>, or
+  <i>Year</i>. There are no restrictions on the <i>arg</i> variable.
+  <p>
+  <li><i><a name="3D2">AwGen</a></i>.  This binary is capable of generating
+  an awards page for a specific year.  The <i>AwGen</i> application uses two 
+  posted variables: <i>year</i>, and <i>award</i>. The <i>award</i> variable
+  controls which award will be listed, and must be set to one of: <i>Hugo</i>, 
+  <i>Nebula</i>, <i>WFA</i>, <i>Campbell</i>, <i>Clarke</i>, <i>Locus Poll</i>,
+  <i>PK Dick</i>, or <i>Stoker</i>. There are no restrictions on the <i>year</i>
+  variable, although years in the later half of the twentieth century are 
+  suggested if you want some output.
+  <p>
+  <li><i><a name="3D3">submit</a></i>. This binary is used to submit new or
+  corrected bibliographic information to the database. The
+  data is placed in the appropriate file in the <i>dbase.input</i> directory. 
+  The <i>submit</i> application uses the following posted variables:
+  <i>TITLE</i>, <i>AUTHOR</i>, <i>DATE</i>, <i>SERIES</i>, and
+  <i>TYPE</i>. There are no lexical restrictions on the values of these 
+  variables, although the data will be tossed unless the following sensible
+  values for the <i>TYPE</i> variable are used: 
+  <i>Novel</i>, <i>Shortfiction</i>, <i>Nonfiction</i>, <i>Collection</i>,
+  <i>Anthology</i>, <i>Artwork</i>, <i>Nongenre</i>, <i>Serial</i>, or <i>Poem</i>.
+
+</ol>
+The remaining binaries use an http METHOD of GET:
+<ol>
+  <li><i><a name="3D4">exact_author</a></i>. This binary outputs an author's
+  Summary Bibliography. It takes a single argument, which is the accepted
+  author's name. Spaces in the name should be replaced with the <i>_</i>
+  character, and single quotes (as in O'Brien) should be backquoted.
+  <p>
+  <li><i><a name="3D4A">a_exact_author</a></i>. This binary outputs an author's
+  Summary Bibliography. It takes a single argument, which is the accepted
+  author's name. Spaces in the name should be replaced with the <i>_</i>
+  character, and single quotes (as in O'Brien) should be backquoted. Differs
+  from exact_author in that the bibliography is displayed in alphabetical
+  order.
+  <p>
+  <li><i><a name="3D5">pbiblio</a></i>.  This binary outputs an entire
+  publication bibliography. It takes a single argument, which is the accepted
+  author's name.  Spaces and single quotes should be handled as above.
+  <p>
+  <li><i><a name="3D6">cinfo</a></i>.  This binary outputs a correction
+  page.  It takes a single argument, which is the accepted
+  author's name.  Spaces and single quotes should be handled as above.
+  <p>
+  <li><i><a name="3D7">ninfo</a></i>.  This binary outputs a new data
+  page form.  It takes a single argument, which is the accepted
+  author's name.  Spaces and single quotes should be handled as above.
+  <p>
+  <li><i><a name="3D8">pwork</a></i>.  This binary outputs the publication
+  history for a specific work. It takes a single argument, which is
+  the hexadecimal offset to the title entry in the <i>titles.dbase</i>
+  file.
+  <p>
+  <li><i><a name="3D9">plist.cgi</a></i>. This binary outputs the content listing
+  of a specific publication. It takes a single argument, which is
+  the publication tag associated with the publication.
+  <p>
+  <li><i><a name="3D10">AwYear</a></i>. This binary outputs a single
+  awards page for a specific award. It takes a single argument, in
+  Award/Year format: A two-letter award code, followed by a four-digit
+  year. The two-letter codes are the same as the two-letter award extensions
+  used in the <i>awards.dbase</i> file format definition above.
+  <p>
+  <li><i><a name="3D11">forthcoming</a></i>. This binary outputs the
+  list of forthcoming books. It takes no argument.
+  <p>
+  <li><i><a name="3D12">cwork</a></i>.  This binary outputs a data correction
+  form.  It takes a single argument, which is the hexadecimal offset to the 
+  title entry in the <i>titles.dbase</i> file.
+</ol>
+
+<hr>
+<a href="http://HTMLBASE/faq3.html">[Previous FAQ Page]</a>
+<a href="http://HTMLBASE/faq.html">[Main FAQ Page]</a>
+<a href="http://HTMLBASE/faq5.html">[Next FAQ Page]</a>
+<hr>
+
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

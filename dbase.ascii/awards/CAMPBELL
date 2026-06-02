@@ -1,0 +1,853 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)CAMPBELL	1.9	12/29/98 ISFDB";
+##
+Beyond Apollo {
+	AE=|Barry N. Malzberg|
+	AS=|JWCM|
+	YR=|1973|
+	TG=|7771|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+The Listeners {
+	AE=|James E. Gunn|
+	AS=|JWCM|
+	YR=|1973|
+	TG=|5454|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Darkening Island (Fugue for a Darkening Plain) {
+	AE=|Christopher Priest|
+	AS=|JWCM|
+	YR=|1973|
+	TG=|14013|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Rendezvous With Rama {
+	AE=|Arthur C. Clarke|
+	AS=|JWCM|
+	YR=|1974|
+	TG=|2815|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+Malevil {
+	AE=|Robert Merle|
+	AS=|JWCM|
+	YR=|1974|
+	TG=|8348|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+The Green Gene {
+	AE=|Peter Dickinson|
+	AS=|JWCM|
+	YR=|1974|
+	TG=|3581|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+The Embedding {
+	AE=|Ian Watson|
+	AS=|JWCM|
+	YR=|1974|
+	TG=|12939|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Flow My Tears, the Policeman Said {
+	AE=|Philip K. Dick|
+	AS=|JWCM|
+	YR=|1975|
+	TG=|3554|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+The Dispossessed {
+	AE=|Ursula K. Le Guin|
+	AS=|JWCM|
+	YR=|1975|
+	TG=|7133|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+None Awarded 3 {
+	AE=|(********)|
+	AS=|JWCM|
+	YR=|1975|
+	TG=|15437|
+	TA=|John W. Campbell Memorial Award|
+	TP=|x|
+	LV=|3|
+}
+The Year of the Quiet Sun {
+	AE=|Wilson Tucker|
+	AS=|JWCM|
+	YR=|1976|
+	TG=|12062|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+The Stochastic Man {
+	AE=|Robert Silverberg|
+	AS=|JWCM|
+	YR=|1976|
+	TG=|10895|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Orbitsville {
+	AE=|Bob Shaw|
+	AS=|JWCM|
+	YR=|1976|
+	TG=|10512|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+The Alteration {
+	AE=|Kingsley Amis|
+	AS=|JWCM|
+	YR=|1977|
+	TG=|329|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+Man Plus {
+	AE=|Frederik Pohl|
+	AS=|JWCM|
+	YR=|1977|
+	TG=|14012|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Where Late the Sweet Birds Sang {
+	AE=|Kate Wilhelm|
+	AS=|JWCM|
+	YR=|1977|
+	TG=|14019|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Gateway {
+	AE=|Frederik Pohl|
+	AS=|JWCM|
+	YR=|1978|
+	TG=|9212|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+Roadside Picnic^Tale of the Troika {
+	AE=|Arkady Strugatsky+Boris Strugatsky|
+	AS=|JWCM|
+	YR=|1978|
+	TG=|11633|
+	TA=|John W. Campbell Memorial Award|
+	TP=|c|
+	LV=|2|
+}
+A Scanner Darkly {
+	AE=|Philip K. Dick|
+	AS=|JWCM|
+	YR=|1978|
+	TG=|3569|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Gloriana {
+	AE=|Michael Moorcock|
+	AS=|JWCM|
+	YR=|1979|
+	TG=|8490|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+And Having Writ... {
+	AE=|Donald Benson|
+	AS=|JWCM|
+	YR=|1979|
+	TG=|1132|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Altered States {
+	AE=|Paddy Chayefsky|
+	AS=|JWCM|
+	YR=|1979|
+	TG=|2623|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+On Wings of Song {
+	AE=|Thomas M. Disch|
+	AS=|JWCM|
+	YR=|1980|
+	TG=|3658|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+Engine Summer {
+	AE=|John Crowley|
+	AS=|JWCM|
+	YR=|1980|
+	TG=|3086|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+The Unlimited Dream Company {
+	AE=|J. G. Ballard|
+	AS=|JWCM|
+	YR=|1980|
+	TG=|765|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Timescape {
+	AE=|Gregory Benford|
+	AS=|JWCM|
+	YR=|1981|
+	TG=|1103|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+The Dreaming Dragons {
+	AE=|Damien Broderick|
+	AS=|JWCM|
+	YR=|1981|
+	TG=|1719|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+The Shadow of the Torturer {
+	AE=|Gene Wolfe|
+	AS=|JWCM|
+	YR=|1981|
+	TG=|13634|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Riddley Walker {
+	AE=|Russell Hoban|
+	AS=|JWCM|
+	YR=|1982|
+	TG=|5940|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+None Awarded 2 {
+	AE=|(********)|
+	AS=|JWCM|
+	YR=|1982|
+	TG=|15438|
+	TA=|John W. Campbell Memorial Award|
+	TP=|x|
+	LV=|2|
+}
+None Awarded 3 {
+	AE=|(********)|
+	AS=|JWCM|
+	YR=|1982|
+	TG=|19498|
+	TA=|John W. Campbell Memorial Award|
+	TP=|x|
+	LV=|3|
+}
+Helliconia Spring {
+	AE=|Brian W. Aldiss|
+	AS=|JWCM|
+	YR=|1983|
+	TG=|254|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+No Enemy But Time {
+	AE=|Michael Bishop|
+	AS=|JWCM|
+	YR=|1983|
+	TG=|1277|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+None Awarded 3 {
+	AE=|(********)|
+	AS=|JWCM|
+	YR=|1983|
+	TG=|15439|
+	TA=|John W. Campbell Memorial Award|
+	TP=|x|
+	LV=|3|
+}
+The Citadel of the Autarch {
+	AE=|Gene Wolfe|
+	AS=|JWCM|
+	YR=|1984|
+	TG=|13586|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+The Birth of the People's Republic of Antarctica {
+	AE=|John Calvin Batchelor|
+	AS=|JWCM|
+	YR=|1984|
+	TG=|905|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Tik-Tok {
+	AE=|John Sladek|
+	AS=|JWCM|
+	YR=|1984|
+	TG=|11058|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+The Years of the City {
+	AE=|Frederik Pohl|
+	AS=|JWCM|
+	YR=|1985|
+	TG=|9269|
+	TA=|John W. Campbell Memorial Award|
+	TP=|c|
+	LV=|1|
+}
+Green Eyes {
+	AE=|Lucius Shepard|
+	AS=|JWCM|
+	YR=|1985|
+	TG=|10613|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Neuromancer {
+	AE=|William Gibson|
+	AS=|JWCM|
+	YR=|1985|
+	TG=|4991|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+The Postman {
+	AE=|David Brin|
+	AS=|JWCM|
+	YR=|1986|
+	TG=|1678|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+Galapagos {
+	AE=|Kurt Vonnegut, Jr.|
+	AS=|JWCM|
+	YR=|1986|
+	TG=|12766|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Blood Music {
+	AE=|Greg Bear|
+	AS=|JWCM|
+	YR=|1986|
+	TG=|969|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Kiteworld {
+	AE=|Keith Roberts|
+	AS=|JWCM|
+	YR=|1986|
+	TG=|9735|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+A Door into Ocean {
+	AE=|Joan Slonczewski|
+	AS=|JWCM|
+	YR=|1987|
+	TG=|11061|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+This is the Way the World Ends {
+	AE=|James Morrow|
+	AS=|JWCM|
+	YR=|1987|
+	TG=|8592|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Speaker for the Dead {
+	AE=|Orson Scott Card|
+	AS=|JWCM|
+	YR=|1987|
+	TG=|2353|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Lincoln's Dreams {
+	AE=|Connie Willis|
+	AS=|JWCM|
+	YR=|1988|
+	TG=|13419|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+Drowning Towers^The Sea and the Summer {
+	AE=|George Turner|
+	AS=|JWCM|
+	YR=|1988|
+	TG=|12078|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+The Unconquered Country {
+	AE=|Geoff Ryman|
+	AS=|JWCM|
+	YR=|1988|
+	TG=|10148|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Islands in the Net {
+	AE=|Bruce Sterling|
+	AS=|JWCM|
+	YR=|1989|
+	TG=|11473|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+The Gold Coast {
+	AE=|Kim Stanley Robinson|
+	AS=|JWCM|
+	YR=|1989|
+	TG=|9794|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Dragonsdawn {
+	AE=|Anne McCaffrey|
+	AS=|JWCM|
+	YR=|1989|
+	TG=|8022|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+The Child Garden {
+	AE=|Geoff Ryman|
+	AS=|JWCM|
+	YR=|1990|
+	TG=|10130|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+Farewell Horizontal {
+	AE=|K. W. Jeter|
+	AS=|JWCM|
+	YR=|1990|
+	TG=|14008|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Good News from Outer Space {
+	AE=|John Kessel|
+	AS=|JWCM|
+	YR=|1990|
+	TG=|14009|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Pacific Edge {
+	AE=|Kim Stanley Robinson|
+	AS=|JWCM|
+	YR=|1991|
+	TG=|9820|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+Queen of Angels {
+	AE=|Greg Bear|
+	AS=|JWCM|
+	YR=|1991|
+	TG=|999|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Only Begotten Daughter {
+	AE=|James Morrow|
+	AS=|JWCM|
+	YR=|1991|
+	TG=|8587|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Buddy Holly is Alive and Well on Ganymede {
+	AE=|Bradley Denton|
+	AS=|JWCM|
+	YR=|1992|
+	TG=|3479|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+The Difference Engine {
+	AE=|William Gibson+Bruce Sterling|
+	AS=|JWCM|
+	YR=|1992|
+	TG=|5012|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+A Woman of the Iron People {
+	AE=|Eleanor Arnason|
+	AS=|JWCM|
+	YR=|1992|
+	TG=|506|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+The Silicon Man {
+	AE=|Charles Platt|
+	AS=|JWCM|
+	YR=|1992|
+	TG=|9175|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Stations of the Tide {
+	AE=|Michael Swanwick|
+	AS=|JWCM|
+	YR=|1992|
+	TG=|11774|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Brother to Dragons {
+	AE=|Charles Sheffield|
+	AS=|JWCM|
+	YR=|1993|
+	TG=|10555|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+Sideshow {
+	AE=|Sheri S. Tepper|
+	AS=|JWCM|
+	YR=|1993|
+	TG=|11894|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+A Fire Upon the Deep {
+	AE=|Vernor Vinge|
+	AS=|JWCM|
+	YR=|1993|
+	TG=|12722|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+No Winner - No Consensus {
+	AE=|(********)|
+	AS=|JWCM|
+	YR=|1994|
+	TG=|45|
+	TA=|John W. Campbell Memorial Award|
+	TP=|x|
+	LV=|1|
+}
+Beggars in Spain {
+	AE=|Nancy Kress|
+	AS=|JWCM|
+	YR=|1994|
+	TG=|6771|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Moving Mars {
+	AE=|Greg Bear|
+	AS=|JWCM|
+	YR=|1994|
+	TG=|989|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Permutation City {
+	AE=|Greg Egan|
+	AS=|JWCM|
+	YR=|1995|
+	TG=|4030|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+Brittle Innings {
+	AE=|Michael Bishop|
+	AS=|JWCM|
+	YR=|1995|
+	TG=|1222|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Nomination not announced by request {
+	AE=|(********)|
+	AS=|JWCM|
+	YR=|1995|
+	TG=|46|
+	TA=|John W. Campbell Memorial Award|
+	TP=|x|
+	LV=|3|
+}
+The Time Ships {
+	AE=|Stephen Baxter|
+	AS=|JWCM|
+	YR=|1996|
+	TG=|942|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+The Diamond Age {
+	AE=|Neal Stephenson|
+	AS=|JWCM|
+	YR=|1996|
+	TG=|11431|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Chaga^Evolution's Shore (US 1995) {
+	AE=|Ian McDonald|
+	AS=|JWCM|
+	YR=|1996|
+	TG=|8136|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Fairyland {
+	AE=|Paul J. McAuley|
+	AS=|JWCM|
+	YR=|1997|
+	TG=|15472|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+Blue Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|JWCM|
+	YR=|1997|
+	TG=|14450|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+The Sparrow {
+	AE=|Mary Doria Russell|
+	AS=|JWCM|
+	YR=|1997|
+	TG=|14451|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Forever Peace {
+	AE=|Joe Haldeman|
+	AS=|JWCM|
+	YR=|1998|
+	TG=|18288|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+/ (Slant) {
+	AE=|Greg Bear|
+	AS=|JWCM|
+	YR=|1998|
+	TG=|18284|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Secret Passages {
+	AE=|Paul Preuss|
+	AS=|JWCM|
+	YR=|1998|
+	TG=|18289|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Brute Orbits {
+	AE=|George Zebrowski|
+	AS=|JWCM|
+	YR=|1999|
+	TG=|20285|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+Starfarers {
+	AE=|Poul Anderson|
+	AS=|JWCM|
+	YR=|1999|
+	TG=|20283|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Distraction {
+	AE=|Bruce Sterling|
+	AS=|JWCM|
+	YR=|1999|
+	TG=|20284|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+A Deepness in the Sky {
+	AE=|Vernor Vinge|
+	AS=|JWCM|
+	YR=|2000|
+	TG=|19930|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|1|
+}
+Darwin's Radio {
+	AE=|Greg Bear|
+	AS=|JWCM|
+	YR=|2000|
+	TG=|21129|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|2|
+}
+Greenhouse Summer {
+	AE=|Norman Spinrad|
+	AS=|JWCM|
+	YR=|2000|
+	TG=|21160|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|3|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|JWCM|
+	YR=|2000|
+	TG=|21122|
+	TA=|John W. Campbell Memorial Award|
+	TP=|x|
+	LV=|90|
+}
+Starfish {
+	AE=|Peter Watts|
+	AS=|JWCM|
+	YR=|2000|
+	TG=|21164|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|93|
+}
+The Silicon Dagger {
+	AE=|Jack Williamson|
+	AS=|JWCM|
+	YR=|2000|
+	TG=|21167|
+	TA=|John W. Campbell Memorial Award|
+	TP=|n|
+	LV=|93|
+}
+for excellence in writing, Dying Inside {
+	AE=|Robert Silverberg|
+	AS=|JWCMX|
+	YR=|1973|
+	TG=|10891|
+	TA=|Special Award for Excellence in Writing|
+	TP=|au|
+	LV=|1|
+}
+The Cosmic Connection {
+	AE=|Carl Sagan|
+	AS=|JWCMY|
+	YR=|1974|
+	TG=|14014|
+	TA=|Special Non-Fiction Award|
+	TP=|nf|
+	LV=|1|
+}

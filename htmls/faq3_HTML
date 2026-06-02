@@ -1,0 +1,112 @@
+<html>
+<head>
+<title>ISFDB FAQ: Searching the ISFDB</title>
+</head>
+<body bgcolor="#ffffff" text="#000000" >
+
+<h2>Searching the ISFDB</h2>
+The ISFDB supports simple searches of the database. Name, Title, and
+Series searches must consist of a single substring of the target for
+a match to occur. Search comparisons are caseless, and the space character
+is consider part of the search string. For instance, if one were to 
+execute a name search on the string "d b", the result would be:
+<pre>
+   Search For Author: d b
+
+   Found 13 matches 
+   -----------------------------------------------
+   <b>David B. Kisor</b>
+   <b>Lloyd Biggle, Jr.</b>
+   <b>Jand Beauclerk</b>
+   <b>Stephen King</b>  (as Richard Bachman) 
+   <b>Donald Barthelme</b>
+   <b>Edward Bryant</b>
+   <b>Richard Bowker</b>
+   <b>Reginald Bretnor</b>
+   <b>David Brin</b>
+   <b>Richard Bowes</b>
+   <b>David Bischoff</b>
+   <b>Alfred Bester</b>
+   <b>Donald Benson</b>
+</pre>
+The four search methods currently supported by the ISFDB are:
+<ol>
+  <li><i><a name="2A">Searching by Name</a></i>.
+  Searches match on both authors and pseudonyms. Search results are a list of
+  author hot-links to their Summary Bibliography. In the case of pseudonyms, 
+  the citation consists of the author's actual name followed by 
+  (as <i>pseudonym</i>); the pseudonym is not a hot-link, as the bibliographic
+  data will appear on the actual author's bibliography. If the search string
+  matches both the author and a pseudonym, only the actual author citation
+  will be displayed. 
+  <p>
+  If only one author match is found, the author's summary bibliography is
+  immediately displayed, instead of the match results.
+  <p>
+  <li><i><a name="2B">Searching by Title</a></i>.
+  Searches for titles result in a list of title/author citations, where the author
+  anchor is a hot-link to a Summary Bibliography. Titles are listed in alphabetical
+  order, separated by category. For instances, a title search for "venus", results in:
+<pre>
+   Search For Title: venus
+
+   Found 14 matches 
+   -----------------------------------------------
+
+   <i>Novels</i>
+   Carson of Venus             <b>Edgar Rice Burroughs</b>
+   Escape on Venus             <b>Edgar Rice Burroughs</b>
+   Lost on Venus               <b>Edgar Rice Burroughs</b>
+   Pirates of Venus            <b>Edgar Rice Burroughs</b>
+   The Venus Belt              <b>L. Neil Smith</b>
+   Venus Plus X                <b>Theodore Sturgeon</b>
+   Venus of Dreams             <b>Pamela Sargent</b>
+   Venus of Shadows            <b>Pamela Sargent</b>
+   Venusian Adventure          <b>E. C. Tubb</b>
+
+   <i>Collections</i>
+   Venus Equilateral           <b>George O. Smith</b>
+
+   <i>Shortfiction</i>
+   Come to Venus Melancholy    <b>Thomas M. Disch</b>
+   Dawn Venus                  <b>G. David Nordley</b>
+   The Vanishing Venusians     <b>Leigh Brackett</b>
+   Venus and the Seven Sexes   <b>William Tenn</b>
+</pre>
+  <p>
+  <li><i><a name="2C">Searching by Year</a></i>.
+  Since the database has entries across multiple centuries, year 
+  targets must be complete, four digit strings (i.e.: "1984", not "84").
+  The match list will display all works first published in the target
+  year. The list will be displayed in the same manner as the title search
+  above.
+  <p>
+  <li><i><a name="2D">Searching by Series</a></i>.
+   A series search utilizes the same search rules as a Name or Title
+   search, but matches on series names. If a match is found, all of the
+   titles in the series are listed, as well as their hot-linked authors.
+   For instance, doing a series search on the string "jedi", results in:
+<pre>
+   Search For Series: jedi
+
+   Found 3 matches 
+   ----------------------------------------------------
+   <i>The Jedi Academy Trilogy</i>
+   Champions of the Force         <b>Kevin J. Anderson</b> 
+   Dark Apprentice                <b>Kevin J. Anderson</b> 
+   Jedi Search                    <b>Kevin J. Anderson</b> 
+</pre>
+</ol>
+
+<hr>
+<a href="http://HTMLBASE/faq6.html">[Previous FAQ Page]</a>
+<a href="http://HTMLBASE/faq.html">[Main FAQ Page]</a>
+<a href="http://HTMLBASE/faq4.html">[Next FAQ Page]</a>
+<hr>
+
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

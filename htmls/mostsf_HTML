@@ -1,0 +1,46 @@
+<html> <head> <title>Most-Reviewed Book Lists</title></head>
+<body bgcolor="ffffff">
+<h1>Most-Reviewed Book Lists</h1>
+
+<hr>
+These pages display a list of the most-reviewed SF books published
+within a specific year. This list was compiled from reviews published
+in genre-related magazines.
+<p>
+The intention of this list is to roughly indicate which books are
+considered "hot" within the genre; it's not intended to be a canonical
+accounting of book reviews. For more precise review citations, refer to
+the author's bibliographic summary in the ISFDB, and select
+the [Reviews] link next to the title in question.
+<p>
+While reviews are not guaranteed to be positive, a book that
+receives a large number of reviews can at least be considered
+critically "interesting". A novel must be reviewed at least
+three times to make this list, while other works need only two reviews.
+<p>
+The pages show the cummulative number of reviews to date, the title of
+the work, and a link to the author of the work. Note that the contents
+of the pages tend to be a bit fluid; reviewers are free to review books that
+are several years old, and sometimes do so. At present, the review
+database is spotty past 1995. More years will be added as more data becomes
+available.
+
+<ol>
+  <li> Most-Reviewed Books of (<a href="http://HTMLBASE/mostsf2000.html">2000</a>).
+  <li> Most-Reviewed Books of (<a href="http://HTMLBASE/mostsf1999.html">1999</a>).
+  <li> Most-Reviewed Books of (<a href="http://HTMLBASE/mostsf1998.html">1998</a>).
+  <li> Most-Reviewed Books of (<a href="http://HTMLBASE/mostsf1997.html">1997</a>).
+  <li> Most-Reviewed Books of (<a href="http://HTMLBASE/mostsf1996.html">1996</a>).
+  <li> Most-Reviewed Books of (<a href="http://HTMLBASE/mostsf1995.html">1995</a>).
+  <p>
+  <li> Most-Reviewed Books of (<a href="http://HTMLBASE/mostsf1964.html">1964</a>).
+</ol>
+<p>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

@@ -1,0 +1,189 @@
+<html>
+<head>
+<title>ISFDB Statistics by Year</title>
+</head>
+<body bgcolor="#ffffff" text="#000000" >
+<h1>ISFDB Statistics by Year</h1>
+<hr>
+<pre>
+                          Database Entries By Year (Novels)
+
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+1140 |    |    |    |    |    |    |    |    |    |    |    |    |  X |    X    |    |    
+1080 |    |    |    |    |    |    |    |    |    |    |    |    |  XX|    XX   |    |    
+1020 |    |    |    |    |    |    |    |    |    |    |    |    | XXXXX XXXX   |    |    
+960  |    |    |    |    |    |    |    |    |    |    |    |    | XXXXX XXXX   |    |    
+900  |    |    |    |    |    |    |    |    |    |    |    |    |XXXXXXXXXXXX  |    |    
+840  |    |    |    |    |    |    |    |    |    |    |    |    |XXXXXXXXXXXX  |    |    
+780  |    |    |    |    |    |    |    |    |    |    |    |    |XXXXXXXXXXXX  |    |    
+720  |    |    |    |    |    |    |    |    |    |    |    |    |XXXXXXXXXXXX  |    |    
+660  |    |    |    |    |    |    |    |    |    |    |    |    |XXXXXXXXXXXX  |    |    
+600  |    |    |    |    |    |    |    |    |    |    |    |    XXXXXXXXXXXXXXX|    |    
+540  |    |    |    |    |    |    |    |    |    |    |    |   XXXXXXXXXXXXXXXX|    |    
+480  |    |    |    |    |    |    |    |    |    |    |    |   XXXXXXXXXXXXXXXX|    |    
+420  |    |    |    |    |    |    |    |    |    |    |    |   XXXXXXXXXXXXXXXX|    |    
+360  |    |    |    |    |    |    |    |    |    |    |    |   XXXXXXXXXXXXXXXX|    |    
+300  |    |    |    |    |    |    |    |    |    |    |    X XXXXXXXXXXXXXXXXXX|    |    
+240  |    |    |    |    |    |    |    |    |    |    |   XXXXXXXXXXXXXXXXXXXXXX    |    
+180  |    |    |    |    |    |    |    |    |    |    XXXXXXXXXXXXXXXXXXXXXXXXXX    |    
+120  |    |    |    |    |    |    |    |   XX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |    
+60   |    |    |    |    |    |XXXXXX XXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   |    
+0    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   |    
+                                                                                          
+   1925 1930 1935 1940 1945 1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 2000        
+                                                                                          
+
+
+<hr>
+                          Database Entries By Year (Collections)
+
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+133  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  X |    |    
+126  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  X |    |    
+119  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  X |    |    
+112  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  X |    |    
+105  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  X |    |    
+98   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |X X |    |    
+91   |    |    |    |    |    |    |    |    |    |    |    |    |    |    |XXXX|    |    
+84   |    |    |    |    |    |    |    |    |    |    |    |    |    |    XXXXX|    |    
+77   |    |    |    |    |    |    |    |    |    |    |    |    |   X|    XXXXX|    |    
+70   |    |    |    |    |    |    |    |    |    |    |X   |    |   X|    XXXXX|    |    
+63   |    |    |    |    |    |    |    |    |    |    |X   |    | XXX|X   XXXXX|    |    
+56   |    |    |    |    |    |    |    |    |    |    |X   |   X| XXXXX   XXXXX|    |    
+49   |    |    |    |    |    |    |    |    |    |X   XXX X| X X|XXXXXX X XXXXX|    |    
+42   |    |    |    |    |    |    |    |   XX    |X XXXXXXXXXXXXXXXXXXX XXXXXXX|    |    
+35   |    |    |    |    |    |    |    | X XX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|    |    
+28   |    |    |    |    |    |    |    |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|    |    
+21   |    |    |    |    |    |    |    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |    
+14   |    |    |    |    |    | XXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |    
+7    X    |    |    |    |  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   |    
+0    XXXXXXXXXXXXXX X X XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   |    
+                                                                                          
+   1925 1930 1935 1940 1945 1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 2000        
+                                                                                          
+
+
+<hr>
+                          Database Entries By Year (Anthologies)
+
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+126  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  X |    |    
+119  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  X |    |    
+112  |    |    |    |    |    |    |    |    |    |    |    |    |    |    XX X |    |    
+105  |    |    |    |    |    |    |    |    |    |    |    |    |    |    XX X |    |    
+98   |    |    |    |    |    |    |    |    |    |    |    |    |    |    XX XX|    |    
+91   |    |    |    |    |    |    |    |    |    |    |    |    |    |    XX XX|    |    
+84   |    |    |    |    |    |    |    |    |    |    |    |    |    |   XXXXXX|    |    
+77   |    |    |    |    |    |    |    |    |    |    |    |    |    |   XXXXXX|    |    
+70   |    |    |    |    |    |    |    |    |    |    |    |    |    |   XXXXXX|    |    
+63   |    |    |    |    |    |    |    |    |    |   X|    |    |    |   XXXXXX|    |    
+56   |    |    |    |    |    |    |    |    |    |  XX|    X    | XXXXX XXXXXXX|    |    
+49   |    |    |    |    |    |    |    |    |    |  XX|X  XXX   | XXXXXXXXXXXXX|    |    
+42   |    |    |    |    |    |    |    |    |    | XXXXX XXXX X XXXXXXXXXXXXXXX|    |    
+35   |    |    |    |    |    |    |    |    |    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|    |    
+28   |    |    |    |    |    |    |    |    |    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|    |    
+21   |    |    |    |    |    |   X|    |  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|    |    
+14   |    |    |    |    |    | XXX|    | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|    |    
+7    |    |    |    |    |    XXXXXX  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   |    
+0    XXX X|XX X|XX  |X XXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   |    
+                                                                                          
+   1925 1930 1935 1940 1945 1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 2000        
+                                                                                          
+
+
+<hr>
+                          Database Entries By Year (Short Fiction)
+
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+2299 |    |    |    |    |    |    |    |    |    |    |    |    |    |    X    |    |    
+2178 |    |    |    |    |    |    |    |    |    |    |    |    |    |    X    |    |    
+2057 |    |    |    |    |    |    |    |    |    |    |    |    |    |   XX    |    |    
+1936 |    |    |    |    |    |    |    |    |    |    |    |    |    |   XX    |    |    
+1815 |    |    |    |    |    |    |    |    |    |    |    |    |    |  XXX    |    |    
+1694 |    |    |    |    |    |    |    |    |    |    |    |    |    |  XXXX   |    |    
+1573 |    |    |    |    |    |    |    |    |    |    |    |    |    |  XXXX   |    |    
+1452 |    |    |    |    |    |    |    |    |    |    |    |    |    |X XXXX   |    |    
+1331 |    |    |    |    |    |    |    |    |    |    |    |    |    |XXXXXXX  |    |    
+1210 |    |    |    |    |    |    |    |    |    |    |    |    |  XXXXXXXXXXX |    |    
+1089 |    |    |    |    |    |    |    |    |    |    |    |    |  XXXXXXXXXXX |    |    
+968  |    |    |    |    |    |  X |    |    |    |    |    |    | XXXXXXXXXXXX |    |    
+847  |    |    |    |    |    |  XX|    |    |    |    |    |    | XXXXXXXXXXXX |    |    
+726  |    |    |    |    |    XXXXX| X  |    |    |  XX|    |    |XXXXXXXXXXXXXX|    |    
+605  |    |    |    |    |    XXXXXXXXX |    |    |  XXX   XXXX  XXXXXXXXXXXXXXX|    |    
+484  |    |    |    XXX  |   XXXXXXXXXX |    |    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|    |    
+363  |    X    |   XXXXX | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |    
+242  |   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |    
+121  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |    
+0    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   |    
+                                                                                          
+   1925 1930 1935 1940 1945 1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 2000        
+                                                                                          
+
+
+<hr>
+                          Database Entries By Year (Essays)
+
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+836  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |X   |    |    
+792  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |X   |    |    
+748  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |X   |    |    
+704  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |X   |    |    
+660  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |X   |    |    
+616  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |X   |    |    
+572  |    |    |    |    |    |    |    |    |    |    |    |    |    |X   |X X |    |    
+528  |    |    |    |    |    |    |    |    |    |    |    |    |    |X   |X X |    |    
+484  |    |    |    |    |    | X  |    |    |    |    |    |    |    |XX  |X X |    |    
+440  |    |    |    |    |    |XX  |    |    |    |    |    |    |   X|XXXXXXXX |    |    
+396  |    |    |    |    |    |XX  |    |    |    |    |    |    |  XXXXXXXXXXXX|    |    
+352  |    |    |    |    |   X|XX  |    |    |    |    |   XX X  | XXXXXXXXXXXXX|    |    
+308  |    |    |    |    |  XX|XX  |    |    |    |    |   XXXXX | XXXXXXXXXXXXX|    |    
+264  |    |    |    |    |  XXXXX  |    |    |    |    |   XXXXX | XXXXXXXXXXXXXX    |    
+220  |    |    |    |    | XXXXXXX X    |    |    |    |X  XXXXX |XXXXXXXXXXXXXXX    |    
+176  |    |    |    | XX |XXXXXXXXXXXX  |  X |    |   X|X XXXXXXXXXXXXXXXXXXXXXXX    |    
+132  |    |    |    | XX |XXXXXXXXXXXXX | XXX|X  X|XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |    
+88   |    |    |    XXXXXXXXXXXXXXXXXXX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |    
+44   |   XXXXXX|   XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |    
+0    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX   |    
+                                                                                          
+   1925 1930 1935 1940 1945 1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 2000        
+                                                                                          
+
+
+<hr>
+                          Database Entries By Year (Reviews)
+
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+1520 |    |    |    |    |    |    |    |    |    |    |    |    |    |    |  X |    |    
+1440 |    |    |    |    |    |    |    |    |    |    |    |    |    |    | XX |    |    
+1360 |    |    |    |    |    |    |    |    |    |    |    |    |    |    | XX |    |    
+1280 |    |    |    |    |    |    |    |    |    |    |    |    |    |    | XX |    |    
+1200 |    |    |    |    |    |    |    |    |    |    |    |    |    |    |XXX |    |    
+1120 |    |    |    |    |    |    |    |    |    |    |    |    |    |    |XXX |    |    
+1040 |    |    |    |    |    |    |    |    |    |    |    |    |    |    |XXX |    |    
+960  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |XXX |    |    
+880  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |XXX |    |    
+800  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |XXX |    |    
+720  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |XXXX|    |    
+640  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |XXXX|    |    
+560  |    |    |    |    |    |    |    |    |    |    |    |    |    |    |XXXX|    |    
+480  |    |    |    |    |    |    |    |    |    |    |    |    |    |    XXXXX|    |    
+400  |    |    |    |    |    |    |    |    |    |    |    |    |    |    XXXXX|    |    
+320  |    |    |    |    |    |    |    |    |    |    |    |    |    |    XXXXX|    |    
+240  |    |    |    |    |    |    |    |    |    |    |    |    |    |    XXXXX|    |    
+160  |    |    |    |    |    |    |    |    X    |    |    |    |    |    XXXXX|    |    
+80   |    |    |    |    |    |    |    |    X    |    |    |  XX|   X|XXXXXXXXXXX   |    
+0    |    |    |    |    |  X X    |    |    X    X  XXX  XXXXXXXX XXXXXXXXXXXXXXX   |    
+                                                                                          
+   1925 1930 1935 1940 1945 1950 1955 1960 1965 1970 1975 1980 1985 1990 1995 2000        
+                                                                                          
+<hr>
+<center>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+</center>
+<hr>
+</pre>
+</body>
+</html>

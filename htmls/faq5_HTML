@@ -1,0 +1,136 @@
+<html>
+<head>
+<title>ISFDB FAQ: Other Stuff</title>
+</head>
+<body bgcolor="#ffffff" text="#000000" >
+
+<h2><a name="4">Why Isn't My Favorite Author/Book Here?</a></h2>
+It probably has something to do with this simple fact: <i>most</i>
+of the SF titles ever written aren't here yet. Even using the most 
+optimistic estimates, we have maybe 10 percent of the novels,
+and about 5 percent of the short fiction in the genre (<i>using 
+pessimistic estimates, we have about 4 percent of the novels, and
+2 percent of the short fiction</i>.) So the odds that any given SF
+title is here are fairly low.
+<p>
+This database evolved from an older awards database, so titles that
+have been nominated, or have won, a major award will be here. Likewise,
+the first concerted effort at filling in author bibliographies 
+centered on those authors already present in the database - so
+award nominated authors are more likely to have a reasonably filled-in
+bibliography. This means that the database currently leans heavily
+toward post-1953 titles, with the inception of the first of the 
+major awards (the Hugo). So the odds are pretty good that most of 
+the high quality fiction of the last 40 years is here.
+
+<h2><a name="5">Why Is This Author/Book Here?</a></h2>
+Some people get really hung up on labels and taxonomy, and might
+get a little upset about the inclusion of a specific book or author
+in the database which they feel is decidedly non-SF. We take the
+right-wing approach to bibliographic justice: we'd rather incarcerate
+an innocent mainstream book than let a guilty genre-related book
+get away. Some authors permanently flit about the edges of the
+genre (like Karen Joy Fowler, or Joyce Carol Oates), while others
+seem to occasionally stumble into the genre (like Kafka, Flannery
+O'Conner, or Faulkner).  So here's how we decide whether something
+goes into the database or not:
+<ol>
+  <li>If a work of fiction has been nominated for a genre award, it
+  goes in the database. In this case, someone else has decided that the
+  work is suitably SF. This is why you'll find E. L. Doctorow's
+  <i>Ragtime</i> in the database (?!?!).
+  <li>If a work of fiction has been been published in a genre magazine,
+  it goes in the database. How do we know a genre magazine when we see
+  one? If it predominately publishes SF stories it's a genre magazine.
+  Circular or not, that's the rule.
+  <li>If the book in question has the words "Science Fiction", "Fantasy",
+  or "Horror" printed on the spine, it goes into the database.
+  <li>If the book in question doesn't have one of the magic words on
+  its spine, but it is reviewed by a genre magazine, then it goes in
+  the database. See above rule regarding genre magazines.
+  <li>If the book or story has been previously listed in a well-known
+  genre-related bibliography, it goes in the database.
+  <li>Catch-all rule: if our gut-reaction tells us to put it in the
+  database, it goes in the database.
+  <li>If, based upon the above criteria, an author is determined to
+  be a predominately genre-related author, then non-genre entries will
+  be made to complete the author's bibliography, and are denoted as such.
+  <li>If, based upon the above criteria, an author is determined to
+  be a predominately mainstream author, then only genre-related entries
+  will be made to the author's bibliography, while the rest are suitably
+  jettisoned.
+</ol>
+
+
+<h2><a name="6">The ISFDB Team</a></h2>
+Major ISFDB contributors are (in chronological order of contribution):
+<pre>
+  Al von Ruff                       <a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>
+  Ahasuerus the Wandering Jew       <a href="mailto:redacted@redacted.com">Ahasuerus</a>
+				    [<a href="http://www.clark.net/pub/ahasuer/">Home page</a>]
+  Phil Brewer                       <a href="mailto:redacted@redacted.com">redacted@redacted.com</a>
+				    [<a href="http://www.prairienet.org/~pbrewer/homepage.html">Home page</a>]
+  John Boston                       <a href="mailto:redacted@redacted.com">redacted@redacted.com</a>
+  Derek Nichols                     <a href="mailto:redacted@redacted.com">redacted@redacted.com</a>
+  Paul Cardinal                     <a href="mailto:redacted@redacted.com">redacted@redacted.com</a>
+  Michael J. Cross                  <a href="mailto:redacted@redacted.com">redacted@redacted.com</a>
+  NESFA                             [<a href="http://www.nesfa.org">Home page</a></td>]
+  Cary Thomas                       <a href="mailto:redacted@redacted.com">redacted@redacted.com</a>
+				    [<a href="http://users.aol.com/oneirovox/psycho.html">Home page</a>]
+  Doug Lee                          <a href="mailto:redacted@redacted.com">redacted@redacted.com</a>
+  Dave Kauffman                     <a href="mailto:redacted@redacted.com">redacted@redacted.com</a>
+  David G. Grubbs                   <a href="mailto:redacted@redacted.com">redacted@redacted.com</a>
+  James Lambert                     <a href="mailto:redacted@redacted.com">redacted@redacted.com</a>
+  Dan Kurdilla                      <a href="mailto:redacted@redacted.com">redacted@redacted.com</a>
+  Guy Sirois                        <a href="mailto:redacted@redacted.com">redacted@redacted.com</a>
+  David Stovall                     <a href="mailto:redacted@redacted.com">redacted@redacted.com</a>
+  Bill Anderson                     <a href="mailto:redacted@redacted.com">redacted@redacted.com</a>
+</pre>
+<hr>
+<h2><a name="8">Diskspace Requirements</a></h2>
+Ahasuerus estimates that, within the SF genre, there are probably no
+more than:
+
+<pre>
+        10,000 authors
+       100,000 books
+       250,000 short stories
+</pre>
+
+Armed with present disk usage requirements, an upward bound on
+disk usage can be estimated:
+
+<pre>
+		Raw Data    Compiled Data
+      ------------------------------------
+      awards:	   1 Mb        1 Mb
+      authors:     1 Mb        1 Mb
+      titles:     26 Mb       31 Mb
+      Pub Info:   15 Mb       10 Mb
+      htmls:       2 Mb        2 Mb
+      ------------------------------------
+		  45 Mb   +   45 Mb  =  90 Mb
+</pre>
+So, several years from now, when all of the SF books, stories,
+and zines ever written have been entered into the database, a 
+compiled distribution would take about 45 Mb of disk space, and a
+full distribution 90 Mb.
+At the current rate of genre publication (~1700 titles/year), the
+database would grow at a rate of about 0.7 Mb/year.
+<p>
+Note that the database is currently a long way from those kinds of disk
+space requirements. We currently have an estimated 98% of the authors, 
+12% of the books, and about 18% of the short fiction. Current 
+requirements are about 13Mb.
+
+<hr>
+<a href="http://HTMLBASE/faq4.html">[Previous FAQ Page]</a>
+<a href="http://HTMLBASE/faq.html">[Main FAQ Page]</a>
+<hr>
+
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

@@ -1,0 +1,31 @@
+<html><head> <title>ISFDB Age List</title></head>
+<body bgcolor="ffffff">
+<h1>ISFDB Age Graph</h1>
+<pre>
+      Award-winning Novels vs. Age
+
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+20   |    |    |    |    |   X|    |    |    |    |    |    |    |    |    |    |    |    
+18   |    |    |    |    |X  X|    |X   |    |    |    |    |    |    |    |    |    |    
+16   |    |    |    |   XXX XXX X  |X X |    |    |    |    |    |    |    |    |    |    
+14   |    |    |    | XXXXX XXXXX X|X XX|    |    |    |    |    |    |    |    |    |    
+12   |    |    |    | XXXXXXXXXXXXX|X XX|    |    |    |    |    |    |    |    |    |    
+10   |    |    |    | XXXXXXXXXXXXXXXXXXX X X|    |    |    |    |    |    |    |    |    
+8    |    |    |    |XXXXXXXXXXXXXXXXXXXX XXXXX   |    |    |    |    |    |    |    |    
+6    |    |    |    |XXXXXXXXXXXXXXXXXXXXXXXXXXX  |  X |    |    |    |    |    |    |    
+4    |    |    |   X|XXXXXXXXXXXXXXXXXXXXXXXXXXX  X  X |    |    |    |    |    |    |    
+2    |    |    | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XXXXXXXX|    |  X |    |    |    |    
+0    |    |   XX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX| X X|  XX|    |    |    |    
+                                                                                          
+     15   20   25   30   35   40   45   50   55   60   65   70   75   80   85             
+                                                                                          
+</pre></body></html>

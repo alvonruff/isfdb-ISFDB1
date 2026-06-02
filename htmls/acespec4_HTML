@@ -1,0 +1,53 @@
+<html><head>
+<title>ISFDB - Ace Fantasy Specials</title></head>
+<h1>Ace Fantasy Specials</h1>
+<hr>
+This is a first pass at the list. Most of the links on this
+page are currently nonfunctional.
+<p>
+
+<table border=1 cellpadding=2 cellspacing=1 width="100%">
+<tr>
+<td><b>#</b></td>
+    <td><b>ISBN</b></td>
+    <td><b>Title</b></td>
+    <td><b>Author</b></td>
+</tr>
+<td>1</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-87073-2</a></td>
+    <td>War For the Oaks</td>
+    <td>Emma Bull</td>
+</tr>
+<td>2</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-49036-0</a></td>
+    <td>Lord of the Crooked Paths</td>
+    <td>Patrick H. Adkins</td>
+</tr>
+<td>3</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-06727-1</a></td>
+    <td>The Blind Knight</td>
+    <td>Gail Van Asten</td>
+</tr>
+<td>4</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-34275-2</a></td>
+    <td>The Horsegirl</td>
+    <td>Constance Ash</td>
+</tr>
+<td>?</td>
+<td><a href="http://DBASELOC/plist.cgi?XX">0-441-89687-1</a></td>
+    <td>Through a Brazen Mirror</td>
+    <td>Delia Sherman</td>
+</tr>
+<td>?</td>
+    <td>??</td>
+    <td>??</td>
+    <td>??</td>
+</tr>
+</table>
+
+<hr>
+Copyright (c) 2001 Al von Ruff
+<hr>
+</pre>
+</body>
+</html>

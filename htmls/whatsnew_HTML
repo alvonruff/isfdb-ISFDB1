@@ -1,0 +1,121 @@
+<html>
+<title>What's New With The ISFDB</title>
+<body bgcolor=ffffff>
+
+<h1>What's New With The ISFDB</h1>
+<hr>
+<b>Next Update:</b> 19 June 2001
+<br>
+<b>Items in User-Submission Queue:</b> 1459
+<hr>
+
+<p>
+ISFDB History:
+<ol>
+  <font size=-1>
+  <li> What's New from <a href="http://HTMLBASE/whatsnew2000.html">2000</a>.
+  <li> What's New from <a href="http://HTMLBASE/whatsnew1999.html">1999</a>.
+  <li> What's New from <a href="http://HTMLBASE/whatsnew1998.html">1998</a>.
+  <li> What's New from <a href="http://HTMLBASE/whatsnew1997.html">1997</a>.
+  <li> What's New from <a href="http://HTMLBASE/whatsnew1996.html">1996</a>.
+  <li> What's New from <a href="http://HTMLBASE/whatsnew1995.html">1995</a>.
+  </font>
+</ol>
+
+<hr>
+
+<dl><dt><b> 04 June 2001:</b>
+<ul>
+   <p>
+   <font size=-1>
+   <li> Integrated 399 user submissions.
+   <li> Merged the 2 June version of the awards.
+   <li> Completed indexing <i>If/Worlds of If</i> (1952-1986).
+   <li> Completed indexing <i>Beyond Fantasy Fiction</i> (1953-1955).
+   <li> Fixed a minor bug in the awards listing routine (caused awards with
+   extremely long category names to not be grouped together).
+   <li> Reading: <i>Chuck Palahniuk</i> - <b>Choke</b>.
+   <li> Soundtrack: <i>Tool</i> - <b>Lateralus</b>, <i>Radiohead</i> - <b>OK Computer</b>.
+   </font>
+</ul>
+<p>
+<hr>
+
+<dt><b> 28 May 2001:</b>
+<ul>
+   <p>
+   <font size=-1>
+   <li> Gave the front page a makeover, the second in the lifespan of the web 
+   site. Cleanup on other pages has also started.
+   <li> The new awards entries are completely merged now. Note that this is
+   a bit of a first for collections and anthologies, so there may be some
+   movement in the associated Top 100 lists.
+   <li> As part of the awards integration, did a major cleanup of novels,
+   shortfiction, collections, anthologies, and non-fiction. This consisted 
+   of a year-by-year analysis for lexically similar titles, back to 1950. 
+   This cleaned up several hundred duplicates.
+   <li> Almost completely caught up on recent magazines.
+   <li> Now that forthcoming books, awards, and magazines are just about
+   caught up, I think we're just about ready to start working with 
+   user-submitted data again.
+   <li> Reading: <a href="http://DBASELOC/exact_author.cgi?Iain_M._Banks">Iain M. Banks</a> -
+   <b>Against a Dark Background</b>.
+   <li> Soundtrack: <i>Radiohead</i> - <b>The Bends</b>.
+   </font>
+</ul>
+<p>
+
+<dt><b> 17 May 2001:</b>
+<ul>
+   <p>
+   <font size=-1>
+   <li> This release includes a major update to the awards (the number of
+   award entries grew by over 22 percent). The awards should now be caught up.
+   <li> On the other hand, the awards may reference titles not found in the fiction
+   database. A merge has been completed on the novels, and has started on collections.
+   This means:
+   <ol>
+   	<li> You might find some new duplicates in the collections until the
+	merge is completed.
+	<li> You will find much shortfiction and nonfiction awards that don't
+	have corresponding fiction entries (until merges are started and completed
+	on those entries).
+   </ol>
+   <li> Until the merge is complete, there may be some minor errors in the awards
+   entries.
+   <li> The various Top 100 lists will show a lot of motion since they are based
+   on the awards entries. On the Top 100 Novels (Balanced) List, Vinge's <i>A Deepness 
+   in the Sky</i> (#7), Charles de Lint's <i>Someplace to be Flying</i> (#82), and
+   J. K. Rowling's <i>Harry Potter and the Prisoner of Azkaban</i> (#84) are new to the 
+   list.  Orson Scott Cards <i>Prentice Alvin</i>, Julian May's <i>The Many-Colored Land</i>,
+   and the Tolkien's <i>The Silmarillion</i> dropped off the list.
+   In particular, check out the Top Books by Year listing.
+   </font>
+</ul>
+<p>
+
+<dt><b> 9 May 2001:</b>
+<ul>
+   <p>
+   <font size=-1>
+   <li> The database is back online after a several-month forced hiatus. Work
+   has been progressing nonetheless.
+   <li> Set up tools such that forthcoming books can be entered into an Access
+   database and imported into ISFDB format.
+   <li> With all of the new data that's gone in, went on a round of error correcting:
+   <ul>
+     <li> Found numerous duplicate publication tags, and repaired all affected titles.
+     <li> A search for lexically similar title/author novels by year found 
+     numerous inconsistancies, which were repaired.
+   </ul>
+   </font>
+</ul>
+</dl>
+
+<hr>
+<a href="http://HTMLBASE/sfdbase.html">
+<img src="isfdb2.gif" border=2 align=middle></a>
+<i>COPYRIGHT</i>
+<hr>
+Errors in the ISFDB Engine (such as obvious formatting errors) should be reported to 
+<a href="mailto:avonruff@sfsite.com">avonruff@sfsite.com</a>.

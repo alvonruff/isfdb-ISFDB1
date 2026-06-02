@@ -1,0 +1,31 @@
+<html><head> <title>ISFDB Age List</title></head>
+<body bgcolor="ffffff">
+<h1>ISFDB Age Graph</h1>
+<pre>
+      Essays vs. Age (47% of titles used)
+
+     |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    
+342  |    |    |    |    |    |  X |    |    |    |    |    |    |    |    |    |    |    
+324  |    |    |    |    |    |  X |    |    |    |    |    |    |    |    |    |    |    
+306  |    |    |    |    |    | XXX|    |    |    |    |    |    |    |    |    |    |    
+288  |    |    |    |    |    | XXX|    |    |    |    |    |    |    |    |    |    |    
+270  |    |    |    |    |    | XXXX X  |    |    |    |    |    |    |    |    |    |    
+252  |    |    |    |    |   X|XXXXXXX  XXX  |    |    |    |    |    |    |    |    |    
+234  |    |    |    |    |   XXXXXXXXXXXXXX  |    |    |    |    |    |    |    |    |    
+216  |    |    |    |    |  XXXXXXXXXXXXXXXX |    |    |    |    |    |    |    |    |    
+198  |    |    |    |    XXXXXXXXXXXXXXXXXXX X    |    |    |    |    |    |    |    |    
+180  |    |    |    |    XXXXXXXXXXXXXXXXXXXXX    |    |    |    |    |    |    |    |    
+162  |    |    |    |  X XXXXXXXXXXXXXXXXXXXXXXX  |    |    |    |    |    |    |    |    
+144  |    |    |    |  XXXXXXXXXXXXXXXXXXXXXXXXXX |    |    |    |    |    |    |    |    
+126  |    |    |    | XXXXXXXXXXXXXXXXXXXXXXXXXXX |    |    |    |    |    |    |    |    
+108  |    |    |    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXX|X X |    |    |    |    |    |    |    
+90   |    |    |  XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |    |    |    |    |    |    
+72   |    |    | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX X |    |    |    |    |    |    
+54   |    |    | XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    |    |    |    |    |    
+36   |    |    |XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX    X    |    |    |    |    
+18   |   XX XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX X    |X   |    |    |    
+0    XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX XX    |    
+                                                                                          
+     15   20   25   30   35   40   45   50   55   60   65   70   75   80                  
+                                                                                          
+</pre></body></html>

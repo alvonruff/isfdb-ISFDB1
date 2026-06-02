@@ -1,0 +1,844 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)RHYSLING	1.4	12/29/98 ISFDB";
+##
+The Computer Iterates the Greater Trumps {
+	AE=|Gene Wolfe|
+	AS=|RhyL|
+	YR=|1978|
+	TG=|17608|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+For the Lady of a Physicist {
+	AE=|Michael Bishop|
+	AS=|RhyL|
+	YR=|1979|
+	TG=|17566|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+The Sonic Waterfall of Primes {
+	AE=|Andrew Joron|
+	AS=|RhyL|
+	YR=|1980|
+	TG=|17591|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+On Science Fiction {
+	AE=|Thomas M. Disch|
+	AS=|RhyL|
+	YR=|1981|
+	TG=|17575|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+The Well of Baln {
+	AE=|Ursula K. Le Guin|
+	AS=|RhyL|
+	YR=|1982|
+	TG=|17586|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+Your Time and You {
+	AE=|Adam Cornfield|
+	AS=|RhyL|
+	YR=|1983|
+	TG=|17573|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+Saul's Death {
+	AE=|Joe Haldeman|
+	AS=|RhyL|
+	YR=|1984|
+	TG=|17588|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+A Letter From Caroline Herschel {
+	AE=|Siv Cederling|
+	AS=|RhyL|
+	YR=|1985|
+	TG=|17572|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+Shipwrecked on Destiny Five {
+	AE=|Andrew Joron|
+	AS=|RhyL|
+	YR=|1986|
+	TG=|17590|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+Daedalus {
+	AE=|W. Gregory Stewart|
+	AS=|RhyL|
+	YR=|1987|
+	TG=|17605|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+White Trains {
+	AE=|Lucius Shepard|
+	AS=|RhyL|
+	YR=|1988|
+	TG=|17602|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+In the Darkened Hours {
+	AE=|Bruce Boston|
+	AS=|RhyL|
+	YR=|1989|
+	TG=|17584|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+Winter Solstice, Camelot Station {
+	AE=|John M. Ford|
+	AS=|RhyL|
+	YR=|1989|
+	TG=|17582|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+Dear Spaceman {
+	AE=|Patrick McKinnon|
+	AS=|RhyL|
+	YR=|1990|
+	TG=|17595|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+The Aging Cryonicist in the Arms of His Mistress Contemplates the Survival of the Species While the Phoenix is Consumed by Fire {
+	AE=|David Memmott|
+	AS=|RhyL|
+	YR=|1991|
+	TG=|17596|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+the button, and what you know {
+	AE=|W. Gregory Stewart|
+	AS=|RhyL|
+	YR=|1992|
+	TG=|17606|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+To Be From Earth {
+	AE=|William J. Daciuk|
+	AS=|RhyL|
+	YR=|1993|
+	TG=|17574|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+Basement Flats {
+	AE=|W. Gregory Stewart+Robert Frazier|
+	AS=|RhyL|
+	YR=|1994|
+	TG=|17604|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+Pilot, Pilot {
+	AE=|David Lunde|
+	AS=|RhyL|
+	YR=|1995|
+	TG=|17593|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+Variants of the Obsolete {
+	AE=|Marge Simon^Margaret B. Simon|
+	AS=|RhyL|
+	YR=|1996|
+	TG=|17603|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+Spotting UFOs While Canning Tomatoes {
+	AE=|Terry Garey|
+	AS=|RhyL|
+	YR=|1997|
+	TG=|18242|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+Gears {
+	AE=|Mike Allen|
+	AS=|RhyL|
+	YR=|1997|
+	TG=|18142|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|9|
+}
+Medusa's Daughter {
+	AE=|James S. Dorr|
+	AS=|RhyL|
+	YR=|1997|
+	TG=|18162|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|9|
+}
+Ghost Ships {
+	AE=|Charlee Jacob|
+	AS=|RhyL|
+	YR=|1997|
+	TG=|18177|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|9|
+}
+The Grounded Astronaut Forgoes His Pension for the Gift of Prophecy... {
+	AE=|David Memmott|
+	AS=|RhyL|
+	YR=|1997|
+	TG=|18193|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|9|
+}
+whistling women {
+	AE=|Rhea Rose|
+	AS=|RhyL|
+	YR=|1997|
+	TG=|18213|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|9|
+}
+why goldfish shouldn't use power tools {
+	AE=|Laurel Winter|
+	AS=|RhyL|
+	YR=|1998|
+	TG=|18233|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+Confessions of a Body Thief {
+	AE=|Bruce Boston|
+	AS=|RhyL|
+	YR=|1999|
+	TG=|19652|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+Christmas (after we all get time machines) {
+	AE=|Geoffrey A. Landis|
+	AS=|RhyL|
+	YR=|2000|
+	TG=|19927|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|1|
+}
+Renounce the Emerald Piety {
+	AE=|Lee Ballentine|
+	AS=|RhyL|
+	YR=|2000|
+	TG=|21169|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|9|
+}
+Salem Town {
+	AE=|Corinne de Winter|
+	AS=|RhyL|
+	YR=|2000|
+	TG=|21174|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|9|
+}
+Impressions from Giger's Necronomicons {
+	AE=|Charlee Jacob|
+	AS=|RhyL|
+	YR=|2000|
+	TG=|21175|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|9|
+}
+The Whole Behold {
+	AE=|Charlee Jacob|
+	AS=|RhyL|
+	YR=|2000|
+	TG=|21176|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|9|
+}
+Handwork {
+	AE=|Rebecca Marjesdatter|
+	AS=|RhyL|
+	YR=|2000|
+	TG=|21180|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|9|
+}
+The VR Screen {
+	AE=|Carol D. Page|
+	AS=|RhyL|
+	YR=|2000|
+	TG=|21181|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|9|
+}
+Safeguard {
+	AE=|Scott Urban|
+	AS=|RhyL|
+	YR=|2000|
+	TG=|21187|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|9|
+}
+Ode to My Screen Saver {
+	AE=|Ian Watson|
+	AS=|RhyL|
+	YR=|2000|
+	TG=|21188|
+	TA=|Long Poem|
+	TP=|po|
+	LV=|9|
+}
+The Starman {
+	AE=|Duane Ackerson|
+	AS=|RhyS|
+	YR=|1978|
+	TG=|17565|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Asleep in the Arms of Mother Night {
+	AE=|Andrew Joron|
+	AS=|RhyS|
+	YR=|1978|
+	TG=|17589|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Corruption of Metal {
+	AE=|Sonya Dorman|
+	AS=|RhyS|
+	YR=|1978|
+	TG=|17577|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+Fatalities {
+	AE=|Duane Ackerson|
+	AS=|RhyS|
+	YR=|1979|
+	TG=|17564|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Story Books and Treasure Maps {
+	AE=|Steve Eng|
+	AS=|RhyS|
+	YR=|1979|
+	TG=|17581|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Encased in the Amber of Eternity {
+	AE=|Robert Frazier|
+	AS=|RhyS|
+	YR=|1980|
+	TG=|17583|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+The Migration of Darkness {
+	AE=|Peter Payack|
+	AS=|RhyS|
+	YR=|1980|
+	TG=|17598|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Meeting Place {
+	AE=|Ken Duffin|
+	AS=|RhyS|
+	YR=|1981|
+	TG=|17578|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+On the Speed of Light {
+	AE=|Raymond DiZazzo|
+	AS=|RhyS|
+	YR=|1982|
+	TG=|17576|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+In Computers {
+	AE=|Alan P. Lightman|
+	AS=|RhyS|
+	YR=|1983|
+	TG=|17592|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Two Sonnets {
+	AE=|Helen Ehrlich|
+	AS=|RhyS|
+	YR=|1984|
+	TG=|17579|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+For Spacers Snared in the Hair of Comets {
+	AE=|Bruce Boston|
+	AS=|RhyS|
+	YR=|1985|
+	TG=|17567|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+The Neighbor's Wife {
+	AE=|Susan Palwick|
+	AS=|RhyS|
+	YR=|1986|
+	TG=|17597|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Before the Big Bang {
+	AE=|Jonathan V. Post|
+	AS=|RhyS|
+	YR=|1987|
+	TG=|17599|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+A Dream of Heredity {
+	AE=|John Calvin Rezmerski|
+	AS=|RhyS|
+	YR=|1987|
+	TG=|17601|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+The Nightmare Collector {
+	AE=|Bruce Boston|
+	AS=|RhyS|
+	YR=|1988|
+	TG=|17569|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Rocky Road to Hoe {
+	AE=|Suzette Haden Elgin|
+	AS=|RhyS|
+	YR=|1988|
+	TG=|17580|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Salinity {
+	AE=|Robert Frazier|
+	AS=|RhyS|
+	YR=|1989|
+	TG=|17585|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Epitaph for Dreams {
+	AE=|G. Sutton Breiding|
+	AS=|RhyS|
+	YR=|1990|
+	TG=|17571|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Eighteen Years Old, October Eleventh {
+	AE=|Joe Haldeman|
+	AS=|RhyS|
+	YR=|1991|
+	TG=|17587|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Song of the Martian Cricket (for Marilyn) {
+	AE=|David Lunde|
+	AS=|RhyS|
+	YR=|1992|
+	TG=|17594|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Will {
+	AE=|Jane Yolen|
+	AS=|RhyS|
+	YR=|1993|
+	TG=|17609|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Spacer's Compass {
+	AE=|Bruce Boston|
+	AS=|RhyS|
+	YR=|1994|
+	TG=|17570|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Flight is for Those Who Have Not Yet Crossed Over {
+	AE=|Jeff VanderMeer|
+	AS=|RhyS|
+	YR=|1994|
+	TG=|17607|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Skin of Glass {
+	AE=|Dan Raphael|
+	AS=|RhyS|
+	YR=|1995|
+	TG=|17600|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Future Present: A Lesson in Expectation {
+	AE=|Bruce Boston|
+	AS=|RhyS|
+	YR=|1996|
+	TG=|17568|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Day Omega {
+	AE=|W. Gregory Stewart|
+	AS=|RhyS|
+	YR=|1997|
+	TG=|18252|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+On Reading Bradbury {
+	AE=|Sandra Kasturi|
+	AS=|RhyS|
+	YR=|1997|
+	TG=|18183|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+California {
+	AE=|Carol D. Page|
+	AS=|RhyS|
+	YR=|1997|
+	TG=|18199|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+Email {
+	AE=|Kathryn Rantala|
+	AS=|RhyS|
+	YR=|1997|
+	TG=|18207|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+This Dream We Lumber in {
+	AE=|Wendy Rathbone|
+	AS=|RhyS|
+	YR=|1997|
+	TG=|18208|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+Lunary {
+	AE=|Clélie Rich|
+	AS=|RhyS|
+	YR=|1997|
+	TG=|18211|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+Sourdough Bread {
+	AE=|Marge Simon^Margaret Ballif Simon|
+	AS=|RhyS|
+	YR=|1997|
+	TG=|18216|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+Explaining Frankenstein to His Mother {
+	AE=|John Grey|
+	AS=|RhyS|
+	YR=|1998|
+	TG=|18172|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Warning to the Younger Sisters {
+	AE=|Marion Arenas|
+	AS=|RhyS|
+	YR=|1998|
+	TG=|18144|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+It's All Time Machines She Said {
+	AE=|Timons Esaias|
+	AS=|RhyS|
+	YR=|1998|
+	TG=|18166|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+Monkey from a Cannon {
+	AE=|Rhys Hughes|
+	AS=|RhyS|
+	YR=|1998|
+	TG=|18175|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+Shaman {
+	AE=|Charlee Jacob|
+	AS=|RhyS|
+	YR=|1998|
+	TG=|18178|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+The Weatherman {
+	AE=|Andrew Joron|
+	AS=|RhyS|
+	YR=|1998|
+	TG=|18182|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+egg horror poem {
+	AE=|Laurel Winter|
+	AS=|RhyS|
+	YR=|1999|
+	TG=|19852|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Grimoire {
+	AE=|Rebecca Marjesdatter|
+	AS=|RhyS|
+	YR=|2000|
+	TG=|19928|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|1|
+}
+Umbilicile {
+	AE=|Michael A. Arnzen|
+	AS=|RhyS|
+	YR=|2000|
+	TG=|21168|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+Silicon Trade Agreement {
+	AE=|Ruth Berman|
+	AS=|RhyS|
+	YR=|2000|
+	TG=|21170|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+Another Short Horror Story {
+	AE=|Bruce Boston|
+	AS=|RhyS|
+	YR=|2000|
+	TG=|21171|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+What if the Aliens Have Come? {
+	AE=|Bruce Boston|
+	AS=|RhyS|
+	YR=|2000|
+	TG=|21172|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+The Unfinished Map of the Sky {
+	AE=|G. O. Clark|
+	AS=|RhyS|
+	YR=|2000|
+	TG=|21173|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+Clark the Ripper {
+	AE=|David Kopaska-Merkel|
+	AS=|RhyS|
+	YR=|2000|
+	TG=|21178|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+A Picture Postcard of the Cerne Abbas Giant {
+	AE=|David Lunde|
+	AS=|RhyS|
+	YR=|2000|
+	TG=|21179|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+The Language of Rain {
+	AE=|Wendy Rathbone|
+	AS=|RhyS|
+	YR=|2000|
+	TG=|21182|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+Badges of Either's Woe {
+	AE=|Michele Scalisese+Tom Piccirilli|
+	AS=|RhyS|
+	YR=|2000|
+	TG=|21183|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+The Au Pair from Out There {
+	AE=|Ann K. Schawder|
+	AS=|RhyS|
+	YR=|2000|
+	TG=|21184|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+song of a last duckbill {
+	AE=|W. Gregory Stewart|
+	AS=|RhyS|
+	YR=|2000|
+	TG=|21185|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+Brigit {
+	AE=|Peggy J. Taylor|
+	AS=|RhyS|
+	YR=|2000|
+	TG=|21186|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+When an Alien is Inhabiting Your Body {
+	AE=|Laurel Winter|
+	AS=|RhyS|
+	YR=|2000|
+	TG=|21191|
+	TA=|Short Poem|
+	TP=|po|
+	LV=|9|
+}
+untitled {
+	AE=|Bruce Boston|
+	AS=|RhyG|
+	YR=|1999|
+	TG=|20706|
+	TA=|SF Poetry Association Grandmaster|
+	TP=|pt|
+	LV=|1|
+}

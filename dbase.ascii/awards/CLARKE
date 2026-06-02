@@ -1,0 +1,1366 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)CLARKE	1.8	12/29/98 ISFDB";
+##
+The Handmaid's Tale {
+	AE=|Margaret Atwood|
+	AS=|Clarke|
+	YR=|1987|
+	TG=|673|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|1|
+}
+Eon {
+	AE=|Greg Bear|
+	AS=|Clarke|
+	YR=|1987|
+	TG=|972|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Stars in My Pocket Like Grains of Sand {
+	AE=|Samuel R. Delany|
+	AS=|Clarke|
+	YR=|1987|
+	TG=|3458|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Escape Plans {
+	AE=|Gwyneth Jones|
+	AS=|Clarke|
+	YR=|1987|
+	TG=|6231|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+The Memory of Whiteness {
+	AE=|Kim Stanley Robinson|
+	AS=|Clarke|
+	YR=|1987|
+	TG=|9811|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Queen of the States {
+	AE=|Josephine Saxton|
+	AS=|Clarke|
+	YR=|1987|
+	TG=|10280|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+The Ragged Astronauts {
+	AE=|Bob Shaw|
+	AS=|Clarke|
+	YR=|1987|
+	TG=|10515|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Green Eyes {
+	AE=|Lucius Shepard|
+	AS=|Clarke|
+	YR=|1987|
+	TG=|10612|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Drowning Towers^The Sea and the Summer {
+	AE=|George Turner|
+	AS=|Clarke|
+	YR=|1988|
+	TG=|12076|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|1|
+}
+Ancient of Days {
+	AE=|Michael Bishop|
+	AS=|Clarke|
+	YR=|1988|
+	TG=|1210|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Ægypt {
+	AE=|John Crowley|
+	AS=|Clarke|
+	YR=|1988|
+	TG=|3079|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Replay {
+	AE=|Ken Grimwood|
+	AS=|Clarke|
+	YR=|1988|
+	TG=|5410|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Fiasco {
+	AE=|Stanislaw Lem|
+	AS=|Clarke|
+	YR=|1988|
+	TG=|7406|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Grainne {
+	AE=|Keith Roberts|
+	AS=|Clarke|
+	YR=|1988|
+	TG=|9726|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Memoirs of an Invisible Man {
+	AE=|H. F. Saint|
+	AS=|Clarke|
+	YR=|1988|
+	TG=|10181|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|Clarke|
+	YR=|1988|
+	TG=|137|
+	TA=|Arthur C. Clarke Award|
+	TP=|x|
+	LV=|90|
+}
+The Glass Hammer {
+	AE=|K. W. Jeter|
+	AS=|Clarke|
+	YR=|1988|
+	TG=|6184|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+A Tale of Time City {
+	AE=|Diana Wynne Jones|
+	AS=|Clarke|
+	YR=|1988|
+	TG=|6227|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+A Door into Ocean {
+	AE=|Joan Slonczewski|
+	AS=|Clarke|
+	YR=|1988|
+	TG=|11060|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+Hardwired {
+	AE=|Walter Jon Williams|
+	AS=|Clarke|
+	YR=|1988|
+	TG=|13301|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+Unquenchable Fire {
+	AE=|Rachel Pollack|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|9286|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|1|
+}
+The Empire of Fear {
+	AE=|Brian Stableford|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|11290|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|2|
+}
+Rumours of Spring {
+	AE=|Richard Grant|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|5335|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|3|
+}
+The Secret Ascension^Philip K. Dick is Dead, Alas {
+	AE=|Michael Bishop|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|1294|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Kairos {
+	AE=|Gwyneth Jones|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|6233|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Life During Wartime {
+	AE=|Lucius Shepard|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|10630|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+The Whores of Babylon {
+	AE=|Ian Watson|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|12963|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|138|
+	TA=|Arthur C. Clarke Award|
+	TP=|x|
+	LV=|90|
+}
+Great Sky River {
+	AE=|Gregory Benford|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|1066|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+Sleeping in Flame {
+	AE=|Jonathan Carroll|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|2471|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+Fade {
+	AE=|Robert Cormier|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|2981|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+Days Between Stations {
+	AE=|Steve Erickson|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|4269|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+Roofworld {
+	AE=|Christopher Fowler|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|4616|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+Mona Lisa Overdrive {
+	AE=|William Gibson|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|4982|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+Lavondyss {
+	AE=|Robert Holdstock|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|6010|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+East of Laughter {
+	AE=|R. A. Lafferty|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|6887|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+Half a Glass of Moonshine {
+	AE=|Graham Dunstan Martin|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|7890|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+Lincoln's Dreams {
+	AE=|Connie Willis|
+	AS=|Clarke|
+	YR=|1989|
+	TG=|13418|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+The Child Garden {
+	AE=|Geoff Ryman|
+	AS=|Clarke|
+	YR=|1990|
+	TG=|10129|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|1|
+}
+A Child Across the Sky {
+	AE=|Jonathan Carroll|
+	AS=|Clarke|
+	YR=|1990|
+	TG=|2454|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|2|
+}
+A Mask for the General {
+	AE=|Lisa Goldstein|
+	AS=|Clarke|
+	YR=|1990|
+	TG=|5191|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|3|
+}
+Desolation Road {
+	AE=|Ian McDonald|
+	AS=|Clarke|
+	YR=|1990|
+	TG=|8138|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|3|
+}
+Take Back Plenty {
+	AE=|Colin Greenland|
+	AS=|Clarke|
+	YR=|1991|
+	TG=|5380|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|1|
+}
+Rats and Gargoyles {
+	AE=|Mary Gentle|
+	AS=|Clarke|
+	YR=|1991|
+	TG=|4935|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|2|
+}
+The City, Not Long After {
+	AE=|Pat Murphy|
+	AS=|Clarke|
+	YR=|1991|
+	TG=|8634|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|2|
+}
+Synners {
+	AE=|Pat Cadigan|
+	AS=|Clarke|
+	YR=|1992|
+	TG=|2121|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|1|
+}
+Eternal Light {
+	AE=|Paul J. McAuley|
+	AS=|Clarke|
+	YR=|1992|
+	TG=|7970|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|2|
+}
+The Fall of Hyperion {
+	AE=|Dan Simmons|
+	AS=|Clarke|
+	YR=|1992|
+	TG=|10988|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|3|
+}
+Hyperion {
+	AE=|Dan Simmons|
+	AS=|Clarke|
+	YR=|1992|
+	TG=|11000|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|3|
+}
+Raft {
+	AE=|Stephen Baxter|
+	AS=|Clarke|
+	YR=|1992|
+	TG=|934|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+White Queen {
+	AE=|Gwyneth Jones|
+	AS=|Clarke|
+	YR=|1992|
+	TG=|6239|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Subterranean Gallery {
+	AE=|Richard Paul Russo|
+	AS=|Clarke|
+	YR=|1992|
+	TG=|10107|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+He, She and It^Body of Glass {
+	AE=|Marge Piercy|
+	AS=|Clarke|
+	YR=|1993|
+	TG=|9151|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|1|
+}
+Red Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|Clarke|
+	YR=|1993|
+	TG=|9825|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|2|
+}
+Hearts, Hands and Voices^The Broken Land {
+	AE=|Ian McDonald|
+	AS=|Clarke|
+	YR=|1993|
+	TG=|8146|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|3|
+}
+Correspondence {
+	AE=|Sue Thomas|
+	AS=|Clarke|
+	YR=|1993|
+	TG=|11910|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|3|
+}
+Destroying Angel {
+	AE=|Richard Paul Russo|
+	AS=|Clarke|
+	YR=|1993|
+	TG=|10103|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Stations of the Tide {
+	AE=|Michael Swanwick|
+	AS=|Clarke|
+	YR=|1993|
+	TG=|11772|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Lost Futures {
+	AE=|Lisa Tuttle|
+	AS=|Clarke|
+	YR=|1993|
+	TG=|12142|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Doomsday Book {
+	AE=|Connie Willis|
+	AS=|Clarke|
+	YR=|1993|
+	TG=|13384|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Rank 93 = Honorable Mention {
+	AE=|(********)|
+	AS=|Clarke|
+	YR=|1993|
+	TG=|139|
+	TA=|Arthur C. Clarke Award|
+	TP=|x|
+	LV=|90|
+}
+Sarah Canary {
+	AE=|Karen Joy Fowler|
+	AS=|Clarke|
+	YR=|1993|
+	TG=|4636|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+The Course of the Heart {
+	AE=|M. John Harrison|
+	AS=|Clarke|
+	YR=|1993|
+	TG=|5674|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|93|
+}
+Vurt {
+	AE=|Jeff Noon|
+	AS=|Clarke|
+	YR=|1994|
+	TG=|8837|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|1|
+}
+A Million Open Doors {
+	AE=|John Barnes|
+	AS=|Clarke|
+	YR=|1994|
+	TG=|832|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Ammonite {
+	AE=|Nicola Griffith|
+	AS=|Clarke|
+	YR=|1994|
+	TG=|5395|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Snow Crash {
+	AE=|Neal Stephenson|
+	AS=|Clarke|
+	YR=|1994|
+	TG=|11436|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+The Iron Dragon's Daughter {
+	AE=|Michael Swanwick|
+	AS=|Clarke|
+	YR=|1994|
+	TG=|11756|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+The Broken God {
+	AE=|David Zindell|
+	AS=|Clarke|
+	YR=|1994|
+	TG=|13944|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Fools {
+	AE=|Pat Cadigan|
+	AS=|Clarke|
+	YR=|1995|
+	TG=|2100|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|1|
+}
+Mother of Storms {
+	AE=|John Barnes|
+	AS=|Clarke|
+	YR=|1995|
+	TG=|836|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+North Wind {
+	AE=|Gwyneth Jones|
+	AS=|Clarke|
+	YR=|1995|
+	TG=|6235|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Pasquale's Angel {
+	AE=|Paul J. McAuley|
+	AS=|Clarke|
+	YR=|1995|
+	TG=|7978|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Towing Jehovah {
+	AE=|James Morrow|
+	AS=|Clarke|
+	YR=|1995|
+	TG=|8595|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Alien Influences {
+	AE=|Kristine Kathryn Rusch|
+	AS=|Clarke|
+	YR=|1995|
+	TG=|10019|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Fairyland {
+	AE=|Paul J. McAuley|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|7973|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|1|
+}
+The Star Fraction {
+	AE=|Ken MacLeod|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|7708|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|2|
+}
+Happy Policeman {
+	AE=|Patricia Anthony|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|447|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+The Time Ships {
+	AE=|Stephen Baxter|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|940|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+The Prestige {
+	AE=|Christopher Priest|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|9449|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+The Diamond Age {
+	AE=|Neal Stephenson|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|11428|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Rank 98 = Early Submission {
+	AE=|(********)|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|154|
+	TA=|Arthur C. Clarke Award|
+	TP=|x|
+	LV=|90|
+}
+Brother Termite {
+	AE=|Patricia Anthony|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|440|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Cold Allies {
+	AE=|Patricia Anthony|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|442|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Kaleidoscope Century {
+	AE=|John Barnes|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|829|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Legacy {
+	AE=|Greg Bear|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|984|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Sailing Bright Eternity {
+	AE=|Gregory Benford|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|1084|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+K-PAX {
+	AE=|Gene Brewer|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|1645|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Parable of the Sower {
+	AE=|Octavia E. Butler|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|2059|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Fadar {
+	AE=|Ronald Campbell-Butler|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|2231|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Ember from the Sun {
+	AE=|Mark Canter|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|2240|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+The Furies {
+	AE=|Suzy McKee Charnas|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|2601|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Rider at the Gate {
+	AE=|C. J. Cherryh|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|2699|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Tripoint {
+	AE=|C. J. Cherryh|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|2710|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+The Two Georges {
+	AE=|Richard Dreyfuss+Harry Turtledove|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|3846|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+This Side of Judgement {
+	AE=|J. R. Dunn|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|3868|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Distress {
+	AE=|Greg Egan|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|4007|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Seasons of Plenty {
+	AE=|Colin Greenland|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|5378|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+The Nano Flower {
+	AE=|Peter F. Hamilton|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|5569|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Phoenix {
+	AE=|W. A. Harbinson|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|5617|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Hotwire {
+	AE=|Simon Ings|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|6109|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Blade Runner 2: The Edge of Human {
+	AE=|K. W. Jeter|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|6179|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Reigning Cats and Dogs {
+	AE=|Tanith Lee|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|7287|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Peace on Earth {
+	AE=|Stanislaw Lem|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|7408|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Amnesia Moon {
+	AE=|Jonathan Lethem|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|7422|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Gun, with Occasional Music {
+	AE=|Jonathan Lethem|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|7426|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Chaga^Evolution's Shore (US 1995) {
+	AE=|Ian McDonald|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|8135|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Pollen {
+	AE=|Jeff Noon|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|8836|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+The Barber of Aldebaran {
+	AE=|William Moy Russell|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|10100|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Far-Seer {
+	AE=|Robert J. Sawyer|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|10253|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+The Terminal Experiment^Hobson's Choice {
+	AE=|Robert J. Sawyer|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|10271|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Legacies {
+	AE=|Alison Sinclair|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|11027|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Serpent's Blood {
+	AE=|Brian Stableford|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|11310|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Lethe {
+	AE=|Tricia Sullivan|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|11688|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Desmodus {
+	AE=|Melanie Tem|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|11855|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Worldwar: Tilting the Balance {
+	AE=|Harry Turtledove|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|12124|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+21st Century Blues {
+	AE=|Steve Walker|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|12875|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Metropolitan {
+	AE=|Walter Jon Williams|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|13305|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+Mysterium {
+	AE=|Robert Charles Wilson|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|13499|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+The Wild {
+	AE=|David Zindell|
+	AS=|Clarke|
+	YR=|1996|
+	TG=|13948|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|98|
+}
+The Calcutta Chromosome {
+	AE=|Amitav Ghosh|
+	AS=|Clarke|
+	YR=|1997|
+	TG=|4964|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|1|
+}
+Voyage {
+	AE=|Stephen Baxter|
+	AS=|Clarke|
+	YR=|1997|
+	TG=|946|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+The Engines of God {
+	AE=|Jack McDevitt|
+	AS=|Clarke|
+	YR=|1997|
+	TG=|8111|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Blue Mars {
+	AE=|Kim Stanley Robinson|
+	AS=|Clarke|
+	YR=|1997|
+	TG=|9783|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Gibbon's Decline and Fall {
+	AE=|Sheri S. Tepper|
+	AS=|Clarke|
+	YR=|1997|
+	TG=|11883|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Looking for the Mahdi {
+	AE=|N. Lee Wood|
+	AS=|Clarke|
+	YR=|1997|
+	TG=|13711|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+The Sparrow {
+	AE=|Mary Doria Russell|
+	AS=|Clarke|
+	YR=|1998|
+	TG=|15590|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|1|
+}
+Titan {
+	AE=|Stephen Baxter|
+	AS=|Clarke|
+	YR=|1998|
+	TG=|15534|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Glimmering {
+	AE=|Elizabeth Hand|
+	AS=|Clarke|
+	YR=|1998|
+	TG=|15555|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Days {
+	AE=|James Lovegrove|
+	AS=|Clarke|
+	YR=|1998|
+	TG=|15570|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Nymphomation {
+	AE=|Jeff Noon|
+	AS=|Clarke|
+	YR=|1998|
+	TG=|15583|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+The Family Tree {
+	AE=|Sheri S. Tepper|
+	AS=|Clarke|
+	YR=|1998|
+	TG=|15598|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Dreaming in Smoke {
+	AE=|Tricia Sullivan|
+	AS=|Clarke|
+	YR=|1999|
+	TG=|19285|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|1|
+}
+The Cassini Division {
+	AE=|Ken MacLeod|
+	AS=|Clarke|
+	YR=|1999|
+	TG=|19277|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|2|
+}
+The Extremes {
+	AE=|Christopher Priest|
+	AS=|Clarke|
+	YR=|1999|
+	TG=|19280|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|2|
+}
+Earth Made of Glass {
+	AE=|John Barnes|
+	AS=|Clarke|
+	YR=|1999|
+	TG=|19500|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Time on My Hands: A Novel with Photographs {
+	AE=|Peter Delacorte|
+	AS=|Clarke|
+	YR=|1999|
+	TG=|19503|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Cavalcade {
+	AE=|Alison Sinclair|
+	AS=|Clarke|
+	YR=|1999|
+	TG=|19508|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Distraction {
+	AE=|Bruce Sterling|
+	AS=|Clarke|
+	YR=|2000|
+	TG=|19858|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|1|
+}
+Manifold: Time^Time: Manifold 1 {
+	AE=|Stephen Baxter|
+	AS=|Clarke|
+	YR=|2000|
+	TG=|19854|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+The Bones of Time {
+	AE=|Kathleen Ann Goonan|
+	AS=|Clarke|
+	YR=|2000|
+	TG=|19855|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Silver Screen {
+	AE=|Justina Robson|
+	AS=|Clarke|
+	YR=|2000|
+	TG=|19856|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Cryptonomicon {
+	AE=|Neal Stephenson|
+	AS=|Clarke|
+	YR=|2000|
+	TG=|19857|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+A Deepness in the Sky {
+	AE=|Vernor Vinge|
+	AS=|Clarke|
+	YR=|2000|
+	TG=|19859|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Parable of the Talents {
+	AE=|Octavia E. Butler|
+	AS=|Clarke|
+	YR=|2001|
+	TG=|21505|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+A Secret History: The Book of Ash 1 {
+	AE=|Mary Gentle|
+	AS=|Clarke|
+	YR=|2001|
+	TG=|21507|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Cosmonaut Keep {
+	AE=|Ken MacLeod|
+	AS=|Clarke|
+	YR=|2001|
+	TG=|21508|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Perdido Street Station {
+	AE=|China Miéville|
+	AS=|Clarke|
+	YR=|2001|
+	TG=|21509|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Revelation Space {
+	AE=|Alastair Reynolds|
+	AS=|Clarke|
+	YR=|2001|
+	TG=|21510|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}
+Salt {
+	AE=|Adam Roberts|
+	AS=|Clarke|
+	YR=|2001|
+	TG=|21511|
+	TA=|Arthur C. Clarke Award|
+	TP=|n|
+	LV=|9|
+}

@@ -1,0 +1,826 @@
+##
+##     © COPYRIGHT 1997-2001 - Al von Ruff, Paul Cardinal, David G. Grubbs
+##                        ALL RIGHTS RESERVED
+##
+##     This file is part of the ISFDB awards database.
+##
+##     You may use the data contained in this file to create derived
+##     works of a non-commercial nature, so long as an attribution
+##     to the ISFDB is made.
+##
+##     Commericial use of the data contained within this file must
+##     be negotiated with those parties cited in the above copyright
+##     notice.
+##
+## SCCSID = "@(#)LAMBDA	1.7	06/18/98 ISFDB";
+##
+Skiptrace {
+	AE=|Antoinette Azolakov|
+	AS=|LambdaLM|
+	YR=|1988|
+	TG=|701|
+	TA=|Lesbian Mystery/Science Fiction|
+	TP=|n|
+	LV=|1|
+}
+The Crystal Curtain {
+	AE=|Sandy Bayer|
+	AS=|LambdaLM|
+	YR=|1988|
+	TG=|947|
+	TA=|Lesbian Mystery/Science Fiction|
+	TP=|n|
+	LV=|9|
+}
+Mundane's World {
+	AE=|Judy Grahn|
+	AS=|LambdaLM|
+	YR=|1988|
+	TG=|5266|
+	TA=|Lesbian Mystery/Science Fiction|
+	TP=|n|
+	LV=|9|
+}
+Heavy Gilt {
+	AE=|Dolores Klaich|
+	AS=|LambdaLM|
+	YR=|1988|
+	TG=|6655|
+	TA=|Lesbian Mystery/Science Fiction|
+	TP=|n|
+	LV=|9|
+}
+Lessons in Murder {
+	AE=|Claire McNab|
+	AS=|LambdaLM|
+	YR=|1988|
+	TG=|8321|
+	TA=|Lesbian Mystery/Science Fiction|
+	TP=|n|
+	LV=|9|
+}
+What Did Miss Darrington See? {
+	AE=|Jessica Amanda Salmonson|
+	AS=|LambdaL|
+	YR=|1989|
+	TG=|10198|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|a|
+	LV=|1|
+}
+In the Blood {
+	AE=|Lauren Wright Douglas|
+	AS=|LambdaL|
+	YR=|1989|
+	TG=|3724|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Clicking Stones {
+	AE=|Nancy Tyler Glenn|
+	AS=|LambdaL|
+	YR=|1989|
+	TG=|5088|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Sue Slate: Private Eye {
+	AE=|Lee Lynch|
+	AS=|LambdaL|
+	YR=|1989|
+	TG=|7634|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Memories and Visions {
+	AE=|Susanna Sturgis|
+	AS=|LambdaL|
+	YR=|1989|
+	TG=|11659|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|a|
+	LV=|9|
+}
+Gossamer Axe {
+	AE=|Gaèl Baudino|
+	AS=|LambdaL|
+	YR=|1990|
+	TG=|908|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|1|
+}
+Doc and Fluff {
+	AE=|Pat Califia|
+	AS=|LambdaL|
+	YR=|1990|
+	TG=|2154|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Slick {
+	AE=|Camarin Grae|
+	AS=|LambdaL|
+	YR=|1990|
+	TG=|5260|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Priorities {
+	AE=|Lynda Lyons|
+	AS=|LambdaL|
+	YR=|1990|
+	TG=|7661|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Mighty Good Road {
+	AE=|Melissa Scott|
+	AS=|LambdaL|
+	YR=|1990|
+	TG=|10458|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+The Gilda Stories {
+	AE=|Jewelle Gomez|
+	AS=|LambdaL|
+	YR=|1991|
+	TG=|5208|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|1|
+}
+Zeta Base {
+	AE=|Judith Alguire|
+	AS=|LambdaL|
+	YR=|1991|
+	TG=|302|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Stranded {
+	AE=|Camarin Grae|
+	AS=|LambdaL|
+	YR=|1991|
+	TG=|5261|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Mega {
+	AE=|B. L. Holmes|
+	AS=|LambdaL|
+	YR=|1991|
+	TG=|6027|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Shadows of Aggar {
+	AE=|Chris Anne Wolfe|
+	AS=|LambdaL|
+	YR=|1991|
+	TG=|13569|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Ammonite {
+	AE=|Nicola Griffith|
+	AS=|LambdaL|
+	YR=|1992|
+	TG=|5396|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|1|
+}
+Running Fiercely Towards a High Thin Sound {
+	AE=|Judith Katz|
+	AS=|LambdaL|
+	YR=|1992|
+	TG=|6344|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Speaking Dreams {
+	AE=|Severna Park|
+	AS=|LambdaL|
+	YR=|1992|
+	TG=|9051|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Dreamships {
+	AE=|Melissa Scott|
+	AS=|LambdaL|
+	YR=|1992|
+	TG=|10454|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Return to Isis {
+	AE=|Jean Stewart|
+	AS=|LambdaL|
+	YR=|1992|
+	TG=|11523|
+	TA=|Lesbian Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Goldenboy {
+	AE=|Michael Nava|
+	AS=|LambdaGM|
+	YR=|1988|
+	TG=|8681|
+	TA=|Gay Men's Mystery/Science Fiction|
+	TP=|n|
+	LV=|1|
+}
+Who's Next {
+	AE=|George Baxt|
+	AS=|LambdaGM|
+	YR=|1988|
+	TG=|920|
+	TA=|Gay Men's Mystery/Science Fiction|
+	TP=|n|
+	LV=|9|
+}
+Unicorn Mountain {
+	AE=|Michael Bishop|
+	AS=|LambdaGM|
+	YR=|1988|
+	TG=|1299|
+	TA=|Gay Men's Mystery/Science Fiction|
+	TP=|n|
+	LV=|9|
+}
+Obedience {
+	AE=|Joseph Hansen|
+	AS=|LambdaGM|
+	YR=|1988|
+	TG=|5615|
+	TA=|Gay Men's Mystery/Science Fiction|
+	TP=|n|
+	LV=|9|
+}
+Death Takes the Stage {
+	AE=|Donald Ward|
+	AS=|LambdaGM|
+	YR=|1988|
+	TG=|12901|
+	TA=|Gay Men's Mystery/Science Fiction|
+	TP=|n|
+	LV=|9|
+}
+Somewhere in the Night {
+	AE=|Jeffrey N. McMahan|
+	AS=|LambdaG|
+	YR=|1989|
+	TG=|8307|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|1|
+}
+Key West, 2720 AD {
+	AE=|William K. Eakins|
+	AS=|LambdaG|
+	YR=|1989|
+	TG=|3891|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Magic's Pawn {
+	AE=|Mercedes Lackey|
+	AS=|LambdaG|
+	YR=|1989|
+	TG=|6864|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Gentle Warriors {
+	AE=|Geoff Mains|
+	AS=|LambdaG|
+	YR=|1989|
+	TG=|7723|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Walking Waters/After All This {
+	AE=|Thom Nickels|
+	AS=|LambdaG|
+	YR=|1989|
+	TG=|8716|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Secret Matter {
+	AE=|Toby Johnson|
+	AS=|LambdaG|
+	YR=|1990|
+	TG=|6211|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|1|
+}
+Magic's Price {
+	AE=|Mercedes Lackey|
+	AS=|LambdaG|
+	YR=|1990|
+	TG=|6865|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|1|
+}
+Alternate Casts {
+	AE=|Marsh Cassady|
+	AS=|LambdaG|
+	YR=|1990|
+	TG=|2503|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+The Enchantments of Flesh and Spirit {
+	AE=|Storm Constantine|
+	AS=|LambdaG|
+	YR=|1990|
+	TG=|2948|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+The Gift {
+	AE=|Scott Edelman|
+	AS=|LambdaG|
+	YR=|1990|
+	TG=|3918|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+The Dark Beyond the Stars {
+	AE=|Frank M. Robinson|
+	AS=|LambdaG|
+	YR=|1991|
+	TG=|9767|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|1|
+}
+Mirage {
+	AE=|Perry Brass|
+	AS=|LambdaG|
+	YR=|1991|
+	TG=|1620|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Embracing the Dark {
+	AE=|Eric Garber|
+	AS=|LambdaG|
+	YR=|1991|
+	TG=|4835|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|a|
+	LV=|9|
+}
+Steam {
+	AE=|Jay B. Laws|
+	AS=|LambdaG|
+	YR=|1991|
+	TG=|7081|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Vampires Anonymous {
+	AE=|Jeffrey N. McMahan|
+	AS=|LambdaG|
+	YR=|1991|
+	TG=|8308|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|a|
+	LV=|9|
+}
+China Mountain Zhang {
+	AE=|Maureen F. McHugh|
+	AS=|LambdaG|
+	YR=|1992|
+	TG=|8188|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|1|
+}
+Lost Souls {
+	AE=|Poppy Z. Brite|
+	AS=|LambdaG|
+	YR=|1992|
+	TG=|1706|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+The Living One {
+	AE=|Lewis Gannett|
+	AS=|LambdaG|
+	YR=|1992|
+	TG=|4833|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+The Tale of the Body Thief {
+	AE=|Anne Rice|
+	AS=|LambdaG|
+	YR=|1992|
+	TG=|9699|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Crygender {
+	AE=|Thomas T. Thomas|
+	AS=|LambdaG|
+	YR=|1992|
+	TG=|11914|
+	TA=|Gay Men's Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+The 5th Sacred Thing {
+	AE=|Starhawk|
+	AS=|LambdaLG|
+	YR=|1993|
+	TG=|11358|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|1|
+}
+Drawing Blood {
+	AE=|Poppy Z. Brite|
+	AS=|LambdaLG|
+	YR=|1993|
+	TG=|1701|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+In the Garden of Dead Cars {
+	AE=|Sybil Claiborne|
+	AS=|LambdaLG|
+	YR=|1993|
+	TG=|2762|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+The Unfinished {
+	AE=|Jay B. Laws|
+	AS=|LambdaLG|
+	YR=|1993|
+	TG=|7082|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Burning Bright {
+	AE=|Melissa Scott|
+	AS=|LambdaLG|
+	YR=|1993|
+	TG=|10453|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Trouble and Her Friends {
+	AE=|Melissa Scott|
+	AS=|LambdaLG|
+	YR=|1994|
+	TG=|10462|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|1|
+}
+The Furies {
+	AE=|Suzy McKee Charnas|
+	AS=|LambdaLG|
+	YR=|1994|
+	TG=|2602|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Storm Warning {
+	AE=|Mercedes Lackey|
+	AS=|LambdaLG|
+	YR=|1994|
+	TG=|6870|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Metal Angel {
+	AE=|Nancy Springer|
+	AS=|LambdaLG|
+	YR=|1994|
+	TG=|11271|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Warriors of Isis {
+	AE=|Jean Stewart|
+	AS=|LambdaLG|
+	YR=|1994|
+	TG=|11524|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Slow River {
+	AE=|Nicola Griffith|
+	AS=|LambdaLG|
+	YR=|1995|
+	TG=|5400|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|1|
+}
+Shadow Man {
+	AE=|Melissa Scott|
+	AS=|LambdaLG|
+	YR=|1995|
+	TG=|10459|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|1|
+}
+Atlantis: Three Tales {
+	AE=|Samuel R. Delany|
+	AS=|LambdaLG|
+	YR=|1995|
+	TG=|3425|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|c|
+	LV=|9|
+}
+Dark Angels {
+	AE=|Pam Keesey|
+	AS=|LambdaLG|
+	YR=|1995|
+	TG=|6365|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|a|
+	LV=|9|
+}
+Dryland's End {
+	AE=|Felice Picano|
+	AS=|LambdaLG|
+	YR=|1995|
+	TG=|9138|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Sacrament {
+	AE=|Clive Barker|
+	AS=|LambdaLG|
+	YR=|1996|
+	TG=|15152|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|1|
+}
+Swords of the Rainbow {
+	AE=|Eric Garber+Jewelle Gomez|
+	AS=|LambdaLG|
+	YR=|1996|
+	TG=|15154|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|a|
+	LV=|9|
+}
+Women Who Run with Werewolves {
+	AE=|Pam Keesey|
+	AS=|LambdaLG|
+	YR=|1996|
+	TG=|15155|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|a|
+	LV=|9|
+}
+Godmother Night {
+	AE=|Rachel Pollack|
+	AS=|LambdaLG|
+	YR=|1996|
+	TG=|15157|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Sons of Darkness {
+	AE=|Michael Rowe+Thomas S. Roche|
+	AS=|LambdaLG|
+	YR=|1996|
+	TG=|15158|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|a|
+	LV=|9|
+}
+Bending the Landscape: Fantasy {
+	AE=|Nicola Griffith+Stephen Pagel|
+	AS=|LambdaLG|
+	YR=|1997|
+	TG=|17913|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|a|
+	LV=|1|
+}
+Monsters in the Closet {
+	AE=|Harry M. Benshoff|
+	AS=|LambdaLG|
+	YR=|1997|
+	TG=|17890|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Harvest {
+	AE=|Perry Brass|
+	AS=|LambdaLG|
+	YR=|1997|
+	TG=|17893|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Grave Passions {
+	AE=|William Mann|
+	AS=|LambdaLG|
+	YR=|1997|
+	TG=|17930|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|a|
+	LV=|9|
+}
+The Drag Queen of Elfland {
+	AE=|Lawrence Schimel|
+	AS=|LambdaLG|
+	YR=|1997|
+	TG=|17949|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Galilee {
+	AE=|Clive Barker|
+	AS=|LambdaLG|
+	YR=|1998|
+	TG=|19499|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|1|
+}
+Bending the Landscape: Science Fiction {
+	AE=|Nicola Griffith+Stephen Pagel|
+	AS=|LambdaLG|
+	YR=|1998|
+	TG=|19505|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|a|
+	LV=|1|
+}
+Falling to Earth {
+	AE=|Elizabeth Browning|
+	AS=|LambdaLG|
+	YR=|1998|
+	TG=|19501|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Desmond {
+	AE=|Ulysses Dietz|
+	AS=|LambdaLG|
+	YR=|1998|
+	TG=|19504|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Things Invisible to See {
+	AE=|Lawrence Schimel|
+	AS=|LambdaLG|
+	YR=|1998|
+	TG=|19507|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Minions of the Moon {
+	AE=|Richard Bowes|
+	AS=|LambdaLG|
+	YR=|1999|
+	TG=|19860|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Night Shade {
+	AE=|Victoria A. Brownworth+Judith M. Redding|
+	AS=|LambdaLG|
+	YR=|1999|
+	TG=|19861|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|a|
+	LV=|9|
+}
+The Gumshoe, the Witch, and the Virtual Corpse {
+	AE=|Keith Hartman|
+	AS=|LambdaLG|
+	YR=|1999|
+	TG=|19862|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+The Annunciate {
+	AE=|Severna Park|
+	AS=|LambdaLG|
+	YR=|1999|
+	TG=|19863|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Through a Brazen Mirror {
+	AE=|Delia Sherman|
+	AS=|LambdaLG|
+	YR=|1999|
+	TG=|19864|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Angel Lust {
+	AE=|Perry Brass|
+	AS=|LambdaLG|
+	YR=|2000|
+	TG=|22367|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Jumping off the Planet {
+	AE=|David Gerrold|
+	AS=|LambdaLG|
+	YR=|2000|
+	TG=|22405|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Kirith Kirin {
+	AE=|Jim Grimsley|
+	AS=|LambdaLG|
+	YR=|2000|
+	TG=|22415|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Merrick {
+	AE=|Anne Rice|
+	AS=|LambdaLG|
+	YR=|2000|
+	TG=|22487|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|n|
+	LV=|9|
+}
+Queer Fear {
+	AE=|Michael Rowe|
+	AS=|LambdaLG|
+	YR=|2000|
+	TG=|22492|
+	TA=|Lesbian and Gay Science Fiction/Fantasy|
+	TP=|a|
+	LV=|9|
+}
