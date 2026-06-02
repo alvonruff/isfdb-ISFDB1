@@ -1,5 +1,7 @@
 # isfdb-ISFDB1
 
+![Alt Text](./screenshot.png) 
+
 This repo contains a snapshot of the original ISFDB, from 2001. As with the isfdb-preISFDB repo, these files were recovered from old, non-functional laptop. Based on data in the FORTHCOMING file, and the latest magazines found in ZINES, this snapshot is from May/June 2001.  The first version of the ISFDB was a set of C-coded CGI executables that read data from plaintext files.  It operated for 10 years, from mid-1995 until mid-2005, when it was replaced by ISFDB2, which consisted of a set of Python-coded  scripts that read data from MySQL. This snapshot is representative of the mid-life of that particular version of the ISFDB, after the massive churn associated with the first few years of its public existence.
 
 The files are presented as-was, but with some minor changes so that they can be compiled and run on modern Linux systems:
