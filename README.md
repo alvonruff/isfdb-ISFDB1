@@ -10,8 +10,7 @@ The files are presented as-was, but with some minor changes so that they can be 
 * On very recent versions of GCC, the code generated a massive number of warnings, so some light porting dealing with returned status values have been updated.
 * The dataset and htmls files have had all email addresses redacted.
 
-These files were not previously released publicly, so everything has been given modern attribution licenses, compatable with the
-original informal license statement from 2001.  The C code has been given an MIT license, and the datafiles in dbase.ascii have a Creative Commons license.
+This source code was publicly available as an ftp download, but the site no longer exists. Everything has been given modern attribution licenses, compatable with the original informal license statement from 2001.  The C code has been given an MIT license, and the datafiles in dbase.ascii have a Creative Commons license.
 
 # Installation
 
