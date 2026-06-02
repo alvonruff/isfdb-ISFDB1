@@ -22,22 +22,11 @@ original informal license statement from 2001.  The C code has been given an MIT
 
 ## Makefile.  There are 5 defines which must be changed:
 
-	HTMLDIR - This is the UNIX pathname to where html files should
-		  be installed.
-
-	CGIBIN  - This is the UNIX pathname to where cgi binaries should
-		  be installed.
-
-	HTMLLOC - This is the URL location as to where the html files will
-		  be stored. Since this is passed into the compiler when
-		  building the cgi binaries, the path delimiter must be
-		  preceeded with a backslash (see examples in Makefile).
-
-	DATABASE - This is the URL locations as to where the cgi binaries
-		   will be stored. Same rules as HTMLLOC
-
-	HTFAKE   - Basically DATABASE, preceeded by a slash. I forget why it's
-		   like this, but it is needed.
+* HTMLDIR  - This is the UNIX pathname to where html files should be installed.
+* CGIBIN   - This is the UNIX pathname to where cgi binaries should be installed.
+* HTMLLOC  - This is the URL location as to where the html files will be stored. 
+* DATABASE - This is the URL locations as to where the cgi binaries will be stored.
+* HTFAKE   - Basically DATABASE, preceeded by a slash.
 
 The Makefile defaults will run unchanged on a Linux server with a recent Apache installation using /var/www
 (so long as cgi-bin support is enabled).
@@ -101,7 +90,7 @@ for Philip K. Dick, you would first search the first field of titles.xba, and fi
 
         Philip K. Dick|907f08|906385|8f05e9|8ee00d|8ed978|8b5730|8b51f5|8a24e6|8a242 (...and so on...)
 
-The hexidecimal values following Dick's name are offsets into the titles.dbase file. So The full algprithm is:
+The hexadecimal values following Dick's name are offsets into the titles.dbase file. So The full algprithm is:
 
 1. Find the Philip K. Dick entry in titles.xba
 2. Read all the the title offsets
