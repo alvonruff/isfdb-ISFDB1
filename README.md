@@ -100,7 +100,7 @@ The hexadecimal values following Dick's name are offsets into the titles.dbase f
 
 Note that even today, 30 years later, the current ISFDB has the following SQL routines:
 
-# SQLloadAwardsXBA
+* SQLloadAwardsXBA
 * SQLloadTitlesXBS
 
 # Directory Structure
