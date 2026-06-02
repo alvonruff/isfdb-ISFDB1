@@ -89,7 +89,7 @@ for Philip K. Dick, you would first search the first field of titles.xba, and fi
 
         Philip K. Dick|907f08|906385|8f05e9|8ee00d|8ed978|8b5730|8b51f5|8a24e6|8a242 (...and so on...)
 
-The hexadecimal values following Dick's name are offsets into the titles.dbase file. So The full algprithm is:
+The hexadecimal values following Dick's name are offsets into the titles.dbase file. So The full algorithm is:
 
 1. Find the Philip K. Dick entry in titles.xba
 2. Read all the the title offsets
