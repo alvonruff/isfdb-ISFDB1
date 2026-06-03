@@ -581,7 +581,7 @@ main(argc, argv)
 		if ( total_found(tmp) == 1) {
 			if ( ( strstr(tmp->se_author, "^") == NULL) &&
 			     ( strstr(tmp->se_author, "+") == NULL) ) {
-#ifdef CHDIR
+#ifdef REMOVE
         			strcpy(path, BASE);
 				strcat(path, "/bin");
 				result = chdir(path);
