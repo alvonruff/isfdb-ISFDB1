@@ -104,6 +104,30 @@ Note that even today, 30 years later, the current ISFDB has the following SQL ro
 * SQLloadAwardsXBA
 * SQLloadTitlesXBS
 
+As with the current ISFDB, titles and publications were separate entities. Since there were no title IDs or publication IDs, the linkage between a title and its publications was managed through plaintext identifiers. So an entry from NOVELS would refer to a series of publications via the PB tag:
+
+    Use of Weapons {
+	    AE=|Iain M. Banks|
+	    YR=|1990|
+	    SE=|Culture|
+	    SN=|4|
+	    PB=|USEFWPNS1990,USEFWPNS1991,USEFWPNS1992,USEFWPNS1992B,USEFWPNS1996|
+	    TG=|787|
+    }
+
+One of which referes to this entry in BOOKS:
+
+    Use of Weapons {
+        AB=|USEFWPNS1990|
+        AE=|Iain M. Banks|
+        YR=|1990|
+        PB=|Orbit|
+        IS=|0-356-19160-5|
+        PR=|L12.95|
+        PP=|379|
+        TP=|hc|
+    }
+
 # Directory Structure
 
 * dbase.ascii    - Contains the human-readable bibliographic information
