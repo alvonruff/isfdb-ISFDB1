@@ -115,7 +115,7 @@ As with the current ISFDB, titles and publications were separate entities. Since
 	    TG=|787|
     }
 
-One of which referes to this entry in BOOKS:
+One of which refers to this entry in BOOKS:
 
     Use of Weapons {
         AB=|USEFWPNS1990|
